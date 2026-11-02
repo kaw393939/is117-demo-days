@@ -15,6 +15,12 @@ For a T-shirt shopper who is unsure about fit:
 
 These are two short plans for the same product. You can share the data and checkout code. You do not need two separate business plans.
 
+## Include the brand decisions
+
+In the same record, keep the audience need and promise, one archetype and three voice words, a visual reference and translated idea, and two honest persuasion applications with their limits. Link the logo/style guide you already made. [See the short brand example](/process/find-your-angle).
+
+For a visual-only comparison, keep offer, copy, main action, and content order steady. If you compare several design changes together, name them and avoid claiming you know which caused a preference. Both versions can share their working code.
+
 ## Turn one story into a check
 
 **Story:** As a shopper, I want to review my quantity and total so I know what the demo order includes.

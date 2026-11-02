@@ -10,7 +10,7 @@ Who needed this and why?
 
 ## Research and design
 
-What evidence changed your features, branding, layout, or scope?
+What evidence changed your features, branding, layout, or scope? Show one link: source observation → audience need → promise/voice/visual choice → feature and check. Link the existing style guide; explain a persuasion element without claiming an unmeasured effect.
 
 ## Implementation and my contribution
 

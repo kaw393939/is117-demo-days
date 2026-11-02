@@ -27,3 +27,5 @@ These are early steps. Many FDE internships also expect strong programming, APIs
 - [Your professional portfolio](/projects/portfolio): make your actual work easy to find.
 
 This overview is an instructor summary of the linked employer examples. Related titles include solutions engineer, implementation engineer, and applied AI engineer. Read each description; similar titles can mean different work.
+
+Understanding a customer also includes communication: explain why the offer matters, choose a suitable voice and design, and check whether another person understands it. Your [brand strategy record](/process/find-your-angle) gives an early example to discuss alongside technical work.

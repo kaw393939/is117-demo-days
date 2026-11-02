@@ -6,6 +6,10 @@ Project / version / date: …
 | --- | --- | --- | --- | --- |
 | … | … | Not run / pass / fail with details | … | … |
 
+## Offer and brand understanding
+
+Before explaining, ask: What is offered? Who is it for? What gives a reason to trust it? What would you do next? Record the peer's actual answers, then let them attempt the core task. Check evidence behind product, qualification, review, and availability claims. Name a meaningful change and repeat the relevant check.
+
 ## Progress reviews
 
 | Review | Individual or group | Date / reviewer | Version / links | Feedback | Change and result |

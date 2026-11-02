@@ -17,6 +17,21 @@ Prices are USD before tax/shipping. Membership, subscription, and pack prices ar
 
 Two shirts list the same fiber proportions, so composition alone does not explain the offer. Fit, evidence, brand story, and the shopping experience also matter. Buck Mason emphasizes provenance; Cuts explains a professional use case. See the linked product sources above and [screenshots with detailed observations](/examples/site-references).
 
+## Compare the brand, not just its features
+
+These are interpretations of the linked pages, not official archetype declarations or independent verification of claims.
+
+| Brand | Look and character | Reasons to trust or act | What we might do differently |
+| --- | --- | --- | --- |
+| Fresh Clean Tees | Photo-led functional layout; approachable everyday voice suggests **Everyperson**. | Relatable models may support liking; displayed reviews are social-proof cues. | Focus on one buying situation and put fit information close to the choice. |
+| True Classic | Bold identity and many comparisons; **Everyperson**, with aspirational **Hero** elements, is a possible reading. | Ratings/customer counts are displayed social-proof claims. Sale pricing alone does not establish scarcity. | Make a single-tee purchase understandable without bundle or membership decisions. |
+| Buck Mason | Restrained editorial presentation and production context suggest **Creator/craftsmanship**. | Specific production details may signal relevant competence; appearance alone does not establish authority. | Give specific facts we can support. Do not invent a mill story or provenance. |
+| Cuts | Product/worn photos and a professional-use story suggest **Hero/Ruler** elements. | Displayed reviews provide social-proof cues; the workday identity may support liking. Subscription choices alone are not consistency. | Explain the use case visually and make the one-time total clear. |
+
+Most of these pages use contemporary functional commerce layouts. We cannot establish historical Modernism from a grid alone or force a Postmodernism label onto one competitor. Use a specific historical source when developing your own visual routes.
+
+**The strategic question:** Which customer situation can we serve clearly with the same plain white product? Compare a straightforward single purchase with a creative wardrobe starting point. These are possible niches to investigate, not proven gaps. [See the two niche cards and design exercise](/process/find-your-angle).
+
 ## Example opportunity hypothesis
 
 A straightforward everyday white tee for college students, with clear measurements, useful photography, and one understandable price. Explore $25 as a classroom concept price. This is a hypothesis, not proof of market demand, manufacturing feasibility, or profitability.

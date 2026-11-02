@@ -29,6 +29,7 @@ const standard = [start,
   ]},
   { text: 'Help while you work', collapsed: true, items: [
     { text: 'Research, personas & user stories', link: '/process/research-to-features' },
+    { text: 'Find your brand’s angle', link: '/process/find-your-angle' },
     { text: 'Write a website plan', link: '/process/specifications' },
     { text: 'Practice with a fictional customer', link: '/process/simulated-customer' },
     { text: 'Divide the group work', link: '/process/collaboration' },

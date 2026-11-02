@@ -25,9 +25,28 @@ I compared selected white T-shirt pages from brands with larger catalogs.
 
 | Source | Site | Observation | Decision it suggests |
 | --- | --- | --- | --- |
-| R1 | [Fresh Clean Tees](https://freshcleantees.com/products/white-crew-neck) | Length choices and fit information. | Put measurements next to size selection. |
-| R2 | [True Classic](https://www.trueclassictees.com/products/white-crew-neck-tee) | Product options and membership pricing paths. | Explain the single-item offer without extra pricing paths. |
-| R3 | [Buck Mason](https://www.buckmason.com/products/white-slub-curved-hem-tee) | Specific fabric and production details. | Use specific product facts rather than vague premium claims. |
+| R1 | [Buck Mason](https://www.buckmason.com/products/white-slub-curved-hem-tee) | Specific fabric and production details. | Use specific product facts rather than vague premium claims. |
+| R2 | [Cuts](https://www.cutsclothing.com/products/white-crew-curve-hem) | Professional-use context and flat/worn product photos. | Show an honest use case; do not invent performance or provenance claims. |
+| R3 | [Fresh Clean Tees](https://freshcleantees.com/products/white-crew-neck) | Length choices and fit information. | Put measurements next to size selection. |
+
+#### What the brand presentation suggests
+
+<details>
+<summary>My look, character, and trust notes for the three sources</summary>
+
+- **Buck Mason:** **Look:** Restrained editorial presentation with production context near the title. **Character:** Creator/craftsmanship is a plausible reading. **Trust/action:** Specific production details may signal competence; a premium appearance by itself is not authority.
+- **Cuts:** **Look:** Flat/worn photographs, a controlled product grid, and professional-use context. **Character:** Hero/Ruler elements are plausible; this is not an official brand declaration. **Trust/action:** Displayed reviews suggest social proof. Subscription choices do not automatically establish consistency.
+- **Fresh Clean Tees:** **Look:** Photo-led product grid and fit/length choices. **Character:** Everyperson is a plausible reading of its everyday, approachable voice. **Trust/action:** Displayed reviews suggest social proof; relatable models may support liking. We did not independently verify these claims.
+
+These are interpretations of the linked pages, not official archetypes or independently verified claims. A functional grid alone does not establish historical Modernism.
+
+</details>
+
+**My proposed niche:** An early-career creative assembling a simple workday outfit. **Promise:** A considered starting point for a creative workday wardrobe.
+
+**Source → decision:** Buck Mason uses specific production context, and Cuts presents a workday use case. I chose a calm Creator voice because I like that look. I have not yet shown that this audience values the same emphasis.
+
+**Still uncertain:** The concept price is not validated, and polished imagery does not establish better materials or manufacturing.
 
 #### Two positions I considered
 
@@ -68,16 +87,33 @@ I chose a workday shopper because I like the restrained look of the references a
 
 **Goal:** Understand the fit and product details before choosing one tee.
 
+#### My compact brand brief
+
+- **Promise:** A considered starting point for a creative workday wardrobe.
+- **Character and voice:** Creator; calm, specific, restrained.
+- **Actual hero copy, held steady in A/B:** “One white tee. A considered choice.” / “A plain white starting point for your workday wardrobe. Explore the fit and classroom product details, then choose what works for you.”
+- **Original logo and live style guide:** [Brand notes](/samples/studio-white/style-guide.html), with type, colors, logo, and both visual directions. These are original class-example assets, not museum reproductions.
+- **Visual A:** Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster. [Source: Josef Müller-Brockmann, Musica Viva, 1957 — MoMA](https://www.moma.org/collection/works/4885).
+- **Visual B:** Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture. [Source: Ettore Sottsass, Carlton room divider, 1981 — The Met](https://www.metmuseum.org/art/collection/search/486989).
+- **Comparison limit:** Both visual treatment and content order change in these examples. The offer, hero wording, and main action stay the same, but I cannot isolate which change caused a preference. A stricter visual-only experiment would hold content order steady too.
+
+| Principle | Actual page element | Proposed mechanism | Evidence or limit |
+| --- | --- | --- | --- |
+| Reciprocity | Start with the silhouette — a free preparation guide | Offer useful guidance before asking the visitor to choose or request. | The page offers value; no change in purchase or request rates was measured. |
+| Liking | Welcoming language that addresses the visitor’s situation | A sincere relatable voice may make the offer feel approachable. | We have not measured this effect; no invented customers or testimonials are used. |
+
+**How the promise becomes a feature:** A considered starting point for a creative workday wardrobe. → S1 / F1 below → The guide labels centimeters and distinguishes garment dimensions from body measurements. The peer should also explain the offer, intended reader, reason to trust it, and next action before I coach them. No conversion or hiring result is claimed.
+
 #### Specification A
 
-- **Approach:** Editorial first: product story and material concept precede the purchase panel.
+- **Approach:** Editorial first: product story and material concept precede the purchase panel. Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.
 - **Sections:** Brand/product context; product facts/image; shopping controls; summary and confirmation.
 - **Main action:** Product facts → measurements → size/quantity → order review → simulated checkout → receipt.
 - **Brand:** Creator; calm, specific, restrained.
 
 #### Specification B
 
-- **Approach:** Product facts first: fit, price, and selection lead; the story follows.
+- **Approach:** Product facts first: fit, price, and selection lead; the story follows. Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.
 - **Sections:** Brand headline; purchase panel/product facts; product context; summary and confirmation.
 - **Main action:** Product facts → measurements → size/quantity → order review → simulated checkout → receipt.
 - **Comparison:** Same core content and data, different information order and presentation.
@@ -122,6 +158,8 @@ I made an editorial page and a facts-first page. Both have the same shopping con
 
 **Launch choice:** Version B. Product details are accessible immediately while the visual style still supports the brand.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/studio-white/style-guide.html).
+
 **Task used for comparison:** Find the product facts, choose L, review three shirts, and complete the demo checkout.
 
 | Version | Recorded observation in this fictional review |
@@ -165,6 +203,12 @@ The page reads the concept price from the project data. Quantity changes update 
 
 **What this tells me:** The retest supports the visibility change. It does not establish that the full revised journey became easier.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the page as polished and found the preparation/process note. I did not ask them to explain the intended audience or why the promise mattered. That leaves a comprehension gap even though the interface works.
+
+**Brand feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
@@ -205,5 +249,7 @@ The written record models the student's explanation. It does not establish that 
 ## Instructor’s suggested revision
 
 For the next review, I will ask the same shopper to find fit, material, and price on both versions before choosing L. I will choose the version that makes that task clearer and record what happened, rather than relying only on a preference.
+
+**Brand strategy feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.
 
 [Back to all six examples](/examples/submissions/) · [Assignment rubric](/course/milestones#how-each-step-is-graded).

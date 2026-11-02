@@ -5,7 +5,16 @@ const projects=JSON.parse(readFileSync('docs/public/samples/projects.json','utf8
 const files={research:'01-research.md',plan:'02-specifications.md',build:'03-build-and-decision.md',improve:'04-review-and-launch.md'};
 assert.equal(data.cases.length,6);assert.equal(new Set(data.cases.map(c=>c.slug)).size,6);
 for(const c of data.cases){
- assert.ok(projects.some(p=>p.slug===c.slug));
+ const project=projects.find(p=>p.slug===c.slug);assert.ok(project);
+ assert.equal(project.brand.persuasion.length,2);
+ for(const x of project.brand.persuasion)for(const key of ['principle','element','mechanism','limit'])assert.ok(x[key]?.length>5);
+ for(const file of ['logo.svg','style-guide.html'])assert.ok(existsSync('docs/public/samples/'+c.slug+'/'+file));
+ const plan=readFileSync('docs/public/student-work/'+c.slug+'/02-specifications.md','utf8');
+ for(const text of [project.tag,project.brand.support,project.brand.sourceA[1],project.brand.sourceB[1],'My compact brand brief'])assert.ok(plan.includes(text),'Brand plan missing '+c.slug+'/'+text);
+ const research=readFileSync('docs/public/student-work/'+c.slug+'/01-research.md','utf8');
+ assert.ok(research.includes(project.brand.trace));
+ assert.ok(research.includes('What the brand presentation suggests'));
+
  const page=readFileSync('docs/examples/submissions/'+c.slug+'.md','utf8');
  assert.equal((page.match(/<SampleAssessment /g)||[]).length,5,'Summary plus four assessments required: '+c.slug);
  const assessment=readFileSync('docs/public/student-work/'+c.slug+'/ASSESSMENT.md','utf8');
@@ -34,4 +43,4 @@ for(const kind of ['shirt','service','portfolio']){
  const pair=data.cases.filter(c=>projects.find(p=>p.slug===c.slug).kind===kind);
  assert.equal(pair.length,2);assert.deepEqual(new Set(pair.map(c=>c.level)),new Set(['Stronger example','Developing example']));
 }
-console.log('Verified 6 completed submission packets, 24 four-part rubric assessments, accurate totals, paired performance levels, and no unfilled worksheet fields.');
+console.log('Verified 6 completed submission packets, 24 four-part rubric assessments, accurate totals, paired performance levels, and no unfilled worksheet fields, and matching six brand briefs/style guides with two persuasion applications each.');

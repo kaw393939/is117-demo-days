@@ -2,6 +2,11 @@
 import { computed } from 'vue'
 const props = defineProps({ kind: { type: String, default: 'process' } })
 const diagrams = {
+ brand: { title: 'From a reference site to your own angle', note: 'Keep this in the same project record. The audience need stays a hypothesis until you check it.', steps: [
+ ['1', 'Notice', 'Look · character · trust', 'What does the reference emphasize?', 'Link the actual page and date'],
+ ['2', 'Choose', 'Person · situation · need', 'Why would they choose your offer?', 'Compare two niches; choose one'],
+ ['3', 'Express', 'Promise · voice · visual direction', 'Give honest reasons to act', 'Reuse Brand Studio; compare alternatives'],
+ ['4', 'Check', 'Understand the offer + do the task', 'Peer observation → change → retest', 'Explain what the evidence does and does not show'] ] },
  process: { title: 'Explore two. Choose deliberately. Keep moving.', note: 'One project grows through four milestones. Shared code keeps two versions manageable.', steps: [
  ['01', 'Research', 'Three reference sites', 'Position A ↔ Position B', 'Two persona hypotheses → choose an audience'],
  ['02', 'Plan', 'One customer need', 'Approach A ↔ Approach B', 'Stories + features + checks'],

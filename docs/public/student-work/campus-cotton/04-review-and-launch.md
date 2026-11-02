@@ -12,6 +12,12 @@ Fictional completed student work by Maya Chen. Peer conversations are teaching s
 
 **What this tells me:** One classmate is useful feedback, not evidence that the layout will increase sales.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the offer as “A straightforward single-tee purchase with fit and total visible.” and pointed to the preparation/process note as useful guidance. They understood the next action was a classroom demo or project review, not a real purchase, booking, or employment claim. This models a comprehension check; it does not establish a persuasion effect.
+
+**Brand feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).

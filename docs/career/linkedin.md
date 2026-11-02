@@ -33,6 +33,8 @@ Replace the brackets and use your own wording. Label class businesses as **cours
 
 ## Check the whole story
 
+A useful project description can connect a researched audience need to one design choice and its check. Use actual evidence, not a claim that your design increased sales.
+
 Your LinkedIn, GitHub, résumé, and portfolio should agree about project names, dates, skills, and contributions. Open the links as a visitor and fix anything broken.
 
 **Two examples:** [Maya’s LinkedIn draft](/samples/maya-chen/linkedin.txt) · [Jordan’s LinkedIn draft](/samples/jordan-rivera/linkedin.txt).

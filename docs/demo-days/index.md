@@ -16,6 +16,8 @@ Each team gets one slot. **Every student** shows their own portfolio and T-shirt
 | Questions / transition | 2 minutes | 2 minutes | Answer questions and finish on time. |
 | **Total** | **10 minutes** | **12 minutes** | Rehearse together. |
 
+Include one short connection: **“We observed …, so for this audience we chose …; our check showed ….”** This fits inside your existing time.
+
 Explain **one choice between alternatives** and **one improvement from peer feedback**. Open code or documents only when they help explain the result. Slides are optional; the working product is the focus.
 
 ## Request a slot

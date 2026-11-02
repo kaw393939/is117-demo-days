@@ -39,7 +39,7 @@ Relevant coursework: IS117 — Introduction to Website Development; [other compl
 **Plain White T-Shirt Company — Individual IS117 Project**  
 [Month–Month Year] · [Live site] · [Repository]
 
-- Compared [actual number] clothing brands and translated findings about [fit/pricing/product presentation] into a prioritized feature list and written specification.
+- Compared [actual number] clothing brands and translated findings about [fit/pricing/product presentation] into a clear audience promise, design choices, prioritized features, and a written specification.
 - Built a responsive simulated storefront with [actual working features, such as size selection, cart totals, and checkout validation], using [actual technologies].
 - Connected [product/order] data to SQLite and verified [specific persistence behavior]; documented setup, QA results, and remaining limitations.
 

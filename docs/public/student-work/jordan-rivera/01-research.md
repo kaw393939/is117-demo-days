@@ -16,10 +16,29 @@ I compared three portfolio references, not people with the same student experien
 | R2 | [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching. | Use a short explanation to show reasoning. |
 | R3 | [Lee Robinson](https://leerob.com/) | A concise introduction and writing links. | Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
 
+#### What the brand presentation suggests
+
+<details>
+<summary>My look, character, and trust notes for the three sources</summary>
+
+- **Brittany Chiang:** **Look:** A dark two-column layout organizes role, work, and project evidence. **Character:** Creator/Sage is a reading of the presentation, not a personality assessment. **Trust/action:** Relevant work and explained contributions can support authority; students must use their own evidence.
+- **Josh W. Comeau:** **Look:** Playful illustration above structured tutorials and explanations. **Character:** Sage with Creator/Jester elements is plausible. Playfulness alone is not historical Postmodernism. **Trust/action:** Useful teaching may support reciprocity and demonstrate expertise; students need not build a full blog.
+- **Lee Robinson:** **Look:** Concise introduction, reading typography, illustration, and writing links. **Character:** Sage is a plausible reading of the explanation-led presentation. **Trust/action:** Helpful writing and linked work give value/competence cues. Do not imitate an experienced professional’s credentials.
+
+These are interpretations of the linked pages, not official archetypes or independently verified claims. A functional grid alone does not establish historical Modernism.
+
+</details>
+
+**My proposed niche:** A technical team lead assessing a student’s reasoning and collaboration. **Promise:** Explain the decisions and checks behind a small working project.
+
+**Source → decision:** Lee Robinson keeps introductions brief and links writing; Josh Comeau explains technical ideas. I chose a Sage voice, but I still describe both managers and recruiters without prioritizing a reader task.
+
+**Still uncertain:** Listing a check is weaker than explaining its input, expected result, and actual outcome.
+
 #### Two positions I considered
 
-- **Position A:** Evidence-led builder portfolio.
-- **Position B:** Skills-list-led portfolio.
+- **Position A:** Decision evidence for a technical team lead.
+- **Position B:** A concise overview for an internship recruiter.
 
 #### Two persona cards
 

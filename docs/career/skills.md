@@ -30,3 +30,5 @@ A useful résumé bullet names your action, the feature, and how you checked it:
 Use that statement only if it describes your actual work. Add SQLite, APIs, AI features, or measured results only when you can demonstrate them.
 
 [GitHub](/career/github) · [LinkedIn](/career/linkedin) · [Résumé example](/examples/student-resume).
+
+Understanding a customer also includes communication: explain why the offer matters, choose a suitable voice and design, and check whether another person understands it. Your [brand strategy record](/process/find-your-angle) gives an early example to discuss alongside technical work.

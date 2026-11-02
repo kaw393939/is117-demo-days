@@ -17,6 +17,10 @@
 
 For the group project, each member tests another member's work and records an issue or review result. Use automated tests for important logic when appropriate and manual checks for the experience. A passing build alone is not a usability test.
 
+## Check understanding before explaining
+
+Ask your peer: **What is offered? Who is it for? What gives a reason to trust it? What would you do next?** Then give the main task and observe without coaching. Check whether the copy and visual direction support the intended promise. Verify the evidence behind persuasion claims; a displayed review count is not independent proof of quality.
+
 ## Progress reviews
 
 Complete **four individual reviews** covering the portfolio and T-shirt project, and **four group reviews**, as stated in Canvas. The [four milestones](/course/milestones) organize those reviews as research, plan, build, and review/launch. The [class schedule](/course/schedule) reserves time for partner work and feedback. Attendance is required.

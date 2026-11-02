@@ -11,10 +11,10 @@
       "slug": "campus-cotton",
       "student": "Maya Chen",
       "level": "Stronger example",
-      "researchReason": "I chose the individual student shopper because fit and total price are decisions I can help with in one small shopping flow. A club organizer would need quantity pricing and printing options. That would be a different business, so I left it out.",
-      "planReason": "Both plans keep the same shirt, price, measurements, and checkout. A puts shopping information first; B gives more space to the story. Keeping the offer fixed lets me compare the information order instead of changing everything at once.",
+      "researchReason": "I chose the single-purchase student shopper because fit and total are decisions I can address in one small flow. The alternative is a creative styling angle for the same unprinted tee, not a custom-printing business. My source observations suggest the clarity idea; they do not prove demand.",
+      "planReason": "Both plans keep the same shirt, price, measurements, hero wording, and checkout. A pairs a structured visual treatment with shopping information first; B pairs expressive framing with product imagery first. I compare the whole presentations, not an isolated cause of preference.",
       "aObservation": "The reviewer located price and the measurement disclosure together before selecting M.",
-      "bObservation": "The reviewer noticed the campus story first, then moved down to the product information to choose a size.",
+      "bObservation": "The reviewer noticed the product imagery first, then moved to the measurement and selection controls.",
       "peer": "Taylor Brooks",
       "before": "The reviewer asked where the measurements were before choosing M.",
       "retest": "After the disclosure moved beside the size selector, Taylor opened it without a hint, chose M, reviewed two shirts at $50, and reached the simulated confirmation.",
@@ -27,21 +27,21 @@
           "scores": [
             25,
             25,
-            23,
+            25,
             25
           ],
-          "next": "Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.",
+          "next": "ask about a recent real decision in this situation and use the response to refine the hypothesis. Professional market validation is not required for full credit.",
           "evidence": [
             "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
-            "Full credit: The choice links a manageable user task to the proposed scope.",
-            "Deduction (−2): The persona evidence row refers to reference pages generally; it does not identify which observation supports the fit or price need.",
+            "Full credit: The audience choice and brand promise follow a manageable user task and explain why that scope was chosen.",
+            "Full credit: The source-to-decision note now names specific reference observations, connects them to the proposed niche or brand decision, and labels the audience need as a hypothesis.",
             "Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples."
           ],
           "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
           "deductions": [
             "",
             "",
-            "The persona evidence row refers to reference pages generally; it does not identify which observation supports the fit or price need.",
+            "",
             ""
           ]
         },
@@ -223,7 +223,7 @@
       "slug": "room-ready",
       "student": "Maya Chen and Avery Ellis",
       "level": "Stronger example",
-      "researchReason": "We chose a narrow assembly-request service instead of a marketplace. Our renter needs to explain one item and know what happens next. The operator needs complete details, but matching many providers or promising live availability would make this project too large.",
+      "researchReason": "We chose the first-apartment renter instead of the experienced repeat requester. Taskrabbit explains steps and IKEA identifies the handoff, so we will emphasize supported scope and what happens next. An operator is also a secondary workflow user; that is different from our alternate customer niche. Matching many providers would expand the scope.",
       "planReason": "Both proposals collect the same item, preferred window, and demo email. A explains supported work first; B leads with the form. We will compare whether a visitor understands the service and knows a request still needs confirmation.",
       "aObservation": "The reviewer read the supported items and described the next step before starting the form.",
       "bObservation": "The reviewer reached the form sooner but asked whether the selected window was already reserved.",
@@ -239,21 +239,21 @@
           "scores": [
             25,
             25,
-            23,
+            25,
             25
           ],
-          "next": "Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.",
+          "next": "ask about a recent real decision in this situation and use the response to refine the hypothesis. Professional market validation is not required for full credit.",
           "evidence": [
             "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
-            "Full credit: The choice links a manageable user task to the proposed scope.",
-            "Deduction (−2): The persona evidence row refers to reference pages generally; it does not trace the renter and operator needs to the listed observations.",
+            "Full credit: The audience choice and brand promise follow a manageable user task and explain why that scope was chosen.",
+            "Full credit: The source-to-decision note now names specific reference observations, connects them to the proposed niche or brand decision, and labels the audience need as a hypothesis.",
             "Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples."
           ],
           "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
           "deductions": [
             "",
             "",
-            "The persona evidence row refers to reference pages generally; it does not trace the renter and operator needs to the listed observations.",
+            "",
             ""
           ]
         },
@@ -329,7 +329,7 @@
       "slug": "study-slot",
       "student": "Jordan Rivera and Riley Park",
       "level": "Developing example",
-      "researchReason": "We chose beginning web-development students because they can use a small set of topics. We compared scheduling tools, but did not compare actual tutoring services. That gives us ideas for the request flow, not enough evidence about what would make a tutoring offer different.",
+      "researchReason": "We chose beginning web-development students because they can use a small set of topics. Wyzant adds a tutoring alternative to our scheduling-tool references, but I have not explained which observed difference matters most to a beginner. The sources do not establish demand for our narrower service.",
       "planReason": "Our two plans put the topic explanation or the request controls first. We split the work into the page and the form. Both members help review, but our first task list does not explain how long integration and retesting will take.",
       "aObservation": "The reviewer understood that the supported topics were HTML, CSS, and introductory JavaScript.",
       "bObservation": "The reviewer could select a preferred window but initially treated the choice as a reservation.",
@@ -348,17 +348,17 @@
             18,
             21
           ],
-          "next": "Explain which scheduling observation supports the learner’s task and which tutoring claims remain assumptions.",
+          "next": "Use the tutoring and workflow observations to explain one specific beginner need; keep demand and preference labeled as assumptions.",
           "evidence": [
             "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
-            "Deduction (−5): The reasoning moves from scheduling-tool features to a tutoring offer without explaining how those findings support the learner’s main need.",
+            "Deduction (−5): The table now includes a tutoring alternative, but the audience choice does not explain which observed difference supports the proposed beginner niche.",
             "Deduction (−7): The persona needs are not traced to particular observations in the source table.",
             "Deduction (−4): The reflection identifies a research limit but does not connect a specific finding to the chosen learner’s request task."
           ],
           "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
           "deductions": [
             "",
-            "The reasoning moves from scheduling-tool features to a tutoring offer without explaining how those findings support the learner’s main need.",
+            "The table now includes a tutoring alternative, but the audience choice does not explain which observed difference supports the proposed beginner niche.",
             "The persona needs are not traced to particular observations in the source table.",
             "The reflection identifies a research limit but does not connect a specific finding to the chosen learner’s request task."
           ]
@@ -451,21 +451,21 @@
           "scores": [
             25,
             25,
-            23,
+            25,
             25
           ],
-          "next": "Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.",
+          "next": "ask about a recent real decision in this situation and use the response to refine the hypothesis. Professional market validation is not required for full credit.",
           "evidence": [
             "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
-            "Full credit: The choice links a manageable user task to the proposed scope.",
-            "Deduction (−2): The persona evidence row refers to reference pages generally; it does not connect a particular reference observation to the recruiter task.",
+            "Full credit: The audience choice and brand promise follow a manageable user task and explain why that scope was chosen.",
+            "Full credit: The source-to-decision note now names specific reference observations, connects them to the proposed niche or brand decision, and labels the audience need as a hypothesis.",
             "Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples."
           ],
           "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
           "deductions": [
             "",
             "",
-            "The persona evidence row refers to reference pages generally; it does not connect a particular reference observation to the recruiter task.",
+            "",
             ""
           ]
         },

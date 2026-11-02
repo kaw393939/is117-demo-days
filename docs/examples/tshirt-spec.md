@@ -6,6 +6,16 @@ This is an optional **planning example**. Its QA table is a place to record futu
 
 **Working concept:** “Everyday White,” a fictional college-focused T-shirt company. **Promise:** Clear fit information and an uncomplicated shopping experience. **Concept price:** $25 per shirt; this is not a validated business model. Use an original name/identity for your own work.
 
+## Compact brand brief
+
+**Niche hypothesis:** a commuter buying one everyday tee who wants fit and total clear. **Promise:** a straightforward single purchase. **Character:** Everyperson; direct, welcoming, practical.
+
+**Two visual routes:** a structured Swiss modernist-inspired grid and a Memphis postmodernist-inspired composition. Use the [historical sources and comparison method](/process/find-your-angle#make-the-brand-visible), keep offer/copy/action steady, and link the existing original logo/style guide. The final examples demonstrate a combined visual/hierarchy comparison and explain its limits.
+
+**Two persuasion applications:** useful fit guidance offered before purchase (proposed reciprocity) and relatable everyday wording/imagery (proposed liking). No effect on buying is established. Do not invent reviews, limited stock, or manufacturing claims.
+
+**Decision to check:** can a peer explain the promise, find the measurements, and complete the demo order?
+
 ## Prioritized features
 
 | ID | Feature | Priority | Research / business rationale |

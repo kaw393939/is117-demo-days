@@ -8,6 +8,8 @@ Fictional completed student work by Jordan Rivera. Peer conversations are teachi
 
 **Launch choice:** Version A. The selected audience can inspect a concrete decision instead of relying on a list of tools.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/jordan-rivera/style-guide.html).
+
 **Task used for comparison:** Find a research-driven decision, explain Jordan’s group contribution, and locate the professional profiles.
 
 | Version | Recorded observation in this fictional review |

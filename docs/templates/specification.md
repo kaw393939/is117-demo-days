@@ -8,7 +8,7 @@ Problem, intended users, present workflow, value proposition, assumptions, and o
 
 ## Brand and design
 
-Tone, archetype if useful, typography/colors/imagery, navigation, page/section structure, and key interface states.
+Audience need and promise; one archetype and three voice words; typography/colors/imagery and a linked historical source with the idea translated; two honest persuasion elements and their evidence/limits. Link the existing logo/style guide. Record what stays the same between visual options and what changes. Include navigation, sections, and key states. Keep this in the existing record; no separate brand report is needed.
 
 ## User journey and feature priorities
 

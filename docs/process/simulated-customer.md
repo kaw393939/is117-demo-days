@@ -22,6 +22,10 @@ The **client** explains what the business needs. Your **persona** describes the 
 
 Both partners should take part. Keep a few decisions in the same project document you already use; label the conversation **AI-simulated client**.
 
+## Ask about the business identity too
+
+“What customer situation should we focus on?” “Why would that person choose us?” “What should our words and design help them understand?” Use the answers as labeled simulation assumptions. The brief also asks about visual alternatives and honest persuasion; keep those decisions in your shared spec. An operator is a workflow user, not automatically a second customer niche. [Find your angle](/process/find-your-angle).
+
 ## Start the conversation
 
 Place the brief in `customer/AGENTS.md` and explicitly ask your AI tool:

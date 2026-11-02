@@ -9,13 +9,13 @@
     "audience": "A student buying an everyday white tee online",
     "goal": "Choose a size and understand the total without hunting for information.",
     "concern": "Will it fit, and what will I actually pay?",
-    "other": "A club organizer comparing shirts for an event",
-    "otherneed": "Bulk ordering and custom printing",
-    "choice": "Choose the individual shopper. Bulk and custom orders would expand the project beyond one clear purchase journey.",
+    "other": "A student using one plain tee as the starting point for creative outfits",
+    "otherneed": "Styling ideas and clear product facts without adding a printed design",
+    "choice": "Choose the straightforward single-purchase situation; fit and total are achievable needs to address. The creative-styling direction remains an untested alternative.",
     "positionA": "Affordable everyday essentials",
-    "positionB": "Campus club bulk supplier",
+    "positionB": "An unprinted white tee as a creative wardrobe starting point",
     "a": "Shop first: price, measurements, and size selection appear together.",
-    "b": "Story first: a campus-day narrative leads into the same product and checkout.",
+    "b": "Product context first: imagery and product facts lead into the same measurements and checkout.",
     "launch": "A",
     "why": "The selected shopper can get to fit and price information immediately.",
     "archetype": "Everyperson",
@@ -60,7 +60,44 @@
       "CSS",
       "JavaScript"
     ],
-    "projects": []
+    "projects": [],
+    "brand": {
+      "support": "One everyday white tee. Check the measurements, choose your size, and see the whole demo total before you decide.",
+      "promise": "A straightforward single-tee purchase with fit and total visible.",
+      "niche": "A commuter buying one everyday tee without navigating bundle or membership offers.",
+      "tipTitle": "Before you choose a size",
+      "tips": [
+        "Lay a tee you already like flat.",
+        "Compare chest width and length with the labeled centimeter guide.",
+        "Check quantity and the itemized demo total before submitting."
+      ],
+      "trace": "R1 shows fit/length information; R2 offers several purchasing paths. I chose a direct voice and a nearby measurement guide to support one uncomplicated purchase. This need is still a hypothesis.",
+      "limit": "The clarity idea is supported by page observations, not evidence that a student market prefers our offer.",
+      "persuasion": [
+        {
+          "principle": "Reciprocity",
+          "element": "Before you choose a size — a free preparation guide",
+          "mechanism": "Offer useful guidance before asking the visitor to choose or request.",
+          "limit": "The page offers value; no change in purchase or request rates was measured."
+        },
+        {
+          "principle": "Liking",
+          "element": "Welcoming language that addresses the visitor’s situation",
+          "mechanism": "A sincere relatable voice may make the offer feel approachable.",
+          "limit": "We have not measured this effect; no invented customers or testimonials are used."
+        }
+      ],
+      "visualA": "Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.",
+      "visualB": "Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.",
+      "sourceA": [
+        "Josef Müller-Brockmann, Musica Viva, 1957 — MoMA",
+        "https://www.moma.org/collection/works/4885"
+      ],
+      "sourceB": [
+        "Ettore Sottsass, Carlton room divider, 1981 — The Met",
+        "https://www.metmuseum.org/art/collection/search/486989"
+      ]
+    }
   },
   {
     "slug": "studio-white",
@@ -85,22 +122,22 @@
     "voice": "Calm, specific, restrained",
     "sources": [
       [
-        "Fresh Clean Tees",
-        "https://freshcleantees.com/products/white-crew-neck",
-        "Length choices and fit information",
-        "Put measurements next to size selection."
-      ],
-      [
-        "True Classic",
-        "https://www.trueclassictees.com/products/white-crew-neck-tee",
-        "Product options and membership pricing paths",
-        "Explain the single-item offer without extra pricing paths."
-      ],
-      [
         "Buck Mason",
         "https://www.buckmason.com/products/white-slub-curved-hem-tee",
         "Specific fabric and production details",
         "Use specific product facts rather than vague premium claims."
+      ],
+      [
+        "Cuts",
+        "https://www.cutsclothing.com/products/white-crew-curve-hem",
+        "Professional-use context and flat/worn product photos",
+        "Show an honest use case; do not invent performance or provenance claims."
+      ],
+      [
+        "Fresh Clean Tees",
+        "https://freshcleantees.com/products/white-crew-neck",
+        "Length choices and fit information",
+        "Put measurements next to size selection."
       ]
     ],
     "story1": "As a workday shopper, I want fit measurements before buying so I can judge the silhouette.",
@@ -123,7 +160,44 @@
       "CSS",
       "JavaScript"
     ],
-    "projects": []
+    "projects": [],
+    "brand": {
+      "support": "A plain white starting point for your workday wardrobe. Explore the fit and classroom product details, then choose what works for you.",
+      "promise": "A considered starting point for a creative workday wardrobe.",
+      "niche": "An early-career creative assembling a simple workday outfit.",
+      "tipTitle": "Start with the silhouette",
+      "tips": [
+        "Compare the flat measurements with a tee you already own.",
+        "Think about the layer you would wear over a plain white tee.",
+        "Read the concept product facts before deciding on size and quantity."
+      ],
+      "trace": "Buck Mason uses specific production context, and Cuts presents a workday use case. I chose a calm Creator voice because I like that look. I have not yet shown that this audience values the same emphasis.",
+      "limit": "The concept price is not validated, and polished imagery does not establish better materials or manufacturing.",
+      "persuasion": [
+        {
+          "principle": "Reciprocity",
+          "element": "Start with the silhouette — a free preparation guide",
+          "mechanism": "Offer useful guidance before asking the visitor to choose or request.",
+          "limit": "The page offers value; no change in purchase or request rates was measured."
+        },
+        {
+          "principle": "Liking",
+          "element": "Welcoming language that addresses the visitor’s situation",
+          "mechanism": "A sincere relatable voice may make the offer feel approachable.",
+          "limit": "We have not measured this effect; no invented customers or testimonials are used."
+        }
+      ],
+      "visualA": "Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.",
+      "visualB": "Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.",
+      "sourceA": [
+        "Josef Müller-Brockmann, Musica Viva, 1957 — MoMA",
+        "https://www.moma.org/collection/works/4885"
+      ],
+      "sourceB": [
+        "Ettore Sottsass, Carlton room divider, 1981 — The Met",
+        "https://www.metmuseum.org/art/collection/search/486989"
+      ]
+    }
   },
   {
     "slug": "room-ready",
@@ -132,14 +206,14 @@
     "tag": "A clearer first step for furniture assembly.",
     "price": 45,
     "color": "#8d3e21",
-    "audience": "A Newark-area renter who needs help assembling a desk",
+    "audience": "A first-apartment Newark-area renter who needs help assembling a desk",
     "goal": "Describe the item and request help without assuming a booking is confirmed.",
     "concern": "What information is needed, and what happens after I submit?",
-    "other": "An operator reviewing incoming assembly requests",
-    "otherneed": "A scannable request queue and complete job details",
+    "other": "An experienced renter replacing a small shelving unit",
+    "otherneed": "A quick way to describe a familiar assembly job and understand follow-up",
     "choice": "Serve the renter first, with a small request summary to demonstrate the handoff to the operator.",
-    "positionA": "Furniture assembly request service",
-    "positionB": "All-purpose home-services marketplace",
+    "positionA": "First-apartment assembly requests with extra guidance",
+    "positionB": "Quick repeat assembly inquiries for experienced renters",
     "a": "Service first: explain scope and next steps before the request form.",
     "b": "Request first: show the short form immediately, with scope and process alongside it.",
     "launch": "A",
@@ -156,8 +230,8 @@
       [
         "Handy",
         "https://www.handy.com/services/furniture-assembly",
-        "A page dedicated to furniture assembly",
-        "Name the supported service clearly."
+        "The live assembly page sends new customers to Angi; Handy web booking is no longer available",
+        "Explain the handoff honestly and verify the live page rather than relying on older search summaries."
       ],
       [
         "IKEA assembly",
@@ -186,7 +260,44 @@
       "Chair",
       "Shelving"
     ],
-    "projects": []
+    "projects": [],
+    "brand": {
+      "support": "Moving into your first place? Tell us what needs assembling and when you prefer help. A request starts the conversation; it does not reserve a time.",
+      "promise": "A helpful first step for renters unfamiliar with assembly requests.",
+      "niche": "A first-apartment renter who needs help describing a desk assembly job.",
+      "tipTitle": "Get your request ready",
+      "tips": [
+        "Identify whether the item is a desk, chair, or shelving.",
+        "If this were a real request, keep the product instructions handy.",
+        "Choose a preferred window; an operator would discuss scope, price, and availability later."
+      ],
+      "trace": "Taskrabbit explains steps and IKEA names the service handoff. We chose a Caregiver voice, a preparation list, and explicit pending language so a first-time renter knows what to do next.",
+      "limit": "No service competence, insurance, provider checks, or live availability has been established.",
+      "persuasion": [
+        {
+          "principle": "Reciprocity",
+          "element": "Get your request ready — a free preparation guide",
+          "mechanism": "Offer useful guidance before asking the visitor to choose or request.",
+          "limit": "The page offers value; no change in purchase or request rates was measured."
+        },
+        {
+          "principle": "Liking",
+          "element": "Welcoming language that addresses the visitor’s situation",
+          "mechanism": "A sincere relatable voice may make the offer feel approachable.",
+          "limit": "We have not measured this effect; no invented customers or testimonials are used."
+        }
+      ],
+      "visualA": "Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.",
+      "visualB": "Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.",
+      "sourceA": [
+        "Josef Müller-Brockmann, Musica Viva, 1957 — MoMA",
+        "https://www.moma.org/collection/works/4885"
+      ],
+      "sourceB": [
+        "Ettore Sottsass, Carlton room divider, 1981 — The Met",
+        "https://www.metmuseum.org/art/collection/search/486989"
+      ]
+    }
   },
   {
     "slug": "study-slot",
@@ -198,11 +309,11 @@
     "audience": "A first-year student requesting help with introductory web development",
     "goal": "Describe a topic and request a suitable tutoring window.",
     "concern": "Will the tutor know what I need, and is the time actually available?",
-    "other": "A tutor reviewing the student’s request",
-    "otherneed": "Topic, preferred window, and a clear pending status",
+    "other": "A student preparing a broad web-development interview review",
+    "otherneed": "A way to identify many topics and compare tutor expertise",
     "choice": "Design for the student’s request while including the information the tutor needs to respond.",
     "positionA": "Focused web-development tutoring requests",
-    "positionB": "An all-subject instant-booking platform",
+    "positionB": "Broad web-development interview preparation requests",
     "a": "Topic first: explain supported topics, then collect the request.",
     "b": "Time first: show the request controls first and list topics alongside them.",
     "launch": "A",
@@ -223,10 +334,10 @@
         "Collect the topic before the session."
       ],
       [
-        "Square Appointments",
-        "https://squareup.com/us/en/appointments",
-        "Appointment-booking product",
-        "Show a clear scheduling action. These are adjacent workflow references, not tutoring competitors."
+        "Wyzant",
+        "https://www.wyzant.com/tutors/web-design",
+        "Subject-specific tutor listings, qualifications, and displayed reviews",
+        "Compare a real tutoring alternative with our narrow beginner request concept."
       ]
     ],
     "story1": "As a student, I want to see supported topics so I can decide whether to request help.",
@@ -249,13 +360,50 @@
       "CSS",
       "JavaScript"
     ],
-    "projects": []
+    "projects": [],
+    "brand": {
+      "support": "Stuck on HTML, CSS, or a first JavaScript question? Start with the topic and a preferred window. A tutor would confirm the next step.",
+      "promise": "An approachable first request for beginner web-development guidance.",
+      "niche": "A first-year student who can name a topic but is unsure how to ask for help.",
+      "tipTitle": "Bring one question",
+      "tips": [
+        "Pick HTML, CSS, or introductory JavaScript.",
+        "Write down what you expected and what happened instead.",
+        "Bring your own attempt; support means understanding the work, not having it completed for you."
+      ],
+      "trace": "Wyzant shows subject-specific tutor choices; Calendly and Acuity show scheduling workflows. I chose a patient Sage voice and a preparation list. I have not connected each persona need to a specific observation or checked whether beginners prefer this narrower offer.",
+      "limit": "The references do not prove tutoring demand, tutor competence, or that the preferred window is available.",
+      "persuasion": [
+        {
+          "principle": "Reciprocity",
+          "element": "Bring one question — a free preparation guide",
+          "mechanism": "Offer useful guidance before asking the visitor to choose or request.",
+          "limit": "The page offers value; no change in purchase or request rates was measured."
+        },
+        {
+          "principle": "Liking",
+          "element": "Welcoming language that addresses the visitor’s situation",
+          "mechanism": "A sincere relatable voice may make the offer feel approachable.",
+          "limit": "We have not measured this effect; no invented customers or testimonials are used."
+        }
+      ],
+      "visualA": "Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.",
+      "visualB": "Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.",
+      "sourceA": [
+        "Josef Müller-Brockmann, Musica Viva, 1957 — MoMA",
+        "https://www.moma.org/collection/works/4885"
+      ],
+      "sourceB": [
+        "Ettore Sottsass, Carlton room divider, 1981 — The Met",
+        "https://www.metmuseum.org/art/collection/search/486989"
+      ]
+    }
   },
   {
     "slug": "maya-chen",
     "name": "Maya Chen",
     "kind": "portfolio",
-    "tag": "A student learning to turn business questions into useful websites.",
+    "tag": "Useful websites. Thoughtful decisions.",
     "price": 0,
     "color": "#5f3d78",
     "audience": "A recruiter scanning for an early-career web-development intern",
@@ -264,8 +412,8 @@
     "other": "A local small-business owner considering a student collaborator",
     "otherneed": "Clear examples of useful customer-facing work and contact information",
     "choice": "Prioritize the internship recruiter; keep explanations readable for a nontechnical visitor too.",
-    "positionA": "Project-led student portfolio",
-    "positionB": "Personal-story-led creative portfolio",
+    "positionA": "Project evidence for internship recruiters",
+    "positionB": "Customer-facing work for local small-business collaborators",
     "a": "Projects first: two case-study cards lead into résumé and profiles.",
     "b": "About first: learning goals and personal brand lead into the same project evidence.",
     "launch": "A",
@@ -304,7 +452,7 @@
     "defer": "Blog platform, elaborate animation, analytics, and invented testimonials.",
     "task": "Find the T-shirt project, identify the student’s group contribution, and locate the résumé.",
     "feedback": "The group card explained the product but not what Maya personally built.",
-    "change": "Add an “My contribution” paragraph to the group case study and a direct résumé navigation link.",
+    "change": "Add a “My contribution” paragraph to the group case study and a direct résumé navigation link.",
     "retest": "Ask the reviewer to name Maya’s contribution and find the résumé without hints.",
     "limit": "Maya is a fictional student. The profile examples, résumé, and contribution statements model a submission; they are not a real person’s credentials.",
     "options": [
@@ -315,13 +463,50 @@
     "projects": [
       "campus-cotton",
       "room-ready"
-    ]
+    ],
+    "brand": {
+      "support": "I’m an NJIT student practicing web development with AI. Explore two course projects, the choices behind them, and the parts I designed, built, and checked.",
+      "promise": "Make my actual student work and contribution easy to inspect.",
+      "niche": "An internship recruiter looking for concrete early-career project evidence.",
+      "tipTitle": "A small process note",
+      "tips": [
+        "Begin with a person and one task, not a long feature list.",
+        "Write what success would look like before asking AI to build.",
+        "Try the task with a peer, make a change, and check again."
+      ],
+      "trace": "Brittany Chiang puts role and work evidence together; Josh Comeau demonstrates thinking through explanation. I chose a Creator voice that points to decisions and artifacts rather than claiming expertise.",
+      "limit": "Course work is evidence of practice, not professional employment, a hiring result, or proof of advanced expertise.",
+      "persuasion": [
+        {
+          "principle": "Authority",
+          "element": "Linked course projects and individual contribution notes",
+          "mechanism": "Relevant inspectable work can demonstrate competence without claiming senior credentials.",
+          "limit": "This is student practice, not professional employment or a hiring outcome."
+        },
+        {
+          "principle": "Reciprocity",
+          "element": "The short process note below the case studies",
+          "mechanism": "Give a visitor a useful way to approach a problem before asking them to explore or contact me.",
+          "limit": "Providing value does not prove a recruiter will respond."
+        }
+      ],
+      "visualA": "Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.",
+      "visualB": "Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.",
+      "sourceA": [
+        "Josef Müller-Brockmann, Musica Viva, 1957 — MoMA",
+        "https://www.moma.org/collection/works/4885"
+      ],
+      "sourceB": [
+        "Ettore Sottsass, Carlton room divider, 1981 — The Met",
+        "https://www.metmuseum.org/art/collection/search/486989"
+      ]
+    }
   },
   {
     "slug": "jordan-rivera",
     "name": "Jordan Rivera",
     "kind": "portfolio",
-    "tag": "A student interested in clear workflows and customer-facing software.",
+    "tag": "Clear workflows. Checked results.",
     "price": 0,
     "color": "#20615c",
     "audience": "A team lead assessing a student’s problem-solving and collaboration",
@@ -330,8 +515,8 @@
     "other": "A recruiter quickly checking minimum project and contact information",
     "otherneed": "A concise summary, projects, résumé, and professional links",
     "choice": "Prioritize clear project reasoning while retaining easy access to résumé and profiles.",
-    "positionA": "Evidence-led builder portfolio",
-    "positionB": "Skills-list-led portfolio",
+    "positionA": "Decision evidence for a technical team lead",
+    "positionB": "A concise overview for an internship recruiter",
     "a": "Evidence first: a short decision and its validation introduce the projects.",
     "b": "Introduction first: role direction and skills precede project evidence.",
     "launch": "A",
@@ -381,6 +566,43 @@
     "projects": [
       "studio-white",
       "study-slot"
-    ]
+    ],
+    "brand": {
+      "support": "I’m an NJIT student learning to make useful web workflows. My course projects show the problem, my contribution, and what I checked after using AI.",
+      "promise": "Explain the decisions and checks behind a small working project.",
+      "niche": "A technical team lead assessing a student’s reasoning and collaboration.",
+      "tipTitle": "A small process note",
+      "tips": [
+        "Name the input you want to test.",
+        "Write the expected result before trying it.",
+        "Record what happened, including limits or failures."
+      ],
+      "trace": "Lee Robinson keeps introductions brief and links writing; Josh Comeau explains technical ideas. I chose a Sage voice, but I still describe both managers and recruiters without prioritizing a reader task.",
+      "limit": "Listing a check is weaker than explaining its input, expected result, and actual outcome.",
+      "persuasion": [
+        {
+          "principle": "Authority",
+          "element": "Linked course projects and individual contribution notes",
+          "mechanism": "Relevant inspectable work can demonstrate competence without claiming senior credentials.",
+          "limit": "This is student practice, not professional employment or a hiring outcome."
+        },
+        {
+          "principle": "Reciprocity",
+          "element": "The short process note below the case studies",
+          "mechanism": "Give a visitor a useful way to approach a problem before asking them to explore or contact me.",
+          "limit": "Providing value does not prove a recruiter will respond."
+        }
+      ],
+      "visualA": "Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.",
+      "visualB": "Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.",
+      "sourceA": [
+        "Josef Müller-Brockmann, Musica Viva, 1957 — MoMA",
+        "https://www.moma.org/collection/works/4885"
+      ],
+      "sourceB": [
+        "Ettore Sottsass, Carlton room divider, 1981 — The Met",
+        "https://www.metmuseum.org/art/collection/search/486989"
+      ]
+    }
   }
 ]

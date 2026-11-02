@@ -15,6 +15,8 @@ Use [one short document per project](/templates/four-milestones) and update it a
 | **3. Build** | Link two working versions and explain which you plan to launch. Share code where useful; make the difference meaningful. |
 | **4. Improve** | Have a peer walk through each project. Make at least one meaningful change per project, retest, and publish your selected versions. |
 
+Carry forward the earlier Brand Studio decisions in your existing record: audience promise, brand voice, logo/style guide, visual alternatives, and two truthful persuasion applications. [Find your brand’s angle](/process/find-your-angle). This adds no new report or set of websites.
+
 A **persona** describes a user and their needs. A **user story** explains what that user wants to do and why. A **specification**, or **spec**, is your website plan. [See how they connect](/process/research-to-features).
 
 [Check your section’s dates](/course/schedule) · [See completed examples](/examples/submissions/).
@@ -51,9 +53,11 @@ That is **eight review milestones**, covering three projects. The same documents
 | Criterion | Share | What we look for |
 | --- | --- | --- |
 | **Complete** | 25% | A reasonable attempt at the required work, with links that open. |
-| **Thoughtful** | 25% | Useful alternatives and clear reasons for your choice. |
-| **Checked** | 25% | You checked sources or behavior. The final step includes real peer feedback, a change, and a retest. |
+| **Thoughtful** | 25% | Useful alternatives; connect evidence to your audience, brand choices, and features. |
+| **Checked** | 25% | You checked sources, claims, or behavior. The final step includes real peer feedback on understanding and use, a change, and a retest. |
 | **Understood** | 25% | You can explain your work, AI use, contribution, and limits. |
+
+A small, well-explained attempt can earn full credit. We assess your reasons and checks, not a preferred aesthetic or professional market validation. Earlier assignments retain their original criteria.
 
 These are the rubric shares for each milestone, not changes to the syllabus’s course-grade weights. Canvas will hold gradebook points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
 

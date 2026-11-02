@@ -4,6 +4,10 @@ You do not need a large market report. Start with **three relevant websites** an
 
 <LearningDiagram kind="evidence" />
 
+## Connect research to your brand
+
+Look at each reference’s **design, brand character, and reasons to trust or act**, as well as its features. Compare two possible niches, then choose a promise your project can deliver. Reuse the earlier library and Brand Studio work; keep notes in the same document. [Follow the short brand strategy example](/process/find-your-angle).
+
 ## Try one decision from start to finish
 
 Here is a small T-shirt example. The proposed audience need remains an assumption until you check it.
@@ -26,7 +30,7 @@ Here is a small T-shirt example. The proposed audience need remains an assumptio
 
 A **competitive landscape** is a short comparison of the choices a customer might consider. For each site, record its link, the date, whom it seems to serve, its offer, useful features, and one lesson for your project. Capture a few relevant screenshots with captions.
 
-A **position** explains who your offer serves and why they would choose it. For example, affordable everyday tees and custom shirts for clubs serve different needs.
+A **position** explains who your offer serves and why they would choose it. For example, a tee bought as an everyday staple and a tee presented as a starting point for creative outfits serve different situations. Both can remain plain white.
 
 Separate an **observation** (“the page has a size guide”) from an **interpretation** (“this may reduce sizing uncertainty”). You cannot prove customer demand or a competitor's sales by looking at a website. For a portfolio, compare reference portfolios; for a service, identify direct competitors versus related workflow examples.
 

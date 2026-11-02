@@ -12,6 +12,12 @@ Fictional completed student work by Jordan Rivera. Peer conversations are teachi
 
 **What this tells me:** The revised paragraph is easier to locate, but the retest gives only limited evidence that the explanation is understandable.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the page as polished and found the preparation/process note. I did not ask them to explain the intended audience or why the promise mattered. That leaves a comprehension gap even though the interface works.
+
+**Brand feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).

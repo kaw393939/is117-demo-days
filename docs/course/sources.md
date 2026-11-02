@@ -23,6 +23,10 @@ Verified **November 2, 2026**. Course homepages and syllabus summaries were insp
 
 Use Canvas for official deadlines, grading, private arrangements, and later instructor announcements. Ask through Canvas for individual circumstances. Report a public documentation correction through an issue. New project guidance applies prospectively; earlier work retains its original criteria.
 
+## Earlier design work carried forward
+
+The section 005 [design-library assignment](https://njit.instructure.com/courses/70710/assignments/761952) and [Brand Studio assignment](https://njit.instructure.com/courses/70710/assignments/767648) were reviewed read-only on November 2. Their public [library](https://github.com/kaw393939/archetype_design_persusion) and [Brand Studio reference](https://github.com/kaw393939/is117-brand-studio/blob/main/docs/reference.md) connect archetypes, ethical persuasion, historical visual references, and checking decisions. The final guide reuses that foundation within the existing milestones; it does not retroactively replace earlier criteria. This review does not establish identical historical wording in section 007.
+
 ## Research evidence
 
 [Competitor research](/examples/competitive-landscape) and [internship examples](/career/internships) link to primary sources where available. Brand performance claims were not independently tested. Job availability and deadlines change; each entry has a check date and evidence status.

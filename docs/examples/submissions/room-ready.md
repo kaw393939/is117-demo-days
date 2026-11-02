@@ -28,34 +28,53 @@ I compared related service and scheduling workflows. A related workflow is not n
 | Source | Site | Observation | Decision it suggests |
 | --- | --- | --- | --- |
 | R1 | [Taskrabbit](https://www.taskrabbit.com/how-it-works) | Task, location, provider comparison, then confirmation. | Explain the steps before the request. |
-| R2 | [Handy](https://www.handy.com/services/furniture-assembly) | A page dedicated to furniture assembly. | Name the supported service clearly. |
+| R2 | [Handy](https://www.handy.com/services/furniture-assembly) | The live assembly page sends new customers to Angi; Handy web booking is no longer available. | Explain the handoff honestly and verify the live page rather than relying on older search summaries. |
 | R3 | [IKEA assembly](https://www.ikea.com/us/en/customer-service/services/assembly/) | Assembly offered through Taskrabbit with follow-up steps. | Distinguish a request from a confirmed appointment; this is a partner channel, not an independent competitor. |
+
+#### What the brand presentation suggests
+
+<details>
+<summary>My look, character, and trust notes for the three sources</summary>
+
+- **Taskrabbit:** **Look:** Green identity, expressive serif headings, practical imagery, and steps. **Character:** Caregiver/Everyperson is a plausible reading of the helping language. **Trust/action:** Reviews and screening/protection statements are displayed claims, not guarantees made by our demo.
+- **Handy:** **Look:** A restrained live page now directs new assembly customers to Angi. **Character:** Caregiver/Everyperson is a tentative reading of the trust/help language. **Trust/action:** Check the current handoff. Older search summaries described booking that the live page says is unavailable.
+- **IKEA assembly:** **Look:** Clear branded service steps and assembly imagery. **Character:** Everyperson/Caregiver is a possible reading. **Trust/action:** The named Taskrabbit partnership gives context. It is a partner channel, not another independent marketplace.
+
+These are interpretations of the linked pages, not official archetypes or independently verified claims. A functional grid alone does not establish historical Modernism.
+
+</details>
+
+**My proposed niche:** A first-apartment renter who needs help describing a desk assembly job. **Promise:** A helpful first step for renters unfamiliar with assembly requests.
+
+**Source → decision:** Taskrabbit explains steps and IKEA names the service handoff. We chose a Caregiver voice, a preparation list, and explicit pending language so a first-time renter knows what to do next.
+
+**Still uncertain:** No service competence, insurance, provider checks, or live availability has been established.
 
 #### Two positions I considered
 
-- **Position A:** Furniture assembly request service.
-- **Position B:** All-purpose home-services marketplace.
+- **Position A:** First-apartment assembly requests with extra guidance.
+- **Position B:** Quick repeat assembly inquiries for experienced renters.
 
 #### Two persona cards
 
 | | Persona A | Persona B |
 | --- | --- | --- |
-| Situation | A Newark-area renter who needs help assembling a desk | An operator reviewing incoming assembly requests |
-| Goal | Describe the item and request help without assuming a booking is confirmed. | A scannable request queue and complete job details. |
+| Situation | A first-apartment Newark-area renter who needs help assembling a desk | An experienced renter replacing a small shelving unit |
+| Goal | Describe the item and request help without assuming a booking is confirmed. | A quick way to describe a familiar assembly job and understand follow-up. |
 | Concern | What information is needed, and what happens after I submit? | Will the site focus on my task and make the next step clear? |
-| Information needed | Supported services/topics, required details, and pending status. | A scannable request queue and complete job details. |
+| Information needed | Supported services/topics, required details, and pending status. | A quick way to describe a familiar assembly job and understand follow-up. |
 | Evidence / assumption | Reference pages show useful ways to present information. This user need remains my hypothesis. | A plausible second audience. I have not validated this profile through customer research. |
 
 #### My audience choice
 
-We chose a narrow assembly-request service instead of a marketplace. Our renter needs to explain one item and know what happens next. The operator needs complete details, but matching many providers or promising live availability would make this project too large.
+We chose the first-apartment renter instead of the experienced repeat requester. Taskrabbit explains steps and IKEA identifies the handoff, so we will emphasize supported scope and what happens next. An operator is also a secondary workflow user; that is different from our alternate customer niche. Matching many providers would expand the scope.
 
 **What the research does not prove:** Website observations do not establish demand, customer preferences, sales, or the quality of a competing product.
 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 98/100</summary>
+<summary>See the rubric score and feedback: 100/100</summary>
 
 <SampleAssessment slug="room-ready" stage="research" />
 
@@ -70,16 +89,33 @@ We chose a narrow assembly-request service instead of a marketplace. Our renter 
 
 **Goal:** Describe the item and request help without assuming a booking is confirmed.
 
+#### My compact brand brief
+
+- **Promise:** A helpful first step for renters unfamiliar with assembly requests.
+- **Character and voice:** Caregiver; helpful and direct.
+- **Actual hero copy, held steady in A/B:** “A clearer first step for furniture assembly.” / “Moving into your first place? Tell us what needs assembling and when you prefer help. A request starts the conversation; it does not reserve a time.”
+- **Original logo and live style guide:** [Brand notes](/samples/room-ready/style-guide.html), with type, colors, logo, and both visual directions. These are original class-example assets, not museum reproductions.
+- **Visual A:** Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster. [Source: Josef Müller-Brockmann, Musica Viva, 1957 — MoMA](https://www.moma.org/collection/works/4885).
+- **Visual B:** Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture. [Source: Ettore Sottsass, Carlton room divider, 1981 — The Met](https://www.metmuseum.org/art/collection/search/486989).
+- **Comparison limit:** Both visual treatment and content order change in these examples. The offer, hero wording, and main action stay the same, but I cannot isolate which change caused a preference. A stricter visual-only experiment would hold content order steady too.
+
+| Principle | Actual page element | Proposed mechanism | Evidence or limit |
+| --- | --- | --- | --- |
+| Reciprocity | Get your request ready — a free preparation guide | Offer useful guidance before asking the visitor to choose or request. | The page offers value; no change in purchase or request rates was measured. |
+| Liking | Welcoming language that addresses the visitor’s situation | A sincere relatable voice may make the offer feel approachable. | We have not measured this effect; no invented customers or testimonials are used. |
+
+**How the promise becomes a feature:** A helpful first step for renters unfamiliar with assembly requests. → S1 / F1 below → The supported work and exclusions are visible before submitting. The peer should also explain the offer, intended reader, reason to trust it, and next action before I coach them. No conversion or hiring result is claimed.
+
 #### Specification A
 
-- **Approach:** Service first: explain scope and next steps before the request form.
+- **Approach:** Service first: explain scope and next steps before the request form. Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.
 - **Sections:** Service scope; how requests work; request form; pending receipt/history.
 - **Main action:** Service/topic explanation → required choices → complete request → pending receipt → request history.
 - **Brand:** Caregiver; helpful and direct.
 
 #### Specification B
 
-- **Approach:** Request first: show the short form immediately, with scope and process alongside it.
+- **Approach:** Request first: show the short form immediately, with scope and process alongside it. Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.
 - **Sections:** Request form first; supported scope alongside it; pending receipt/history.
 - **Main action:** Service/topic explanation → required choices → complete request → pending receipt → request history.
 - **Comparison:** Same core content and data, different information order and presentation.
@@ -133,6 +169,8 @@ We treated integration and retesting as shared tasks and rechecked the totals be
 
 **Launch choice:** Version A. The scope and confirmation language are clearer before the visitor starts the form.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/room-ready/style-guide.html).
+
 **Task used for comparison:** Request assembly for a desk, select a preferred window, and explain whether you have a confirmed appointment.
 
 | Version | Recorded observation in this fictional review |
@@ -176,6 +214,12 @@ The interface validates the item and preferred window. The local server checks b
 
 **What this tells me:** This checks a classroom request flow. No real operator, scheduling integration, or business outcome was tested.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the offer as “A helpful first step for renters unfamiliar with assembly requests.” and pointed to the preparation/process note as useful guidance. They understood the next action was a classroom demo or project review, not a real purchase, booking, or employment claim. This models a comprehension check; it does not establish a persuasion effect.
+
+**Brand feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
@@ -193,7 +237,7 @@ We used the AI coding assistant for layout and validation drafts. Maya revised t
 
 #### My short portfolio case study
 
-“I built Room Ready for a newark-area renter who needs help assembling a desk. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. The scope and confirmation language are clearer before the visitor starts the form. Feedback identified this problem: the original booking-style wording led Morgan to assume that submitting the form guaranteed an appointment. I made this change: use “Send demo request” and explain that an operator would confirm scope, price, and availability later. After we changed the action to Send demo request and clarified the pending receipt, Morgan submitted a desk request and correctly explained that an operator would confirm scope and availability later. No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.”
+“I built Room Ready for a first-apartment newark-area renter who needs help assembling a desk. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. The scope and confirmation language are clearer before the visitor starts the form. Feedback identified this problem: the original booking-style wording led Morgan to assume that submitting the form guaranteed an appointment. I made this change: use “Send demo request” and explain that an operator would confirm scope, price, and availability later. After we changed the action to Send demo request and clarified the pending receipt, Morgan submitted a desk request and correctly explained that an operator would confirm scope and availability later. No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.”
 
 #### Individual contribution statements
 
@@ -224,5 +268,7 @@ The written record models the student's explanation. It does not establish that 
 ## Instructor’s suggested revision
 
 Our success check is that a visitor can submit a complete request and explain that it is pending. We do not count the demo as successful if the visitor believes a time has been booked.
+
+**Brand strategy feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
 
 [Back to all six examples](/examples/submissions/) · [Assignment rubric](/course/milestones#how-each-step-is-graded).

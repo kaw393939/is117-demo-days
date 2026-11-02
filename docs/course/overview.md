@@ -10,6 +10,8 @@ You will finish three small websites and show how you made them. The goal is to 
 
 Teams have two students, with one team of three if a section has an odd number. Each person helps with design, coding, and testing.
 
+Reuse your earlier Brand Studio work. [Find your brand’s angle](/process/find-your-angle) connects competitive research to a clear promise, visual direction, and honest persuasion.
+
 ## Follow four steps
 
 <LearningDiagram kind="process" />

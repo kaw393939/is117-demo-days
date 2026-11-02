@@ -6,16 +6,33 @@ Fictional completed student work by Maya Chen and Avery Ellis. Peer conversation
 
 **Goal:** Describe the item and request help without assuming a booking is confirmed.
 
+#### My compact brand brief
+
+- **Promise:** A helpful first step for renters unfamiliar with assembly requests.
+- **Character and voice:** Caregiver; helpful and direct.
+- **Actual hero copy, held steady in A/B:** “A clearer first step for furniture assembly.” / “Moving into your first place? Tell us what needs assembling and when you prefer help. A request starts the conversation; it does not reserve a time.”
+- **Original logo and live style guide:** [Brand notes](/samples/room-ready/style-guide.html), with type, colors, logo, and both visual directions. These are original class-example assets, not museum reproductions.
+- **Visual A:** Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster. [Source: Josef Müller-Brockmann, Musica Viva, 1957 — MoMA](https://www.moma.org/collection/works/4885).
+- **Visual B:** Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture. [Source: Ettore Sottsass, Carlton room divider, 1981 — The Met](https://www.metmuseum.org/art/collection/search/486989).
+- **Comparison limit:** Both visual treatment and content order change in these examples. The offer, hero wording, and main action stay the same, but I cannot isolate which change caused a preference. A stricter visual-only experiment would hold content order steady too.
+
+| Principle | Actual page element | Proposed mechanism | Evidence or limit |
+| --- | --- | --- | --- |
+| Reciprocity | Get your request ready — a free preparation guide | Offer useful guidance before asking the visitor to choose or request. | The page offers value; no change in purchase or request rates was measured. |
+| Liking | Welcoming language that addresses the visitor’s situation | A sincere relatable voice may make the offer feel approachable. | We have not measured this effect; no invented customers or testimonials are used. |
+
+**How the promise becomes a feature:** A helpful first step for renters unfamiliar with assembly requests. → S1 / F1 below → The supported work and exclusions are visible before submitting. The peer should also explain the offer, intended reader, reason to trust it, and next action before I coach them. No conversion or hiring result is claimed.
+
 #### Specification A
 
-- **Approach:** Service first: explain scope and next steps before the request form.
+- **Approach:** Service first: explain scope and next steps before the request form. Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.
 - **Sections:** Service scope; how requests work; request form; pending receipt/history.
 - **Main action:** Service/topic explanation → required choices → complete request → pending receipt → request history.
 - **Brand:** Caregiver; helpful and direct.
 
 #### Specification B
 
-- **Approach:** Request first: show the short form immediately, with scope and process alongside it.
+- **Approach:** Request first: show the short form immediately, with scope and process alongside it. Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.
 - **Sections:** Request form first; supported scope alongside it; pending receipt/history.
 - **Main action:** Service/topic explanation → required choices → complete request → pending receipt → request history.
 - **Comparison:** Same core content and data, different information order and presentation.

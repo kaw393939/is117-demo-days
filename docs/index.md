@@ -29,6 +29,8 @@ features:
 2. Open [one completed research example](/examples/submissions/campus-cotton#_1-research), then [copy the short template](/templates/four-milestones).
 3. Compare three sites for your T-shirt idea. Bring your notes to the **November 5 feedback class**. Use that class to ask questions and work with your partner.
 
+Reuse your earlier design library and Brand Studio work to [find your brand’s angle](/process/find-your-angle): connect the audience, look, voice, and honest reasons to act.
+
 The portfolio research is shorter. Your group uses one shared record. [See how the three projects fit into the submissions](/course/milestones#how-to-submit).
 
 **First research submission:** section 005 — **Nov 9 at 11:30 a.m.**; section 007 — **Nov 10 at 8:30 a.m.** [See the full schedule and Thanksgiving adjustment](/course/schedule).

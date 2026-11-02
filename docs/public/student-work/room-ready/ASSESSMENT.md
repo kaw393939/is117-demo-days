@@ -2,18 +2,18 @@
 
 This assesses the fictional submitted record, not a real student. Use the published four-criterion rubric, 25 points per criterion. “Understood” here evaluates the written explanation only; a live class review would also check the student's own explanation.
 
-## 1. Research: 98/100
+## 1. Research: 100/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
 | Complete | 25/25 | Full credit: Three linked references, two positions, two persona cards, and an audience choice are present. |
-| Thoughtful | 25/25 | Full credit: The choice links a manageable user task to the proposed scope. |
-| Checked | 23/25 | Deduction (−2): The persona evidence row refers to reference pages generally; it does not trace the renter and operator needs to the listed observations. |
+| Thoughtful | 25/25 | Full credit: The audience choice and brand promise follow a manageable user task and explain why that scope was chosen. |
+| Checked | 25/25 | Full credit: The source-to-decision note now names specific reference observations, connects them to the proposed niche or brand decision, and labels the audience need as a hypothesis. |
 | Understood | 25/25 | Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples. |
 
 **What worked:** The submission names a plausible audience and keeps claims tied to a small project.
 
-**Next revision:** Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.
+**Optional next step:** ask about a recent real decision in this situation and use the response to refine the hypothesis. Professional market validation is not required for full credit.
 
 [Read the submitted work](01-research.md).
 
@@ -62,8 +62,10 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](04-review-and-launch.md).
 
-## Example project score: 98.5/100
+## Example project score: 99/100
 
 This is an equal average of four milestone scores for comparing the teaching examples. It is not a course grade, letter-grade rule, or new Canvas weighting.
 
 **A more specific explanation to learn from:** Our success check is that a visitor can submit a complete request and explain that it is pending. We do not count the demo as successful if the visitor believes a time has been booked.
+
+**Brand strategy feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.

@@ -27,7 +27,7 @@ AI-assisted development: [Tool and specific verified use]
 SELECTED PROJECTS
 [Your T-shirt business] | Individual Course Project | [Dates]
 [Live URL] | [Repository URL]
-- Researched [number] competitors; used [finding] to decide [feature/design].
+- Researched [number] competitors; used [finding] to choose [audience/brand promise] and [feature/design], checked through [actual task].
 - Implemented [actual working customer journey] with [actual technologies].
 - Verified [specific behavior] using [actual check]; documented [limitations].
 

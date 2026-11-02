@@ -6,13 +6,15 @@ Use **one Markdown file per project** and update it at each step. Your team shar
 
 ## 1. Research
 
-- Compare three relevant sites: source/date, observation, implication. Identify direct competitors versus adjacent references.
+- Compare three relevant sites: source/date, observation, implication. Add short notes on look, brand character, and honest reasons to trust or act. Identify direct competitors versus adjacent references.
 - Consider two ways to position your offer: who it serves and why they would choose it.
 - Write two short persona hypotheses: situation, goal, uncertainty, evidence, assumption. Choose a primary audience and explain why.
 
 ## 2. Plan
 
 - Compare two concise website approaches: same business goal, different way of serving it. Choose what to build and compare.
+- Keep a compact brand brief: audience/need, promise, one archetype and three voice words, a visual source and translated idea, and two honest persuasion elements with their limits. Reuse Brand Studio and link the existing logo/style guide. [See a short example](/process/find-your-angle).
+- For a visual comparison, keep the offer and wording steady. Reuse small previews as the starting points for your two working versions; no extra websites are required. If comparing another decision, say what changes.
 - Write three to five user stories with essential features and observable checks for success.
 - List what you will defer. For a group, divide comparable work and assign someone to review each task.
 
@@ -25,6 +27,7 @@ Use **one Markdown file per project** and update it at each step. Your team shar
 ## 4. Review and launch
 
 - **Reviewer, date, and version:** who tried which version, and when?
+- **Understanding:** what did they think was offered, who was it for, why trust it, and what was the next step?
 - **Task:** what did you ask them to do?
 - **Observation:** what actually happened?
 - **Change:** what meaningful change did you make from that feedback?

@@ -8,6 +8,8 @@ Fictional completed student work by Jordan Rivera. Peer conversations are teachi
 
 **Launch choice:** Version B. Product details are accessible immediately while the visual style still supports the brand.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/studio-white/style-guide.html).
+
 **Task used for comparison:** Find the product facts, choose L, review three shirts, and complete the demo checkout.
 
 | Version | Recorded observation in this fictional review |

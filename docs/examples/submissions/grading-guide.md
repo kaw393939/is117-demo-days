@@ -17,6 +17,12 @@ For each milestone, the instructor model uses the [published rubric](/course/mil
 
 The assessment next to each submission names evidence, explains the score, and gives a specific next revision. **A small project can earn full credit.** More features or more pages do not automatically earn more points.
 
+## Read the brand choices as evidence
+
+Look for a source observation connected to the chosen niche, a promise visible in actual copy/design, and two honestly explained persuasion elements. The examples link an original logo and a live style guide. Their A/B comparisons change both visual treatment and hierarchy, so they do not establish which caused a preference.
+
+The same four criteria apply: **Complete** covers the pieces, **Thoughtful** covers reasons, **Checked** covers source/claim and user-task evidence, and **Understood** covers the student's own explanation and limits. Brand-specific feedback accompanies each example. We do not award points for liking a particular style, and earlier Brand Studio grading remains unchanged.
+
 ## Why points are lost
 
 Every row below 25 names the gap and the points deducted. A complete submission can earn 25 for **Complete** while losing points for an unsupported choice or an incomplete check. A more ambitious project does not earn extra credit just for being larger.

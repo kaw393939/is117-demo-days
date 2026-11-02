@@ -14,6 +14,10 @@ Use AI to help plan and code. An AI feature inside the product is optional. Choo
 
 Use an [AI-simulated customer brief](/process/simulated-customer) if it helps your team ask discovery questions and compare two proposals. Two starter `AGENTS.md` files are available. Keep the decisions in your existing project document. A real peer still performs the final walkthrough.
 
+## Give the offer a clear identity
+
+Choose one customer situation and explain why your service fits it. Use the same short [brand strategy process](/process/find-your-angle): a promise, brand character/voice, two visual approaches, and two honest reasons to act. For example, helpful request instructions can show a caring voice. A calm-looking page cannot prove a service is safe or qualified. Keep the brief in your shared record.
+
 ## Share the work fairly
 
 Teams have two students, with one trio if a section has an odd number. **Every member contributes to design, development, and testing.** Agree on tasks with comparable effort and review each other's work.

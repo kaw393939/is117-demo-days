@@ -14,6 +14,7 @@ try{
  await start();
  for(const p of projects){
   for(const v of ['a','b']){const r=await fetch(base+p.slug+'/'+v+'.html');assert.equal(r.status,200);assert.match(await r.text(),new RegExp('data-version="'+v+'"'));assert.equal((await fetch(base+p.slug+'/preview-'+v+'.jpg')).status,200);}
+  for(const f of ['logo.svg','style-guide.html'])assert.equal((await fetch(base+p.slug+'/'+f)).status,200);
   const image=await fetch(base+p.slug+'/concept.jpg');assert.equal(image.status,200);
   const packet=await readFile('docs/examples/submissions/'+p.slug+'.md','utf8');for(const h of ['## 1. Research','## 2. Plan','## 3. Build','## 4. Get feedback'])assert.ok(packet.includes(h));
   if(p.kind==='service')assert.equal((await fetch(base+p.slug+'/customer/AGENTS.md')).status,200);

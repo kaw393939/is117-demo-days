@@ -7,13 +7,13 @@ This assesses the fictional submitted record, not a real student. Use the publis
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
 | Complete | 25/25 | Full credit: Three linked references, two positions, two persona cards, and an audience choice are present. |
-| Thoughtful | 20/25 | Deduction (−5): The reasoning moves from scheduling-tool features to a tutoring offer without explaining how those findings support the learner’s main need. |
+| Thoughtful | 20/25 | Deduction (−5): The table now includes a tutoring alternative, but the audience choice does not explain which observed difference supports the proposed beginner niche. |
 | Checked | 18/25 | Deduction (−7): The persona needs are not traced to particular observations in the source table. |
 | Understood | 21/25 | Deduction (−4): The reflection identifies a research limit but does not connect a specific finding to the chosen learner’s request task. |
 
 **What worked:** The submission names a plausible audience and keeps claims tied to a small project.
 
-**Next revision:** Explain which scheduling observation supports the learner’s task and which tutoring claims remain assumptions.
+**Next revision:** Use the tutoring and workflow observations to explain one specific beginner need; keep demand and preference labeled as assumptions.
 
 [Read the submitted work](01-research.md).
 
@@ -67,3 +67,5 @@ This assesses the fictional submitted record, not a real student. Use the publis
 This is an equal average of four milestone scores for comparing the teaching examples. It is not a course grade, letter-grade rule, or new Canvas weighting.
 
 **A more specific explanation to learn from:** Our next review will use two tasks: submit a CSS request and try submitting without a topic. Riley will review the receipt; Jordan will review whether the service explanation matches the available topics.
+
+**Brand strategy feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.

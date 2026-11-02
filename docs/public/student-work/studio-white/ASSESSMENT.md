@@ -67,3 +67,5 @@ This assesses the fictional submitted record, not a real student. Use the publis
 This is an equal average of four milestone scores for comparing the teaching examples. It is not a course grade, letter-grade rule, or new Canvas weighting.
 
 **A more specific explanation to learn from:** For the next review, I will ask the same shopper to find fit, material, and price on both versions before choosing L. I will choose the version that makes that task clearer and record what happened, rather than relying only on a preference.
+
+**Brand strategy feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.

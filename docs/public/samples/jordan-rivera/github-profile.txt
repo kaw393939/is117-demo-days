@@ -17,6 +17,11 @@ AI-assisted development, and peer review.
 I compare alternatives, keep the scope small, review AI-generated output, and
 record what I checked. My project pages explain feedback changes and limitations.
 
+## Brand and design decisions
+I connect an audience need to a promise, voice, visual alternatives, and a check.
+The live brand notes show the original logo, visual sources, and honest persuasion limits:
+https://kaw393939.github.io/is117-demo-days/samples/jordan-rivera/style-guide.html
+
 ## Source
 The real class-demo code is available at:
 https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples

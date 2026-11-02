@@ -38,6 +38,15 @@ All dates are in **2026**, and all times are **Eastern**. Open your section belo
 
 </details>
 
+## What to work on in each cycle
+
+- **Research:** revisit three sites through design, brand character, and trust; compare two audience/need hypotheses. Bring them to the first feedback class.
+- **Plan:** choose the promise, voice, visual approaches, and two honest persuasion elements; connect them to stories and checks in the same document. Reuse Brand Studio.
+- **Build:** make those decisions visible in the two working versions. Shared content and code are fine.
+- **Improve:** have a peer explain the offer and attempt the task; make a meaningful change and retest.
+
+These are focuses within the existing milestones, not extra submissions. [See the short strategy example](/process/find-your-angle).
+
 ## Our weekly rhythm
 
 <LearningDiagram kind="week" />

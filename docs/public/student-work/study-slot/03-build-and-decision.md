@@ -8,6 +8,8 @@ Fictional completed student work by Jordan Rivera and Riley Park. Peer conversat
 
 **Launch choice:** Version A. Topic context helps a student decide whether this service fits their question before choosing a time.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/study-slot/style-guide.html).
+
 **Task used for comparison:** Request help with CSS for a preferred window and explain the next step.
 
 | Version | Recorded observation in this fictional review |

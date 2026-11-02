@@ -15,9 +15,9 @@ Build a website that introduces you and shows what you can do. Your reader might
 
 ## Give the site your own style
 
-Explain the impression you want to make, then choose a tone, layout, type, colors, and images that support it. An **archetype** is a useful brand pattern: a Creator might highlight original work; a Sage might highlight clear explanations. Use one if it helps your decisions.
+Explain the impression you want to make, then choose a tone, layout, type, colors, and images that support it. An **archetype** is a useful brand pattern: a Creator might highlight original work; a Sage might highlight clear explanations. Choose one and show it through your words, visual choices, and work. Keep a short brand brief in the existing record; reuse your logo/style guide. [Compare possible directions](/process/find-your-angle).
 
-**Persuasion** means giving the reader good reasons to trust your work and take the next step. Specific projects and clear explanations are more useful than calling yourself an expert.
+**Persuasion** means giving the reader good reasons to trust your work and take the next step. Specific projects and clear explanations are more useful than calling yourself an expert. Two honest applications could be relevant work demonstrating competence (authority) and useful process notes offered before asking for contact (reciprocity). These are proposed mechanisms, not proof of hiring outcomes.
 
 ## Keep each project story short
 

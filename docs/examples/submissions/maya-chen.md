@@ -29,10 +29,29 @@ I compared three portfolio references, not people with the same student experien
 | R2 | [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching. | Use a short explanation to show reasoning. |
 | R3 | [Lee Robinson](https://leerob.com/) | A concise introduction and writing links. | Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
 
+#### What the brand presentation suggests
+
+<details>
+<summary>My look, character, and trust notes for the three sources</summary>
+
+- **Brittany Chiang:** **Look:** A dark two-column layout organizes role, work, and project evidence. **Character:** Creator/Sage is a reading of the presentation, not a personality assessment. **Trust/action:** Relevant work and explained contributions can support authority; students must use their own evidence.
+- **Josh W. Comeau:** **Look:** Playful illustration above structured tutorials and explanations. **Character:** Sage with Creator/Jester elements is plausible. Playfulness alone is not historical Postmodernism. **Trust/action:** Useful teaching may support reciprocity and demonstrate expertise; students need not build a full blog.
+- **Lee Robinson:** **Look:** Concise introduction, reading typography, illustration, and writing links. **Character:** Sage is a plausible reading of the explanation-led presentation. **Trust/action:** Helpful writing and linked work give value/competence cues. Do not imitate an experienced professional’s credentials.
+
+These are interpretations of the linked pages, not official archetypes or independently verified claims. A functional grid alone does not establish historical Modernism.
+
+</details>
+
+**My proposed niche:** An internship recruiter looking for concrete early-career project evidence. **Promise:** Make my actual student work and contribution easy to inspect.
+
+**Source → decision:** Brittany Chiang puts role and work evidence together; Josh Comeau demonstrates thinking through explanation. I chose a Creator voice that points to decisions and artifacts rather than claiming expertise.
+
+**Still uncertain:** Course work is evidence of practice, not professional employment, a hiring result, or proof of advanced expertise.
+
 #### Two positions I considered
 
-- **Position A:** Project-led student portfolio.
-- **Position B:** Personal-story-led creative portfolio.
+- **Position A:** Project evidence for internship recruiters.
+- **Position B:** Customer-facing work for local small-business collaborators.
 
 #### Two persona cards
 
@@ -53,7 +72,7 @@ I chose an internship recruiter as my primary reader because the first task is t
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 98/100</summary>
+<summary>See the rubric score and feedback: 100/100</summary>
 
 <SampleAssessment slug="maya-chen" stage="research" />
 
@@ -68,16 +87,33 @@ I chose an internship recruiter as my primary reader because the first task is t
 
 **Goal:** Find two projects and understand the student’s actual contribution.
 
+#### My compact brand brief
+
+- **Promise:** Make my actual student work and contribution easy to inspect.
+- **Character and voice:** Creator; curious, concrete, honest.
+- **Actual hero copy, held steady in A/B:** “Useful websites. Thoughtful decisions.” / “I’m an NJIT student practicing web development with AI. Explore two course projects, the choices behind them, and the parts I designed, built, and checked.”
+- **Original logo and live style guide:** [Brand notes](/samples/maya-chen/style-guide.html), with type, colors, logo, and both visual directions. These are original class-example assets, not museum reproductions.
+- **Visual A:** Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster. [Source: Josef Müller-Brockmann, Musica Viva, 1957 — MoMA](https://www.moma.org/collection/works/4885).
+- **Visual B:** Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture. [Source: Ettore Sottsass, Carlton room divider, 1981 — The Met](https://www.metmuseum.org/art/collection/search/486989).
+- **Comparison limit:** Both visual treatment and content order change in these examples. The offer, hero wording, and main action stay the same, but I cannot isolate which change caused a preference. A stricter visual-only experiment would hold content order steady too.
+
+| Principle | Actual page element | Proposed mechanism | Evidence or limit |
+| --- | --- | --- | --- |
+| Authority | Linked course projects and individual contribution notes | Relevant inspectable work can demonstrate competence without claiming senior credentials. | This is student practice, not professional employment or a hiring outcome. |
+| Reciprocity | The short process note below the case studies | Give a visitor a useful way to approach a problem before asking them to explore or contact me. | Providing value does not prove a recruiter will respond. |
+
+**How the promise becomes a feature:** Make my actual student work and contribution easy to inspect. → S1 / F1 below → Both projects are labeled course projects and their demo links open the correct examples. The peer should also explain the offer, intended reader, reason to trust it, and next action before I coach them. No conversion or hiring result is claimed.
+
 #### Specification A
 
-- **Approach:** Projects first: two case-study cards lead into résumé and profiles.
+- **Approach:** Projects first: two case-study cards lead into résumé and profiles. Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.
 - **Sections:** Project cards; case-study details; introduction; résumé and profile content.
 - **Main action:** Introduction → two course-project case studies → individual contribution → résumé and profile content.
 - **Brand:** Creator; curious, concrete, honest.
 
 #### Specification B
 
-- **Approach:** About first: learning goals and personal brand lead into the same project evidence.
+- **Approach:** About first: learning goals and personal brand lead into the same project evidence. Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.
 - **Sections:** Introduction; résumé/profile content; project cards and case-study details.
 - **Main action:** Introduction → two course-project case studies → individual contribution → résumé and profile content.
 - **Comparison:** Same core content and data, different information order and presentation.
@@ -122,6 +158,8 @@ Both plans contain the same two course projects and professional information. A 
 
 **Launch choice:** Version A. A recruiter can reach the work and the individual contribution in fewer steps.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/maya-chen/style-guide.html).
+
 **Task used for comparison:** Find the T-shirt project, identify the student’s group contribution, and locate the résumé.
 
 | Version | Recorded observation in this fictional review |
@@ -165,6 +203,12 @@ The portfolio is a static site. Each case study links to a working product and e
 
 **What this tells me:** The review checks whether a classmate can find the evidence. It is not a recruiter interview or hiring result.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the offer as “Make my actual student work and contribution easy to inspect.” and pointed to the preparation/process note as useful guidance. They understood the next action was a classroom demo or project review, not a real purchase, booking, or employment claim. This models a comprehension check; it does not establish a persuasion effect.
+
+**Brand feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
@@ -182,7 +226,7 @@ I used the AI coding assistant to suggest two page orders and shorten draft copy
 
 #### My short portfolio case study
 
-“I built Maya Chen for a recruiter scanning for an early-career web-development intern. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. A recruiter can reach the work and the individual contribution in fewer steps. Feedback identified this problem: drew could explain the team product but could not identify which part I had built. I made this change: add an “My contribution” paragraph to the group case study and a direct résumé navigation link. After I added My contribution and a direct résumé navigation link, Drew identified my service explanation and responsive-layout work and opened the résumé without a hint. Maya is a fictional student. The profile examples, résumé, and contribution statements model a submission; they are not a real person’s credentials.”
+“I built Maya Chen for a recruiter scanning for an early-career web-development intern. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. A recruiter can reach the work and the individual contribution in fewer steps. Feedback identified this problem: drew could explain the team product but could not identify which part I had built. I made this change: add a “My contribution” paragraph to the group case study and a direct résumé navigation link. After I added My contribution and a direct résumé navigation link, Drew identified my service explanation and responsive-layout work and opened the résumé without a hint. Maya is a fictional student. The profile examples, résumé, and contribution statements model a submission; they are not a real person’s credentials.”
 
 #### Final handoff
 
@@ -205,6 +249,8 @@ The written record models the student's explanation. It does not establish that 
 ## Instructor’s suggested revision
 
 I built the service explanation and responsive layouts. My partner implemented intake and receipts. I reviewed the form and helped change the wording so a request would not look like a confirmed appointment.
+
+**Brand strategy feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
 
 ## Completed professional-profile content
 

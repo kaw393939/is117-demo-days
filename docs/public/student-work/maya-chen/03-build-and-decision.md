@@ -8,6 +8,8 @@ Fictional completed student work by Maya Chen. Peer conversations are teaching s
 
 **Launch choice:** Version A. A recruiter can reach the work and the individual contribution in fewer steps.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/maya-chen/style-guide.html).
+
 **Task used for comparison:** Find the T-shirt project, identify the student’s group contribution, and locate the résumé.
 
 | Version | Recorded observation in this fictional review |

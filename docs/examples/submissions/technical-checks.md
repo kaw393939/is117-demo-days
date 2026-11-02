@@ -10,6 +10,7 @@ Command: `npm run check:examples` using Node 24.
 | --- | --- |
 | Twelve A/B pages and twelve preview images exist and are served | Pass |
 | Six project packets and six professional-profile files exist | Pass |
+| Six original SVG logos and six live style-guide pages are served | Pass |
 | Four store/service workflows accept valid synthetic inputs | Pass |
 | Shirt quantities outside 1–5, unsupported sizes, and invalid emails are rejected | Pass |
 | The server calculates shirt totals from its product data, ignoring a false submitted total | Pass |
@@ -31,6 +32,18 @@ The test source is [scripts/check-examples.mjs](https://github.com/kaw393939/is1
 | Portfolio case studies and résumé/profile links | Rendered and available |
 
 The real interface previews in each submission come from those runnable products. The generated concept photos are labeled as illustrations of fictional businesses.
+
+## Brand-update checks
+
+The November 2 brand update was checked on the loaded pages, after the JavaScript-rendered heading appeared:
+
+- All twelve versions at 390 × 844: no page-wide horizontal overflow; headline, supporting copy, and main action match within each A/B pair; all six logos load.
+- Campus Cotton: missing size blocks review; M and quantity 2 show $50; keyboard Tab reaches the checkout button with a visible outline; Enter completes a clearly simulated order.
+- Room Ready: a Desk request produces pending operator confirmation, with no appointment or email claimed.
+- Study Slot: a CSS request produces pending tutor confirmation, with no booking claimed.
+- All six submitted brand briefs are checked against the working project data, historical source links, original logos/style guides, and two persuasion applications. Assessment totals and evidence/deductions are checked separately.
+
+These are implementation checks, not evidence of fictional students' personal checks, authentic customer interviews, persuasion effects, or a full accessibility audit.
 
 ## Limits
 

@@ -8,6 +8,8 @@ Fictional completed student work by Maya Chen and Avery Ellis. Peer conversation
 
 **Launch choice:** Version A. The scope and confirmation language are clearer before the visitor starts the form.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/room-ready/style-guide.html).
+
 **Task used for comparison:** Request assembly for a desk, select a preferred window, and explain whether you have a confirmed appointment.
 
 | Version | Recorded observation in this fictional review |

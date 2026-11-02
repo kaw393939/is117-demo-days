@@ -29,31 +29,50 @@ I compared selected white T-shirt pages from brands with larger catalogs.
 | R2 | [True Classic](https://www.trueclassictees.com/products/white-crew-neck-tee) | Product options and membership pricing paths. | Explain the single-item offer without extra pricing paths. |
 | R3 | [Buck Mason](https://www.buckmason.com/products/white-slub-curved-hem-tee) | Specific fabric and production details. | Use specific product facts rather than vague premium claims. |
 
+#### What the brand presentation suggests
+
+<details>
+<summary>My look, character, and trust notes for the three sources</summary>
+
+- **Fresh Clean Tees:** **Look:** Photo-led product grid and fit/length choices. **Character:** Everyperson is a plausible reading of its everyday, approachable voice. **Trust/action:** Displayed reviews suggest social proof; relatable models may support liking. We did not independently verify these claims.
+- **True Classic:** **Look:** Bold identity, product comparisons, and several option/pricing paths. **Character:** Everyperson with aspirational Hero elements is a possible reading. **Trust/action:** Displayed ratings and customer counts are social-proof claims. A sale alone is not verified scarcity.
+- **Buck Mason:** **Look:** Restrained editorial presentation with production context near the title. **Character:** Creator/craftsmanship is a plausible reading. **Trust/action:** Specific production details may signal competence; a premium appearance by itself is not authority.
+
+These are interpretations of the linked pages, not official archetypes or independently verified claims. A functional grid alone does not establish historical Modernism.
+
+</details>
+
+**My proposed niche:** A commuter buying one everyday tee without navigating bundle or membership offers. **Promise:** A straightforward single-tee purchase with fit and total visible.
+
+**Source → decision:** R1 shows fit/length information; R2 offers several purchasing paths. I chose a direct voice and a nearby measurement guide to support one uncomplicated purchase. This need is still a hypothesis.
+
+**Still uncertain:** The clarity idea is supported by page observations, not evidence that a student market prefers our offer.
+
 #### Two positions I considered
 
 - **Position A:** Affordable everyday essentials.
-- **Position B:** Campus club bulk supplier.
+- **Position B:** An unprinted white tee as a creative wardrobe starting point.
 
 #### Two persona cards
 
 | | Persona A | Persona B |
 | --- | --- | --- |
-| Situation | A student buying an everyday white tee online | A club organizer comparing shirts for an event |
-| Goal | Choose a size and understand the total without hunting for information. | Bulk ordering and custom printing. |
+| Situation | A student buying an everyday white tee online | A student using one plain tee as the starting point for creative outfits |
+| Goal | Choose a size and understand the total without hunting for information. | Styling ideas and clear product facts without adding a printed design. |
 | Concern | Will it fit, and what will I actually pay? | Will the site focus on my task and make the next step clear? |
-| Information needed | Fit, price, product facts, and order summary. | Bulk ordering and custom printing. |
+| Information needed | Fit, price, product facts, and order summary. | Styling ideas and clear product facts without adding a printed design. |
 | Evidence / assumption | Reference pages show useful ways to present information. This user need remains my hypothesis. | A plausible second audience. I have not validated this profile through customer research. |
 
 #### My audience choice
 
-I chose the individual student shopper because fit and total price are decisions I can help with in one small shopping flow. A club organizer would need quantity pricing and printing options. That would be a different business, so I left it out.
+I chose the single-purchase student shopper because fit and total are decisions I can address in one small flow. The alternative is a creative styling angle for the same unprinted tee, not a custom-printing business. My source observations suggest the clarity idea; they do not prove demand.
 
 **What the research does not prove:** Website observations do not establish demand, customer preferences, sales, or the quality of a competing product.
 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 98/100</summary>
+<summary>See the rubric score and feedback: 100/100</summary>
 
 <SampleAssessment slug="campus-cotton" stage="research" />
 
@@ -68,16 +87,33 @@ I chose the individual student shopper because fit and total price are decisions
 
 **Goal:** Choose a size and understand the total without hunting for information.
 
+#### My compact brand brief
+
+- **Promise:** A straightforward single-tee purchase with fit and total visible.
+- **Character and voice:** Everyperson; plain, practical, welcoming.
+- **Actual hero copy, held steady in A/B:** “A straightforward everyday tee.” / “One everyday white tee. Check the measurements, choose your size, and see the whole demo total before you decide.”
+- **Original logo and live style guide:** [Brand notes](/samples/campus-cotton/style-guide.html), with type, colors, logo, and both visual directions. These are original class-example assets, not museum reproductions.
+- **Visual A:** Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster. [Source: Josef Müller-Brockmann, Musica Viva, 1957 — MoMA](https://www.moma.org/collection/works/4885).
+- **Visual B:** Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture. [Source: Ettore Sottsass, Carlton room divider, 1981 — The Met](https://www.metmuseum.org/art/collection/search/486989).
+- **Comparison limit:** Both visual treatment and content order change in these examples. The offer, hero wording, and main action stay the same, but I cannot isolate which change caused a preference. A stricter visual-only experiment would hold content order steady too.
+
+| Principle | Actual page element | Proposed mechanism | Evidence or limit |
+| --- | --- | --- | --- |
+| Reciprocity | Before you choose a size — a free preparation guide | Offer useful guidance before asking the visitor to choose or request. | The page offers value; no change in purchase or request rates was measured. |
+| Liking | Welcoming language that addresses the visitor’s situation | A sincere relatable voice may make the offer feel approachable. | We have not measured this effect; no invented customers or testimonials are used. |
+
+**How the promise becomes a feature:** A straightforward single-tee purchase with fit and total visible. → S1 / F1 below → Open the guide, return to the selector, and keep the selected size. The peer should also explain the offer, intended reader, reason to trust it, and next action before I coach them. No conversion or hiring result is claimed.
+
 #### Specification A
 
-- **Approach:** Shop first: price, measurements, and size selection appear together.
+- **Approach:** Shop first: price, measurements, and size selection appear together. Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.
 - **Sections:** Headline; measurements and purchase controls first; product image/facts alongside; order summary and confirmation.
 - **Main action:** Product facts → measurements → size/quantity → order review → simulated checkout → receipt.
 - **Brand:** Everyperson; plain, practical, welcoming.
 
 #### Specification B
 
-- **Approach:** Story first: a campus-day narrative leads into the same product and checkout.
+- **Approach:** Product context first: imagery and product facts lead into the same measurements and checkout. Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.
 - **Sections:** Headline and product context/image first; measurements and purchase controls next; order summary and confirmation.
 - **Main action:** Product facts → measurements → size/quantity → order review → simulated checkout → receipt.
 - **Comparison:** Same core content and data, different information order and presentation.
@@ -100,7 +136,7 @@ I chose the individual student shopper because fit and total price are decisions
 
 #### Why I planned it this way
 
-Both plans keep the same shirt, price, measurements, and checkout. A puts shopping information first; B gives more space to the story. Keeping the offer fixed lets me compare the information order instead of changing everything at once.
+Both plans keep the same shirt, price, measurements, hero wording, and checkout. A pairs a structured visual treatment with shopping information first; B pairs expressive framing with product imagery first. I compare the whole presentations, not an isolated cause of preference.
 
 </details>
 
@@ -122,12 +158,14 @@ Both plans keep the same shirt, price, measurements, and checkout. A puts shoppi
 
 **Launch choice:** Version A. The selected shopper can get to fit and price information immediately.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/campus-cotton/style-guide.html).
+
 **Task used for comparison:** Find the measurement guide, choose M, add two shirts, and complete a simulated checkout.
 
 | Version | Recorded observation in this fictional review |
 | --- | --- |
 | A | The reviewer located price and the measurement disclosure together before selecting M. |
-| B | The reviewer noticed the campus story first, then moved down to the product information to choose a size. |
+| B | The reviewer noticed the product imagery first, then moved to the measurement and selection controls. |
 
 **What I kept:** The shared core task works in both presentations. My decision follows the stated visitor task; I did not treat a preference as proof of higher sales or hiring success.
 
@@ -164,6 +202,12 @@ The browser requires a size and calculates a preview total. In local-server mode
 | Find the measurement guide, choose M, add two shirts, and complete a simulated checkout. | The reviewer asked where the measurements were before choosing M. | Place the measurement disclosure immediately above the size selector in both versions. | After the disclosure moved beside the size selector, Taylor opened it without a hint, chose M, reviewed two shirts at $50, and reached the simulated confirmation. |
 
 **What this tells me:** One classmate is useful feedback, not evidence that the layout will increase sales.
+
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the offer as “A straightforward single-tee purchase with fit and total visible.” and pointed to the preparation/process note as useful guidance. They understood the next action was a classroom demo or project review, not a real purchase, booking, or employment claim. This models a comprehension check; it does not establish a persuasion effect.
+
+**Brand feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
 
 #### Completed QA record
 
@@ -205,5 +249,7 @@ The written record models the student's explanation. It does not establish that 
 ## Instructor’s suggested revision
 
 I observed fit guides on the reference sites. That suggests sizing information may matter; my persona remains a hypothesis. My peer task checks whether this design makes that information easy to find.
+
+**Brand strategy feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
 
 [Back to all six examples](/examples/submissions/) · [Assignment rubric](/course/milestones#how-each-step-is-graded).

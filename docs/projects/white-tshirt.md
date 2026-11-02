@@ -34,7 +34,7 @@ Browser storage alone does not meet the SQLite requirement. If your public host 
 3. **Build:** make two working versions. They can share code; change something meaningful about how they serve or communicate with the customer.
 4. **Improve:** ask a peer to try the selected version. Make at least one meaningful change from their feedback, retest it, and publish your choice.
 
-Reuse and improve your Brand Studio work. Keep that earlier milestone's original scope separate from this final store.
+Reuse and improve your Brand Studio work: audience promise, archetype/voice, original logo and style guide, two visual routes, and two honest persuasion applications. Show how those decisions appear in the store. [Find your angle](/process/find-your-angle). Keep that earlier milestone's original scope separate from this final store.
 
 ## What you submit
 

@@ -12,6 +12,12 @@ Fictional completed student work by Maya Chen and Avery Ellis. Peer conversation
 
 **What this tells me:** This checks a classroom request flow. No real operator, scheduling integration, or business outcome was tested.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the offer as “A helpful first step for renters unfamiliar with assembly requests.” and pointed to the preparation/process note as useful guidance. They understood the next action was a classroom demo or project review, not a real purchase, booking, or employment claim. This models a comprehension check; it does not establish a persuasion effect.
+
+**Brand feedback:** The brief gives a plausible source-to-choice link. Test whether the intended reader understands the promise; do not turn one peer response into a claim about the whole market.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
@@ -29,7 +35,7 @@ We used the AI coding assistant for layout and validation drafts. Maya revised t
 
 #### My short portfolio case study
 
-“I built Room Ready for a newark-area renter who needs help assembling a desk. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. The scope and confirmation language are clearer before the visitor starts the form. Feedback identified this problem: the original booking-style wording led Morgan to assume that submitting the form guaranteed an appointment. I made this change: use “Send demo request” and explain that an operator would confirm scope, price, and availability later. After we changed the action to Send demo request and clarified the pending receipt, Morgan submitted a desk request and correctly explained that an operator would confirm scope and availability later. No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.”
+“I built Room Ready for a first-apartment newark-area renter who needs help assembling a desk. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. The scope and confirmation language are clearer before the visitor starts the form. Feedback identified this problem: the original booking-style wording led Morgan to assume that submitting the form guaranteed an appointment. I made this change: use “Send demo request” and explain that an operator would confirm scope, price, and availability later. After we changed the action to Send demo request and clarified the pending receipt, Morgan submitted a desk request and correctly explained that an operator would confirm scope and availability later. No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.”
 
 #### Individual contribution statements
 

@@ -8,12 +8,14 @@ Fictional completed student work by Maya Chen. Peer conversations are teaching s
 
 **Launch choice:** Version A. The selected shopper can get to fit and price information immediately.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/campus-cotton/style-guide.html).
+
 **Task used for comparison:** Find the measurement guide, choose M, add two shirts, and complete a simulated checkout.
 
 | Version | Recorded observation in this fictional review |
 | --- | --- |
 | A | The reviewer located price and the measurement disclosure together before selecting M. |
-| B | The reviewer noticed the campus story first, then moved down to the product information to choose a size. |
+| B | The reviewer noticed the product imagery first, then moved to the measurement and selection controls. |
 
 **What I kept:** The shared core task works in both presentations. My decision follows the stated visitor task; I did not treat a preference as proof of higher sales or hiring success.
 

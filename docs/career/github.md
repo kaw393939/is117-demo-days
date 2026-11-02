@@ -8,7 +8,7 @@ Your portfolio shows the result. GitHub shows the code and how you worked. Make 
 - Make your portfolio, T-shirt store, and group repository easy to find. Pin them where available.
 - Give each repository a useful name and short description.
 - Add a README: the page that explains the project when someone opens the repository.
-- Show your actual contribution and how you checked the work.
+- Show your actual contribution and how you checked the work. In the process record, connect one customer need to a brand/design decision and a working feature; link the existing style guide.
 
 ## What each project README needs
 

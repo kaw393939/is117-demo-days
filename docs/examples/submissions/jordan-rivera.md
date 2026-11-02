@@ -29,10 +29,29 @@ I compared three portfolio references, not people with the same student experien
 | R2 | [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching. | Use a short explanation to show reasoning. |
 | R3 | [Lee Robinson](https://leerob.com/) | A concise introduction and writing links. | Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
 
+#### What the brand presentation suggests
+
+<details>
+<summary>My look, character, and trust notes for the three sources</summary>
+
+- **Brittany Chiang:** **Look:** A dark two-column layout organizes role, work, and project evidence. **Character:** Creator/Sage is a reading of the presentation, not a personality assessment. **Trust/action:** Relevant work and explained contributions can support authority; students must use their own evidence.
+- **Josh W. Comeau:** **Look:** Playful illustration above structured tutorials and explanations. **Character:** Sage with Creator/Jester elements is plausible. Playfulness alone is not historical Postmodernism. **Trust/action:** Useful teaching may support reciprocity and demonstrate expertise; students need not build a full blog.
+- **Lee Robinson:** **Look:** Concise introduction, reading typography, illustration, and writing links. **Character:** Sage is a plausible reading of the explanation-led presentation. **Trust/action:** Helpful writing and linked work give value/competence cues. Do not imitate an experienced professional’s credentials.
+
+These are interpretations of the linked pages, not official archetypes or independently verified claims. A functional grid alone does not establish historical Modernism.
+
+</details>
+
+**My proposed niche:** A technical team lead assessing a student’s reasoning and collaboration. **Promise:** Explain the decisions and checks behind a small working project.
+
+**Source → decision:** Lee Robinson keeps introductions brief and links writing; Josh Comeau explains technical ideas. I chose a Sage voice, but I still describe both managers and recruiters without prioritizing a reader task.
+
+**Still uncertain:** Listing a check is weaker than explaining its input, expected result, and actual outcome.
+
 #### Two positions I considered
 
-- **Position A:** Evidence-led builder portfolio.
-- **Position B:** Skills-list-led portfolio.
+- **Position A:** Decision evidence for a technical team lead.
+- **Position B:** A concise overview for an internship recruiter.
 
 #### Two persona cards
 
@@ -68,16 +87,33 @@ I chose a team lead because I think managers want to see reasoning. I also want 
 
 **Goal:** Understand one business decision and the student’s own implementation and QA work.
 
+#### My compact brand brief
+
+- **Promise:** Explain the decisions and checks behind a small working project.
+- **Character and voice:** Sage; clear, careful, approachable.
+- **Actual hero copy, held steady in A/B:** “Clear workflows. Checked results.” / “I’m an NJIT student learning to make useful web workflows. My course projects show the problem, my contribution, and what I checked after using AI.”
+- **Original logo and live style guide:** [Brand notes](/samples/jordan-rivera/style-guide.html), with type, colors, logo, and both visual directions. These are original class-example assets, not museum reproductions.
+- **Visual A:** Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster. [Source: Josef Müller-Brockmann, Musica Viva, 1957 — MoMA](https://www.moma.org/collection/works/4885).
+- **Visual B:** Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture. [Source: Ettore Sottsass, Carlton room divider, 1981 — The Met](https://www.metmuseum.org/art/collection/search/486989).
+- **Comparison limit:** Both visual treatment and content order change in these examples. The offer, hero wording, and main action stay the same, but I cannot isolate which change caused a preference. A stricter visual-only experiment would hold content order steady too.
+
+| Principle | Actual page element | Proposed mechanism | Evidence or limit |
+| --- | --- | --- | --- |
+| Authority | Linked course projects and individual contribution notes | Relevant inspectable work can demonstrate competence without claiming senior credentials. | This is student practice, not professional employment or a hiring outcome. |
+| Reciprocity | The short process note below the case studies | Give a visitor a useful way to approach a problem before asking them to explore or contact me. | Providing value does not prove a recruiter will respond. |
+
+**How the promise becomes a feature:** Explain the decisions and checks behind a small working project. → S1 / F1 below → A visitor can identify one decision and its reason in each project. The peer should also explain the offer, intended reader, reason to trust it, and next action before I coach them. No conversion or hiring result is claimed.
+
 #### Specification A
 
-- **Approach:** Evidence first: a short decision and its validation introduce the projects.
+- **Approach:** Evidence first: a short decision and its validation introduce the projects. Swiss modernist-inspired: aligned sans-serif hierarchy, a firm rule, and repeated geometric modules; translate structure rather than reproduce the historical poster.
 - **Sections:** Project cards; case-study details; introduction; résumé and profile content.
 - **Main action:** Introduction → two course-project case studies → individual contribution → résumé and profile content.
 - **Brand:** Sage; clear, careful, approachable.
 
 #### Specification B
 
-- **Approach:** Introduction first: role direction and skills precede project evidence.
+- **Approach:** Introduction first: role direction and skills precede project evidence. Memphis postmodernist-inspired: juxtaposed type, an offset frame, and contrasting geometric shapes; translate unexpected relationships rather than reproduce the furniture.
 - **Sections:** Introduction; résumé/profile content; project cards and case-study details.
 - **Main action:** Introduction → two course-project case studies → individual contribution → résumé and profile content.
 - **Comparison:** Same core content and data, different information order and presentation.
@@ -122,6 +158,8 @@ I planned an evidence-first and an introduction-first version. Both show my proj
 
 **Launch choice:** Version A. The selected audience can inspect a concrete decision instead of relying on a list of tools.
 
+**What stays steady:** the product/service, hero headline and supporting copy, main action, and shared data. Visual treatment and hierarchy both change, so this is a combined design comparison, not an isolated causal experiment. [Inspect the brand notes](/samples/jordan-rivera/style-guide.html).
+
 **Task used for comparison:** Find a research-driven decision, explain Jordan’s group contribution, and locate the professional profiles.
 
 | Version | Recorded observation in this fictional review |
@@ -165,6 +203,12 @@ I explain that AI helped draft code and that I checked required fields. My first
 
 **What this tells me:** The revised paragraph is easier to locate, but the retest gives only limited evidence that the explanation is understandable.
 
+#### Brand understanding — fictional teaching scenario
+
+The reviewer described the page as polished and found the preparation/process note. I did not ask them to explain the intended audience or why the promise mattered. That leaves a comprehension gap even though the interface works.
+
+**Brand feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.
+
 #### Completed QA record
 
 The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
@@ -205,6 +249,8 @@ The written record models the student's explanation. It does not establish that 
 ## Instructor’s suggested revision
 
 I asked the coding assistant to draft required-field validation. I then tried submitting without a topic: the request should not be saved. With CSS and a preferred window selected, it should save a pending request and show a reference. This checks that incomplete requests are blocked without blocking valid ones.
+
+**Brand strategy feedback:** The brand elements are present, but a label and polished visuals do not repair the weak audience reasoning. Explain which observation supports the niche and ask the peer to explain the promise before judging appearance.
 
 ## Completed professional-profile content
 
