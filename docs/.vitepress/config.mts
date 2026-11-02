@@ -71,6 +71,7 @@ export default defineConfig({
       '/examples/submissions/': [
         { text: 'Example library', items: [
           { text: 'Choose an example', link: '/examples/submissions/' },
+          { text: 'How the sample grades work', link: '/examples/submissions/grading-guide' },
           { text: 'What you submit', link: '/course/milestones' },
           { text: 'Copy the short template', link: '/templates/four-milestones' }
         ]},

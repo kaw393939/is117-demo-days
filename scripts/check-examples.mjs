@@ -27,5 +27,5 @@ try{
  await stop();await start();
  const after=await fetch(base+'api/records?project=campus-cotton').then(r=>r.json());assert.deepEqual(after,before);
  assert.equal((await fetch(base+'server.mjs')).status,404);
- console.log('Verified 12 pages, 12 UI previews, 6 concept images, 6 milestone packets, 6 profile drafts, all 4 demo workflows, validation, server-calculated totals, and SQLite persistence across restart.');
+ console.log('Verified 12 pages, 12 UI previews, 6 concept images, 6 milestone packets, 6 completed professional-profile examples, all 4 demo workflows, validation, server-calculated totals, and SQLite persistence across restart.');
 }finally{await stop();await rm(temp,{recursive:true,force:true});}

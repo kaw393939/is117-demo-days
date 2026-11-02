@@ -1,23 +1,32 @@
-LINKEDIN DRAFT — Maya Chen — FICTIONAL EXAMPLE
+MAYA CHEN — FICTIONAL COMPLETED LINKEDIN CONTENT
+This is a teaching example, not an actual LinkedIn account.
 
 HEADLINE
-NJIT student | Learning web development and AI-assisted project delivery | Interested in [actual internship direction]
+NJIT Enterprise AI Student | Web Development and AI-Assisted Course Projects | Interested in Software Internships
 
 ABOUT
-I am studying [actual degree] at NJIT and building experience through course projects.
-In IS117 I am practicing competitive research, user stories, specifications, AI-assisted coding, and peer review.
-My projects include a simulated T-shirt store and a team service-request site.
-In the team project, my work focused on service explanation and responsive layouts.
-I am interested in learning more about customer-facing software and collaborating on useful business tools.
+I am an NJIT student interested in turning business needs into useful websites.
+In IS117 I practiced competitive research, user stories, website specifications,
+AI-assisted coding, and peer review. My projects include Campus Cotton, an individual
+simulated storefront, and Room Ready, a team service-request website.
+In the group project, I implemented service explanation and responsive page layouts and reviewed a partner's work.
+I am continuing to build my programming, data, and testing skills. My portfolio
+shows project choices, feedback changes, and the limits of the simulations.
 
-PROJECT 1: Plain White T-Shirt Company — IS117 course project
-Compared alternatives, built a simulated shopping workflow, and revised the site after peer feedback.
-[Actual live site and repository]
+EDUCATION — fictional scenario
+New Jersey Institute of Technology | BS in Enterprise AI | Expected May 2030
 
-PROJECT 2: Service-request website — IS117 team course project
-Contributed service explanation and responsive layouts and cross-reviewed a teammate's work.
-[Actual live site and repository]
+PROJECT: Campus Cotton — IS117 course project, Fall 2026
+Compared three websites, considered two audiences, and built two presentation
+alternatives for a simulated shopping workflow. Recorded a feedback-driven revision.
+https://kaw393939.github.io/is117-demo-days/examples/submissions/campus-cotton.html
 
-EDUCATION AND LINKS
-Use your actual degree, dates, portfolio, GitHub, and institution details.
-Only claim completed work and checks you can explain. This draft does not imply employment, customer results, or FDE readiness.
+PROJECT: Room Ready — IS117 team course project, Fall 2026
+Personally contributed service explanation and responsive page layouts; helped compare alternatives and review the integrated flow.
+https://kaw393939.github.io/is117-demo-days/examples/submissions/room-ready.html
+
+PORTFOLIO
+https://kaw393939.github.io/is117-demo-days/samples/maya-chen/a.html
+
+No employment or real business result is implied. Real students must publish
+accurate identity/education details and link their own actual accounts.

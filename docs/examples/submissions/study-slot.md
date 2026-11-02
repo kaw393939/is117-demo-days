@@ -1,135 +1,206 @@
-# Study Slot
+# Study Slot: submitted work and feedback
 
-**Group business · A small example of all four submissions**
+**Group business · Developing example · Fictional student: Jordan Rivera and Riley Park**
 
-| Customer / reader | Goal | Example launch choice |
-| --- | --- | --- |
-| A first-year student requesting help with introductory web development | Describe a topic and request a suitable tutoring window. | **Version A** — Topic context helps a student decide whether this service fits their question before choosing a time. |
+Read the completed submission, then compare it with the instructor’s score and feedback. The work and peer comments are fictional teaching scenarios. The linked product is real runnable code.
 
-[Try version A](/samples/study-slot/a.html) · [Try version B](/samples/study-slot/b.html) · [Choose another example](/examples/submissions/)
+<SampleAssessment slug="study-slot" />
 
-*This is fictional teaching work. Personas are assumptions; sample peer comments and contribution claims below are invented examples. Use your own research and actual feedback in your submission.*
+[Version A](/samples/study-slot/a.html) · [Version B](/samples/study-slot/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
-**Try the fictional client:** [how to use the customer brief](/process/simulated-customer). <a href="/is117-demo-days/samples/study-slot/customer/AGENTS.md" download="AGENTS.md">Download this project’s AGENTS.md</a>.
+[Try this project's fictional client](/process/simulated-customer).
 
 ## 1. Research
 
 <details open>
-<summary>See the research submission</summary>
+<summary>Read the completed student submission</summary>
 
-### Compare three sites
+### Submitted by Jordan Rivera and Riley Park
 
-Source pages checked November 2, 2026. These are observations, not a purchase test or proof of demand. Some references are adjacent workflows or partner channels, as noted.
+**Project:** Study Slot. **Research date:** November 2, 2026.
 
-| Reference | Observation → lesson |
-| --- | --- |
-| [Calendly](https://calendly.com/scheduling) | Scheduling links and availability controls. Make time choice explicit. |
-| [Acuity](https://acuityscheduling.com/) | Booking and client-management features; education use cases. Collect the topic before the session. |
-| [Square Appointments](https://squareup.com/us/en/appointments) | Appointment-booking product. Show a clear scheduling action. These are adjacent workflow references, not tutoring competitors. |
+#### My competitive landscape
 
-**Two possible positions:** A — Focused web-development tutoring requests. B — An all-subject instant-booking platform.
+I compared related service and scheduling workflows. A related workflow is not necessarily a direct competitor.
 
-### Compare two personas
+| Source | Site | Observation | Decision it suggests |
+| --- | --- | --- | --- |
+| R1 | [Calendly](https://calendly.com/scheduling) | Scheduling links and availability controls. | Make time choice explicit. |
+| R2 | [Acuity](https://acuityscheduling.com/) | Booking and client-management features; education use cases. | Collect the topic before the session. |
+| R3 | [Square Appointments](https://squareup.com/us/en/appointments) | Appointment-booking product. | Show a clear scheduling action. These are adjacent workflow references, not tutoring competitors. |
 
-| | Persona 1 | Persona 2 |
+#### Two positions I considered
+
+- **Position A:** Focused web-development tutoring requests.
+- **Position B:** An all-subject instant-booking platform.
+
+#### Two persona cards
+
+| | Persona A | Persona B |
 | --- | --- | --- |
 | Situation | A first-year student requesting help with introductory web development | A tutor reviewing the student’s request |
-| Need | Describe a topic and request a suitable tutoring window. | Topic, preferred window, and a clear pending status |
-| Main concern | Will the tutor know what I need, and is the time actually available? | Will this site focus on my task? |
+| Goal | Describe a topic and request a suitable tutoring window. | Topic, preferred window, and a clear pending status. |
+| Concern | Will the tutor know what I need, and is the time actually available? | Will the site focus on my task and make the next step clear? |
+| Information needed | Supported services/topics, required details, and pending status. | Topic, preferred window, and a clear pending status. |
+| Evidence / assumption | Reference pages show useful ways to present information. This user need remains my hypothesis. | A plausible second audience. I have not validated this profile through customer research. |
 
-**Evidence versus assumption:** Reference sites show how others present useful information. We hypothesize that these visitors need it too; we have not interviewed them.
+#### My audience choice
 
-**Choice:** Design for the student’s request while including the information the tutor needs to respond.
+We chose beginning web-development students because they can use a small set of topics. We compared scheduling tools, but did not compare actual tutoring services. That gives us ideas for the request flow, not enough evidence about what would make a tutoring offer different.
+
+**What the research does not prove:** Website observations do not establish demand, customer preferences, sales, or the quality of a competing product.
 
 </details>
+
+<SampleAssessment slug="study-slot" stage="research" />
 
 ## 2. Plan
 
 <details>
-<summary>See two short website plans and the user stories</summary>
+<summary>Read the completed student submission</summary>
 
-| Plan A | Plan B |
-| --- | --- |
-| Topic first: explain supported topics, then collect the request. | Time first: show the request controls first and list topics alongside them. |
+### My submitted website specifications
 
-**Brand:** Sage; patient, encouraging, specific. Both plans support the same core task and use the stories below. We change the information order and presentation, rather than doubling the whole project.
+**Goal:** Describe a topic and request a suitable tutoring window.
 
-| Story | User need | Feature and check for success |
-| --- | --- | --- |
-| 1 | As a student, I want to see supported topics so I can decide whether to request help. | HTML, CSS, and introductory JavaScript listed with boundaries. The site makes clear it offers guidance, not completion of assessed work. |
-| 2 | As a student, I want to choose a topic and preferred window so I can make a useful request. | Labeled topic/window controls and validated demo email. Submission requires both choices; selecting a preference does not claim live availability. |
-| 3 | As a tutor, I want the request details together so I can prepare and respond. | Pending-request confirmation and readable request history. The receipt includes topic, preferred window, and pending status; no calendar event is claimed. |
+#### Specification A
 
-**Build with:** HTML, CSS, JavaScript and demo records; browser storage on the public site, SQLite in the local server version.
+- **Approach:** Topic first: explain supported topics, then collect the request.
+- **Sections:** Service scope; how requests work; request form; pending receipt/history.
+- **Main action:** Service/topic explanation → required choices → complete request → pending receipt → request history.
+- **Brand:** Sage; patient, encouraging, specific.
 
-**Leave for later:** Live calendar sync, accounts, AI tutoring, real notifications, and payments.
+#### Specification B
 
-### Shared work and individual contributions
+- **Approach:** Time first: show the request controls first and list topics alongside them.
+- **Sections:** Request form first; supported scope alongside it; pending receipt/history.
+- **Main action:** Service/topic explanation → required choices → complete request → pending receipt → request history.
+- **Comparison:** Same core content and data, different information order and presentation.
 
-| Member | Owns | Reviews | Planned effort |
+#### Shared user stories, features, and checks
+
+| ID | User story | Essential feature | Acceptance check |
 | --- | --- | --- | --- |
-| Partner 1 | Service explanation and responsive layouts | Form labels, required inputs, pending-status wording | 5 points |
-| Partner 2 | Form, validation, receipt and request history | Scope, navigation, phone layout and keyboard use | 5 points |
+| S1 | As a student, I want to see supported topics so I can decide whether to request help. | F1: HTML, CSS, and introductory JavaScript listed with boundaries. | The supported topics should be clear. |
+| S2 | As a student, I want to choose a topic and preferred window so I can make a useful request. | F2: Labeled topic/window controls and validated demo email. | Submission requires both choices; selecting a preference does not claim live availability. |
+| S3 | As a tutor, I want the request details together so I can prepare and respond. | F3: Pending-request confirmation and readable request history. | The receipt includes topic, preferred window, and pending status; no calendar event is claimed. |
 
-Points estimate effort, not grades. Both people help design, code, and test. Update the plan if the effort changes. Record actual issues, branches, changes, and reviews.
+**Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring live calendar sync, accounts, AI tutoring, real notifications, and payments.
 
-**Contribution 1 — fictional example:** “I built the service explanation and layouts. I reviewed my partner’s form and raised the confirmation-wording issue. AI suggested layouts; I checked the phone view.”
+**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. Public mode uses browser storage; the optional local server uses SQLite. Email is not persisted.
 
-**Contribution 2 — fictional example:** “I built the form and receipt, then integrated them with my partner’s page. I reviewed the scope and navigation. I checked AI-drafted validation with missing and valid inputs.”
+**States:** Required choice missing; valid input ready; save in progress; success receipt; save failure shown without a false success claim.
+
+**Limits:** No tutor is contacted. Availability is fictional; this is a request workflow, not a live booking platform.
+
+#### Why I planned it this way
+
+Our two plans put the topic explanation or the request controls first. We split the work into the page and the form. Both members help review, but our first task list does not explain how long integration and retesting will take.
+
+#### Team work plan
+
+| Member | Design and build | Cross-review | Planned effort |
+| --- | --- | --- | --- |
+| Riley Park | Service explanation, two page compositions, responsive layout. | Form labels, required fields, receipt language. | 5 |
+| Jordan Rivera | Request controls, validation, receipt and history. | Service scope, navigation, narrow-screen layout. | 5 |
+
+We planned equal totals, but described integration only as “finish together.” That leaves the ownership and effort of the last step unclear.
 
 </details>
+
+<SampleAssessment slug="study-slot" stage="plan" />
 
 ## 3. Build and compare
 
-<VersionComparison slug="study-slot" />
-
 <details>
-<summary>See the comparison and launch decision</summary>
+<summary>Read the completed student submission</summary>
 
-Give a peer the same task in both versions: **Request help with CSS for a preferred window and explain the next step.** Watch whether they understand the offer, find what they need, and finish the task.
+### My completed product submission
 
-**Example choice: A.** Topic context helps a student decide whether this service fits their question before choosing a time. This models a reasoned choice; it is not a measured sales result. Your choice should use your actual observations.
+[Version A](/samples/study-slot/a.html) · [Version B](/samples/study-slot/b.html)
 
-The public demo uses browser storage. [Run the downloadable SQLite version](/examples/submissions/run-examples) to see server-side persistence.
+**Launch choice:** Version A. Topic context helps a student decide whether this service fits their question before choosing a time.
+
+**Task used for comparison:** Request help with CSS for a preferred window and explain the next step.
+
+| Version | Recorded observation in this fictional review |
+| --- | --- |
+| A | The reviewer understood that the supported topics were HTML, CSS, and introductory JavaScript. |
+| B | The reviewer could select a preferred window but initially treated the choice as a reservation. |
+
+**What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
+
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+
+#### My explanation of how it works
+
+The request sends a topic and preferred window to storage. The returned status means pending, not booked. Our explanation identifies the fields and status, but does not explain the request-history handoff as clearly as the form.
+
+**Known limit:** No tutor is contacted. Availability is fictional; this is a request workflow, not a live booking platform.
 
 </details>
+
+<VersionComparison slug="study-slot" />
+
+<SampleAssessment slug="study-slot" stage="build" />
 
 ## 4. Get feedback and improve
 
 <details>
-<summary>See the feedback record, checks, and final submission</summary>
+<summary>Read the completed student submission</summary>
 
-### Sample walkthrough — fictional
+### Completed peer-feedback record — fictional scenario
 
-| What to record | Example |
-| --- | --- |
-| Reviewer / date | A classmate; replace with your actual reviewer and date |
-| Task | Request help with CSS for a preferred window and explain the next step. |
-| Observation | I thought selecting a time reserved it immediately. |
-| Change | Label it “Preferred window” and show “Pending tutor confirmation” in the receipt. |
-| Retest to perform | Ask the reviewer to explain the difference between requesting a window and booking a confirmed session. |
+**Reviewer:** Jamie Ross, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
 
-The linked pages include the intended improvement. A real peer did not perform this sample walkthrough. Record what actually happens in your own test.
+| Task | Before the change | Change made | Retest result |
+| --- | --- | --- | --- |
+| Request help with CSS for a preferred window and explain the next step. | Jamie thought selecting a window meant that a tutor was available at that time. | Label it “Preferred window” and show “Pending tutor confirmation” in the receipt. | After we changed the label and receipt, Jamie said the request was pending. We did not record a second attempt with a missing topic after the wording change. |
 
-### Checks to run
+**What this tells me:** We checked the new message, but our peer record does not cover the revised error path.
 
-| Scenario | Expected result | Your actual result |
+#### Completed QA record
+
+The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
+
+| Check | Expected | Recorded implementation result |
 | --- | --- | --- |
-| Main task | The receipt includes topic, preferred window, and pending status; no calendar event is claimed. | Run and record |
-| Missing input / evidence | Required fields block submission. | Run and record |
-| Keyboard and phone view | Controls are reachable, focus is visible, and text fits. | Run and record |
-| After the change | Repeat the peer’s task. | Record the real response |
+| Valid request | Receipt has selected item/topic, preferred window, and pending status. | Automated checks passed for this project; the shared browser flow was checked on Room Ready. |
+| Invalid input | Unsupported item/topic or invalid email is rejected. | Automated server checks passed. |
+| Persistence | A saved request can be read back. | Automated create/read checks passed. |
+| Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 
-### Short case-study example
+#### AI-use record
 
-“Describe a topic and request a suitable tutoring window. I compared two approaches and chose A. Topic context helps a student decide whether this service fits their question before choosing a time. Feedback led me to label it “Preferred window” and show “Pending tutor confirmation” in the receipt.” In your own case study, add what you personally built and what you checked.
+We used the AI coding assistant to draft the request form and help debug the layout. Jordan owned validation and the receipt; Riley owned the service explanation and layout. We reviewed each other’s changes, but our record is stronger on the valid path than on negative cases.
 
-**AI-use example:** “I used AI for alternatives and draft code. I reviewed it against the plan, checked the main task and missing inputs, and changed the wording after feedback.” Replace this with your actual tool, task, changes, and checks.
+#### My short portfolio case study
 
-**Final submission:** selected version, alternate version, actual repository, and this short process record. Each group member also submits their own contribution statement.
+“I built Study Slot for a first-year student requesting help with introductory web development. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. My comparison supports a direction, but needs better task evidence. Feedback identified this problem: jamie thought selecting a window meant that a tutor was available at that time. I made this change: label it “Preferred window” and show “Pending tutor confirmation” in the receipt. After we changed the label and receipt, Jamie said the request was pending. We did not record a second attempt with a missing topic after the wording change. No tutor is contacted. Availability is fictional; this is a request workflow, not a live booking platform.”
 
-**Limitation:** No tutor is contacted. Availability is fictional; this is a request workflow, not a live booking platform.
+#### Individual contribution statements
+
+**Riley:** “I planned the service explanation, built the responsive page composition, and reviewed the form’s labels and confirmation wording. I used AI for layout suggestions and checked the result against our scope.”
+
+**Jordan:** “I planned the request data, implemented validation and the receipt/history flow, and reviewed the service explanation and navigation. I checked generated logic against valid and invalid inputs.”
+
+Our statements identify work, but the record should name a specific cross-review result for each member.
+
+#### Final handoff
+
+- Selected product: [Version A](/samples/study-slot/a.html).
+- Alternate product: [Version B](/samples/study-slot/b.html).
+- Source: [class-demo repository](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples); the download includes the runnable code and these completed records.
+- Remaining limitation: No tutor is contacted. Availability is fictional; this is a request workflow, not a live booking platform.
+
+The written record models the student's explanation. It does not establish that an actual student demonstrated understanding in a live conversation.
 
 </details>
 
-[Your assignment & grading](/course/milestones) · [Due dates](/course/schedule) · [Copy the short template](/templates/four-milestones).
+<SampleAssessment slug="study-slot" stage="improve" />
+
+## Instructor’s suggested revision
+
+Our next review will use two tasks: submit a CSS request and try submitting without a topic. Riley will review the receipt; Jordan will review whether the service explanation matches the available topics.
+
+[Back to all six examples](/examples/submissions/) · [Assignment rubric](/course/milestones#how-each-step-is-graded).

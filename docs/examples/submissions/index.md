@@ -1,25 +1,28 @@
-# See completed examples
+# Completed student work, grades, and feedback
 
-Pick one example for the project you are working on. **You do not need to read all six.** Each shows research, two personas, two website plans, two working versions, a launch choice, and a sample feedback-driven improvement.
+Choose your project type. Each pair contains a **stronger submission** and a **developing submission**. Open the completed work, try its two versions, and read the rubric scores and instructor feedback for all four milestones.
+
+<SampleAssessment />
+
+[How to read these grades](/examples/submissions/grading-guide) · [Download all six submissions and runnable source](/downloads/is117-graded-student-submissions.zip).
 
 <ExampleGallery />
 
-*The images are AI-generated concepts. The A/B previews inside each example are actual screen captures of the working interfaces.*
+## What is inside each submission?
 
-## How to use an example
+- Completed competitive research and two persona cards.
+- Two written website specifications, user stories, feature priorities, and checks.
+- Two working versions and a recorded launch decision.
+- A completed peer-feedback, change, and retest scenario.
+- QA results, an AI-use explanation, a case study, and final links.
+- A score out of 100 for each milestone, criterion-by-criterion reasons, and a specific next revision.
 
-1. Try the two working versions.
-2. Open the milestone you need: research, plan, build, or improve.
-3. Use [the short template](/templates/four-milestones) for your own project.
+The group projects also include work plans and individual contribution statements. The portfolios include completed fictional résumé, GitHub, and LinkedIn content.
 
-Businesses and students are fictional. Sample feedback, credentials, and contributions are clearly labeled examples. Your submission needs your own decisions and **actual** peer feedback.
+**These are fictional students and illustrative grades.** Peer records are worked scenarios; they are not real interviews. The products are actual runnable code, with a separate [technical-check receipt](/examples/submissions/technical-checks). Real students must submit their own decisions and actual peer feedback.
 
-## Why compare two?
+## Learn from the difference
 
-A second credible option helps you notice assumptions and explain your choice. Compare, choose, and move forward. Versions can share code. Change something meaningful about the offer, layout, or task—not just a color.
+A working site is one part of the submission. Compare how the examples explain their choices and record their checks. A short, specific explanation is more useful than a longer document full of general claims.
 
-<LearningDiagram kind="process" />
-
-The group examples include equal-work plans and individual contribution statements. The portfolio examples include résumé, GitHub, LinkedIn, case-study, and demo-script examples.
-
-[Download and run the code, including SQLite](/examples/submissions/run-examples) · [Assignment & grading](/course/milestones).
+[Your assignment and rubric](/course/milestones) · [Your four-step template](/templates/four-milestones).

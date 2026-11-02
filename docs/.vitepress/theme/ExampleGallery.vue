@@ -13,7 +13,7 @@ const examples = [
  <div class="example-gallery">
   <a v-for="x in examples" :key="x[0]" :href="withBase('/examples/submissions/'+x[0]+'.html')" class="example-card">
    <img :src="withBase('/samples/'+x[0]+'/concept.jpg')" :alt="x[1] + ' — AI-generated classroom concept image'" width="1536" height="1024" loading="lazy">
-   <div><span>{{ x[2] }}</span><strong>{{ x[1] }}</strong><p>{{ x[3] }}</p><small>Research · plan · two versions · improve →</small></div>
+   <div><span>{{ x[2] }}</span><strong>{{ x[1] }}</strong><p>{{ x[3] }}</p><small>Completed work + rubric feedback →</small></div>
   </a>
  </div>
 </template>

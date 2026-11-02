@@ -12,7 +12,9 @@
     "docs:preview": "vitepress preview docs",
     "schedule:sync": "node scripts/generate-schedules.mjs",
     "check": "node scripts/check-content.mjs",
-    "check:examples": "node scripts/check-examples.mjs"
+    "check:examples": "node scripts/check-examples.mjs",
+    "check:student-work": "node scripts/check-student-work.mjs",
+    "examples:generate": "node scripts/generate-student-examples.mjs && python3 scripts/package-student-work.py"
   },
   "devDependencies": {
     "vitepress": "1.6.4"

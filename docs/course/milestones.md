@@ -30,6 +30,8 @@ A **persona** describes a user and their needs. A **user story** explains what t
 
 These are the rubric shares for each milestone, not changes to the syllabus’s course-grade weights. Canvas will hold gradebook points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
 
+[See completed submissions with grades and feedback](/examples/submissions/grading-guide). These illustrate how the rubric applies; they are not real student marks.
+
 ## Work together and finish well
 
 **Attendance is required.** We will provide [class time for partner work and feedback](/course/schedule). Bring your work and a task for someone to try. Give feedback as well as receive it.

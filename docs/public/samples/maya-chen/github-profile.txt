@@ -1,17 +1,23 @@
-# Maya Chen — fictional profile README example
+# Maya Chen
+Fictional completed profile README — teaching example, not a real GitHub account.
 
-I am an NJIT student learning to turn business needs into useful websites.
-I am interested in [actual internship direction].
+I am an NJIT student interested in useful websites and customer-facing software.
+In IS117 I practiced competitive research, user stories, website specifications,
+AI-assisted development, and peer review.
 
 ## Selected course projects
-- [T-shirt store](REPLACE_WITH_YOUR_REPO): research, persona, two designs, simulated checkout, feedback and QA.
-- [Group service](REPLACE_WITH_YOUR_REPO): I implemented service explanation and responsive layouts and reviewed my partner's work.
-- [Portfolio](REPLACE_WITH_YOUR_REPO): case studies and professional information.
+- Campus Cotton: https://kaw393939.github.io/is117-demo-days/examples/submissions/campus-cotton.html
+  Individual project: audience choice, two presentations, and simulated checkout.
+- Room Ready: https://kaw393939.github.io/is117-demo-days/examples/submissions/room-ready.html
+  Team project. My contribution: service explanation and responsive page layouts, plus review of my partner's work.
+- Portfolio: https://kaw393939.github.io/is117-demo-days/samples/maya-chen/a.html
+  Two case studies, resume, and professional-profile examples.
 
 ## How I work
-I use specifications and AI coding assistance, review the output, and document checks and limitations.
+I compare alternatives, keep the scope small, review AI-generated output, and
+record what I checked. My project pages explain feedback changes and limitations.
 
-Portfolio: REPLACE_WITH_YOUR_SITE
-LinkedIn: REPLACE_WITH_YOUR_PROFILE
-
-This is a fictional example. Do not create links to invented accounts. Pin your actual project repositories and give each a clear README with setup, live demo, your role, checks, and limitations.
+## Source
+The real class-demo code is available at:
+https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples
+This is the shared teaching repository, not a claim that it belongs to this fictional person.

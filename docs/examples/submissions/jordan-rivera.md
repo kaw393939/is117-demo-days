@@ -1,135 +1,195 @@
-# Jordan Rivera
+# Jordan Rivera: submitted work and feedback
 
-**Personal portfolio · A small example of all four submissions**
+**Personal portfolio · Developing example · Fictional student: Jordan Rivera**
 
-| Customer / reader | Goal | Example launch choice |
-| --- | --- | --- |
-| A team lead assessing a student’s problem-solving and collaboration | Understand one business decision and the student’s own implementation and QA work. | **Version A** — The selected audience can inspect a concrete decision instead of relying on a list of tools. |
+Read the completed submission, then compare it with the instructor’s score and feedback. The work and peer comments are fictional teaching scenarios. The linked product is real runnable code.
 
-[Try version A](/samples/jordan-rivera/a.html) · [Try version B](/samples/jordan-rivera/b.html) · [Choose another example](/examples/submissions/)
+<SampleAssessment slug="jordan-rivera" />
 
-*This is fictional teaching work. Personas are assumptions; sample peer comments and contribution claims below are invented examples. Use your own research and actual feedback in your submission.*
+[Version A](/samples/jordan-rivera/a.html) · [Version B](/samples/jordan-rivera/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
 ## 1. Research
 
 <details open>
-<summary>See the research submission</summary>
+<summary>Read the completed student submission</summary>
 
-### Compare three sites
+### Submitted by Jordan Rivera
 
-Source pages checked November 2, 2026. These are observations, not a purchase test or proof of demand. These portfolios are design references, not student achievement benchmarks.
+**Project:** Jordan Rivera. **Research date:** November 2, 2026.
 
-| Reference | Observation → lesson |
-| --- | --- |
-| [Brittany Chiang](https://brittanychiang.com/) | Role introduction, project/experience evidence, professional links. Make role and evidence easy to find. |
-| [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching. Use a short explanation to show reasoning. |
-| [Lee Robinson](https://leerob.com/) | A concise introduction and writing links. Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
+#### My competitive landscape
 
-**Two possible positions:** A — Evidence-led builder portfolio. B — Skills-list-led portfolio.
+I compared three portfolio references, not people with the same student experience.
 
-### Compare two personas
+| Source | Site | Observation | Decision it suggests |
+| --- | --- | --- | --- |
+| R1 | [Brittany Chiang](https://brittanychiang.com/) | Role introduction, project/experience evidence, professional links. | Make role and evidence easy to find. |
+| R2 | [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching. | Use a short explanation to show reasoning. |
+| R3 | [Lee Robinson](https://leerob.com/) | A concise introduction and writing links. | Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
 
-| | Persona 1 | Persona 2 |
+#### Two positions I considered
+
+- **Position A:** Evidence-led builder portfolio.
+- **Position B:** Skills-list-led portfolio.
+
+#### Two persona cards
+
+| | Persona A | Persona B |
 | --- | --- | --- |
 | Situation | A team lead assessing a student’s problem-solving and collaboration | A recruiter quickly checking minimum project and contact information |
-| Need | Understand one business decision and the student’s own implementation and QA work. | A concise summary, projects, résumé, and professional links |
-| Main concern | Is there evidence behind the claims, including AI-assisted work? | Will this site focus on my task? |
+| Goal | Understand one business decision and the student’s own implementation and QA work. | A concise summary, projects, résumé, and professional links. |
+| Concern | Is there evidence behind the claims, including AI-assisted work? | Will the site focus on my task and make the next step clear? |
+| Information needed | Projects, personal contribution, résumé, and professional information. | A concise summary, projects, résumé, and professional links. |
+| Evidence / assumption | Reference pages show useful ways to present information. This user need remains my hypothesis. | A plausible second audience. I have not validated this profile through customer research. |
 
-**Evidence versus assumption:** Reference sites show how others present useful information. We hypothesize that these visitors need it too; we have not interviewed them.
+#### My audience choice
 
-**Choice:** Prioritize clear project reasoning while retaining easy access to résumé and profiles.
+I chose a team lead because I think managers want to see reasoning. I also want the page to work for recruiters. I compared three sites, but my reader descriptions are broad and I have not explained which reader task should take priority.
+
+**What the research does not prove:** Website observations do not establish demand, customer preferences, sales, or the quality of a competing product. I will not copy an experienced professional’s credentials or claim their experience.
 
 </details>
+
+<SampleAssessment slug="jordan-rivera" stage="research" />
 
 ## 2. Plan
 
 <details>
-<summary>See two short website plans and the user stories</summary>
+<summary>Read the completed student submission</summary>
 
-| Plan A | Plan B |
-| --- | --- |
-| Evidence first: a short decision and its validation introduce the projects. | Introduction first: role direction and skills precede project evidence. |
+### My submitted website specifications
 
-**Brand:** Sage; clear, careful, approachable. Both plans support the same core task and use the stories below. We change the information order and presentation, rather than doubling the whole project.
+**Goal:** Understand one business decision and the student’s own implementation and QA work.
 
-| Story | User need | Feature and check for success |
-| --- | --- | --- |
-| 1 | As a team lead, I want a concise case study so I can assess the student’s reasoning. | Problem, alternatives, choice, feedback, and limitation in each case study. A visitor can identify one decision and its reason in each project. |
-| 2 | As a reviewer, I want to see how AI output was checked so I can assess ownership. | A short AI-use and verification statement tied to a feature. The statement describes a specific human check and does not claim unrun tests passed. |
-| 3 | As a recruiter, I want clear profile and résumé access so I can evaluate next steps. | Dedicated professional-presence section and résumé download. Sample profile drafts explain which fields must be replaced with actual account links. |
+#### Specification A
 
-**Build with:** HTML, CSS, JavaScript, with static case studies and profile drafts.
+- **Approach:** Evidence first: a short decision and its validation introduce the projects.
+- **Sections:** Project cards; case-study details; introduction; résumé and profile content.
+- **Main action:** Introduction → two course-project case studies → individual contribution → résumé and profile content.
+- **Brand:** Sage; clear, careful, approachable.
 
-**Leave for later:** Automated skills scores, advanced dashboard, and unsupported FDE-readiness claims.
+#### Specification B
+
+- **Approach:** Introduction first: role direction and skills precede project evidence.
+- **Sections:** Introduction; résumé/profile content; project cards and case-study details.
+- **Main action:** Introduction → two course-project case studies → individual contribution → résumé and profile content.
+- **Comparison:** Same core content and data, different information order and presentation.
+
+#### Shared user stories, features, and checks
+
+| ID | User story | Essential feature | Acceptance check |
+| --- | --- | --- | --- |
+| S1 | As a team lead, I want a concise case study so I can assess the student’s reasoning. | F1: Problem, alternatives, choice, feedback, and limitation in each case study. | The case study should be clear. |
+| S2 | As a reviewer, I want to see how AI output was checked so I can assess ownership. | F2: A short AI-use and verification statement tied to a feature. | The statement describes a specific human check and does not claim unrun tests passed. |
+| S3 | As a recruiter, I want clear profile and résumé access so I can evaluate next steps. | F3: Dedicated professional-presence section and résumé download. | Profile links open readable, clearly labeled fictional examples; a real student uses actual account links. |
+
+**Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring automated skills scores, advanced dashboard, and unsupported FDE-readiness claims.
+
+**Inputs and data:** Static project records and profile/résumé content; no visitor form or database required.
+
+**States:** Project details available, links opened, and résumé/profile content readable.
+
+**Limits:** Jordan is fictional. This is a model of an introductory student portfolio, not evidence of employment or internship eligibility.
+
+#### Why I planned it this way
+
+I planned an evidence-first and an introduction-first version. Both show my projects and profile content. My first acceptance check says the case studies should be clear, but does not say what a visitor should be able to explain after reading them.
 
 </details>
+
+<SampleAssessment slug="jordan-rivera" stage="plan" />
 
 ## 3. Build and compare
 
-<VersionComparison slug="jordan-rivera" />
-
 <details>
-<summary>See the comparison and launch decision</summary>
+<summary>Read the completed student submission</summary>
 
-Give a peer the same task in both versions: **Find a research-driven decision, explain Jordan’s group contribution, and locate the professional profiles.** Watch whether they understand the offer, find what they need, and finish the task.
+### My completed product submission
 
-**Example choice: A.** The selected audience can inspect a concrete decision instead of relying on a list of tools. This models a reasoned choice; it is not a measured sales result. Your choice should use your actual observations.
+[Version A](/samples/jordan-rivera/a.html) · [Version B](/samples/jordan-rivera/b.html)
 
-Profile buttons open labeled drafts. A real submission links to your own GitHub and LinkedIn accounts.
+**Launch choice:** Version A. The selected audience can inspect a concrete decision instead of relying on a list of tools.
+
+**Task used for comparison:** Find a research-driven decision, explain Jordan’s group contribution, and locate the professional profiles.
+
+| Version | Recorded observation in this fictional review |
+| --- | --- |
+| A | The reviewer noticed the project reasoning and said it was useful. |
+| B | The reviewer liked the introduction. I recorded these comments, but not a consistent task result for both versions. |
+
+**What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
+
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The portfolio links to the two matching business examples.
+
+#### My explanation of how it works
+
+I explain that AI helped draft code and that I checked required fields. My first submission does not explain a specific invalid input and its expected behavior in enough detail.
+
+**Known limit:** Jordan is fictional. This is a model of an introductory student portfolio, not evidence of employment or internship eligibility.
 
 </details>
+
+<VersionComparison slug="jordan-rivera" />
+
+<SampleAssessment slug="jordan-rivera" stage="build" />
 
 ## 4. Get feedback and improve
 
 <details>
-<summary>See the feedback record, checks, and final submission</summary>
+<summary>Read the completed student submission</summary>
 
-### Sample walkthrough — fictional
+### Completed peer-feedback record — fictional scenario
 
-| What to record | Example |
-| --- | --- |
-| Reviewer / date | A classmate; replace with your actual reviewer and date |
-| Task | Find a research-driven decision, explain Jordan’s group contribution, and locate the professional profiles. |
-| Observation | I saw tools listed, but I could not tell how Jordan checked AI-generated work. |
-| Change | Add an AI-use and verification paragraph to each case study. |
-| Retest to perform | Ask the reviewer to explain one check Jordan performed and identify a limitation. |
+**Reviewer:** Alex Reed, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
 
-The linked pages include the intended improvement. A real peer did not perform this sample walkthrough. Record what actually happens in your own test.
+| Task | Before the change | Change made | Retest result |
+| --- | --- | --- | --- |
+| Find a research-driven decision, explain Jordan’s group contribution, and locate the professional profiles. | Alex saw tools listed but could not tell what I had checked in the AI-assisted work. | Add an AI-use and verification paragraph to each case study. | After I added an AI-use paragraph, Alex pointed to the required-field check. I did not ask Alex to explain the input, expected result, and why that check mattered. |
 
-### Checks to run
+**What this tells me:** The revised paragraph is easier to locate, but the retest gives only limited evidence that the explanation is understandable.
 
-| Scenario | Expected result | Your actual result |
+#### Completed QA record
+
+The following implementation checks were actually run on the class examples. They are separate from the fictional student/peer account. [Read the technical receipt](/examples/submissions/technical-checks).
+
+| Check | Expected | Recorded implementation result |
 | --- | --- | --- |
-| Main task | Sample profile drafts explain which fields must be replaced with actual account links. | Run and record |
-| Missing input / evidence | Both project links and individual contributions are easy to find. | Run and record |
-| Keyboard and phone view | Controls are reachable, focus is visible, and text fits. | Run and record |
-| After the change | Repeat the peer’s task. | Record the real response |
+| Project links | Two matching product examples and contribution details are present. | The published portfolio includes both case studies and product links. |
+| Profile content | Résumé, GitHub, and LinkedIn content can be opened. | Three profile-content files exist and are served. They represent fictional accounts. |
+| Responsive page | No page-wide overflow at 390px. | The class demo was checked at 390px in the browser. |
+| Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 
-### Short case-study example
+#### AI-use record
 
-“Understand one business decision and the student’s own implementation and QA work. I compared two approaches and chose A. The selected audience can inspect a concrete decision instead of relying on a list of tools. Feedback led me to add an AI-use and verification paragraph to each case study.” In your own case study, add what you personally built and what you checked.
+I used the AI coding assistant for copy suggestions and to compare two layouts. I checked links and reviewed the final page, but my initial AI-use notes say “checked the form” without naming the input and expected result.
 
-**AI-use example:** “I used AI for alternatives and draft code. I reviewed it against the plan, checked the main task and missing inputs, and changed the wording after feedback.” Replace this with your actual tool, task, changes, and checks.
+#### My short portfolio case study
 
-**Final submission:** selected version, alternate version, actual repository, and this short process record.
+“I built Jordan Rivera for a team lead assessing a student’s problem-solving and collaboration. I compared two positions, chose a primary audience, and turned that need into three user stories. I built two presentations and chose A. My comparison supports a direction, but needs better task evidence. Feedback identified this problem: alex saw tools listed but could not tell what I had checked in the AI-assisted work. I made this change: add an AI-use and verification paragraph to each case study. After I added an AI-use paragraph, Alex pointed to the required-field check. I did not ask Alex to explain the input, expected result, and why that check mattered. Jordan is fictional. This is a model of an introductory student portfolio, not evidence of employment or internship eligibility.”
 
-**Limitation:** Jordan is fictional. This is a model of an introductory student portfolio, not evidence of employment or internship eligibility.
+#### Final handoff
 
-</details>
+- Selected product: [Version A](/samples/jordan-rivera/a.html).
+- Alternate product: [Version B](/samples/jordan-rivera/b.html).
+- Source: [class-demo repository](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples); the download includes the runnable code and these completed records.
+- Remaining limitation: Jordan is fictional. This is a model of an introductory student portfolio, not evidence of employment or internship eligibility.
 
-## Résumé, GitHub, LinkedIn, and demo
-
-These are two sets across the portfolio examples. Replace the fictional identity, account links, education, and completion claims with your own accurate information.
-
-- [Résumé content](/samples/jordan-rivera/resume.txt)
-- [GitHub profile README](/samples/jordan-rivera/github-profile.txt)
-- [LinkedIn headline, About, and projects](/samples/jordan-rivera/linkedin.txt)
-
-<details>
-<summary>Example short demo script</summary>
-
-“I’m Jordan Rivera, a fictional student interested in customer-facing software. My portfolio is for a team lead assessing a student’s problem-solving and collaboration. I compared two approaches and chose A: the selected audience can inspect a concrete decision instead of relying on a list of tools. The shirt project addresses fit uncertainty with a size guide. In the group project, I owned request validation and the confirmation flow. AI helped draft code; I checked required inputs and the main task. Peer feedback led me to add an AI-use and verification paragraph to each case study. The services are simulations, with no real orders or appointments.”
+The written record models the student's explanation. It does not establish that an actual student demonstrated understanding in a live conversation.
 
 </details>
 
-[Your assignment & grading](/course/milestones) · [Due dates](/course/schedule) · [Copy the short template](/templates/four-milestones).
+<SampleAssessment slug="jordan-rivera" stage="improve" />
+
+## Instructor’s suggested revision
+
+I asked the coding assistant to draft required-field validation. I then tried submitting without a topic: the request should not be saved. With CSS and a preferred window selected, it should save a pending request and show a reference. This checks that incomplete requests are blocked without blocking valid ones.
+
+## Completed professional-profile content
+
+These fictional profiles use filled content, not live personal accounts. Real students must use their own actual accounts.
+
+- [Completed résumé](/samples/jordan-rivera/resume.txt)
+- [Completed GitHub profile content](/samples/jordan-rivera/github-profile.txt)
+- [Completed LinkedIn content](/samples/jordan-rivera/linkedin.txt)
+
+[Back to all six examples](/examples/submissions/) · [Assignment rubric](/course/milestones#how-each-step-is-graded).

@@ -1,34 +1,41 @@
-JORDAN RIVERA — FICTIONAL STUDENT EXAMPLE
-Replace this name and all bracketed fields. Keep only claims you can verify.
-[Professional email] | [Your portfolio URL] | [Your GitHub URL] | [Your LinkedIn URL]
+JORDAN RIVERA
+FICTIONAL COMPLETED STUDENT RESUME — TEACHING EXAMPLE
+Newark, NJ | jordan-rivera@example.test
+Portfolio: https://kaw393939.github.io/is117-demo-days/samples/jordan-rivera/a.html
+GitHub/LinkedIn content: the labeled profile examples linked from this portfolio
 
 DIRECTION
 NJIT student interested in web-development internships and customer-facing software.
 
-EDUCATION
+EDUCATION — fictional student scenario
 New Jersey Institute of Technology, Newark, NJ
-[Actual degree/major] | Expected graduation [Month Year]
-Relevant coursework: IS117 — Introduction to Website Development
+BS in Enterprise AI | Expected May 2029
+Course project: IS117 — Introduction to Website Development, Fall 2026
 
-SKILLS — include only after demonstrating them
-HTML, CSS, JavaScript; Git/GitHub; competitive research; user stories;
-specifications; responsive design; manual QA; AI-assisted development.
-Add SQLite only if you personally connected and verified a database.
+PROJECT PRACTICE
+HTML, CSS, JavaScript, responsive page composition, input validation,
+Git/GitHub, basic SQLite-backed demo workflows, website specifications,
+competitive research, user stories, peer review, and AI-assisted coding.
 
-COURSE PROJECTS — illustrative completion bullets; replace with actual results
-Individual T-shirt store | [Live URL] | [Repository URL]
-- Compared three references, considered two audiences, and specified a focused simulated purchase workflow.
-- Built two presentation alternatives and used a peer walkthrough to revise access to product information.
-- Checked size selection, quantity totals, required inputs, and demo confirmation.
+SELECTED COURSE PROJECTS
+Studio White — individual simulated storefront | Fall 2026
+https://kaw393939.github.io/is117-demo-days/examples/submissions/studio-white.html
+- Compared three reference sites and two audience hypotheses to choose a focused white T-shirt concept.
+- Built two presentations with size selection, quantity totals, order review, and simulated confirmation.
+- Documented the browser-storage versus SQLite-server distinction and a feedback-driven information change.
 
-Group service project | Team of two | [Live URL] | [Repository URL]
-- Helped write the specification and divide comparable design, development, and QA tasks.
-- Personally implemented request validation and confirmation flow; reviewed a partner's work and documented one feedback-driven change.
-- Distinguished a pending service request from a confirmed booking.
+Study Slot — team service-request project | Team of two | Fall 2026
+https://kaw393939.github.io/is117-demo-days/examples/submissions/study-slot.html
+- Helped define a small request workflow and a comparable-effort design, development, and review plan.
+- Personally implemented request validation and the pending-confirmation flow; reviewed a partner's work.
+- Documented how a preferred window differs from a confirmed appointment.
 
-Professional portfolio | [Live URL] | [Repository URL]
-- Created two page approaches and selected one for an internship audience.
-- Wrote case studies that distinguish personal contributions, AI assistance, checks, and limitations.
+Professional portfolio — individual website | Fall 2026
+https://kaw393939.github.io/is117-demo-days/samples/jordan-rivera/a.html
+- Compared project/evidence-first and introduction-first page approaches.
+- Published two case studies with personal contributions, AI-use notes, feedback changes, and limits.
 
-No employment, customer results, or metrics are implied. Export your own finished
-résumé as a readable PDF if you choose; this is a text content example.
+CONTEXT
+All identity, education, authorship, and peer-review details here form a fictional
+teaching scenario. No employment, real customer results, or hiring outcome is claimed.
+Real students must use their actual identity, education, accounts, and completed work.

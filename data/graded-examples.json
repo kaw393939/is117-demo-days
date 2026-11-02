@@ -1,0 +1,503 @@
+{
+  "notice": "Fictional completed submissions and illustrative assessments. No real student grades or peer interviews. Overall example score is an equal average of four milestone scores, not a course grade.",
+  "criteria": [
+    "Complete",
+    "Thoughtful",
+    "Checked",
+    "Understood"
+  ],
+  "cases": [
+    {
+      "slug": "campus-cotton",
+      "student": "Maya Chen",
+      "level": "Stronger example",
+      "researchReason": "I chose the individual student shopper because fit and total price are decisions I can help with in one small shopping flow. A club organizer would need quantity pricing and printing options. That would be a different business, so I left it out.",
+      "planReason": "Both plans keep the same shirt, price, measurements, and checkout. A puts shopping information first; B gives more space to the story. Keeping the offer fixed lets me compare the information order instead of changing everything at once.",
+      "aObservation": "The reviewer located price and the measurement disclosure together before selecting M.",
+      "bObservation": "The reviewer noticed the campus story first, then moved down to the product information to choose a size.",
+      "peer": "Taylor Brooks",
+      "before": "The reviewer asked where the measurements were before choosing M.",
+      "retest": "After the disclosure moved beside the size selector, Taylor opened it without a hint, chose M, reviewed two shirts at $50, and reached the simulated confirmation.",
+      "retestLimit": "One classmate is useful feedback, not evidence that the layout will increase sales.",
+      "understanding": "The browser requires a size and calculates a preview total. In local-server mode, the server validates size and quantity again and calculates the authoritative total from its product table. Changing the browser total cannot change the saved price.",
+      "aiUse": "I used the AI coding assistant to suggest two information orders and draft the form logic. I kept the simple one-price offer, reviewed the event handlers, and checked missing-size, quantity, confirmation, and stored-record behavior. The generated shirt image is labeled as concept imagery.",
+      "improved": "I observed fit guides on the reference sites. That suggests sizing information may matter; my persona remains a hypothesis. My peer task checks whether this design makes that information easy to find.",
+      "milestones": {
+        "research": {
+          "scores": [
+            24,
+            23,
+            22,
+            23
+          ],
+          "next": "Connect each persona need to a specific observation rather than treating all competitor features as proof of demand.",
+          "evidence": [
+            "Three linked references, two positions, and two persona cards are submitted. The selected audience is explicit.",
+            "The choice links a manageable user task to the proposed scope.",
+            "Observations are dated and distinguished from assumptions; no demand claim is made.",
+            "The written audience choice explains both the choice and the excluded alternative."
+          ],
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+        },
+        "plan": {
+          "scores": [
+            24,
+            24,
+            23,
+            23
+          ],
+          "next": "Add a storage-failure acceptance check to the written plan.",
+          "evidence": [
+            "Two specifications, three stories, priorities, data/states, and limits are present.",
+            "The two approaches change hierarchy while holding the offer and task steady.",
+            "Acceptance checks describe observable behavior for the core task.",
+            "The plan explains why this scope fits the chosen audience."
+          ],
+          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+        },
+        "build": {
+          "scores": [
+            24,
+            23,
+            23,
+            23
+          ],
+          "next": "Record the exact page/version used for each comparison observation.",
+          "evidence": [
+            "Both linked versions work and share a complete small workflow.",
+            "The launch choice uses the stated task and the comparison observations.",
+            "The record distinguishes observed task behavior from unmeasured outcomes.",
+            "The implementation explanation distinguishes the interface, data, and simulation limits."
+          ],
+          "strength": "A reader can open and compare two real working presentations."
+        },
+        "improve": {
+          "scores": [
+            24,
+            23,
+            23,
+            23
+          ],
+          "next": "Keep the peer finding and the technical checks in the same short record so a reader can trace the change.",
+          "evidence": [
+            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
+            "The change addresses the observed user problem without adding unnecessary scope.",
+            "The retest states what the reviewer did or explained after the change.",
+            "The written reflection identifies personal work, AI help, and limits."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+        }
+      }
+    },
+    {
+      "slug": "studio-white",
+      "student": "Jordan Rivera",
+      "level": "Developing example",
+      "researchReason": "I chose a workday shopper because I like the restrained look of the references and think it looks more professional. I have not checked whether that shopper cares more about materials, fit, or price.",
+      "planReason": "I made an editorial page and a facts-first page. Both have the same shopping controls. I prefer the facts-first layout because it looks cleaner. My plan says visitors should find information easily, but it does not name a separate task for comparing the two layouts.",
+      "aObservation": "The reviewer said the editorial page looked polished.",
+      "bObservation": "The reviewer preferred seeing practical product details earlier. I recorded a preference, but did not record a full task attempt on both versions.",
+      "peer": "Casey Lane",
+      "before": "Casey said the story was attractive but practical product details were harder to notice.",
+      "retest": "After selecting B, Casey found the Product facts heading and said the information was easier to see. I did not ask Casey to complete the whole checkout again.",
+      "retestLimit": "The retest supports the visibility change. It does not establish that the full revised journey became easier.",
+      "understanding": "The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not distinguish browser storage from SQLite server storage.",
+      "aiUse": "I asked the AI coding assistant to help produce two layouts and connect the shared controls. I reviewed the rendered pages and checked a valid order. I used the supplied negative-input checks, but my notes do not explain what each failing input would protect against.",
+      "improved": "For the next review, I will ask the same shopper to find fit, material, and price on both versions before choosing L. I will choose the version that makes that task clearer and record what happened, rather than relying only on a preference.",
+      "milestones": {
+        "research": {
+          "scores": [
+            22,
+            18,
+            18,
+            20
+          ],
+          "next": "Replace “looks professional” with a specific audience need and label what is still an assumption.",
+          "evidence": [
+            "Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief.",
+            "The choice leans on a broad impression or preference rather than a specific task.",
+            "Sources are named and assumptions disclosed, but the source-to-need connection is weak.",
+            "The explanation identifies a direction but leaves the priority among user needs unclear."
+          ],
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+        },
+        "plan": {
+          "scores": [
+            22,
+            19,
+            18,
+            20
+          ],
+          "next": "Turn “easy to find” into a check: find fit, material, and price before choosing a size.",
+          "evidence": [
+            "Two specifications, three stories, priorities, data/states, and limits are present.",
+            "The two approaches differ, but the reason for favoring one is general.",
+            "The first acceptance check uses clear/easy language without an observable result.",
+            "The written explanation needs a clearer link between the user need, feature, and check."
+          ],
+          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+        },
+        "build": {
+          "scores": [
+            23,
+            20,
+            20,
+            21
+          ],
+          "next": "Have the peer attempt the same product-information task on A and B, rather than only choosing a favorite.",
+          "evidence": [
+            "Both linked versions work and share a complete small workflow.",
+            "The choice is plausible, but the notes include preference or inconsistent task evidence.",
+            "The product has technical checks, but the student comparison record does not fully show both attempts.",
+            "The explanation names what the interface does but leaves part of the data or verification story unclear."
+          ],
+          "strength": "A reader can open and compare two real working presentations."
+        },
+        "improve": {
+          "scores": [
+            22,
+            19,
+            18,
+            20
+          ],
+          "next": "Repeat the complete shopping task after the change and record size, quantity, total, and outcome.",
+          "evidence": [
+            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
+            "The change addresses the comment, but the evidence supports a narrower conclusion than the original task.",
+            "The retest records a limited response; it does not fully demonstrate the intended task or explanation.",
+            "The reflection is honest, but its explanation of a check or cross-review needs more detail."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+        }
+      }
+    },
+    {
+      "slug": "room-ready",
+      "student": "Maya Chen and Avery Ellis",
+      "level": "Stronger example",
+      "researchReason": "We chose a narrow assembly-request service instead of a marketplace. Our renter needs to explain one item and know what happens next. The operator needs complete details, but matching many providers or promising live availability would make this project too large.",
+      "planReason": "Both proposals collect the same item, preferred window, and demo email. A explains supported work first; B leads with the form. We will compare whether a visitor understands the service and knows a request still needs confirmation.",
+      "aObservation": "The reviewer read the supported items and described the next step before starting the form.",
+      "bObservation": "The reviewer reached the form sooner but asked whether the selected window was already reserved.",
+      "peer": "Morgan Lee",
+      "before": "The original booking-style wording led Morgan to assume that submitting the form guaranteed an appointment.",
+      "retest": "After we changed the action to Send demo request and clarified the pending receipt, Morgan submitted a desk request and correctly explained that an operator would confirm scope and availability later.",
+      "retestLimit": "This checks a classroom request flow. No real operator, scheduling integration, or business outcome was tested.",
+      "understanding": "The interface validates the item and preferred window. The local server checks both against allowed values and writes a request record. The history shows the stored request, but it is not a secure staff dashboard or a real operator notification.",
+      "aiUse": "We used the AI coding assistant for layout and validation drafts. Maya revised the service explanation and responsive layout; Avery implemented the request and receipt flow. We reviewed each other’s work, checked invalid inputs, and compared the receipt wording with the specification.",
+      "improved": "Our success check is that a visitor can submit a complete request and explain that it is pending. We do not count the demo as successful if the visitor believes a time has been booked.",
+      "milestones": {
+        "research": {
+          "scores": [
+            24,
+            23,
+            22,
+            23
+          ],
+          "next": "Explain why the IKEA reference is a partner channel and add an independent local competitor when extending the research.",
+          "evidence": [
+            "Three linked references, two positions, and two persona cards are submitted. The selected audience is explicit.",
+            "The choice links a manageable user task to the proposed scope.",
+            "Observations are dated and distinguished from assumptions; no demand claim is made.",
+            "The written audience choice explains both the choice and the excluded alternative."
+          ],
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+        },
+        "plan": {
+          "scores": [
+            24,
+            24,
+            23,
+            24
+          ],
+          "next": "Specify what the visitor should see if saving a request fails.",
+          "evidence": [
+            "Two specifications, three stories, priorities, data/states, and limits are present.",
+            "The two approaches change hierarchy while holding the offer and task steady.",
+            "Acceptance checks describe observable behavior for the core task.",
+            "The plan explains why this scope fits the chosen audience."
+          ],
+          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+        },
+        "build": {
+          "scores": [
+            24,
+            23,
+            23,
+            23
+          ],
+          "next": "Keep the comparison observations tied to the same visitor task.",
+          "evidence": [
+            "Both linked versions work and share a complete small workflow.",
+            "The launch choice uses the stated task and the comparison observations.",
+            "The record distinguishes observed task behavior from unmeasured outcomes.",
+            "The implementation explanation distinguishes the interface, data, and simulation limits."
+          ],
+          "strength": "A reader can open and compare two real working presentations."
+        },
+        "improve": {
+          "scores": [
+            24,
+            23,
+            24,
+            23
+          ],
+          "next": "Link each contribution statement to the relevant source section and review result.",
+          "evidence": [
+            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
+            "The change addresses the observed user problem without adding unnecessary scope.",
+            "The retest states what the reviewer did or explained after the change.",
+            "The written reflection identifies personal work, AI help, and limits."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+        }
+      }
+    },
+    {
+      "slug": "study-slot",
+      "student": "Jordan Rivera and Riley Park",
+      "level": "Developing example",
+      "researchReason": "We chose beginning web-development students because they can use a small set of topics. We compared scheduling tools, but did not compare actual tutoring services. That gives us ideas for the request flow, not enough evidence about what would make a tutoring offer different.",
+      "planReason": "Our two plans put the topic explanation or the request controls first. We split the work into the page and the form. Both members help review, but our first task list does not explain how long integration and retesting will take.",
+      "aObservation": "The reviewer understood that the supported topics were HTML, CSS, and introductory JavaScript.",
+      "bObservation": "The reviewer could select a preferred window but initially treated the choice as a reservation.",
+      "peer": "Jamie Ross",
+      "before": "Jamie thought selecting a window meant that a tutor was available at that time.",
+      "retest": "After we changed the label and receipt, Jamie said the request was pending. We did not record a second attempt with a missing topic after the wording change.",
+      "retestLimit": "We checked the new message, but our peer record does not cover the revised error path.",
+      "understanding": "The request sends a topic and preferred window to storage. The returned status means pending, not booked. Our explanation identifies the fields and status, but does not explain the request-history handoff as clearly as the form.",
+      "aiUse": "We used the AI coding assistant to draft the request form and help debug the layout. Jordan owned validation and the receipt; Riley owned the service explanation and layout. We reviewed each other’s changes, but our record is stronger on the valid path than on negative cases.",
+      "improved": "Our next review will use two tasks: submit a CSS request and try submitting without a topic. Riley will review the receipt; Jordan will review whether the service explanation matches the available topics.",
+      "milestones": {
+        "research": {
+          "scores": [
+            22,
+            20,
+            18,
+            21
+          ],
+          "next": "Add a tutoring-service reference and explain how it changes the audience or offer.",
+          "evidence": [
+            "Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief.",
+            "The choice leans on a broad impression or preference rather than a specific task.",
+            "Sources are named and assumptions disclosed, but the source-to-need connection is weak.",
+            "The explanation identifies a direction but leaves the priority among user needs unclear."
+          ],
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+        },
+        "plan": {
+          "scores": [
+            23,
+            20,
+            20,
+            21
+          ],
+          "next": "Break the shared integration and QA tasks into owned, comparable pieces.",
+          "evidence": [
+            "Two specifications, three stories, priorities, data/states, and limits are present. Integration ownership is still vague.",
+            "The two approaches differ, but the reason for favoring one is general.",
+            "The first acceptance check uses clear/easy language without an observable result.",
+            "The written explanation needs a clearer link between the user need, feature, and check."
+          ],
+          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+        },
+        "build": {
+          "scores": [
+            24,
+            21,
+            20,
+            21
+          ],
+          "next": "Record the same topic-and-window task in each version before choosing the launch version.",
+          "evidence": [
+            "Both linked versions work and share a complete small workflow.",
+            "The choice is plausible, but the notes include preference or inconsistent task evidence.",
+            "The product has technical checks, but the student comparison record does not fully show both attempts.",
+            "The explanation names what the interface does but leaves part of the data or verification story unclear."
+          ],
+          "strength": "A reader can open and compare two real working presentations."
+        },
+        "improve": {
+          "scores": [
+            23,
+            20,
+            19,
+            21
+          ],
+          "next": "Retest both the successful request and a missing-topic case, with the actual outcome written down.",
+          "evidence": [
+            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
+            "The change addresses the comment, but the evidence supports a narrower conclusion than the original task.",
+            "The retest records a limited response; it does not fully demonstrate the intended task or explanation.",
+            "The reflection is honest, but its explanation of a check or cross-review needs more detail."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+        }
+      }
+    },
+    {
+      "slug": "maya-chen",
+      "student": "Maya Chen",
+      "level": "Stronger example",
+      "researchReason": "I chose an internship recruiter as my primary reader because the first task is to find credible project work quickly. The references show clear introductions, project evidence, and professional links. They are design references from experienced practitioners, not a level of experience I claim to have.",
+      "planReason": "Both plans contain the same two course projects and professional information. A leads with project evidence; B gives my introduction more space first. I will compare whether a visitor can find a project, my own group contribution, and my résumé.",
+      "aObservation": "The reviewer reached both project cards and found the contribution paragraph.",
+      "bObservation": "The reviewer understood my interests first, then continued to the projects. A matched the project-finding task more directly.",
+      "peer": "Drew Kim",
+      "before": "Drew could explain the team product but could not identify which part I had built.",
+      "retest": "After I added My contribution and a direct résumé navigation link, Drew identified my service explanation and responsive-layout work and opened the résumé without a hint.",
+      "retestLimit": "The review checks whether a classmate can find the evidence. It is not a recruiter interview or hiring result.",
+      "understanding": "The portfolio is a static site. Each case study links to a working product and explains my contribution separately from the team’s result. The sample profile content represents fictional accounts; a real student must link their own actual GitHub and LinkedIn.",
+      "aiUse": "I used the AI coding assistant to suggest two page orders and shorten draft copy. I kept the wording tied to the work shown, checked the project links, and revised the group case study after feedback. I removed claims that would imply professional employment.",
+      "improved": "I built the service explanation and responsive layouts. My partner implemented intake and receipts. I reviewed the form and helped change the wording so a request would not look like a confirmed appointment.",
+      "milestones": {
+        "research": {
+          "scores": [
+            24,
+            23,
+            22,
+            23
+          ],
+          "next": "Connect each reference-site observation to one specific portfolio choice.",
+          "evidence": [
+            "Three linked references, two positions, and two persona cards are submitted. The selected audience is explicit.",
+            "The choice links a manageable user task to the proposed scope.",
+            "Observations are dated and distinguished from assumptions; no demand claim is made.",
+            "The written audience choice explains both the choice and the excluded alternative."
+          ],
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+        },
+        "plan": {
+          "scores": [
+            24,
+            23,
+            23,
+            23
+          ],
+          "next": "Define exactly what contribution detail a reader should be able to identify.",
+          "evidence": [
+            "Two specifications, three stories, priorities, data/states, and limits are present.",
+            "The two approaches change hierarchy while holding the offer and task steady.",
+            "Acceptance checks describe observable behavior for the core task.",
+            "The plan explains why this scope fits the chosen audience."
+          ],
+          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+        },
+        "build": {
+          "scores": [
+            24,
+            23,
+            23,
+            23
+          ],
+          "next": "Keep a short note of the task outcome for each version.",
+          "evidence": [
+            "Both linked versions work and share a complete small workflow.",
+            "The launch choice uses the stated task and the comparison observations.",
+            "The record distinguishes observed task behavior from unmeasured outcomes.",
+            "The implementation explanation distinguishes the interface, data, and simulation limits."
+          ],
+          "strength": "A reader can open and compare two real working presentations."
+        },
+        "improve": {
+          "scores": [
+            25,
+            25,
+            25,
+            25
+          ],
+          "next": "Check the exported résumé and actual account links when adapting this fictional example to a real student.",
+          "evidence": [
+            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
+            "The change addresses the observed user problem without adding unnecessary scope.",
+            "The retest states what the reviewer did or explained after the change.",
+            "The written reflection identifies personal work, AI help, and limits."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+        }
+      }
+    },
+    {
+      "slug": "jordan-rivera",
+      "student": "Jordan Rivera",
+      "level": "Developing example",
+      "researchReason": "I chose a team lead because I think managers want to see reasoning. I also want the page to work for recruiters. I compared three sites, but my reader descriptions are broad and I have not explained which reader task should take priority.",
+      "planReason": "I planned an evidence-first and an introduction-first version. Both show my projects and profile content. My first acceptance check says the case studies should be clear, but does not say what a visitor should be able to explain after reading them.",
+      "aObservation": "The reviewer noticed the project reasoning and said it was useful.",
+      "bObservation": "The reviewer liked the introduction. I recorded these comments, but not a consistent task result for both versions.",
+      "peer": "Alex Reed",
+      "before": "Alex saw tools listed but could not tell what I had checked in the AI-assisted work.",
+      "retest": "After I added an AI-use paragraph, Alex pointed to the required-field check. I did not ask Alex to explain the input, expected result, and why that check mattered.",
+      "retestLimit": "The revised paragraph is easier to locate, but the retest gives only limited evidence that the explanation is understandable.",
+      "understanding": "I explain that AI helped draft code and that I checked required fields. My first submission does not explain a specific invalid input and its expected behavior in enough detail.",
+      "aiUse": "I used the AI coding assistant for copy suggestions and to compare two layouts. I checked links and reviewed the final page, but my initial AI-use notes say “checked the form” without naming the input and expected result.",
+      "improved": "I asked the coding assistant to draft required-field validation. I then tried submitting without a topic: the request should not be saved. With CSS and a preferred window selected, it should save a pending request and show a reference. This checks that incomplete requests are blocked without blocking valid ones.",
+      "milestones": {
+        "research": {
+          "scores": [
+            22,
+            19,
+            18,
+            20
+          ],
+          "next": "Choose one primary reviewer and name the task they need to complete.",
+          "evidence": [
+            "Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief.",
+            "The choice leans on a broad impression or preference rather than a specific task.",
+            "Sources are named and assumptions disclosed, but the source-to-need connection is weak.",
+            "The explanation identifies a direction but leaves the priority among user needs unclear."
+          ],
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+        },
+        "plan": {
+          "scores": [
+            23,
+            20,
+            19,
+            21
+          ],
+          "next": "Replace “clear case study” with an observable result: name my feature, one decision, and one check.",
+          "evidence": [
+            "Two specifications, three stories, priorities, data/states, and limits are present.",
+            "The two approaches differ, but the reason for favoring one is general.",
+            "The first acceptance check uses clear/easy language without an observable result.",
+            "The written explanation needs a clearer link between the user need, feature, and check."
+          ],
+          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+        },
+        "build": {
+          "scores": [
+            23,
+            20,
+            20,
+            21
+          ],
+          "next": "Use the same evidence-finding task in A and B, then record the outcome.",
+          "evidence": [
+            "Both linked versions work and share a complete small workflow.",
+            "The choice is plausible, but the notes include preference or inconsistent task evidence.",
+            "The product has technical checks, but the student comparison record does not fully show both attempts.",
+            "The explanation names what the interface does but leaves part of the data or verification story unclear."
+          ],
+          "strength": "A reader can open and compare two real working presentations."
+        },
+        "improve": {
+          "scores": [
+            23,
+            20,
+            19,
+            21
+          ],
+          "next": "Add a concrete input, expected result, and observed result to the AI-use explanation and repeat the peer explanation task.",
+          "evidence": [
+            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
+            "The change addresses the comment, but the evidence supports a narrower conclusion than the original task.",
+            "The retest records a limited response; it does not fully demonstrate the intended task or explanation.",
+            "The reflection is honest, but its explanation of a check or cross-review needs more detail."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+        }
+      }
+    }
+  ]
+}

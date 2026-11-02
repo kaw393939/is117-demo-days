@@ -47,4 +47,18 @@ VitePress is pinned to stable 1.6.4. Its Vite dependency is overridden to patche
 
 ## Worked submission examples
 
-Six connected example packets (two per project) live in `docs/examples/submissions/`. Twelve runnable A/B products and two sets of professional-profile drafts live in `docs/public/samples/`. The optional Node 24 server demonstrates SQLite-backed demo records. Fictional personas, feedback and credentials are explicitly labeled.
+Six connected example packets (two per project) live in `docs/examples/submissions/`. Twelve runnable A/B products and two sets of completed fictional professional-profile examples live in `docs/public/samples/`. The optional Node 24 server demonstrates SQLite-backed demo records. Fictional personas, feedback and credentials are explicitly labeled.
+
+Each packet includes four completed milestones and an illustrative instructor assessment using the published four-part rubric. The example scores are teaching aids, not real student grades or course weights.
+
+`data/graded-examples.json` and `docs/public/samples/projects.json` supply the worked examples. After editing them or the generator, run:
+
+```sh
+npm run examples:generate
+npm run check:student-work
+npm run check:examples
+npm run check
+npm run docs:build
+```
+
+The generator writes the six guide pages and 36 downloadable Markdown files. Packaging rebuilds both ZIP downloads from the current source. Edit the generator/data rather than generated submission pages. The technical-check receipt distinguishes implementation verification from fictional peer-review scenarios.
