@@ -4,6 +4,10 @@ Use **one Markdown file per project** and update it at each step. Your team shar
 
 <a href="/is117-demo-days/downloads/project-process-template.md" download="project-process.md">Download the editable Markdown version</a>, save it as `project-process.md`, and keep it in your repository.
 
+## Feedback at every stage
+
+Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Section 007 begins portfolio Research + Plan together after November 12.
+
 ## 1. Research
 
 - Compare three relevant sites: source/date, observation, implication. Add short notes on look, brand character, and honest reasons to trust or act. Identify direct competitors versus adjacent references.

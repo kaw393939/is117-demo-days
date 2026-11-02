@@ -26,7 +26,7 @@ At each step, compare two credible options and explain your choice. You can shar
 
 ## Keep a short record
 
-Use [one document per project](/templates/four-milestones). Update it as you go: research, choices, website plan, feedback, changes, checks, and AI use. The four milestones cover your four individual reviews and four group reviews; individual reviews cover the T-shirt store and portfolio together.
+Use [one document per project](/templates/four-milestones). Update it as you go: research, choices, website plan, feedback, changes, checks, and AI use. Submit each active project separately each week. Section 007 starts the portfolio after the November 12 career reflection; [see its class-by-class plan](/course/section-007). Canvas setup for other sections is being aligned separately.
 
 ## Where to go next
 

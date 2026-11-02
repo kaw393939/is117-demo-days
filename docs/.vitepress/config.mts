@@ -4,10 +4,12 @@ const start = { text: 'Start here', items: [
   { text: 'What you are building', link: '/course/overview' },
   { text: 'Four steps & grading', link: '/course/milestones' },
   { text: 'Class dates & due dates', link: '/course/schedule' },
+  { text: 'Section 007: class-by-class', link: '/course/section-007' },
   { text: 'See completed examples', link: '/examples/submissions/' }
 ] }
 const career = [
   { text: 'Careers & next courses', items: [
+    { text: 'Start: career exploration', link: '/career/explore' },
     { text: 'What is an FDE?', link: '/career/fde' },
     { text: 'Job examples & pay', link: '/career/jobs-and-pay' },
     { text: 'NYC-area internships', link: '/career/internships' },
@@ -34,6 +36,7 @@ const standard = [start,
     { text: 'Practice with a fictional customer', link: '/process/simulated-customer' },
     { text: 'Divide the group work', link: '/process/collaboration' },
     { text: 'Test & get feedback', link: '/process/quality' },
+    { text: 'Review with GitHub issues', link: '/process/github-feedback' },
     { text: 'Use AI & explain your work', link: '/process/ai' },
     { text: 'Copy the submission template', link: '/templates/four-milestones' },
     { text: 'More templates', link: '/templates/' },

@@ -13,11 +13,11 @@ Verified **November 2, 2026**. Course homepages and syllabus summaries were insp
 
 ## Instruction status
 
-**Existing Canvas expectations retained:** portfolio; individual T-shirt site with SQLite and simulated checkout; AI/Git collaboration; four individual and four group reviews; December 22 overflow/redo block and Zoom screen sharing guidance.
+**Existing Canvas expectations retained:** portfolio; individual T-shirt site with SQLite and simulated checkout; AI/Git collaboration; the earlier four individual and four group reviews (section 007 now separates T-shirt and portfolio submissions under the instructor’s revised plan); December 22 overflow/redo block and Zoom screen sharing guidance.
 
 **Instructor project direction published through this guide:** independent T-shirt brand vision with competitive-analysis-driven specifications; broader business product/service group project; balanced design/development/QA; portfolio branding and career materials; demos in the last two regular meetings; issue-based signup.
 
-**Operational choices used to make signup workable:** 10-minute pair slots, a 12-minute trio slot in each section, first-requested preferences subject to instructor confirmation, and a generated schedule. Empty slots do not imply a student assignment. The [project-cycle dates](/course/schedule) now specify milestone submissions and protected feedback meetings. Matching Canvas assignment entries are pending. The [simple milestone rubric](/course/milestones) specifies equal criterion shares; it does not change syllabus grading-category weights.
+**Operational choices used to make signup workable:** 10-minute pair slots, a 12-minute trio slot in each section, first-requested preferences subject to instructor confirmation, and a generated schedule. Empty slots do not imply a student assignment. The [project-cycle dates](/course/schedule) now specify milestone submissions and protected feedback meetings. Matching Canvas assignment placeholders are drafted but remain unpublished while descriptions/module setup are completed. The [simple milestone rubric](/course/milestones) specifies equal criterion shares; it does not change syllabus grading-category weights.
 
 ## If instructions appear to conflict
 

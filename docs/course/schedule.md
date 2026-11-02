@@ -2,7 +2,11 @@
 
 **Attendance is required.** Bring your computer and current work. Class time includes partner work, feedback, and time to make improvements.
 
-All dates are in **2026**, and all times are **Eastern**. Open your section below. Milestones are due **at the start of class**; final publication is due Sunday, December 6. Matching Canvas entries are pending—check Canvas for submission settings and later instructor changes.
+All dates are in **2026**, and all times are **Eastern**. Open your section below. Milestones are due **at the start of class**; final publication is due Sunday, December 6. Canvas review placeholders are drafted and unpublished; follow the published Canvas entries for submission settings and later instructor changes.
+
+There are **four project steps across five preparation weeks**, including the Thanksgiving adjustment and the week for work/catch-up before demos.
+
+**Section 007:** use the [class-by-class plan](/course/section-007) for separate project submissions, career exploration, portfolio launch, and GitHub review activities. Section 005’s Canvas conversion will follow separately.
 
 ## Find your section
 
@@ -47,9 +51,24 @@ All dates are in **2026**, and all times are **Eastern**. Open your section belo
 
 These are focuses within the existing milestones, not extra submissions. [See the short strategy example](/process/find-your-angle).
 
+## Career reflection starts the portfolio
+
+Introduce career exploration November 5, discuss two role cards November 9/10, and submit the reflection **Thursday November 12 at the start of class**. Use that class to start portfolio research and planning; its short Research + Plan checkpoint follows November 16/17. Section 007’s Canvas career date is updated; section 005’s corresponding draft still needs updating before publication. [Career activity](/career/explore).
+
 ## Our weekly rhythm
 
 <LearningDiagram kind="week" />
+
+## Week before demos: work and catch up
+
+**November 30–December 3: no new topic.** Use class to finish projects, catch up on individual and group reviews, get peer feedback, fix problems, and rehearse. Bring the work that still needs attention.
+
+- **November 30 / December 1:** protected work and peer-walkthrough time.
+- **December 3:** submit the final review record at the start of class, then continue fixes, catch-up reviews, and rehearsal.
+- **December 6, 11:59 p.m.:** all three sites and final links ready.
+- **December 7/8 and 10:** section-specific Demo Days.
+
+The usual submit-and-start-the-next-topic pattern applies to the first three handoffs. The final cycle ends with this work/catch-up week instead of introducing another topic.
 
 ## Thanksgiving changes the last cycle
 

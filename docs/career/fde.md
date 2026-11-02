@@ -19,6 +19,10 @@ Think of a business that receives incomplete service requests. An FDE might work
 
 These are early steps. Many FDE internships also expect strong programming, APIs, databases, cloud systems, or AI engineering. Keep building that depth through later courses and projects.
 
+## Try the guided activity
+
+[Compare two roles and write a short career reflection](/career/explore). Open employer descriptions, connect expectations to your project evidence, and choose a small next step. [See two completed reflections with feedback](/examples/career-reflections). Your Canvas assignment supplies the deadline.
+
 ## Explore the next step
 
 - [Job examples and pay](/career/jobs-and-pay): read small excerpts and learn what the skills mean.

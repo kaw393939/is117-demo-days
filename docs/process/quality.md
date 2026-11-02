@@ -23,7 +23,7 @@ Ask your peer: **What is offered? Who is it for? What gives a reason to trust it
 
 ## Progress reviews
 
-Complete **four individual reviews** covering the portfolio and T-shirt project, and **four group reviews**, as stated in Canvas. The [four milestones](/course/milestones) organize those reviews as research, plan, build, and review/launch. The [class schedule](/course/schedule) reserves time for partner work and feedback. Attendance is required.
+Use [one submission per active project each week](/course/milestones#how-to-submit). The [class schedule](/course/schedule) reserves time for partner work and feedback. Attendance is required. During each stage, use [GitHub issues](/process/github-feedback) to record peer observations, your response, and the check of the changed work.
 
 For each review, retain: the version shown, reviewer/date, feedback, the action taken, and the result. Each of the three projects must include an actual peer walkthrough, at least one meaningful feedback-driven change, and a retest. Document this in each case study.
 

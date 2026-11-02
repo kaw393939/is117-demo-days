@@ -12,10 +12,10 @@ const diagrams = {
  ['02', 'Plan', 'One customer need', 'Approach A ↔ Approach B', 'Stories + features + checks'],
  ['03', 'Build', 'One core workflow', 'Version A ↔ Version B', 'Compare the same realistic task'],
  ['04', 'Improve', 'One selected launch version', 'Peer observation → meaningful change', 'Retest, explain, publish'] ] },
- week: { title: 'The class cycle', note: 'Repeat for each milestone. Thanksgiving extends the final cycle; see the dates below.', steps: [
+ week: { title: 'The class cycle', note: 'Submit as the next topic starts in the first three cycles. The final cycle ends with a work/catch-up week; Thanksgiving changes its meeting dates.', steps: [
  ['1', 'Start', 'Monday · 005 / Tuesday · 007', 'Understand the next milestone', 'Begin with instructor guidance'],
- ['2', 'Work together', 'Thursday', 'Compare, review, and ask questions', 'Protected partner-feedback time'],
- ['3', 'Submit + restart', 'Next Monday / Tuesday', 'Submit at the start of class', 'Review briefly, then start the next cycle'] ] },
+ ['2', 'Work together', 'Thursday', 'Open peer issues; respond and revise', 'Protected partner-feedback time'],
+ ['3', 'Submit', 'Following class: next topic begins', 'Submit at the start of class', 'Final cycle: catch up and rehearse instead'] ] },
  evidence: { title: 'A T-shirt decision you can trace', note: 'Competitor pages suggest a need. They do not validate a customer persona by themselves.', steps: [
  ['1', 'Observation', 'Competitors show fit information', 'Evidence: linked product pages', 'Keep facts separate from interpretation'],
  ['2', 'Persona hypothesis', 'A shopper uncertain about fit', 'Need: confidence in choosing a size', 'Check the assumption with a person'],
@@ -23,9 +23,9 @@ const diagrams = {
  ['4', 'Feature + check', 'Size guide beside the selector', 'Peer can find it without a hint', 'Observe → improve → retest'] ] },
  feedback: { title: 'Feedback becomes a product improvement', note: 'Do this for the T-shirt store, group business, and portfolio. Record actual observations.', steps: [
  ['1', 'Give a task', '“Choose a shirt size.”', 'Let a peer attempt it', 'Observe before you explain'],
- ['2', 'Notice a problem', '“I could not find measurements.”', 'Record the confusion', 'Ask what the peer expected'],
+ ['2', 'Notice a problem', '“I could not find measurements.”', 'Open a specific GitHub issue', 'Ask what the peer expected'],
  ['3', 'Make a change', 'Move the size guide beside sizes', 'A specific, useful improvement', 'Link a screenshot or commit'],
- ['4', 'Check again', 'Repeat the same task', 'Record what actually happens', 'Keep the result and any remaining issue'] ] },
+ ['4', 'Check again', 'Repeat the same task', 'Record what actually happens', 'Comment with the result; close if resolved'] ] },
  fde: { title: 'FDE work connects people, software, and outcomes', note: 'An instructor synthesis of the linked employer postings; technical depth varies by role.', steps: [
  ['1', 'Understand', 'Business workflow + stakeholder need', 'Ask, observe, and clarify', 'IS117: research and personas'],
  ['2', 'Specify + build', 'A practical technical solution', 'Code, data, integration, and AI', 'IS117: stories, specs, and a small product'],

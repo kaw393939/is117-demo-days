@@ -25,7 +25,9 @@ Update schedule/source notes when Canvas or registrar details change. Keep grade
 
 ## Milestone publication status
 
-The guide now contains the instructor’s four milestone dates, required attendance, protected peer-work meetings, and an equal-share rubric. Canvas milestone entries have not yet been created by this update. Synchronize the dates and link each entry to the appropriate guide section when authorized; keep historical assignments intact.
+Section 007 now has twelve unpublished placeholders: four T-shirt, four team-business, three portfolio, and one career reflection. Its career deadline is November 12 at 8:30 a.m. Five unpublished weekly/career modules connect the existing assignments to the central class plan. Six concise HTML descriptions are saved (T-shirt Research/Plan, team Research/Plan, career, and portfolio Improve); six remain pending because Safari’s full editor intermittently renders blank. The first two team assignments use the new empty final-project group set with individual grading. Remaining team settings and actual pairs/trio require completion before publication. The course home now links the central class plan and uses the revised project scope and schedule. Section 005’s nine earlier combined-review drafts are unchanged. No import or export was used; earlier submissions and category weights were preserved.
+
+Before publishing, verify descriptions, one team submission per actual pair/trio, dates, student visibility, and the complete submission flow. Do not infer readiness from placeholder creation.
 
 ## Keep the student path simple
 

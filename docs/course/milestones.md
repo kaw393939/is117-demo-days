@@ -37,16 +37,15 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 ## How to submit
 
-Keep **three evolving documents**: your T-shirt record, your shorter portfolio record, and the team's shared business record. At each milestone, update the current section.
+**One submission per active project each week.** Keep three evolving records: your T-shirt record, your portfolio record, and the team’s shared business record. Update the current stage; do not make a new report each week.
 
-| Canvas review | Links to include |
-| --- | --- |
-| Individual review, four times | Your T-shirt **and** portfolio records; add the working version links as you build. |
-| Group review, four times | The shared business record, version links as available, and each member's contribution. |
+For **section 007**, T-shirt and team Research are due November 10. The career reflection is due November 12 and starts the portfolio. Its shorter Research and Plan are submitted together November 17. All three projects then have Build and Improve checkpoints. [Follow the class-by-class plan](/course/section-007).
 
-That is **eight review milestones**, covering three projects. The same documents grow over time. Use the matching Canvas assignment and its submission settings; a GitHub demo-signup issue does not submit coursework.
+Submit each project in its own Canvas box: record link, current site/repository links as available, [feedback issue links](/process/github-feedback), and a short change/open-issue note. The team submits once and names each member’s contribution. This makes four T-shirt checkpoints, four shared team checkpoints, and three portfolio checkpoints in 007; the private career reflection is separate.
 
-**Canvas setup is pending.** If the matching entry is not visible, keep your work and links in your repository and ask the instructor in class or Canvas. Check Canvas for the official submission box, points, and any later changes.
+**Canvas setup is being aligned one section at a time.** Section 007 has separate unpublished project placeholders. Section 005’s earlier combined individual-review drafts have not yet been converted; follow its published Canvas directions. No new draft is an active submission box until published.
+
+Submit the final review record on December 3 at the start of class. Continue fixes and rehearsal afterward; all sites and final links must be ready December 6 at 11:59 p.m. Follow Canvas for any record-resubmission arrangements. A demo-signup issue does not submit coursework.
 
 ## How each step is graded
 

@@ -3,6 +3,10 @@
 Use **one Markdown file per project** and update it at each step. Your team shares its group record; the portfolio can use shorter notes. Future sections can stay unfinished until their milestone. [See the hand-in map](https://kaw393939.github.io/is117-demo-days/course/milestones.html#how-to-submit) or [a completed example](https://kaw393939.github.io/is117-demo-days/examples/submissions/).
 
 
+## Feedback at every stage
+
+Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Section 007 begins portfolio Research + Plan together after November 12.
+
 ## 1. Research
 
 - Compare three relevant sites: source/date, observation, implication. Add short notes on look, brand character, and honest reasons to trust or act. Identify direct competitors versus adjacent references.

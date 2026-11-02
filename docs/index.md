@@ -31,13 +31,13 @@ features:
 
 Reuse your earlier design library and Brand Studio work to [find your brand’s angle](/process/find-your-angle): connect the audience, look, voice, and honest reasons to act.
 
-The portfolio research is shorter. Your group uses one shared record. [See how the three projects fit into the submissions](/course/milestones#how-to-submit).
+The portfolio starts with career exploration due November 12. Your group uses one shared record. Section 007: [follow the class-by-class plan](/course/section-007). [See how the three projects fit into the submissions](/course/milestones#how-to-submit).
 
 **First research submission:** section 005 — **Nov 9 at 11:30 a.m.**; section 007 — **Nov 10 at 8:30 a.m.** [See the full schedule and Thanksgiving adjustment](/course/schedule).
 
 ## You will have time to work together
 
-**Attendance is required.** Start each step in the first class, work with classmates in the next, and submit when the next cycle begins. Each project needs a peer walkthrough and at least one change based on feedback.
+**Attendance is required.** Start each step in the first class, work with classmates in the next, and submit when the next cycle begins. Use [GitHub issues](/process/github-feedback) to record feedback and responses at each stage. Each final project needs a peer walkthrough, a meaningful change, and a retest.
 
 ## Ready for Demo Days?
 

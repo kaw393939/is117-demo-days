@@ -1,5 +1,7 @@
 # Completed student work, grades, and feedback
 
+[Follow one connected student journey across all three projects](/examples/student-journey).
+
 Choose **one example for your project**, then read only your current step. Open its feedback when you are ready. Each row offers a stronger and a developing submission to compare. **Each submission already includes its own A/B product versions.**
 
 <SampleAssessment />
