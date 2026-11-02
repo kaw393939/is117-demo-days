@@ -8,5 +8,6 @@ Copy these structures into your own project repository and replace the prompts w
 - [QA and review record](/templates/qa)
 - [Portfolio case study](/templates/case-study)
 - [Internship research](/templates/internship)
+- [Fill-in student résumé](/templates/resume) — [worked example](/examples/student-resume)
 
 Keep documents short enough to use during development. Update them when the work changes.

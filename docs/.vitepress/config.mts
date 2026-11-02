@@ -49,6 +49,10 @@ export default defineConfig({
       { text: 'Prepare early', items: [
         { text: 'What FDEs do', link: '/career/fde' },
         { text: 'Skills & next steps', link: '/career/skills' },
+        { text: 'Professional GitHub portfolio', link: '/career/github' },
+        { text: 'Professional LinkedIn profile', link: '/career/linkedin' },
+        { text: 'Example student résumé', link: '/examples/student-resume' },
+        { text: 'Fill-in résumé template', link: '/templates/resume' },
         { text: 'NYC internship examples & dates', link: '/career/internships' }
       ]}
     ],

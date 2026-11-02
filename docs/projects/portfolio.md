@@ -11,6 +11,18 @@ Create an individual website that communicates your style, goals, and ability to
 - A group project case study with live site, repository, and **your specific contribution**.
 - An appropriate professional contact route.
 
+## Build a connected professional presence
+
+Your website, GitHub, LinkedIn, and résumé should reinforce the same accurate story. The website demonstrates design and persuasion; GitHub shows how you build; LinkedIn introduces your direction and projects; the résumé selects relevant evidence for a particular opportunity.
+
+| Prepare | What to complete | Guide |
+| --- | --- | --- |
+| GitHub portfolio | Clear profile, selected repositories, readable READMEs, live links, and contribution evidence | [Professional GitHub guide](/career/github) |
+| LinkedIn profile | Specific headline, About section, education, project descriptions, and portfolio/GitHub links | [Professional LinkedIn guide](/career/linkedin) |
+| Résumé | A concise account of actual skills and course projects, tailored to your goal | [Worked student example](/examples/student-resume) · [Fill-in template](/templates/resume) |
+
+You do not need prior technical employment to explain a real course project well. Describe class businesses as projects, identify your individual group contribution, and use only skills and results you can substantiate. No paid profile subscription is required for this coursework.
+
 ## Make design intentional
 
 Write a short brand rationale covering audience, desired impression, tone, typography, colors, imagery, and layout. Choose one primary archetype or a purposeful combination as a design aid. For example, a **Creator** direction might emphasize original work and process; a **Sage** direction might emphasize clear explanations and evidence; an **Explorer** direction might emphasize curiosity and experiments. These are optional frameworks, not personality tests or prescribed styles.

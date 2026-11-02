@@ -6,6 +6,13 @@ Fall 2026 project and Demo Day guide for Keith Williams's IS117 sections 005 and
 
 Students build an individual portfolio, an individual Plain White T-Shirt business, and a partner/group business project. IS117 develops early foundations for internships and customer-facing engineering; it does not by itself establish FDE job readiness.
 
+## Professional profile resources
+
+- [GitHub portfolio guide](docs/career/github.md)
+- [LinkedIn profile guide](docs/career/linkedin.md)
+- [Course-based résumé example](docs/examples/student-resume.md)
+- [Fill-in résumé template](docs/templates/resume.md)
+
 ## Develop the site
 
 Use Node.js 22 or later (CI uses Node 24).

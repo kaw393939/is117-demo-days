@@ -31,6 +31,7 @@ Use public-facing names or GitHub handles. Keep student IDs, grades, private cir
 ## Ready-to-present checklist
 
 - Live portfolio, T-shirt site, group site, repositories, specification, and QA notes are ready to open.
+- Your portfolio links to a readable résumé and professional GitHub/LinkedIn profiles; descriptions agree with the work you will show.
 - Each member can explain their own work and the integrated result.
 - Synthetic demo data and a repeatable starting state are prepared.
 - The main journey and a useful validation/error state have been checked.

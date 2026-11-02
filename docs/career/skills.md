@@ -22,3 +22,7 @@ After IS117, choose one working project and deepen it. Add a real server/API, im
 Write résumé bullets using an action, implemented scope, and evidence. Example: “Built a simulated storefront with size selection, cart totals, and SQLite order storage; verified the checkout journey and documented known limitations.” Use that statement only if you actually completed those things.
 
 Do not claim measured time savings or conversion improvements without data. Your desired career direction can be ambitious while your description of current skills remains accurate.
+
+## Package your evidence professionally
+
+Use the [GitHub guide](/career/github), [LinkedIn guide](/career/linkedin), and [worked student résumé](/examples/student-resume) to turn your actual course work into a consistent professional introduction.
