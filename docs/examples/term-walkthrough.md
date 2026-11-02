@@ -1,6 +1,6 @@
-# A practice run from first class to Demo Day
+# From first class to Demo Day
 
-**Optional worked example and instructor review.** Maya Chen, partner Avery Ellis, classmates, and the instructor dialogue below are fictional. Future class dates are an accelerated role-play, not attendance, observed student behavior, real peer research, or Canvas submissions. Read [the shorter student journey](/examples/student-journey) for the actual submission notes and completed work.
+**Optional instructor walkthrough.** The students and conversations are fictional. This simulation links completed examples; it is not actual class participation or Canvas submissions. [See the filled submission notes](/examples/student-journey). Browser checks are listed separately below.
 
 ## The three finished projects
 
