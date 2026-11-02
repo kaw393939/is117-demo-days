@@ -2,11 +2,7 @@
 
 Build a **T-shirt store**, a **group business site**, and your **personal portfolio**. Practice a professional process using AI to solve a realistic business problem. You do not need to be an expert.
 
-<LearningDiagram kind="process" />
-
-## Start here
-
-Read this page, check [your dates](/course/schedule), then copy [the short template](/templates/four-milestones). Open a completed example only for the step you are working on. The detailed templates and career articles are help when you need them.
+Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional help. [See the visual roadmap](/course/overview#follow-four-steps).
 
 ## What to submit at each step
 

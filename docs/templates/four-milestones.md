@@ -1,15 +1,13 @@
 # Your four-step submission template
 
-Keep this in your own repository and update it as you work. Use it for each project; the portfolio can use shorter research and planning. [See two examples of each project](/examples/submissions/).
-
-Copy these headings into one Markdown file in each project repository. Your team shares its group record. Update the same file at each step; future sections can remain unfinished until that milestone. [See the Canvas hand-in map](/course/milestones#how-to-submit).
+Use **one Markdown file per project** and update it at each step. Your team shares its group record; the portfolio can use shorter notes. Future sections can stay unfinished until their milestone. [See the hand-in map](/course/milestones#how-to-submit) or [a completed example](/examples/submissions/).
 
 <a href="/is117-demo-days/downloads/project-process-template.md" download="project-process.md">Download the editable Markdown version</a>, save it as `project-process.md`, and keep it in your repository.
 
 ## 1. Research
 
 - Compare three relevant sites: source/date, observation, implication. Identify direct competitors versus adjacent references.
-- Consider two possible market/design positions.
+- Consider two ways to position your offer: who it serves and why they would choose it.
 - Write two short persona hypotheses: situation, goal, uncertainty, evidence, assumption. Choose a primary audience and explain why.
 
 ## 2. Plan
@@ -26,9 +24,11 @@ Copy these headings into one Markdown file in each project repository. Your team
 
 ## 4. Review and launch
 
-| Reviewer/date and version | Task | Observation | Change made | Retest result |
-| --- | --- | --- | --- | --- |
-| Your actual reviewer | A real visitor task | What actually happened | At least one meaningful change | What happened after the fix |
+- **Reviewer, date, and version:** who tried which version, and when?
+- **Task:** what did you ask them to do?
+- **Observation:** what actually happened?
+- **Change:** what meaningful change did you make from that feedback?
+- **Retest:** what happened when they tried it again?
 
 Repeat a final walkthrough on the selected version if the comparison happened earlier. Every project needs its own feedback-driven improvement.
 

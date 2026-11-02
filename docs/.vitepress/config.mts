@@ -102,6 +102,10 @@ export default defineConfig({
       provider: 'local',
       options: {
         miniSearch: {
+          options: {
+            // Students should find résumé with either spelling: resume or résumé.
+            processTerm: (term: string) => term.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+          },
           searchOptions: {
             // Definitions and instructions should precede repeated sample sections.
             boostDocument: (id: string) => id.includes('/process/') ? 4 : id.includes('/course/') ? 2 : 1

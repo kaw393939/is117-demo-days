@@ -2,12 +2,12 @@
 layout: home
 hero:
   name: IS117 Studio
-  text: Three projects. Four steps.
-  tagline: Research, plan, build, and improve. Use AI, compare two ideas, work with classmates, and show what you learned.
+  text: Start with research.
+  tagline: Week of Nov 2–8 · Compare three websites and choose an audience for your idea. Bring your notes to the November 5 feedback class.
   actions:
     - theme: brand
-      text: See the assignment
-      link: /course/milestones
+      text: Start this week’s task
+      link: /#this-week-start-your-research
     - theme: alt
       text: Check your due dates
       link: /course/schedule

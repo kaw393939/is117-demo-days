@@ -26,6 +26,8 @@ Here is a small T-shirt example. The proposed audience need remains an assumptio
 
 A **competitive landscape** is a short comparison of the choices a customer might consider. For each site, record its link, the date, whom it seems to serve, its offer, useful features, and one lesson for your project. Capture a few relevant screenshots with captions.
 
+A **position** explains who your offer serves and why they would choose it. For example, affordable everyday tees and custom shirts for clubs serve different needs.
+
 Separate an **observation** (“the page has a size guide”) from an **interpretation** (“this may reduce sizing uncertainty”). You cannot prove customer demand or a competitor's sales by looking at a website. For a portfolio, compare reference portfolios; for a service, identify direct competitors versus related workflow examples.
 
 ### 2. Compare two persona hypotheses

@@ -1,18 +1,19 @@
 # Completed student work, grades, and feedback
 
-Choose your project type. Each pair contains a **stronger submission** and a **developing submission**. Open the completed work, try its two versions, and read the rubric scores and instructor feedback for all four milestones.
+Choose **one example for your project**, then read only your current step. Open its feedback when you are ready. Each row offers a stronger and a developing submission to compare. **Each submission already includes its own A/B product versions.**
 
 <SampleAssessment />
 
 [How to read these grades](/examples/submissions/grading-guide) · [Download all six submissions and runnable source](/downloads/is117-graded-student-submissions.zip).
 
+<details>
+<summary>Preview the six example sites</summary>
+
 <ExampleGallery />
 
-## Read only the step you need
+</details>
 
-Choose **one example in your project category**, then use its milestone links. Read the student work first and open the rubric feedback when you are ready. Compare the second example to understand one difference in reasoning; you do not need to read all six packets now.
-
-The two submissions in a row are different teaching examples. **Each example already has its own A/B product versions.** You are not being asked to build both fictional businesses.
+Compare the second example to understand one difference in reasoning. You do not need to read all six packets or build both fictional businesses.
 
 ## What is inside each submission?
 
