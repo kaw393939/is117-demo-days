@@ -1,0 +1,41 @@
+# From competitor research to a website plan
+
+You do not need a large market report. Start with **three relevant websites** and a question: what can they teach you about serving your audience?
+
+<LearningDiagram kind="evidence" />
+
+## 1. Compare three sites
+
+A **competitive landscape** is a short comparison of the choices a customer might consider. For each site, record its link, the date, whom it seems to serve, its offer, useful features, and one lesson for your project. Capture a few relevant screenshots with captions.
+
+Separate an **observation** (“the page has a size guide”) from an **interpretation** (“this may reduce sizing uncertainty”). You cannot prove customer demand or a competitor's sales by looking at a website. For a portfolio, compare reference portfolios; for a service, identify direct competitors versus related workflow examples.
+
+## 2. Compare two persona hypotheses
+
+A **persona** is a short description of a user and their needs. At this stage, yours is a hypothesis: a reasonable idea to check, not a proven customer profile.
+
+Include the situation, goal, concern, information needed, and the evidence/assumptions behind it. Compare two possible audiences and choose one to focus on. Leave out invented background details that do not affect the design. A brief conversation or walkthrough can help you revise the assumption; a classmate does not represent the whole market.
+
+## 3. Write user stories
+
+A **user story** describes a need from the user's point of view:
+
+> As a shopper unsure about fit, I want to compare garment measurements so I can choose a size more confidently.
+
+The need comes first. A size guide is one possible feature that addresses it. “I want a chatbot” skips the reason it would help. Write three to five useful stories, then choose essential features and postpone the rest.
+
+## 4. Specify and check the behavior
+
+A **specification**, or **spec**, is your short plan for what the site should do. An **acceptance check** says how someone can tell whether a feature works.
+
+For the story above: “The guide is beside size selection, labels centimeters, and can be closed without losing the chosen size.” Compare two site approaches, build two meaningful versions, and ask a peer to attempt the same task in both. Choose a launch version, make at least one feedback-driven improvement, and check it again.
+
+## Optional web resources
+
+Read the relevant section, then apply one idea to your project. You do not need to read every article to begin.
+
+- [NN/g: Competitive usability evaluations](https://www.nngroup.com/articles/competitive-usability-evaluations/) — why comparing sites can inform design. Our class exercise is a small beginner review, not a professional usability study.
+- [NN/g: Personas](https://www.nngroup.com/articles/persona/) — how user research supports a useful persona. Our initial hypotheses need further checking.
+- [Atlassian: User stories](https://www.atlassian.com/agile/project-management/user-stories) — the user, goal, and reason behind a story.
+
+[See six complete examples](/examples/submissions/) · [Use the short submission template](/templates/four-milestones).

@@ -25,3 +25,7 @@ Some positions emphasize customer-facing software; others involve internal autom
 IS117 provides introductory web, design, research, collaboration, and delivery experience. Many FDE internships expect stronger programming, databases, APIs, testing, cloud deployment, or practical AI experience. Use your projects as a foundation for that next stage, not as a claim that one introductory course covers the entire role.
 
 Your portfolio should make your actual work visible: a useful problem, a working result, your contribution, and evidence of verification. See [skills and next steps](/career/skills) and [NYC internship examples](/career/internships).
+
+## See the work and plan your next step
+
+Read [short employer excerpts, pay examples, and skills explained](/career/jobs-and-pay), then explore [IS219, IS390, the planned summer IS218, and the BSEAI pathway](/career/course-pathway).

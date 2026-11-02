@@ -1,0 +1,23 @@
+LINKEDIN DRAFT — Jordan Rivera — FICTIONAL EXAMPLE
+
+HEADLINE
+NJIT student | Learning web development and AI-assisted project delivery | Interested in [actual internship direction]
+
+ABOUT
+I am studying [actual degree] at NJIT and building experience through course projects.
+In IS117 I am practicing competitive research, user stories, specifications, AI-assisted coding, and peer review.
+My projects include a simulated T-shirt store and a team service-request site.
+In the team project, my work focused on request validation and confirmation flow.
+I am interested in learning more about customer-facing software and collaborating on useful business tools.
+
+PROJECT 1: Plain White T-Shirt Company — IS117 course project
+Compared alternatives, built a simulated shopping workflow, and revised the site after peer feedback.
+[Actual live site and repository]
+
+PROJECT 2: Service-request website — IS117 team course project
+Contributed request validation and confirmation flow and cross-reviewed a teammate's work.
+[Actual live site and repository]
+
+EDUCATION AND LINKS
+Use your actual degree, dates, portfolio, GitHub, and institution details.
+Only claim completed work and checks you can explain. This draft does not imply employment, customer results, or FDE readiness.

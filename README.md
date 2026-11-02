@@ -44,3 +44,7 @@ Competitor screenshots are educational references to third-party websites, captu
 ## Dependency maintenance
 
 VitePress is pinned to stable 1.6.4. Its Vite dependency is overridden to patched 6.4.5 to avoid advisories in the older default dependency tree; the production build and browser preview are verified with this combination. Recheck compatibility and audit results when updating either version.
+
+## Worked submission examples
+
+Six connected example packets (two per project) live in `docs/examples/submissions/`. Twelve runnable A/B products and two sets of professional-profile drafts live in `docs/public/samples/`. The optional Node 24 server demonstrates SQLite-backed demo records. Fictional personas, feedback and credentials are explicitly labeled.

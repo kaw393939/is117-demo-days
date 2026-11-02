@@ -1,0 +1,34 @@
+JORDAN RIVERA — FICTIONAL STUDENT EXAMPLE
+Replace this name and all bracketed fields. Keep only claims you can verify.
+[Professional email] | [Your portfolio URL] | [Your GitHub URL] | [Your LinkedIn URL]
+
+DIRECTION
+NJIT student interested in web-development internships and customer-facing software.
+
+EDUCATION
+New Jersey Institute of Technology, Newark, NJ
+[Actual degree/major] | Expected graduation [Month Year]
+Relevant coursework: IS117 — Introduction to Website Development
+
+SKILLS — include only after demonstrating them
+HTML, CSS, JavaScript; Git/GitHub; competitive research; user stories;
+specifications; responsive design; manual QA; AI-assisted development.
+Add SQLite only if you personally connected and verified a database.
+
+COURSE PROJECTS — illustrative completion bullets; replace with actual results
+Individual T-shirt store | [Live URL] | [Repository URL]
+- Compared three references, considered two audiences, and specified a focused simulated purchase workflow.
+- Built two presentation alternatives and used a peer walkthrough to revise access to product information.
+- Checked size selection, quantity totals, required inputs, and demo confirmation.
+
+Group service project | Team of two | [Live URL] | [Repository URL]
+- Helped write the specification and divide comparable design, development, and QA tasks.
+- Personally implemented request validation and confirmation flow; reviewed a partner's work and documented one feedback-driven change.
+- Distinguished a pending service request from a confirmed booking.
+
+Professional portfolio | [Live URL] | [Repository URL]
+- Created two page approaches and selected one for an internship audience.
+- Wrote case studies that distinguish personal contributions, AI assistance, checks, and limitations.
+
+No employment, customer results, or metrics are implied. Export your own finished
+résumé as a readable PDF if you choose; this is a text content example.

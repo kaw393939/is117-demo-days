@@ -1,0 +1,17 @@
+# Maya Chen — fictional profile README example
+
+I am an NJIT student learning to turn business needs into useful websites.
+I am interested in [actual internship direction].
+
+## Selected course projects
+- [T-shirt store](REPLACE_WITH_YOUR_REPO): research, persona, two designs, simulated checkout, feedback and QA.
+- [Group service](REPLACE_WITH_YOUR_REPO): I implemented service explanation and responsive layouts and reviewed my partner's work.
+- [Portfolio](REPLACE_WITH_YOUR_REPO): case studies and professional information.
+
+## How I work
+I use specifications and AI coding assistance, review the output, and document checks and limitations.
+
+Portfolio: REPLACE_WITH_YOUR_SITE
+LinkedIn: REPLACE_WITH_YOUR_PROFILE
+
+This is a fictional example. Do not create links to invented accounts. Pin your actual project repositories and give each a clear README with setup, live demo, your role, checks, and limitations.

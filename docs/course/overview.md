@@ -14,6 +14,10 @@ This course is early preparation for internships and work such as forward deploy
 
 Each student's portfolio includes both business projects. Each student presents their portfolio and T-shirt site and explains their personal role in the group project. The team also demonstrates its shared result.
 
+## Your four milestones
+
+[Research, plan, build two alternatives, then review and launch](/course/milestones). Use the [section-specific class cycle](/course/schedule): start in the first meeting, work with peers in the next, and submit when the following cycle begins. Attendance is required; class time is reserved for collaboration and feedback.
+
 ## Work to retain
 
 Keep the competitive analysis, feature list, specifications, design decisions, issue/task history, implementation, QA notes, and contribution record. Record work as it happens so your case study can show evidence.

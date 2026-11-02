@@ -26,3 +26,7 @@ Do not claim measured time savings or conversion improvements without data. Your
 ## Package your evidence professionally
 
 Use the [GitHub guide](/career/github), [LinkedIn guide](/career/linkedin), and [worked student résumé](/examples/student-resume) to turn your actual course work into a consistent professional introduction.
+
+## Build on this course
+
+See the [recommended course pathway](/career/course-pathway) for spring IS219/IS390, Keith’s planned online summer IS218, and later enterprise AI study in IS425. Match the sequence to your prerequisites and degree plan.

@@ -1,0 +1,31 @@
+{
+  "method": "Built-in image_gen tool",
+  "date": "2026-11-02",
+  "purpose": "Fictional classroom concept imagery; not product evidence, testimonials, or student records",
+  "prompts": [
+    [
+      "campus-cotton",
+      "Use case: product-mockup. Asset type: wide website product hero, landscape 3:2. Create a polished natural-light catalog concept photograph for fictional student T-shirt brand Campus Cotton. One plain white regular-fit crew-neck T-shirt fully visible, neatly arranged on a warm cream tabletop with a green notebook and a simple pencil at the edge, accessible everyday college feeling. Forest green and warm cream palette, cotton texture visible, no printed marks, no readable text, no logo, no watermarks. Accurate simple white shirt, coherent sleeves and neckline. This is concept product imagery, not a real manufactured item."
+    ],
+    [
+      "studio-white",
+      "Use case: product-mockup. Asset type: wide website product hero, landscape 3:2. Create a refined editorial concept photograph for fictional white T-shirt brand Studio White. One plain white regular-fit crew-neck T-shirt on a restrained sculptural hanger against warm off-white plaster, soft side lighting reveals cotton jersey and a careful silhouette. A small espresso-brown design sketchbook rests below, unobtrusive. Calm workday creative studio feeling, bone, white and warm brown palette. Shirt fully visible, believable neckline and sleeves. No text, no logo, no watermark. Concept imagery, no factual provenance or sustainability claims."
+    ],
+    [
+      "room-ready",
+      "Use case: photorealistic-natural. Asset type: wide landscape website hero, 3:2. A realistic editorial concept photograph for a fictional small furniture-assembly request business called Room Ready. Two young adult collaborators in a bright modest Newark-area apartment carefully assembling a simple flat-pack desk, one holding a leg square while the other uses a manual screwdriver, both appropriately focused. Warm cream and rust accents, realistic tools, clear spacious composition and natural window light. No branded items, no written instructions readable, no logos, no text, no watermark. Human hands and furniture geometry plausible. Aspirational classroom business illustration, not a testimonial."
+    ],
+    [
+      "study-slot",
+      "Use case: photorealistic-natural. Asset type: wide landscape website hero, 3:2. A realistic editorial concept photograph for fictional tutoring request business Study Slot. Two diverse college-age adults sit side by side in a bright campus study room, one explaining a simple hand-drawn webpage layout sketch on paper while the other points at a laptop. Supportive collaborative learning, not a lecturer, not completing an exam. Blue and cream accents. Laptop screen subdued with nonreadable simple code-like shapes, no legible UI text or logos. Natural window light, realistic hands, calm credible mood. No watermark. Not real students or a documented tutoring session."
+    ],
+    [
+      "maya-chen",
+      "Use case: stylized-concept. Asset type: landscape 3:2 portfolio project hero. A beautiful editorial still life illustrating a fictional introductory student's creative web development process, not a portrait. A laptop showing abstract blank purple-and-cream website blocks, two paper alternative webpage layouts, a small cotton fabric swatch, pencil, and notebook arranged on a clean desk. The two paper layouts differ visibly: project cards first versus introduction first. Muted plum, warm cream, graphite. Mix of photographic paper texture and precise dimensional objects, soft light. No readable text, no logos, no invented statistics, no watermarks. Credible beginner-scale work, not futuristic."
+    ],
+    [
+      "jordan-rivera",
+      "Use case: stylized-concept. Asset type: landscape 3:2 portfolio project hero. A beautiful editorial still life illustrating a fictional student interested in clear customer-facing software and evidence. On a clean desk, a laptop with abstract teal-and-cream form blocks, a small set of connected paper task cards, a printed alternative page layout, and a notebook with simple check marks. Visually communicate request, review, improvement through arrangement, no readable words. Muted teal, cream, graphite, natural paper textures, soft directional light. No portraits, no logos, no invented metrics, no watermarks, no holograms. Grounded beginner-scale web project, polished but achievable."
+    ]
+  ]
+}

@@ -23,6 +23,14 @@ features:
     link: /projects/group-project
 ---
 
+## Start the four-milestone cycle
+
+[Research → plan → build → review and launch](/course/milestones). [See class dates and protected partner-feedback time](/course/schedule). Attendance is required.
+
+## See what a submission looks like
+
+Explore [two complete examples for each project](/examples/submissions/): short research, personas, specifications, two working versions, and a documented improvement.
+
 ## Finish the semester with evidence
 
 A working website matters. So do the decisions, collaboration, and checks behind it. Your portfolio connects that evidence to the kind of work you want to do next.

@@ -11,7 +11,8 @@
     "docs:build": "node scripts/generate-schedules.mjs --check && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "schedule:sync": "node scripts/generate-schedules.mjs",
-    "check": "node scripts/check-content.mjs"
+    "check": "node scripts/check-content.mjs",
+    "check:examples": "node scripts/check-examples.mjs"
   },
   "devDependencies": {
     "vitepress": "1.6.4"

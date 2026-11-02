@@ -17,7 +17,7 @@ Verified **November 2, 2026**. Course homepages and syllabus summaries were insp
 
 **Instructor project direction published through this guide:** independent T-shirt brand vision with competitive-analysis-driven specifications; broader business product/service group project; balanced design/development/QA; portfolio branding and career materials; demos in the last two regular meetings; issue-based signup.
 
-**Operational choices used to make signup workable:** 10-minute pair slots, a 12-minute trio slot in each section, first-requested preferences subject to instructor confirmation, and a generated schedule. Empty slots do not imply a student assignment. There are no new graded submission deadlines or weights here.
+**Operational choices used to make signup workable:** 10-minute pair slots, a 12-minute trio slot in each section, first-requested preferences subject to instructor confirmation, and a generated schedule. Empty slots do not imply a student assignment. The [project-cycle dates](/course/schedule) now specify milestone submissions and protected feedback meetings. Matching Canvas assignment entries are pending. The [simple milestone rubric](/course/milestones) specifies equal criterion shares; it does not change syllabus grading-category weights.
 
 ## If instructions appear to conflict
 

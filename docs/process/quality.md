@@ -19,9 +19,11 @@ For the group project, each member tests another member's work and records an is
 
 ## Progress reviews
 
-Complete **four individual reviews** covering the portfolio and T-shirt project, and **four group reviews**, as stated in Canvas. The instructor will announce the review dates/arrangements. Suggested stages are scope/specification, design/first build, integrated workflow, and final QA/rehearsal; these are not additional dated assignments.
+Complete **four individual reviews** covering the portfolio and T-shirt project, and **four group reviews**, as stated in Canvas. The [four milestones](/course/milestones) organize those reviews as research, plan, build, and review/launch. The [class schedule](/course/schedule) reserves time for partner work and feedback. Attendance is required.
 
-For each review, retain: the version shown, reviewer/date, feedback, the action taken, and the result. Include at least one example of a decision changed by feedback in your case study.
+For each review, retain: the version shown, reviewer/date, feedback, the action taken, and the result. Each of the three projects must include an actual peer walkthrough, at least one meaningful feedback-driven change, and a retest. Document this in each case study.
+
+<LearningDiagram kind="feedback" />
 
 ## Explain limitations
 

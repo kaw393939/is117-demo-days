@@ -22,12 +22,14 @@ export default defineConfig({
     sidebar: [
       { text: 'The course', items: [
         { text: 'Purpose & three deliverables', link: '/course/overview' },
-        { text: 'Schedule & milestones', link: '/course/schedule' },
+        { text: 'Four milestones & simple rubric', link: '/course/milestones' },
+        { text: 'Class rhythm & dates', link: '/course/schedule' },
         { text: 'Sources & course authority', link: '/course/sources' }
       ]},
       { text: 'Your projects', items: [
         { text: '01 / Professional portfolio', link: '/projects/portfolio' },
         { text: '02 / White T-shirt company', link: '/projects/white-tshirt' },
+        { text: 'Two examples of every submission', link: '/examples/submissions/' },
         { text: 'Competitive landscape example', link: '/examples/competitive-landscape' },
         { text: 'Competitor screenshots', link: '/examples/site-references' },
         { text: 'Example feature list & spec', link: '/examples/tshirt-spec' },
@@ -35,6 +37,7 @@ export default defineConfig({
         { text: 'Business project ideas', link: '/projects/ideas' }
       ]},
       { text: 'A professional process', items: [
+        { text: 'Research → personas → user stories', link: '/process/research-to-features' },
         { text: 'Specification-driven development', link: '/process/specifications' },
         { text: 'Collaboration & equal contribution', link: '/process/collaboration' },
         { text: 'Quality assurance', link: '/process/quality' },
@@ -48,6 +51,8 @@ export default defineConfig({
       ]},
       { text: 'Prepare early', items: [
         { text: 'What FDEs do', link: '/career/fde' },
+        { text: 'Job descriptions & pay', link: '/career/jobs-and-pay' },
+        { text: 'Next courses & BSEAI', link: '/career/course-pathway' },
         { text: 'Skills & next steps', link: '/career/skills' },
         { text: 'Professional GitHub portfolio', link: '/career/github' },
         { text: 'Professional LinkedIn profile', link: '/career/linkedin' },

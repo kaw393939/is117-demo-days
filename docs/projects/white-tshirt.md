@@ -1,5 +1,7 @@
 # 02 / Your Plain White T-Shirt company
 
+**See the process in practice:** [two complete examples for each project](/examples/submissions/), including research, personas, specifications, working A/B versions, and a sample feedback-driven improvement.
+
 Everyone begins with the same basic product. Your audience, business vision, branding, and customer experience make the project your own.
 
 Build your best attempt at a professional **simulated eCommerce site**, using competitive research and specification-driven development. Preserve the existing Canvas expectation of **SQLite and simulated checkout**. HTML, CSS, and JavaScript remain useful foundations; additional technologies are welcome when you can explain and maintain them.

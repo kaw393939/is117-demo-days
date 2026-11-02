@@ -1,0 +1,386 @@
+[
+  {
+    "slug": "campus-cotton",
+    "name": "Campus Cotton",
+    "kind": "shirt",
+    "tag": "A straightforward everyday tee.",
+    "price": 25,
+    "color": "#265c43",
+    "audience": "A student buying an everyday white tee online",
+    "goal": "Choose a size and understand the total without hunting for information.",
+    "concern": "Will it fit, and what will I actually pay?",
+    "other": "A club organizer comparing shirts for an event",
+    "otherneed": "Bulk ordering and custom printing",
+    "choice": "Choose the individual shopper. Bulk and custom orders would expand the project beyond one clear purchase journey.",
+    "positionA": "Affordable everyday essentials",
+    "positionB": "Campus club bulk supplier",
+    "a": "Shop first: price, measurements, and size selection appear together.",
+    "b": "Story first: a campus-day narrative leads into the same product and checkout.",
+    "launch": "A",
+    "why": "The selected shopper can get to fit and price information immediately.",
+    "archetype": "Everyperson",
+    "voice": "Plain, practical, welcoming",
+    "sources": [
+      [
+        "Fresh Clean Tees",
+        "https://freshcleantees.com/products/white-crew-neck",
+        "Length choices and fit information",
+        "Put measurements next to size selection."
+      ],
+      [
+        "True Classic",
+        "https://www.trueclassictees.com/products/white-crew-neck-tee",
+        "Product options and membership pricing paths",
+        "Explain the single-item offer without extra pricing paths."
+      ],
+      [
+        "Buck Mason",
+        "https://www.buckmason.com/products/white-slub-curved-hem-tee",
+        "Specific fabric and production details",
+        "Use specific product facts rather than vague premium claims."
+      ]
+    ],
+    "story1": "As a shopper unsure about fit, I want garment measurements beside sizes so I can choose with more confidence.",
+    "feature1": "An expandable measurement guide beside a required size selector.",
+    "check1": "Open the guide, return to the selector, and keep the selected size.",
+    "story2": "As a price-conscious shopper, I want an itemized total so I can understand the demo purchase.",
+    "feature2": "Quantity control and a summary using one $25 classroom concept price.",
+    "check2": "Two shirts show $50; demo shipping and tax are explicitly $0.",
+    "story3": "As a shopper, I want a clear confirmation so I know the simulated checkout completed.",
+    "feature3": "Validated checkout followed by a demo reference and stored order.",
+    "check3": "Missing size/email prevents checkout; a valid submission produces a reference.",
+    "defer": "Discount codes, accounts, bulk orders, and real payments.",
+    "task": "Find the measurement guide, choose M, add two shirts, and complete a simulated checkout.",
+    "feedback": "I found the size options but did not notice where measurements were.",
+    "change": "Place the measurement disclosure immediately above the size selector in both versions.",
+    "retest": "Ask the reviewer to locate the guide without a hint and repeat the task.",
+    "limit": "AI-generated shirt imagery is a concept, not a photograph of manufactured stock. Fabric, measurements, and policies are classroom assumptions.",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "studio-white",
+    "name": "Studio White",
+    "kind": "shirt",
+    "tag": "One white tee. A considered choice.",
+    "price": 42,
+    "color": "#674034",
+    "audience": "An early-career creative choosing a simple workday wardrobe",
+    "goal": "Understand the fit and product details before choosing one tee.",
+    "concern": "Does the presentation explain a meaningful difference?",
+    "other": "A shopper seeking the lowest available price",
+    "otherneed": "Rapid price comparison and frequent discounts",
+    "choice": "Choose the workday shopper. Specific information and a restrained presentation fit this concept better than price-led promotions.",
+    "positionA": "Minimal workday wardrobe",
+    "positionB": "Discount basics",
+    "a": "Editorial first: product story and material concept precede the purchase panel.",
+    "b": "Product facts first: fit, price, and selection lead; the story follows.",
+    "launch": "B",
+    "why": "Product details are accessible immediately while the visual style still supports the brand.",
+    "archetype": "Creator",
+    "voice": "Calm, specific, restrained",
+    "sources": [
+      [
+        "Fresh Clean Tees",
+        "https://freshcleantees.com/products/white-crew-neck",
+        "Length choices and fit information",
+        "Put measurements next to size selection."
+      ],
+      [
+        "True Classic",
+        "https://www.trueclassictees.com/products/white-crew-neck-tee",
+        "Product options and membership pricing paths",
+        "Explain the single-item offer without extra pricing paths."
+      ],
+      [
+        "Buck Mason",
+        "https://www.buckmason.com/products/white-slub-curved-hem-tee",
+        "Specific fabric and production details",
+        "Use specific product facts rather than vague premium claims."
+      ]
+    ],
+    "story1": "As a workday shopper, I want fit measurements before buying so I can judge the silhouette.",
+    "feature1": "Labeled flat-garment measurements and a size selector.",
+    "check1": "The guide labels centimeters and distinguishes garment dimensions from body measurements.",
+    "story2": "As a careful buyer, I want a clear material description so I can understand the concept.",
+    "feature2": "A visible product-facts section with classroom assumptions labeled.",
+    "check2": "A visitor can locate material, fit, and care without opening checkout.",
+    "story3": "As a buyer, I want to review my choices before completing the demo order.",
+    "feature3": "An editable quantity, size, and total before validated confirmation.",
+    "check3": "Three shirts show $126; confirmation states that no real order or payment occurred.",
+    "defer": "Subscriptions, performance claims, provenance certification, and real fulfillment.",
+    "task": "Find the product facts, choose L, review three shirts, and complete the demo checkout.",
+    "feedback": "The story was attractive, but I had to search for practical product details.",
+    "change": "Choose the facts-first version and keep a labeled product-facts section beside the purchase controls.",
+    "retest": "Ask a peer to find fit and material information before selecting a size.",
+    "limit": "No manufacturing or sustainability claim is verified. Concept price $42 is an assumption, not a market-tested price.",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "room-ready",
+    "name": "Room Ready",
+    "kind": "service",
+    "tag": "A clearer first step for furniture assembly.",
+    "price": 45,
+    "color": "#8d3e21",
+    "audience": "A Newark-area renter who needs help assembling a desk",
+    "goal": "Describe the item and request help without assuming a booking is confirmed.",
+    "concern": "What information is needed, and what happens after I submit?",
+    "other": "An operator reviewing incoming assembly requests",
+    "otherneed": "A scannable request queue and complete job details",
+    "choice": "Serve the renter first, with a small request summary to demonstrate the handoff to the operator.",
+    "positionA": "Furniture assembly request service",
+    "positionB": "All-purpose home-services marketplace",
+    "a": "Service first: explain scope and next steps before the request form.",
+    "b": "Request first: show the short form immediately, with scope and process alongside it.",
+    "launch": "A",
+    "why": "The scope and confirmation language are clearer before the visitor starts the form.",
+    "archetype": "Caregiver",
+    "voice": "Helpful and direct",
+    "sources": [
+      [
+        "Taskrabbit",
+        "https://www.taskrabbit.com/how-it-works",
+        "Task, location, provider comparison, then confirmation",
+        "Explain the steps before the request."
+      ],
+      [
+        "Handy",
+        "https://www.handy.com/services/furniture-assembly",
+        "A page dedicated to furniture assembly",
+        "Name the supported service clearly."
+      ],
+      [
+        "IKEA assembly",
+        "https://www.ikea.com/us/en/customer-service/services/assembly/",
+        "Assembly offered through Taskrabbit with follow-up steps",
+        "Distinguish a request from a confirmed appointment; this is a partner channel, not an independent competitor."
+      ]
+    ],
+    "story1": "As a renter, I want to know what assembly work is supported so I can decide whether to inquire.",
+    "feature1": "A short scope statement: desks, chairs, and shelving; no electrical, mounting, or repair work.",
+    "check1": "The supported work and exclusions are visible before submitting.",
+    "story2": "As a renter, I want to provide my item and preferred window so the operator can assess the request.",
+    "feature2": "Required service, preferred window, and demo-email fields.",
+    "check2": "An empty required field prevents submission and a valid request retains the selected values.",
+    "story3": "As an operator, I want a complete request summary so I can identify the next action.",
+    "feature3": "A receipt/reference and a same-session request history.",
+    "check3": "The receipt says request received, not appointment confirmed, and the record appears in history.",
+    "defer": "Provider matching, real addresses, payments, live availability, and automated quotes.",
+    "task": "Request assembly for a desk, select a preferred window, and explain whether you have a confirmed appointment.",
+    "feedback": "The original button sounded like an instant confirmed booking.",
+    "change": "Use \u201cSend demo request\u201d and explain that an operator would confirm scope, price, and availability later.",
+    "retest": "Ask the reviewer whether the receipt guarantees an appointment; they should answer no.",
+    "limit": "No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.",
+    "options": [
+      "Desk",
+      "Chair",
+      "Shelving"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "study-slot",
+    "name": "Study Slot",
+    "kind": "service",
+    "tag": "Tell us the topic. Choose a time to ask for help.",
+    "price": 20,
+    "color": "#244f82",
+    "audience": "A first-year student requesting help with introductory web development",
+    "goal": "Describe a topic and request a suitable tutoring window.",
+    "concern": "Will the tutor know what I need, and is the time actually available?",
+    "other": "A tutor reviewing the student\u2019s request",
+    "otherneed": "Topic, preferred window, and a clear pending status",
+    "choice": "Design for the student\u2019s request while including the information the tutor needs to respond.",
+    "positionA": "Focused web-development tutoring requests",
+    "positionB": "An all-subject instant-booking platform",
+    "a": "Topic first: explain supported topics, then collect the request.",
+    "b": "Time first: show the request controls first and list topics alongside them.",
+    "launch": "A",
+    "why": "Topic context helps a student decide whether this service fits their question before choosing a time.",
+    "archetype": "Sage",
+    "voice": "Patient, encouraging, specific",
+    "sources": [
+      [
+        "Calendly",
+        "https://calendly.com/scheduling",
+        "Scheduling links and availability controls",
+        "Make time choice explicit."
+      ],
+      [
+        "Acuity",
+        "https://acuityscheduling.com/",
+        "Booking and client-management features; education use cases",
+        "Collect the topic before the session."
+      ],
+      [
+        "Square Appointments",
+        "https://squareup.com/us/en/appointments",
+        "Appointment-booking product",
+        "Show a clear scheduling action. These are adjacent workflow references, not tutoring competitors."
+      ]
+    ],
+    "story1": "As a student, I want to see supported topics so I can decide whether to request help.",
+    "feature1": "HTML, CSS, and introductory JavaScript listed with boundaries.",
+    "check1": "The site makes clear it offers guidance, not completion of assessed work.",
+    "story2": "As a student, I want to choose a topic and preferred window so I can make a useful request.",
+    "feature2": "Labeled topic/window controls and validated demo email.",
+    "check2": "Submission requires both choices; selecting a preference does not claim live availability.",
+    "story3": "As a tutor, I want the request details together so I can prepare and respond.",
+    "feature3": "Pending-request confirmation and readable request history.",
+    "check3": "The receipt includes topic, preferred window, and pending status; no calendar event is claimed.",
+    "defer": "Live calendar sync, accounts, AI tutoring, real notifications, and payments.",
+    "task": "Request help with CSS for a preferred window and explain the next step.",
+    "feedback": "I thought selecting a time reserved it immediately.",
+    "change": "Label it \u201cPreferred window\u201d and show \u201cPending tutor confirmation\u201d in the receipt.",
+    "retest": "Ask the reviewer to explain the difference between requesting a window and booking a confirmed session.",
+    "limit": "No tutor is contacted. Availability is fictional; this is a request workflow, not a live booking platform.",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "projects": []
+  },
+  {
+    "slug": "maya-chen",
+    "name": "Maya Chen",
+    "kind": "portfolio",
+    "tag": "A student learning to turn business questions into useful websites.",
+    "price": 0,
+    "color": "#5f3d78",
+    "audience": "A recruiter scanning for an early-career web-development intern",
+    "goal": "Find two projects and understand the student\u2019s actual contribution.",
+    "concern": "Can I distinguish a course exercise from professional experience?",
+    "other": "A local small-business owner considering a student collaborator",
+    "otherneed": "Clear examples of useful customer-facing work and contact information",
+    "choice": "Prioritize the internship recruiter; keep explanations readable for a nontechnical visitor too.",
+    "positionA": "Project-led student portfolio",
+    "positionB": "Personal-story-led creative portfolio",
+    "a": "Projects first: two case-study cards lead into r\u00e9sum\u00e9 and profiles.",
+    "b": "About first: learning goals and personal brand lead into the same project evidence.",
+    "launch": "A",
+    "why": "A recruiter can reach the work and the individual contribution in fewer steps.",
+    "archetype": "Creator",
+    "voice": "Curious, concrete, honest",
+    "sources": [
+      [
+        "Brittany Chiang",
+        "https://brittanychiang.com/",
+        "Role introduction, project/experience evidence, professional links",
+        "Make role and evidence easy to find."
+      ],
+      [
+        "Josh W. Comeau",
+        "https://www.joshwcomeau.com/",
+        "An article-led site that demonstrates teaching",
+        "Use a short explanation to show reasoning."
+      ],
+      [
+        "Lee Robinson",
+        "https://leerob.com/",
+        "A concise introduction and writing links",
+        "Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks."
+      ]
+    ],
+    "story1": "As a recruiter, I want to find two projects quickly so I can inspect relevant work.",
+    "feature1": "Two project cards linked to case-study details and runnable examples.",
+    "check1": "Both projects are labeled course projects and their demo links open the correct examples.",
+    "story2": "As a reviewer, I want individual contribution details so I can understand what the student did.",
+    "feature2": "Case studies distinguish individual work from team outcomes.",
+    "check2": "The group case study names one personally owned feature and one peer-review task.",
+    "story3": "As a recruiter, I want r\u00e9sum\u00e9 and profile information so I can continue reviewing the student.",
+    "feature3": "Readable r\u00e9sum\u00e9, sample GitHub README, and LinkedIn draft with replacement instructions.",
+    "check3": "All profile buttons are clearly labeled sample drafts, not live student accounts.",
+    "defer": "Blog platform, elaborate animation, analytics, and invented testimonials.",
+    "task": "Find the T-shirt project, identify the student\u2019s group contribution, and locate the r\u00e9sum\u00e9.",
+    "feedback": "The group card explained the product but not what Maya personally built.",
+    "change": "Add an \u201cMy contribution\u201d paragraph to the group case study and a direct r\u00e9sum\u00e9 navigation link.",
+    "retest": "Ask the reviewer to name Maya\u2019s contribution and find the r\u00e9sum\u00e9 without hints.",
+    "limit": "Maya is a fictional student. The profile drafts, r\u00e9sum\u00e9, and contribution statements model a submission; they are not a real person\u2019s credentials.",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "projects": [
+      "campus-cotton",
+      "room-ready"
+    ]
+  },
+  {
+    "slug": "jordan-rivera",
+    "name": "Jordan Rivera",
+    "kind": "portfolio",
+    "tag": "A student interested in clear workflows and customer-facing software.",
+    "price": 0,
+    "color": "#20615c",
+    "audience": "A team lead assessing a student\u2019s problem-solving and collaboration",
+    "goal": "Understand one business decision and the student\u2019s own implementation and QA work.",
+    "concern": "Is there evidence behind the claims, including AI-assisted work?",
+    "other": "A recruiter quickly checking minimum project and contact information",
+    "otherneed": "A concise summary, projects, r\u00e9sum\u00e9, and professional links",
+    "choice": "Prioritize clear project reasoning while retaining easy access to r\u00e9sum\u00e9 and profiles.",
+    "positionA": "Evidence-led builder portfolio",
+    "positionB": "Skills-list-led portfolio",
+    "a": "Evidence first: a short decision and its validation introduce the projects.",
+    "b": "Introduction first: role direction and skills precede project evidence.",
+    "launch": "A",
+    "why": "The selected audience can inspect a concrete decision instead of relying on a list of tools.",
+    "archetype": "Sage",
+    "voice": "Clear, careful, approachable",
+    "sources": [
+      [
+        "Brittany Chiang",
+        "https://brittanychiang.com/",
+        "Role introduction, project/experience evidence, professional links",
+        "Make role and evidence easy to find."
+      ],
+      [
+        "Josh W. Comeau",
+        "https://www.joshwcomeau.com/",
+        "An article-led site that demonstrates teaching",
+        "Use a short explanation to show reasoning."
+      ],
+      [
+        "Lee Robinson",
+        "https://leerob.com/",
+        "A concise introduction and writing links",
+        "Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks."
+      ]
+    ],
+    "story1": "As a team lead, I want a concise case study so I can assess the student\u2019s reasoning.",
+    "feature1": "Problem, alternatives, choice, feedback, and limitation in each case study.",
+    "check1": "A visitor can identify one decision and its reason in each project.",
+    "story2": "As a reviewer, I want to see how AI output was checked so I can assess ownership.",
+    "feature2": "A short AI-use and verification statement tied to a feature.",
+    "check2": "The statement describes a specific human check and does not claim unrun tests passed.",
+    "story3": "As a recruiter, I want clear profile and r\u00e9sum\u00e9 access so I can evaluate next steps.",
+    "feature3": "Dedicated professional-presence section and r\u00e9sum\u00e9 download.",
+    "check3": "Sample profile drafts explain which fields must be replaced with actual account links.",
+    "defer": "Automated skills scores, advanced dashboard, and unsupported FDE-readiness claims.",
+    "task": "Find a research-driven decision, explain Jordan\u2019s group contribution, and locate the professional profiles.",
+    "feedback": "I saw tools listed, but I could not tell how Jordan checked AI-generated work.",
+    "change": "Add an AI-use and verification paragraph to each case study.",
+    "retest": "Ask the reviewer to explain one check Jordan performed and identify a limitation.",
+    "limit": "Jordan is fictional. This is a model of an introductory student portfolio, not evidence of employment or internship eligibility.",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "projects": [
+      "studio-white",
+      "study-slot"
+    ]
+  }
+]

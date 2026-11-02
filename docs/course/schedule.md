@@ -1,40 +1,56 @@
 # Fall 2026 schedule
 
-All times are **America/New_York (Eastern)**. Meeting patterns come from the two Canvas course homepages, checked November 2, 2026. Calendar exceptions and the final block were checked against the NJIT registrar.
+**Attend, work together, get feedback, improve, and submit.** All times below are Eastern (America/New_York). The first cycle begins November 2 in 005 and November 3 in 007.
 
-| Section | Meetings | Room | Demo Days |
-| --- | --- | --- | --- |
-| [IS117-005](https://njit.instructure.com/courses/70710) | Monday & Thursday, 11:30 a.m.–12:50 p.m. | CKB 106 | December 7 & 10 |
-| [IS117-007](https://njit.instructure.com/courses/70711) | Tuesday & Thursday, 8:30–9:50 a.m. | CKB 223 | December 8 & 10 |
+<LearningDiagram kind="week" />
 
-## Remaining regular meetings
+## A predictable class rhythm
 
-| Week of | Section 005 | Section 007 | Planning focus—not an additional due date |
-| --- | --- | --- | --- |
-| November 2 | Nov 2, 5 | Nov 3, 5 | Competitive landscape; partnerships; project scope |
-| November 9 | Nov 9, 12 | Nov 10, 12 | Features, specifications, brand direction, initial build |
-| November 16 | Nov 16, 19 | Nov 17, 19 | Working customer workflow and peer feedback |
-| November 23 | Nov 23 | Nov 24 | Integration and progress review; Thanksgiving break follows |
-| November 30 | Nov 30, Dec 3 | Dec 1, 3 | QA, portfolio case studies, rehearsal |
-| December 7 | **Dec 7, 10: demos** | **Dec 8, 10: demos** | Present and explain your work |
+1. **First class of the cycle:** introduce the milestone and start the work.
+2. **Next class that week:** protected class time for partner work, comparison, peer feedback, and instructor help.
+3. **First class the following week:** submit at the beginning of class, briefly review, and start the next milestone.
 
-Partner formation takes place at the next class meeting as directed by the instructor. The focus column is a suggested work sequence. Canvas will specify any additional assignment or review deadlines; none are invented by this table.
+**Attendance is required.** Bring your computer and current work. Class time is part of the project process, including both giving and receiving feedback. For an absence or accommodation, contact the instructor privately through Canvas and arrange how to complete the missed collaboration under course/university policies.
 
-## Existing assignment deadlines observed in Canvas
+## Deliverables by section
 
-The current Brand Studio assignment is due **November 2 at 11:59 p.m.** in 005 and **November 3 at 11:59 p.m.** in 007. These are the already-posted Studio deadlines, not newly created final-project deadlines. Recheck your section's Canvas assignment for any later update.
+These are the instructor’s project-cycle dates for this guide. Matching Canvas submission entries still need to be created; check Canvas for official submission settings and any later instructor change. Earlier Brand Studio deadlines and criteria remain unchanged.
 
-## Calendar exceptions
+| Milestone | Section 005: Mon/Thu | Section 007: Tue/Thu |
+| --- | --- | --- |
+| **1 / Research** | Start **Mon Nov 2**; partner work and feedback **Thu Nov 5**; submit **Mon Nov 9, 11:30 a.m.** | Start **Tue Nov 3**; partner work and feedback **Thu Nov 5**; submit **Tue Nov 10, 8:30 a.m.** |
+| **2 / Plan** | Start **Mon Nov 9**; partner work and feedback **Thu Nov 12**; submit **Mon Nov 16, 11:30 a.m.** | Start **Tue Nov 10**; partner work and feedback **Thu Nov 12**; submit **Tue Nov 17, 8:30 a.m.** |
+| **3 / Build two versions** | Start **Mon Nov 16**; build and compare with peers **Thu Nov 19**; submit **Mon Nov 23, 11:30 a.m.** | Start **Tue Nov 17**; build and compare with peers **Thu Nov 19**; submit **Tue Nov 24, 8:30 a.m.** |
+| **4 / Peer review and improvement** | Start **Mon Nov 23**; protected walkthrough/work time **Mon Nov 30**; submit review/change evidence **Thu Dec 3, 11:30 a.m.** | Start **Tue Nov 24**; protected walkthrough/work time **Tue Dec 1**; submit review/change evidence **Thu Dec 3, 8:30 a.m.** |
+| **Final publication and links** | **Sun Dec 6, 11:59 p.m.** — all three projects ready | **Sun Dec 6, 11:59 p.m.** — all three projects ready |
+| **Demo Days** | **Mon Dec 7 and Thu Dec 10**, 11:30 a.m.–12:50 p.m., CKB 106 | **Tue Dec 8 and Thu Dec 10**, 8:30–9:50 a.m., CKB 223 |
 
-- November 25 follows a **Friday** schedule.
-- November 26–29 is Thanksgiving recess; there is no Thursday meeting on November 26.
-- December 11 follows a Friday schedule; it is not an additional meeting of these sections.
-- December 13 is the last day of classes. December 14–15 are reading days.
+The four milestones supply the **four individual reviews** (T-shirt and portfolio together) and **four group reviews** already described in Canvas. They are not four separate rounds for every individual site. [What to submit and the simple rubric](/course/milestones).
 
-[Official Fall 2026 academic calendar](https://www.njit.edu/registrar/fall-2026-academic-calendar).
+## Thanksgiving adjustment
+
+There is **no Thursday class on November 26**. The final cycle therefore has a longer work period. Use November 23/24 to begin reviewing the selected versions, November 30/December 1 for a full peer walkthrough, and December 3 for final fixes, checks, and rehearsal after submitting the review record. Each of the three projects needs at least one feedback-driven change and a retest. Final links are due December 6 so everyone is ready before the first demo.
+
+No new deliverable is due during Thanksgiving recess. November 25 follows a Friday schedule; December 11 also follows a Friday schedule and is not an extra meeting of these sections. Classes end December 13, followed by reading days December 14–15. [Registrar calendar](https://www.njit.edu/registrar/fall-2026-academic-calendar).
+
+## How we will use an 80-minute feedback class
+
+| Time | Activity |
+| --- | --- |
+| First 10 minutes | Brief instructions and questions |
+| Next 20 minutes | Partner 1 demonstrates; partner 2 attempts a task and gives feedback |
+| Next 20 minutes | Switch roles; or invite another team to review the group product |
+| Next 25 minutes | Make an improvement together and retest it |
+| Final 5 minutes | Record the observation, change, and next step |
+
+Use the time for current milestone work: research and audience feedback in cycle 1, specifications in cycle 2, A/B product comparison in cycle 3, final walkthroughs in cycle 4. A team of three divides time so each person participates. For the final cycle, spread the three product walkthroughs across the available class meetings.
+
+## Existing Brand Studio milestone
+
+The already-posted Brand Studio is due **November 2 at 11:59 p.m.** in 005 and **November 3 at 11:59 p.m.** in 007. Keep its original scope. Reuse and refine its audience hypotheses and design alternatives in the new process; do not treat the final-store requirements as retroactive requirements for Brand Studio.
 
 ## Final presentation / remaining work block
 
-Both sections are listed for **Tuesday, December 22, 2026, 2:30–5:00 p.m. Eastern**, with Williams. The registrar lists **CULM LECT 2**. Current Canvas guidance describes Zoom screen sharing and uses this block for remaining presentations and needed redos, with the Zoom link forthcoming. Follow the instructor's Canvas instructions for attendance, delivery mode, and the link; a room listing alone does not replace those instructions.
+Both sections are listed for **Tuesday, December 22, 2026, 2:30–5:00 p.m.** The registrar lists CULM LECT 2; current Canvas guidance describes Zoom screen sharing for remaining presentations and needed redos, with a link forthcoming. Follow the instructor’s Canvas instructions for attendance and delivery mode.
 
-[Registrar final schedule](https://www.njit.edu/registrar/exams/finalexams) · [Source and authority notes](/course/sources).
+[Demo format and signup](/demo-days/) · [Registrar final schedule](https://www.njit.edu/registrar/exams/finalexams) · [Source notes](/course/sources).

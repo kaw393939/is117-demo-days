@@ -1,5 +1,7 @@
 # 01 / Your professional portfolio
 
+**See the process in practice:** [two complete examples for each project](/examples/submissions/), including research, personas, specifications, working A/B versions, and a sample feedback-driven improvement.
+
 Create an individual website that communicates your style, goals, and ability to do useful work. Its intended reader could be an internship recruiter, hiring manager, collaborator, or client. Decide whom you are persuading and what you want them to understand or do.
 
 ## Include

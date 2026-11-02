@@ -1,5 +1,7 @@
 # 03 / Partner or group business project
 
+**See the process in practice:** [two complete examples for each project](/examples/submissions/), including research, personas, specifications, working A/B versions, and a sample feedback-driven improvement.
+
 Build a professional web presence or marketing platform for a realistic business **product or service**. The concept may be an AI product, a traditional service built with AI coding assistance, or another credible business use case. Any technology is allowed when the team can explain its choices and demonstrate the result.
 
 Form teams of **two**, with **one team of three if the section has an odd number of students**. The project should be larger than an isolated individual task but small enough to integrate, test, and finish.

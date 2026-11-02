@@ -22,3 +22,7 @@ For each internship retain the employer URL, research date, location, eligibilit
 ## Course changes
 
 Update schedule/source notes when Canvas or registrar details change. Keep graded deadlines in Canvas and distinguish planning targets from due dates. Preserve prior assignment criteria for already-submitted work.
+
+## Milestone publication status
+
+The guide now contains the instructor’s four milestone dates, required attendance, protected peer-work meetings, and an equal-share rubric. Canvas milestone entries have not yet been created by this update. Synchronize the dates and link each entry to the appropriate guide section when authorized; keep historical assignments intact.
