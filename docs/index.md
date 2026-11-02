@@ -2,15 +2,15 @@
 layout: home
 hero:
   name: IS117 Studio
-  text: Start with research.
-  tagline: Week of Nov 2–8 · Compare three websites and choose an audience for your idea. Bring your notes to the November 5 feedback class.
+  text: Build work you can show.
+  tagline: Three projects. One professional process. Prepare to introduce yourself, share useful work, and pursue internships, part-time work, or a first client project.
   actions:
     - theme: brand
-      text: Start this week’s task
-      link: /#this-week-start-your-research
+      text: Start here — see the whole plan
+      link: /course/overview
     - theme: alt
-      text: Check your due dates
-      link: /course/schedule
+      text: This week’s task
+      link: /#this-week-start-your-research
 features:
   - title: Your T-shirt store
     details: Give a simple white tee a clear audience, brand, and simulated shopping experience.

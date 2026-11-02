@@ -6,6 +6,8 @@
 
 Canvas holds submission boxes, deadlines, grades, and private questions. This site holds the instructions, examples, and rubric. **The new Canvas entries are unpublished drafts while setup is completed.** Keep your work in your repository until the matching assignment is available.
 
+New to the plan? [Start with the three projects, how to manage them, and your career goal](/course/overview).
+
 ## What happens in every class
 
 | Date | Class work | Submit by 8:30 a.m. |

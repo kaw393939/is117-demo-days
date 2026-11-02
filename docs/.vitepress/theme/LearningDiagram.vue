@@ -2,6 +2,10 @@
 import { computed } from 'vue'
 const props = defineProps({ kind: { type: String, default: 'process' } })
 const diagrams = {
+ opportunities: { title: 'Build evidence → share it → take a next step', note: 'Start conversations with work you can explain. Keep learning as you pursue opportunities.', steps: [
+ ['1', 'Build evidence', 'Your store + group business', 'Show the problem, your work, and checks', 'Use feedback to improve'],
+ ['2', 'Make it easy to share', 'Your portfolio + profiles', 'Explain your contribution clearly', 'Practice a short introduction and demo'],
+ ['3', 'Meet people + apply', 'Internship · part-time · client project', 'Listen, share relevant work, follow up', 'Match your evidence to a real need'] ] },
  brand: { title: 'From a reference site to your own angle', note: 'Keep this in the same project record. The audience need stays a hypothesis until you check it.', steps: [
  ['1', 'Notice', 'Look · character · trust', 'What does the reference emphasize?', 'Link the actual page and date'],
  ['2', 'Choose', 'Person · situation · need', 'Why would they choose your offer?', 'Compare two niches; choose one'],

@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 const start = { text: 'Start here', items: [
-  { text: 'What you are building', link: '/course/overview' },
+  { text: 'Three projects & your goals', link: '/course/overview' },
   { text: 'Four steps & grading', link: '/course/milestones' },
   { text: 'Class dates & due dates', link: '/course/schedule' },
   { text: 'Section 007: class-by-class', link: '/course/section-007' },
@@ -61,7 +61,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'IS117 / FALL 2026',
     nav: [
-      { text: 'Assignment', link: '/course/milestones' },
+      { text: 'Start here', link: '/course/overview' },
       { text: 'Examples', link: '/examples/submissions/' },
       { text: 'Schedule', link: '/course/schedule' },
       { text: 'Demo Days', link: '/demo-days/' },

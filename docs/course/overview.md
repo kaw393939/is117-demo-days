@@ -1,38 +1,76 @@
-# What you are building
+# Three projects. Your next opportunity.
 
-You will finish three small websites and show how you made them. The goal is to practice a professional process with AI: understand a business need, make choices, build something useful, get feedback, and improve it.
+**By the end of the semester, be ready to show your work, explain what you can do, and start a professional conversation.** Use your work to pursue an internship, part-time job, or small project for a real client.
 
-| Project | Who does it? | What it needs to do |
-| --- | --- | --- |
-| [T-shirt store](/projects/white-tshirt) | You | Give a plain white tee your own brand and a working simulated shopping flow. |
-| [Group business](/projects/group-project) | You and a partner | Help a realistic business offer a product or service through a useful website. |
-| [Portfolio](/projects/portfolio) | You | Show both projects, your contribution, résumé, GitHub, and LinkedIn. |
+A **forward deployed engineer (FDE)** understands a customer’s problem, builds useful software, and helps people use it. IS117 introduces that process. Many FDE roles require further technical study. [Explore the career](/career/fde).
 
-Teams have two students, with one team of three if a section has an odd number. Each person helps with design, coding, and testing.
+## Your three projects: build, collaborate, present
 
-Reuse your earlier Brand Studio work. [Find your brand’s angle](/process/find-your-angle) connects competitive research to a clear promise, visual direction, and honest persuasion.
+### 1. Your T-shirt store — show your decisions
 
-## Follow four steps
+Give a white T-shirt your own audience, brand, and simulated shopping experience. Research, compare options, plan, build, and improve. Reuse Brand Studio.
 
-<LearningDiagram kind="process" />
+**Show:** how you turn an idea into a useful website and explain your choices. [T-shirt requirements](/projects/white-tshirt).
 
-At each step, compare two credible options and explain your choice. You can share code between versions. You do not need to build unrelated products or become an expert in every tool.
+### 2. Your group business — show how you work with people
 
-[See exactly what to submit and how it is graded](/course/milestones).
+With a partner, build for a realistic business product or service. Share design, coding, and testing fairly. Each person builds meaningful work and reviews another’s work.
 
-## Work with classmates during class
+**Show:** how you clarify a need, divide work, combine results, and improve together. [Group requirements](/projects/group-project).
 
-**Attendance is required.** The [schedule](/course/schedule) includes time for partner work and feedback. Each of your three projects needs a peer walkthrough, at least one meaningful change based on that feedback, and a check that the change helped.
+### 3. Your portfolio — make your work easy to understand
 
-## Keep a short record
+Show both projects and your contribution, with an accurate résumé, actual GitHub and LinkedIn profiles, and contact information. Choose a style that fits your goals.
 
-Use [one document per project](/templates/four-milestones). Update it as you go: research, choices, website plan, feedback, changes, checks, and AI use. Submit each active project separately each week. Section 007 starts the portfolio after the November 12 career reflection; [see its class-by-class plan](/course/section-007). Canvas setup for other sections is being aligned separately.
+**Show:** what you offer a recruiter, teammate, or client. [Portfolio requirements](/projects/portfolio).
 
-## Where to go next
+## How to manage the work
 
-- **Ready to start?** Read [the assignment](/course/milestones) and [your dates](/course/schedule).
-- **Need to see it?** Open [one completed example](/examples/submissions/).
-- **Submitting or asking a private question?** Use Canvas.
-- **Choosing a presentation time?** Use the [Demo Day signup](/demo-days/).
+**Research → Plan → Build → Improve.** The same projects grow through these steps. You do not start over each week.
 
-This course starts your preparation for internships, including customer-facing software work. [See the career path](/career/fde). Earlier assignments keep their original requirements. The new group business can be any realistic product or service; it does not have to be an online store.
+- **Keep one record per project.** Update the [short template](/templates/four-milestones). Your group shares one record and submits once.
+- **Follow the class cycle:** introduction → next class: work, peer feedback, and GitHub issues → following class: submit and begin the next step. Attendance and participation are required under course/university policies.
+- **Keep A/B manageable.** Compare two options; share code, content, and data. Choose one to launch.
+- **Show progress in Canvas.** One checkpoint per active project each week: links and a short update. Keep detailed work on your project record; use GitHub issues for feedback and retests.
+
+[Check your dates](/course/schedule) · [Section 007: every class and deadline](/course/section-007) · [Submissions and rubric](/course/milestones).
+
+Career reflection starts your portfolio. The week before Demo Days is for finishing, reviews, and rehearsal. Follow your section’s published Canvas deadlines.
+
+## Turn course work into a professional introduction
+
+<LearningDiagram kind="opportunities" />
+
+By Demo Days, aim to have:
+
+- **Work to show:** three finished sites, project records, code, checks, and feedback-driven improvements.
+- **Profiles that agree:** portfolio, résumé, GitHub, and LinkedIn describe your actual skills and contributions.
+- **A clear introduction:** explain your interests in 30 seconds and demonstrate one useful workflow in two minutes.
+- **A realistic next step:** choose an opportunity, check its requirements, and identify both your evidence and your gaps.
+
+Be specific: “I built and checked this workflow.” Explain your contribution, AI’s help, and what you can demonstrate.
+
+## Meet people and look for opportunities
+
+**Apply:** explore [internship leads](/career/internships) and [NJIT’s opportunity resources](https://www.njit.edu/careerservices/find-opportunities): Handshake, alumni connections, and paid short-term projects. Check each posting’s availability and requirements. Include software, implementation, and solutions roles alongside FDE titles.
+
+**Meet people:** search [Meetup](https://www.meetup.com/find/us--ny--new-york/machine-learning/) around Newark, Jersey City, NYC, or online for beginner-friendly technology events. Check age requirements, price, and format. Listen, ask about people’s work, and share a relevant project when invited.
+
+**Find a first client project:** ask a local business, campus organization, or community group about one frustrating task. Listen first. Suggest a small prototype; agree on the task, timeline, and what counts as done.
+
+<details>
+<summary>Try a short introduction and follow-up</summary>
+
+**Introduce yourself:** “I’m [name], an NJIT student learning to turn business needs into useful websites with AI. I built [project] to help [audience] do [task]. I’m looking for [an internship / part-time work / a small client project]. What kinds of problems does your team work on?”
+
+**After a useful conversation:** “Thanks for explaining [specific problem]. Here’s the project I mentioned: [portfolio link]. My part was [contribution]. If useful, I’d enjoy discussing [one small next step].”
+
+Ask before following up. Keep promises small and accurate.
+
+</details>
+
+These are career goals, not extra graded submissions or required paid events. We grade your process, not a hiring outcome. Use [career reflection](/career/explore) to choose a direction and [later courses](/career/course-pathway) to build depth.
+
+**Start now:** [see one completed student example](/examples/student-journey), then [open your schedule](/course/schedule) and choose the next action for each active project.
+
+<small>Opportunity resources checked November 2, 2026. Event listings and job postings change; verify details on the original site.</small>

@@ -6,6 +6,8 @@ Think of a business that receives incomplete service requests. An FDE might work
 
 <LearningDiagram kind="fde" />
 
+[See how the three projects prepare you to share your work, meet people, and pursue an opportunity](/course/overview).
+
 ## How IS117 starts that preparation
 
 | You practice… | A professional habit |

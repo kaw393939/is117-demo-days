@@ -34,6 +34,10 @@ Use a few screenshots and links. Distinguish course projects from employment and
 
 Use a small comparison of three portfolio references, two likely audiences, and two short page plans. Build two versions using the same project content. Have a peer find a project, your contribution, and your résumé. Make at least one meaningful change from the walkthrough and check it again.
 
+## Use it beyond class
+
+Practice introducing yourself and showing one project workflow. Use your portfolio in an application, at a Meetup or campus event, or in a conversation about a small client project. [Follow the professional preparation plan](/course/overview#meet-people-and-look-for-opportunities).
+
 ## Get your profiles ready
 
 [GitHub checklist](/career/github) · [LinkedIn checklist](/career/linkedin) · [Résumé example](/examples/student-resume) · [Fill-in résumé](/templates/resume).
