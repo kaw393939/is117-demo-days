@@ -27,6 +27,8 @@ Update schedule/source notes when Canvas or registrar details change. Keep grade
 
 Section 007 now has twelve unpublished placeholders: four T-shirt, four team-business, three portfolio, and one career reflection. Its career deadline is November 12 at 8:30 a.m. Five unpublished weekly/career modules connect the existing assignments to the central class plan. Six concise HTML descriptions are saved (T-shirt Research/Plan, team Research/Plan, career, and portfolio Improve); six remain pending because Safari’s full editor intermittently renders blank. The first two team assignments use the new empty final-project group set with individual grading. Remaining team settings and actual pairs/trio require completion before publication. The course home now links the central class plan and uses the revised project scope and schedule. Section 005’s nine earlier combined-review drafts are unchanged. No import or export was used; earlier submissions and category weights were preserved.
 
+A subsequent Safari-only retry confirmed the assignment detail pages load but the edit form can remain entirely absent; prepared HTML cannot be pasted until an input exists. Section 007 Student View verified the updated home link and hidden draft modules, then was exited without a submission. [The full term role-play and actual checks](/examples/term-walkthrough) distinguish fictional interactions from browser/SQLite verification.
+
 Before publishing, verify descriptions, one team submission per actual pair/trio, dates, student visibility, and the complete submission flow. Do not infer readiness from placeholder creation.
 
 ## Keep the student path simple

@@ -80,6 +80,8 @@ Submit the current review record December 3. Keep fixing and rehearsing afterwar
 
 That is **four T-shirt checkpoints, four team checkpoints, and three portfolio checkpoints**, plus one private career reflection. One designated team member submits the shared project once; the record names every member’s contribution. Canvas’s group-assignment settings must match your actual team before publication. Do not duplicate submissions unless the instructor directs you to.
 
+**Keep the workload small:** reuse Brand Studio, your career reflection, and existing project descriptions. A/B versions can share code and content. Use short notes and simple page sketches for the portfolio’s planning comparison; spend your time making the stories and checks specific. You do not need a new essay for each box.
+
 Each checkpoint contains only: **project-record link, current version/repository links as available, relevant feedback issue links, and a short note on what changed or remains open.** Reuse the same record. Use the matching Canvas box; GitHub issues do not submit coursework.
 
 [Rubric](/course/milestones#how-each-step-is-graded) · [One complete student journey](/examples/student-journey) · [Canvas assignments](https://njit.instructure.com/courses/70711/assignments).

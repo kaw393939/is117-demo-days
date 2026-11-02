@@ -12,6 +12,8 @@
 
 A working-class review should produce at least one actionable feedback issue for each active project. It can begin before class. Spread reviews across available time; you do not need to resolve every issue before submitting. Explain open issues and their next steps. Each final project still needs at least one meaningful change based on actual peer feedback and a retest.
 
+Keep a continuing issue open across stages if the same problem remains; link it again with an update rather than copying it. A reviewer can close their own issue after a successful retest. Repository owners or people with the needed repository permission can also close it. See [GitHub’s issue permissions](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue). If a peer cannot open an issue, check that Issues is enabled and they can access the repository; do not post private work to the course repository as a workaround.
+
 ## Copy this small issue
 
 ```md

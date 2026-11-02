@@ -14,6 +14,8 @@
 
 The portfolio connects the two business projects and explains Maya's contribution. The team record gives Maya and Avery comparable work and cross-review responsibilities. The [fictional customer brief](https://github.com/kaw393939/is117-demo-days/blob/main/docs/public/samples/room-ready/customer/AGENTS.md) supports practice discovery; it is a role-play, not market validation.
 
+[Optional: read the class-by-class student/instructor role-play and end-of-term review](/examples/term-walkthrough). It is a worked scenario, not extra coursework.
+
 ## What goes into Canvas each week
 
 These are filled examples of submission notes. Link your own evolving record and actual peer issues. The teaching issues above document this course-material walkthrough, not a substitute for student-owned stage reviews. The linked sample source is shared classroom code; real submissions link the student's or team's repository.
@@ -95,6 +97,6 @@ For the 007 portfolio's combined Research + Plan submission, the two 100-point e
 
 **Actual checks on the sample code:** both A/B checkout paths returned 2 × M / $50; both A/B service paths returned a pending Desk request; portfolio A/B contained both projects and the same profile destinations. At the browser's natural 319 px width, the three B pages and portfolio A had no horizontal document overflow. This is a limited narrow-screen check, not a full accessibility audit. Server-side validation and SQLite persistence are checked separately by the repository's example test.
 
-**Canvas limit:** the new modules and assignments remain unpublished. Six concise descriptions are saved; the other six remain pending because Safari’s editor intermittently renders blank. Team Research/Plan use a new final-project group set with individual grading; remaining team settings and actual team membership are pending. Student View can verify that drafts are hidden; it cannot verify a complete submission/grade flow yet. The Canvas home has been updated to the central class plan and current project scope. Do not treat the preview as a live assignment.
+**Canvas limit:** the new modules and assignments remain unpublished. Six concise descriptions are saved; the other six remain pending because Safari’s editor intermittently renders blank. Team Research/Plan use a new final-project group set with individual grading; remaining team settings and actual team membership are pending. Section 007 Student View was checked: the home/guide link is visible and the five new draft modules are hidden. It cannot verify a complete submission/grade flow yet. The Canvas home has been updated to the central class plan and current project scope. Do not treat the preview as a live assignment.
 
 [Return to your class plan](/course/section-007) · [More examples, including developing work](/examples/submissions/).
