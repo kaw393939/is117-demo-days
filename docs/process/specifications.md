@@ -1,6 +1,8 @@
-# Specification-driven development
+# Write a website plan
 
-A specification is your current agreement about the problem, expected behavior, scope, and evidence of completion. It should help you decide what to build and help another person check whether it works.
+A **specification**, or **spec**, is your current agreement about the problem, expected behavior, scope, and evidence of completion. It should help you decide what to build and help another person check whether it works.
+
+Start with the [short four-step template](/templates/four-milestones). The sequence below explains the process; it is not eight extra submissions.
 
 ## Use this sequence
 

@@ -1,4 +1,6 @@
-# NYC-area internships and application dates
+# NYC-area internships
+
+Start by comparing **two roles**. Look at the work, student eligibility, and the skills you still need to learn.
 
 **Research checked November 2, 2026.** These are examples and application leads, not guaranteed placements or a promise that introductory coursework meets every qualification. Employer pages can change or close early. “Not stated” means no deadline was established from the reviewed source; it does not mean unlimited availability. No confirmed exact-title Newark FDE internship was found in this search.
 
@@ -11,6 +13,9 @@
 
 These are employer/application dates, **not course deadlines**. Set your own reminders; this site does not monitor openings or send deadline notifications.
 
+<details>
+<summary>More NYC-area FDE programs and their requirements</summary>
+
 ## More local FDE examples
 
 | Employer / application source | Location and timing | Skills and evidence emphasized |
@@ -22,7 +27,12 @@ These are employer/application dates, **not course deadlines**. Set your own rem
 | [Charta Health · Software Engineer, FDE / Platform Intern](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf) | NYC or SF, onsite; deadline not stated | At least second year completed; Python/TypeScript, debugging, tests, customer-facing healthcare software. Employer posting reviewed Nov 2. |
 | [Pace · FDE Intern](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) | NYC onsite; summer; specific year/deadline not established from reviewed employer text | Insurance operations, discovery, AI workflows, implementation and iteration. Employer posting reviewed Nov 2; confirm program dates. |
 | [Datasite · AI Transformation / FDE Intern](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | NYC hybrid; program dates/deadline not stated | Business discovery and AI prototypes; enterprise experience not expected. Employer search-index text reviewed; direct page was not text-readable. **Lead requiring confirmation.** |
-| [Palantir · internships](https://jobs.lever.co/palantir?commitment=Internship) | NYC commercial and US-government FDSE listings; requirements vary | Programming, customer problem-solving, data and deployment. Use the individual posting for graduation-year, work-authorization, and other requirements; do not assume the France fellowship applies to NJIT students. |
+| [Palantir · internships](https://jobs.lever.co/palantir?commitment=Internship) | NYC commercial and US-government FDSE listings; requirements vary | Programming, customer problem-solving, data and deployment. Use the individual posting for graduation-year, work-authorization, and other requirements; read the eligibility terms for the specific opening. |
+
+</details>
+
+<details>
+<summary>Related part-time roles and programs</summary>
 
 ## Closely related, potentially compatible with classes
 
@@ -30,6 +40,8 @@ These are employer/application dates, **not course deadlines**. Set your own rem
 | --- | --- | --- |
 | [Interplay · AI Labs Intern](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac) | NYC hybrid, 2–3 office days; 10–20 hours/week; frontend/backend/API tasks, QA, documentation, research | Employer posting reviewed Nov 2; currently enrolled/recent graduates or equivalent building experience; U.S. work authorization; dates/deadline not stated. Title is AI Labs, not FDE. |
 | [Fenwick · Forward Deployed Operations Intern](https://fenwick.wd1.myworkdayjobs.com/en-US/Fenwick_External_Careers/job/Forward-Deployed-Operations-Intern_R2964) | New York office eligible; 16+ hours/week; fall 2026 into winter 2027; internal AI workflows and prototypes | Primary employer posting reviewed Nov 2; student enrollment and programming/API/AI familiarity; deadline not stated. Operations title, with closely related work. |
+
+</details>
 
 ## Turn a posting into a learning plan
 

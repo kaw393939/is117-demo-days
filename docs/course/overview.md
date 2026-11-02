@@ -1,39 +1,36 @@
-# Three projects, one professional story
+# What you are building
 
-Build a professional identity and demonstrate that you can turn a business idea into a useful web experience—individually and with a partner—using research, specifications, AI-assisted development, and quality assurance.
+You will finish three small websites and show how you made them. The goal is to practice a professional process with AI: understand a business need, make choices, build something useful, get feedback, and improve it.
 
-This course is early preparation for internships and work such as forward deployed engineering. It develops useful habits; completing IS117 alone does not establish readiness for every FDE role.
-
-## What each student completes
-
-| Deliverable | Ownership | What it demonstrates |
+| Project | Who does it? | What it needs to do |
 | --- | --- | --- |
-| [Professional portfolio](/projects/portfolio) | Individual | Design, persuasion, personal branding, career goals, résumé, and project case studies |
-| [Plain White T-Shirt company](/projects/white-tshirt) | Individual | Your vision, competitive research, feature priorities, specification, and simulated eCommerce experience |
-| [Business product or service](/projects/group-project) | Partners, usually two; one trio if enrollment is odd | Balanced work, shared decisions, integrated implementation, and peer QA |
+| [T-shirt store](/projects/white-tshirt) | You | Give a plain white tee your own brand and a working simulated shopping flow. |
+| [Group business](/projects/group-project) | You and a partner | Help a realistic business offer a product or service through a useful website. |
+| [Portfolio](/projects/portfolio) | You | Show both projects, your contribution, résumé, GitHub, and LinkedIn. |
 
-Each student's portfolio includes both business projects. Each student presents their portfolio and T-shirt site and explains their personal role in the group project. The team also demonstrates its shared result.
+Teams have two students, with one team of three if a section has an odd number. Each person helps with design, coding, and testing.
 
-## Your four milestones
+## Follow four steps
 
-[Research, plan, build two alternatives, then review and launch](/course/milestones). Use the [section-specific class cycle](/course/schedule): start in the first meeting, work with peers in the next, and submit when the following cycle begins. Attendance is required; class time is reserved for collaboration and feedback.
+<LearningDiagram kind="process" />
 
-## Work to retain
+At each step, compare two credible options and explain your choice. You can share code between versions. You do not need to build unrelated products or become an expert in every tool.
 
-Keep the competitive analysis, feature list, specifications, design decisions, issue/task history, implementation, QA notes, and contribution record. Record work as it happens so your case study can show evidence.
+[See exactly what to submit and how it is graded](/course/milestones).
 
-Complete **four individual reviews and four group reviews** before semester end, as already described in Canvas. Individual reviews cover the portfolio and T-shirt work together; this does not mean four reviews for each site. See [review evidence](/process/quality#progress-reviews).
+## Work with classmates during class
 
-## How this guide relates to Canvas
+**Attendance is required.** The [schedule](/course/schedule) includes time for partner work and feedback. Each of your three projects needs a peer walkthrough, at least one meaningful change based on that feedback, and a check that the change helped.
 
-This guide publishes the project direction and Demo Day logistics. Canvas retains official due dates, grading categories, feedback, accommodations, and private communication. No new grading percentages are established here. Earlier submissions retain their original assessment criteria.
+## Keep a short record
 
-The group project may address **any realistic business product or service**, broadening the older eCommerce wording on the Canvas homepage. AI may be part of the service or part of your development process. The individual T-shirt project's existing SQLite and simulated-checkout expectation is retained.
+Use [one document per project](/templates/four-milestones). Update it as you go: research, choices, website plan, feedback, changes, checks, and AI use. The four milestones cover your four individual reviews and four group reviews; individual reviews cover the T-shirt store and portfolio together.
 
-## Start now
+## Where to go next
 
-1. Read the three project briefs and inspect the competitive-landscape example.
-2. Form a partnership at the next class meeting; use one team of three if needed.
-3. Agree on a manageable business problem and write the shared specification and work plan.
-4. Record feedback, build incrementally, and review each other's work.
-5. Request a Demo Day slot through the GitHub issue form and prepare linked evidence.
+- **Ready to start?** Read [the assignment](/course/milestones) and [your dates](/course/schedule).
+- **Need to see it?** Open [one completed example](/examples/submissions/).
+- **Submitting or asking a private question?** Use Canvas.
+- **Choosing a presentation time?** Use the [Demo Day signup](/demo-days/).
+
+This course starts your preparation for internships, including customer-facing software work. [See the career path](/career/fde). Earlier assignments keep their original requirements. The new group business can be any realistic product or service; it does not have to be an online store.

@@ -7,10 +7,10 @@ const root = fileURLToPath(new URL('../', import.meta.url))
 const docs = path.join(root, 'docs')
 const walk = dir => readdirSync(dir, { withFileTypes: true }).flatMap(e =>
   e.name.startsWith('.') ? [] : e.isDirectory() ? walk(path.join(dir, e.name)) : [path.join(dir, e.name)])
-const pages = walk(docs).filter(p => p.endsWith('.md'))
+const pages = walk(docs).filter(p => p.endsWith('.md') && !p.startsWith(path.join(docs, 'public') + path.sep))
 const broken = []
 for (const page of pages) {
-  const source = readFileSync(page, 'utf8')
+  const source = readFileSync(page, 'utf8').replace(/```[\s\S]*?```/g, '')
   for (const [, link] of source.matchAll(/\]\(([^\s)]+)\)/g)) {
     if (/^(https?:|mailto:|#)/.test(link)) continue
     const route = link.split('#')[0]

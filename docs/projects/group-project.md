@@ -1,38 +1,42 @@
-# 03 / Partner or group business project
+# Your group business
 
-**See the process in practice:** [two complete examples for each project](/examples/submissions/), including research, personas, specifications, working A/B versions, and a sample feedback-driven improvement.
+With a partner, build a website for a realistic business product or service. It could accept an appointment request, explain a service and collect an inquiry, register customers for an event, or support another useful task.
 
-Build a professional web presence or marketing platform for a realistic business **product or service**. The concept may be an AI product, a traditional service built with AI coding assistance, or another credible business use case. Any technology is allowed when the team can explain its choices and demonstrate the result.
+**Examples:** [Room Ready](/examples/submissions/room-ready) · [Study Slot](/examples/submissions/study-slot). [More ideas](/projects/ideas).
 
-Form teams of **two**, with **one team of three if the section has an odd number of students**. The project should be larger than an isolated individual task but small enough to integrate, test, and finish.
+## Keep the scope small
 
-## Define a useful result
+Choose a customer, a business need, and one complete task. “A visitor submits a request, sees a receipt, and the business can find the request” is enough to build around.
 
-Identify a customer, the business need, the current workflow, and one meaningful interaction. Examples include appointment requests, quote generation, registration, inquiry handling, customer onboarding, or a simple operations dashboard. A complete narrow workflow is a good scope.
+Use AI to help plan and code. An AI feature inside the product is optional. Choose tools you can explain and run.
 
-An AI feature is optional. Use AI coding and specification-driven development in the process; explain why any AI feature in the product helps its users. See [suggested projects and job connections](/projects/ideas).
+## Practice with a client
 
-## Required project evidence
+Use an [AI-simulated customer brief](/process/simulated-customer) if it helps your team ask discovery questions and compare two proposals. Two starter `AGENTS.md` files are available. Keep the decisions in your existing project document. A real peer still performs the final walkthrough.
 
-- Business/audience brief, brand direction, and main user journey.
-- Shared specification and feature priorities with acceptance criteria.
-- A work-allocation table showing **equal planned workload** and clear responsibilities.
-- Meaningful design, development, and QA contributions from **every member**.
-- GitHub issues/tasks, commits, review notes, or other evidence showing how work was divided and integrated.
-- Working site or demonstrable application with setup/deployment instructions.
-- QA record, known limitations, and a short handoff.
-- An individual contribution statement from each member, used in their own portfolio.
+## Share the work fairly
 
-## Equal work means shared responsibility
+Teams have two students, with one trio if a section has an odd number. **Every member contributes to design, development, and testing.** Agree on tasks with comparable effort and review each other's work.
 
-Estimate work in a common unit such as effort points and distribute comparable totals. Rebalance when a task proves larger. Each member owns a meaningful part of the product and tests/reviews someone else's work. Document changes to the allocation.
+| Each person should… | Example |
+| --- | --- |
+| Design something useful | Plan the customer form or the request summary. |
+| Build a meaningful part | Implement form validation or request storage and review. |
+| Test a partner's work | Check missing inputs, the main task, or the phone layout. |
+| Explain their contribution | Link tasks, changes, and reviews in the shared record. |
 
-Do not assign one student all coding and the other only slides, proofreading, or administrative coordination. Distinct work is welcome; a portfolio page or commit count alone does not prove an equal contribution. See [a practical allocation example](/process/collaboration).
+Do not give one person all coding and the other only slides or proofreading. Adjust the work plan when a task takes longer than expected. [See a work-plan example](/process/collaboration).
 
-## Professional workflow
+## Follow the four steps together
 
-Agree on the specification and design conventions, build small increments, integrate early, review each other's work, record bugs, and verify the core journey together. Participate in **four group reviews**, keeping evidence of what feedback changed.
+Research three relevant sites and compare two audiences. Compare two website plans, build two working versions, choose one, and improve it after a peer walkthrough. Someone outside the team can give a fresh view. Record at least one meaningful change and retest it.
 
-## What to demonstrate
+## What you submit
 
-Tell the audience whom you serve, show the working business workflow, and explain a design decision, the work division, AI use, and QA. Every member must be able to explain their contribution and how it fits the whole system.
+- Selected site, alternate version, shared repository, and setup steps.
+- A [short process document](/templates/four-milestones), including research, stories, plan, feedback, changes, checks, and AI use.
+- The work plan and a brief contribution statement from each member.
+
+Each person adds a case study to their own portfolio. Both partners explain their work during the team demo.
+
+[Assignment & simple rubric](/course/milestones) · [Due dates and class work time](/course/schedule).

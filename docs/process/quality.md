@@ -1,6 +1,6 @@
-# Quality assurance and reviews
+# Test your site and get feedback
 
-Quality assurance asks whether the result works for the intended user and matches the specification. Keep a short record with the scenario, expected result, actual result, date, reviewer, and any fix/retest.
+**Quality assurance (QA)** means checking the work. It asks whether the result works for the intended user and matches the specification. Keep a short record with the scenario, expected result, actual result, date, reviewer, and any fix/retest.
 
 ## Check the meaningful paths
 

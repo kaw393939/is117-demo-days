@@ -2,50 +2,44 @@
 layout: home
 hero:
   name: IS117 Studio
-  text: Build something. Explain why it matters.
-  tagline: Three projects. One professional story. Research a business, build with AI, collaborate with a partner, and demonstrate the result.
+  text: Three projects. Four steps.
+  tagline: Research, plan, build, and improve. Use AI, compare two ideas, work with classmates, and show what you learned.
   actions:
     - theme: brand
-      text: Start with your three deliverables
-      link: /course/overview
+      text: See the assignment
+      link: /course/milestones
     - theme: alt
-      text: Choose a Demo Day slot
-      link: /demo-days/
+      text: Check your due dates
+      link: /course/schedule
 features:
-  - title: 01 / Your professional identity
-    details: A portfolio that uses design, persuasion, and branding to communicate your style, goals, and contributions.
-    link: /projects/portfolio
-  - title: 02 / Your own business vision
-    details: Turn competitive research into a feature list, a specification, and a professional simulated T-shirt store.
+  - title: Your T-shirt store
+    details: Give a simple white tee a clear audience, brand, and simulated shopping experience.
     link: /projects/white-tshirt
-  - title: 03 / Build together
-    details: Deliver a useful business product or service through balanced design, development, and quality assurance.
+  - title: Your group business
+    details: Build a useful product or service with a partner. Share design, coding, and testing.
     link: /projects/group-project
+  - title: Your portfolio
+    details: Show both projects, explain your contribution, and link your résumé, GitHub, and LinkedIn.
+    link: /projects/portfolio
 ---
 
-## Start the four-milestone cycle
+## Start with research
 
-[Research → plan → build → review and launch](/course/milestones). [See class dates and protected partner-feedback time](/course/schedule). Attendance is required.
+Compare three relevant websites. Consider two possible audiences. Choose whom your project will serve and explain why. [See what to submit](/course/milestones) or [follow a worked example](/examples/submissions/).
 
-## See what a submission looks like
+**First research submission:** section 005 — **Nov 9 at 11:30 a.m.**; section 007 — **Nov 10 at 8:30 a.m.** [See the full schedule and Thanksgiving adjustment](/course/schedule).
 
-Explore [two complete examples for each project](/examples/submissions/): short research, personas, specifications, two working versions, and a documented improvement.
+## You will have time to work together
 
-## Finish the semester with evidence
+**Attendance is required.** Start each step in the first class, work with classmates in the next, and submit when the next cycle begins. Each project needs a peer walkthrough and at least one change based on feedback.
 
-A working website matters. So do the decisions, collaboration, and checks behind it. Your portfolio connects that evidence to the kind of work you want to do next.
+## Ready for Demo Days?
 
-| Section | Demo Day 1 | Demo Day 2 | Meeting time · Eastern |
-| --- | --- | --- | --- |
-| [005](/demo-days/section-005) | Monday, December 7 | Thursday, December 10 | 11:30 a.m.–12:50 p.m. |
-| [007](/demo-days/section-007) | Tuesday, December 8 | Thursday, December 10 | 8:30–9:50 a.m. |
+| Section | Presentation dates |
+| --- | --- |
+| 005 | December 7 and 10 |
+| 007 | December 8 and 10 |
 
-**One signup issue per team.** Each student demonstrates their own portfolio and T-shirt site during the team's slot. [Read the presentation format and request a slot.](/demo-days/)
+[See the format and request a team slot](/demo-days/). Use **Canvas for submissions, grades, and private questions**. This site holds the shared instructions and examples.
 
-## Prepare early for work with real customers
-
-Forward deployed engineers combine technical work with understanding a customer's business and delivering useful systems. IS117 begins that preparation. More programming, data, API, deployment, and testing experience will be needed for many FDE internships. [Explore the work and local examples.](/career/fde)
-
-::: info Dates and course policies
-Canvas remains the source for official assignment deadlines and grading. The December 22 final block remains available for remaining presentations and required redos under the current Canvas guidance. [See the verified calendar and source notes.](/course/sources)
-:::
+Curious where this leads? [Explore FDE work, internships, and your next courses](/career/fde).

@@ -1,14 +1,17 @@
-# Templates you can adapt
+# Copy a template
 
-Copy these structures into your own project repository and replace the prompts with real decisions and evidence.
+**Start with [one short document for all four steps](/templates/four-milestones).** You do not need to complete every template below.
 
-- [One short document, four milestones](/templates/four-milestones) — [six worked examples](/examples/submissions/)
-- [Competitive research worksheet](/templates/research)
-- [Project specification](/templates/specification)
-- [Collaboration and contribution record](/templates/collaboration)
-- [QA and review record](/templates/qa)
-- [Portfolio case study](/templates/case-study)
-- [Internship research](/templates/internship)
-- [Fill-in student résumé](/templates/resume) — [worked example](/examples/student-resume)
+Use these if you need more structure:
 
-Keep documents short enough to use during development. Update them when the work changes.
+| Working on… | Template |
+| --- | --- |
+| Competitor research | [Research worksheet](/templates/research) |
+| Website behavior and data | [Detailed website plan](/templates/specification) |
+| Dividing team work | [Collaboration record](/templates/collaboration) |
+| Checks and peer feedback | [Testing record](/templates/qa) |
+| Explaining a project in your portfolio | [Case study](/templates/case-study) |
+| Your résumé | [Résumé starter](/templates/resume) |
+| Comparing job opportunities | [Internship research](/templates/internship) |
+
+[See completed examples](/examples/submissions/). Keep your documents short and update them when the work changes.

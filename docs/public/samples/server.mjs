@@ -46,8 +46,8 @@ const server=createServer(async(req,res)=>{
  }
  if(req.method!=='GET'||route.startsWith('api/'))return reply(res,404,{error:'Not found.'});
  const file=resolve(root,decodeURIComponent(route));
- if(!file.startsWith(root+sep)||!['.html','.css','.js','.json','.txt','.svg','.jpg','.png','.webp'].includes(extname(file)))return reply(res,404,{error:'Not found.'});
- const types={'.html':'text/html','.css':'text/css','.js':'text/javascript','.json':'application/json','.txt':'text/plain','.svg':'image/svg+xml','.jpg':'image/jpeg','.png':'image/png','.webp':'image/webp'};
+ if(!file.startsWith(root+sep)||!['.html','.css','.js','.json','.txt','.svg','.jpg','.png','.webp','.md'].includes(extname(file)))return reply(res,404,{error:'Not found.'});
+ const types={'.html':'text/html','.css':'text/css','.js':'text/javascript','.json':'application/json','.txt':'text/plain','.svg':'image/svg+xml','.jpg':'image/jpeg','.png':'image/png','.webp':'image/webp','.md':'text/plain'};
  let bytes;try{bytes=readFileSync(file)}catch{return reply(res,404,{error:'Not found.'})}
  res.writeHead(200,{'Content-Type':types[extname(file)],'X-Content-Type-Options':'nosniff'});res.end(bytes);
  }catch{reply(res,500,{error:'Demo server error. Check the local console.'});}

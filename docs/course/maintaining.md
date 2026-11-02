@@ -26,3 +26,7 @@ Update schedule/source notes when Canvas or registrar details change. Keep grade
 ## Milestone publication status
 
 The guide now contains the instructor’s four milestone dates, required attendance, protected peer-work meetings, and an equal-share rubric. Canvas milestone entries have not yet been created by this update. Synchronize the dates and link each entry to the appropriate guide section when authorized; keep historical assignments intact.
+
+## Keep the student path simple
+
+The five top-level destinations are Assignment, Examples, Schedule, Demo Days, and Careers. Keep task instructions on milestone/project pages and put deeper references behind contextual links. Preserve existing URLs. Use familiar terms and define necessary vocabulary on first use. Keep example details expandable, label fictional evidence, and retain both versions without doubling the required technical scope. Update the source download whenever runnable examples change.

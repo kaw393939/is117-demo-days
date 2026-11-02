@@ -13,9 +13,10 @@ const post=async body=>{const res=await fetch(base+'api/records',{method:'POST',
 try{
  await start();
  for(const p of projects){
-  for(const v of ['a','b']){const r=await fetch(base+p.slug+'/'+v+'.html');assert.equal(r.status,200);assert.match(await r.text(),new RegExp('data-version="'+v+'"'));}
+  for(const v of ['a','b']){const r=await fetch(base+p.slug+'/'+v+'.html');assert.equal(r.status,200);assert.match(await r.text(),new RegExp('data-version="'+v+'"'));assert.equal((await fetch(base+p.slug+'/preview-'+v+'.jpg')).status,200);}
   const image=await fetch(base+p.slug+'/concept.jpg');assert.equal(image.status,200);
-  const packet=await readFile('docs/examples/submissions/'+p.slug+'.md','utf8');for(const h of ['## 1. Research','## 2. Plan','## 3. Build','## 4. Review'])assert.ok(packet.includes(h));
+  const packet=await readFile('docs/examples/submissions/'+p.slug+'.md','utf8');for(const h of ['## 1. Research','## 2. Plan','## 3. Build','## 4. Get feedback'])assert.ok(packet.includes(h));
+  if(p.kind==='service')assert.equal((await fetch(base+p.slug+'/customer/AGENTS.md')).status,200);
   if(p.kind==='portfolio'){for(const f of ['resume.txt','github-profile.txt','linkedin.txt'])assert.equal((await fetch(base+p.slug+'/'+f)).status,200);continue;}
   const body={project:p.slug,email:'demo@example.test',...(p.kind==='shirt'?{size:'M',quantity:2,total:1}:{service:p.options[0],window:'Weekday afternoon'})};
   const [status,row]=await post(body);assert.equal(status,201);assert.ok(row.reference);assert.equal(row.email,undefined);
@@ -26,5 +27,5 @@ try{
  await stop();await start();
  const after=await fetch(base+'api/records?project=campus-cotton').then(r=>r.json());assert.deepEqual(after,before);
  assert.equal((await fetch(base+'server.mjs')).status,404);
- console.log('Verified 12 pages, 6 images, 6 milestone packets, 6 profile drafts, all 4 demo workflows, validation, server-calculated totals, and SQLite persistence across restart.');
+ console.log('Verified 12 pages, 12 UI previews, 6 concept images, 6 milestone packets, 6 profile drafts, all 4 demo workflows, validation, server-calculated totals, and SQLite persistence across restart.');
 }finally{await stop();await rm(temp,{recursive:true,force:true});}

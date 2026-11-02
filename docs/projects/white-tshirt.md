@@ -1,44 +1,33 @@
-# 02 / Your Plain White T-Shirt company
+# Your T-shirt store
 
-**See the process in practice:** [two complete examples for each project](/examples/submissions/), including research, personas, specifications, working A/B versions, and a sample feedback-driven improvement.
+Everyone starts with the same product: a plain white T-shirt. Choose whom it is for, give it your own brand, and build a professional-looking **simulated online store**.
 
-Everyone begins with the same basic product. Your audience, business vision, branding, and customer experience make the project your own.
+**Examples:** [Campus Cotton](/examples/submissions/campus-cotton) · [Studio White](/examples/submissions/studio-white).
 
-Build your best attempt at a professional **simulated eCommerce site**, using competitive research and specification-driven development. Preserve the existing Canvas expectation of **SQLite and simulated checkout**. HTML, CSS, and JavaScript remain useful foundations; additional technologies are welcome when you can explain and maintain them.
+## What the finished store needs
 
-## 1. Research 3–5 competitors
-
-Compare a relevant product from each brand: audience, pricing conditions, positioning, fabric/fit information, imagery, shopping flow, trust information, and usability. A competitor may have a larger catalog; explain the selected product's relevance. Record source URLs and research dates. Include concise screenshot evidence.
-
-Use the [completed class example](/examples/competitive-landscape), [screenshots](/examples/site-references), and [research worksheet](/templates/research).
-
-## 2. Turn research into your feature list
-
-For each feature, explain the customer need, research evidence, priority, and how you will know it works. Distinguish **essential**, **differentiating**, and **deferred** features. A list copied from another store is not yet a product decision.
-
-Example: “Competitor fit guides address sizing uncertainty. My site will show garment measurements beside size selection. A visitor should be able to find them before adding a shirt.”
-
-## 3. Specify before you build
-
-Define the audience, brand promise, pages, main customer journey, data, features, acceptance criteria, and scope limits. Keep the specification current when a decision changes. The [worked example](/examples/tshirt-spec) shows research → feature → specification → QA.
-
-## 4. Build the core simulated journey
-
-Your exact design should follow your specification. A credible baseline includes:
-
-| Customer task | Evidence to demonstrate |
+| A visitor can… | What you show |
 | --- | --- |
-| Understand the brand and shirt | Clear positioning, original brand identity, useful product imagery, fabric/fit/care information |
-| Choose a product option | Labeled size controls and clear selected/missing states |
-| Review a purchase | Cart or order summary with correct quantity and totals |
-| Complete a simulated checkout | Validation, clear demo labeling, and a confirmation/reference |
-| See stored data work | SQLite-backed product or order data connected to the application, explained in the README |
-| Find help | Appropriate contact, delivery, and return information for the classroom scenario |
+| Understand the offer | Clear audience, brand, price, product images, and useful product information. |
+| Choose a shirt | Labeled size choices, fit information, and clear selection states. |
+| Review the purchase | A cart or order summary with correct quantities and totals. |
+| Finish a demo checkout | Required inputs checked, a clear demo label, and confirmation. |
+| See data work | SQLite-backed product or order data connected to the application. |
+| Find help | Clear contact, delivery, and return information for the fictional business. |
 
-No real payment processing or payment-card collection. Use synthetic test orders, keep secrets out of the browser/repository, and distinguish fictional classroom policies from real business promises. A deployed SQLite application may need server hosting; a static frontend alone cannot execute a server-side database. Explain your deployment and any live-demo limitation honestly.
+No real payments or payment-card collection. Use synthetic orders and label fictional product claims and policies. A static GitHub Pages site cannot run a server-side SQLite database: explain how to run your backend and what your published version can do.
 
-## 5. Verify, document, and present
+## Follow the four steps
 
-Keep specifications, feature priorities, QA results, feedback, and known limitations with your code. Show a successful path and at least one validation/error case. Explain what you built and what AI helped generate. Include the project in your portfolio and four individual progress reviews.
+1. **Research:** compare three clothing sites. Consider two market positions and two customer personas. Choose an audience and explain your evidence and assumptions.
+2. **Plan:** compare two short website approaches. Write three to five user stories, essential features, and checks for success.
+3. **Build:** make two working versions. They can share code; change something meaningful about how they serve or communicate with the customer.
+4. **Improve:** ask a peer to try the selected version. Make at least one meaningful change from their feedback, retest it, and publish your choice.
 
-At Demo Day, communicate your vision, one research-driven decision, and a short working customer journey. Professional quality comes from coherence and careful execution, not the largest feature count.
+Reuse and improve your Brand Studio work. Keep that earlier milestone's original scope separate from this final store.
+
+## What you submit
+
+Your selected site, alternate version, repository, and [short process document](/templates/four-milestones). Include the store in your portfolio and demonstrate a purchase at Demo Day.
+
+[Assignment & simple rubric](/course/milestones) · [Due dates](/course/schedule) · [Learn research and user stories](/process/research-to-features).

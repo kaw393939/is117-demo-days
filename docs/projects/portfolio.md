@@ -1,46 +1,41 @@
-# 01 / Your professional portfolio
+# Your personal portfolio
 
-**See the process in practice:** [two complete examples for each project](/examples/submissions/), including research, personas, specifications, working A/B versions, and a sample feedback-driven improvement.
+Build a website that introduces you and shows what you can do. Your reader might be an internship recruiter, a future teammate, or a potential client. Choose one main audience and make the next step clear.
 
-Create an individual website that communicates your style, goals, and ability to do useful work. Its intended reader could be an internship recruiter, hiring manager, collaborator, or client. Decide whom you are persuading and what you want them to understand or do.
+**Examples:** [Maya Chen](/examples/submissions/maya-chen) · [Jordan Rivera](/examples/submissions/jordan-rivera). Both are fictional students.
 
-## Include
+## Include these six things
 
-- A concise introduction and career direction.
-- Clearly labeled **LinkedIn and GitHub** profile links.
-- A résumé tailored to an AI-related role or another role you want to pursue, accurately representing your current experience. Offer readable web content and a downloadable PDF if useful.
-- An individual T-shirt project case study with live site and repository links.
-- A group project case study with live site, repository, and **your specific contribution**.
-- An appropriate professional contact route.
+1. **A short introduction:** what you are studying, what interests you, and the work you want to do next.
+2. **Your T-shirt project:** the live site, code, and a short explanation of your choices.
+3. **Your group project:** the live site, code, and exactly what you contributed.
+4. **Your résumé:** readable online or as a download, based on skills and work you can demonstrate.
+5. **Your GitHub and LinkedIn:** clearly labeled links to your actual profiles.
+6. **A professional way to contact you.**
 
-## Build a connected professional presence
+## Give the site your own style
 
-Your website, GitHub, LinkedIn, and résumé should reinforce the same accurate story. The website demonstrates design and persuasion; GitHub shows how you build; LinkedIn introduces your direction and projects; the résumé selects relevant evidence for a particular opportunity.
+Explain the impression you want to make, then choose a tone, layout, type, colors, and images that support it. An **archetype** is a useful brand pattern: a Creator might highlight original work; a Sage might highlight clear explanations. Use one if it helps your decisions.
 
-| Prepare | What to complete | Guide |
-| --- | --- | --- |
-| GitHub portfolio | Clear profile, selected repositories, readable READMEs, live links, and contribution evidence | [Professional GitHub guide](/career/github) |
-| LinkedIn profile | Specific headline, About section, education, project descriptions, and portfolio/GitHub links | [Professional LinkedIn guide](/career/linkedin) |
-| Résumé | A concise account of actual skills and course projects, tailored to your goal | [Worked student example](/examples/student-resume) · [Fill-in template](/templates/resume) |
+**Persuasion** means giving the reader good reasons to trust your work and take the next step. Specific projects and clear explanations are more useful than calling yourself an expert.
 
-You do not need prior technical employment to explain a real course project well. Describe class businesses as projects, identify your individual group contribution, and use only skills and results you can substantiate. No paid profile subscription is required for this coursework.
+## Keep each project story short
 
-## Make design intentional
+A **case study** explains a project and your decisions. Answer:
 
-Write a short brand rationale covering audience, desired impression, tone, typography, colors, imagery, and layout. Choose one primary archetype or a purposeful combination as a design aid. For example, a **Creator** direction might emphasize original work and process; a **Sage** direction might emphasize clear explanations and evidence; an **Explorer** direction might emphasize curiosity and experiments. These are optional frameworks, not personality tests or prescribed styles.
+- Who was it for, and what task did it help them complete?
+- What two options did you compare, and why did you choose one?
+- What did you personally build? How did AI help, and what did you check?
+- What did peer feedback change? What still needs work?
 
-Connect the choices: “I want a recruiter to see careful technical reasoning, so my case studies make decisions and validation easy to scan.” Persuasion comes from credible evidence, clear hierarchy, and an obvious next action—not unsupported claims.
+Use a few screenshots and links. Distinguish course projects from employment and your work from the whole team's work.
 
-## Case studies should answer
+## Compare and improve
 
-1. Who was the project for, and what problem did it address?
-2. What did research change about the design or feature scope?
-3. What did you personally design, build, integrate, or test?
-4. How did AI help, and how did you verify its output?
-5. What works now, what feedback changed the result, and what would you do next?
+Use a small comparison of three portfolio references, two likely audiences, and two short page plans. Build two versions using the same project content. Have a peer find a project, your contribution, and your résumé. Make at least one meaningful change from the walkthrough and check it again.
 
-Use screenshots with captions and links to specifications, issues, or selected contributions. Explain team outcomes and personal work separately. Do not publish fabricated employment, customer results, testimonials, or credentials.
+## Get your profiles ready
 
-## Ready to demonstrate
+[GitHub checklist](/career/github) · [LinkedIn checklist](/career/linkedin) · [Résumé example](/examples/student-resume) · [Fill-in résumé](/templates/resume).
 
-A visitor can find both projects, your résumé, and professional profiles. The site works on a phone-sized screen and with a keyboard. Project links work without your local development environment. Your case studies explain choices in plain language. Use the [case-study template](/templates/case-study).
+[What to submit & grading](/course/milestones) · [Due dates](/course/schedule) · [Short case-study template](/templates/case-study).

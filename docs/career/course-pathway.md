@@ -1,49 +1,55 @@
-# After IS117: a path toward enterprise AI work
+# Next courses with Keith
 
-**IS117 starts the process. Later courses build depth.** Keep learning to understand users, write and explain software, handle data, collaborate, and verify results. This is useful preparation for FDE internships and related enterprise AI work.
+IS117 introduces a process. Your next courses can help you build stronger interfaces, understand business requirements, and work with more capable applications and AI systems.
+
+## A recommended route
+
+- **Spring 2027:** consider **IS219** and **IS390** with Keith if you meet their prerequisites.
+- **Summer 2027:** Keith recommends planning to take **IS218 online with him** for a connected approach to FDE preparation. This is a planned offering; confirm the section, dates, and delivery mode when the summer schedule is published.
+- **Later:** build your programming/database foundation, then consider **IS425** and further enterprise AI study.
+
+Plan this with your advisor so waiting for summer IS218 does not block another required course or graduation progress.
 
 <LearningDiagram kind="courses" />
 
-## Keith’s recommended next steps
+## What the courses add
 
-For students pursuing this direction, **Keith recommends planning to take IS218 online with him in summer 2027** for a connected approach to FDE preparation. This is the instructor’s planned offering and teaching recommendation; the summer section, dates, and delivery details still need confirmation in the published schedule. Plan it with your advisor so postponing IS218 does not block another required course or your graduation progress.
-
-For **spring 2027**, consider **IS219** and **IS390** with Keith if you meet their prerequisites. **IS425** is a later, advanced step once you have the required database foundation. No course alone guarantees an internship or job.
-
-## What each course adds
-
-| Course | Catalog focus, summarized | Connection to the work |
+| Course | What you learn | Why it helps |
 | --- | --- | --- |
-| **IS117 — Introduction to Website Development** | Website planning, business/user requirements, design and hands-on web projects | Begin with research, alternatives, specifications, AI-assisted building, feedback, and delivery. |
-| **IS219 — Advanced Website Development** | Browser programming, interactive interfaces, forms/validation and usability | Develop the interface behavior behind a useful customer experience. |
-| **IS218 — Building Web Applications** | Group development of web information systems and evaluation of usability | Move toward more capable applications and information workflows. |
-| **IS390 — Requirements Analysis and Systems Design** | Requirements discovery, development life cycle, prototyping and systems/interface design | Deepen the reasoning that connects stakeholder needs to an implementable system. |
-| **IS425 — Enterprise AI Applications & Infrastructure** | Business AI solutions, ingestion/ETL, vector databases, human review and cost/quality tradeoffs | Extend the foundation toward enterprise AI implementation and operation. |
+| **IS219 — Advanced Website Development** | Browser programming, interactive pages, forms, validation, and usability. | Build interfaces that help people complete tasks. |
+| **IS218 — Building Web Applications** | Team web-application development and usability review. | Build more capable applications that handle information. |
+| **IS390 — Requirements Analysis and Systems Design** | Discover requirements, model systems, prototype, and design interfaces. | Turn a business problem into a clear system plan. |
+| **IS425 — Enterprise AI Applications & Infrastructure** | Business AI, data ingestion, ETL pipelines, vector databases, human review, and cost/quality choices. | Build toward deploying and managing AI in business settings. |
 
-These summaries come from the [2026–27 NJIT catalog](https://catalog.njit.edu/undergraduate/computing-sciences/informatics/). The career connections are teaching interpretations; specific tools and assignments depend on the section syllabus.
+Summaries: [NJIT 2026–27 catalog](https://catalog.njit.edu/undergraduate/computing-sciences/informatics/). Career connections are instructor interpretations; check each section’s syllabus for its tools and assignments.
 
-## Spring 2027 sections shown in the instructor’s schedule
+## Spring 2027 sections
 
-| Course / section | CRN | Days and time · Eastern | Room |
+| Course | When · Eastern | Section / CRN | Room |
 | --- | --- | --- | --- |
-| **IS219-102** | **13637** | Tuesday, 6:00–8:50 p.m. | CKB 120 |
-| **IS390-002** | **13663** | Tuesday/Thursday, 2:30–3:50 p.m. | GITC 2121 |
-| **IS425-102** | **13666** | Friday, 6:00–8:50 p.m. | KUPF 208 |
+| **IS219** | Tue 6–8:50 p.m. | 102 / **13637** | CKB 120 |
+| **IS390** | Tue/Thu 2:30–3:50 p.m. | 002 / **13663** | GITC 2121 |
+| **IS425** | Fri 6–8:50 p.m. | 102 / **13666** | KUPF 208 |
 
-Source: instructor-provided NJIT schedule screenshot, November 2, 2026, labeled **2027 Spring**. It lists Keith Williams and face-to-face delivery for these sections. This is a schedule snapshot, not a live seat-availability feed. Recheck the [NJIT course schedule](https://generalssb-prod.ec.njit.edu/BannerExtensibility/customPage/page/stuRegCrseSched) before registration. IS601 is not part of this undergraduate recommendation.
+The instructor’s November 2 screenshot is labeled **Spring 2027** and lists Keith Williams, face-to-face. Recheck the [NJIT schedule](https://generalssb-prod.ec.njit.edu/BannerExtensibility/customPage/page/stuRegCrseSched) before registering; this table is not a live seat count.
 
-## Prerequisites affect your sequence
+<details>
+<summary>Check prerequisites before choosing your sequence</summary>
 
-- **IS218 and IS219:** the catalog lists IS117 or IT202, plus CS100, CS113, or CS115. IS218 is strongly encouraged for IS219, rather than listed as its required prerequisite.
-- **IS390:** the catalog lists CS103, CS106, CS113, CS115, IS218, or IT202.
-- **IS425:** the catalog lists IS331, CS331, or MIS385.
+Finishing IS117 alone does not qualify you for every course above.
 
-Check your own record, current catalog, and advisor before registering. **Finishing IS117 alone does not satisfy all of these prerequisites.** [Official catalog](https://catalog.njit.edu/undergraduate/computing-sciences/informatics/).
+- **IS218 and IS219:** IS117 or IT202, plus CS100, CS113, or CS115. IS218 is strongly encouraged for IS219, rather than required.
+- **IS390:** CS103, CS106, CS113, CS115, IS218, or IT202.
+- **IS425:** IS331, CS331, or MIS385.
 
-## The developing BS in Enterprise AI pathway
+[Official catalog](https://catalog.njit.edu/undergraduate/computing-sciences/informatics/). Check your own record and degree plan with your advisor.
 
-As we continue developing the **BS in Enterprise AI (BSEAI)** pathway, the aim is to connect business understanding, systems design, data, AI applications, and professional delivery. IS390 and IS425 help develop complementary foundations for that work. Further course development will extend this preparation; follow published curriculum updates for actual requirements and offerings.
+</details>
 
-NJIT already publishes the [BSEAI program description](https://informatics.njit.edu/bs-enterprise-ai) and a [four-year curriculum](https://informatics.njit.edu/enterprise-ai-curiculum) that includes IS117, IS218, IS390, and IS425. BSEAI is the degree abbreviation; employers use job titles such as forward deployed engineer, implementation engineer, solutions engineer, and applied AI engineer.
+## How this connects to BSEAI
 
-[Read job examples and pay](/career/jobs-and-pay) · [See skills to build next](/career/skills).
+As we continue developing the **BS in Enterprise AI (BSEAI)** pathway, the aim is to connect business needs, systems design, data, AI applications, and professional delivery. IS390 and IS425 build complementary foundations for that work; further course development will extend the preparation.
+
+NJIT already publishes a [BSEAI program description](https://informatics.njit.edu/bs-enterprise-ai) and [four-year curriculum](https://informatics.njit.edu/enterprise-ai-curiculum) including IS117, IS218, IS390, and IS425. Follow published updates for actual requirements. BSEAI is a degree abbreviation; FDE and applied AI engineer are examples of job titles.
+
+[Job examples and pay](/career/jobs-and-pay) · [Skills to build next](/career/skills).

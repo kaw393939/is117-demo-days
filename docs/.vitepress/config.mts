@@ -1,69 +1,105 @@
 import { defineConfig } from 'vitepress'
 
+const start = { text: 'Start here', items: [
+  { text: 'What you are building', link: '/course/overview' },
+  { text: 'Four steps & grading', link: '/course/milestones' },
+  { text: 'Class dates & due dates', link: '/course/schedule' },
+  { text: 'See completed examples', link: '/examples/submissions/' }
+] }
+const career = [
+  { text: 'Careers & next courses', items: [
+    { text: 'What is an FDE?', link: '/career/fde' },
+    { text: 'Job examples & pay', link: '/career/jobs-and-pay' },
+    { text: 'NYC-area internships', link: '/career/internships' },
+    { text: 'Next courses with Keith', link: '/career/course-pathway' }
+  ]},
+  { text: 'Your professional profiles', collapsed: true, items: [
+    { text: 'GitHub', link: '/career/github' },
+    { text: 'LinkedIn', link: '/career/linkedin' },
+    { text: 'Example résumé', link: '/examples/student-resume' },
+    { text: 'Résumé template', link: '/templates/resume' },
+    { text: 'Skills to build next', link: '/career/skills' }
+  ]}
+]
+const standard = [start,
+  { text: 'Your three projects', items: [
+    { text: 'T-shirt store', link: '/projects/white-tshirt' },
+    { text: 'Group business', link: '/projects/group-project' },
+    { text: 'Personal portfolio', link: '/projects/portfolio' }
+  ]},
+  { text: 'Help while you work', collapsed: true, items: [
+    { text: 'Research, personas & user stories', link: '/process/research-to-features' },
+    { text: 'Write a website plan', link: '/process/specifications' },
+    { text: 'Practice with a fictional customer', link: '/process/simulated-customer' },
+    { text: 'Divide the group work', link: '/process/collaboration' },
+    { text: 'Test & get feedback', link: '/process/quality' },
+    { text: 'Use AI & explain your work', link: '/process/ai' },
+    { text: 'Copy the submission template', link: '/templates/four-milestones' },
+    { text: 'More templates', link: '/templates/' },
+    { text: 'Group project ideas', link: '/projects/ideas' }
+  ]},
+  { text: 'Demo Days', collapsed: true, items: [
+    { text: 'Presentation & signup', link: '/demo-days/' },
+    { text: 'Section 005 / Dec 7 & 10', link: '/demo-days/section-005' },
+    { text: 'Section 007 / Dec 8 & 10', link: '/demo-days/section-007' }
+  ]},
+  { text: 'Careers & next courses', collapsed: true, items: career[0].items }
+]
+
 export default defineConfig({
   title: 'IS117 Studio',
-  description: 'Build a professional identity, an individual business, and a shared business project. NJIT · Fall 2026.',
+  description: 'Three projects, four steps: research, plan, build, and improve. NJIT · Fall 2026.',
   base: '/is117-demo-days/',
   lang: 'en-US',
+  srcExclude: ['public/**'],
   lastUpdated: true,
   head: [['meta', { name: 'theme-color', content: '#142b3b' }]],
   themeConfig: {
     siteTitle: 'IS117 / FALL 2026',
     nav: [
-      { text: 'Start here', link: '/course/overview' },
-      { text: 'Projects', items: [
-        { text: 'Portfolio', link: '/projects/portfolio' },
-        { text: 'White T-shirt', link: '/projects/white-tshirt' },
-        { text: 'Group business', link: '/projects/group-project' }
-      ]},
+      { text: 'Assignment', link: '/course/milestones' },
+      { text: 'Examples', link: '/examples/submissions/' },
+      { text: 'Schedule', link: '/course/schedule' },
       { text: 'Demo Days', link: '/demo-days/' },
-      { text: 'Internship preparation', link: '/career/fde' }
+      { text: 'Careers', link: '/career/fde' }
     ],
-    sidebar: [
-      { text: 'The course', items: [
-        { text: 'Purpose & three deliverables', link: '/course/overview' },
-        { text: 'Four milestones & simple rubric', link: '/course/milestones' },
-        { text: 'Class rhythm & dates', link: '/course/schedule' },
-        { text: 'Sources & course authority', link: '/course/sources' }
-      ]},
-      { text: 'Your projects', items: [
-        { text: '01 / Professional portfolio', link: '/projects/portfolio' },
-        { text: '02 / White T-shirt company', link: '/projects/white-tshirt' },
-        { text: 'Two examples of every submission', link: '/examples/submissions/' },
-        { text: 'Competitive landscape example', link: '/examples/competitive-landscape' },
-        { text: 'Competitor screenshots', link: '/examples/site-references' },
-        { text: 'Example feature list & spec', link: '/examples/tshirt-spec' },
-        { text: '03 / Partner/group business', link: '/projects/group-project' },
-        { text: 'Business project ideas', link: '/projects/ideas' }
-      ]},
-      { text: 'A professional process', items: [
-        { text: 'Research → personas → user stories', link: '/process/research-to-features' },
-        { text: 'Specification-driven development', link: '/process/specifications' },
-        { text: 'Collaboration & equal contribution', link: '/process/collaboration' },
-        { text: 'Quality assurance', link: '/process/quality' },
-        { text: 'Using AI & explaining your work', link: '/process/ai' },
-        { text: 'Reusable templates', link: '/templates/' }
-      ]},
-      { text: 'Demo Days', items: [
-        { text: 'Format & signup', link: '/demo-days/' },
-        { text: 'Section 005 / Dec 7 & 10', link: '/demo-days/section-005' },
-        { text: 'Section 007 / Dec 8 & 10', link: '/demo-days/section-007' }
-      ]},
-      { text: 'Prepare early', items: [
-        { text: 'What FDEs do', link: '/career/fde' },
-        { text: 'Job descriptions & pay', link: '/career/jobs-and-pay' },
-        { text: 'Next courses & BSEAI', link: '/career/course-pathway' },
-        { text: 'Skills & next steps', link: '/career/skills' },
-        { text: 'Professional GitHub portfolio', link: '/career/github' },
-        { text: 'Professional LinkedIn profile', link: '/career/linkedin' },
-        { text: 'Example student résumé', link: '/examples/student-resume' },
-        { text: 'Fill-in résumé template', link: '/templates/resume' },
-        { text: 'NYC internship examples & dates', link: '/career/internships' }
-      ]}
-    ],
+    sidebar: {
+      '/career/': [...career, { text: 'Back to the course', items: [
+        { text: 'Your assignment', link: '/course/milestones' },
+        { text: 'Your portfolio', link: '/projects/portfolio' }
+      ]}],
+      '/examples/submissions/': [
+        { text: 'Example library', items: [
+          { text: 'Choose an example', link: '/examples/submissions/' },
+          { text: 'What you submit', link: '/course/milestones' },
+          { text: 'Copy the short template', link: '/templates/four-milestones' }
+        ]},
+        { text: 'T-shirt stores', collapsed: true, items: [
+          { text: 'Campus Cotton', link: '/examples/submissions/campus-cotton' },
+          { text: 'Studio White', link: '/examples/submissions/studio-white' }
+        ]},
+        { text: 'Group businesses', collapsed: true, items: [
+          { text: 'Room Ready', link: '/examples/submissions/room-ready' },
+          { text: 'Study Slot', link: '/examples/submissions/study-slot' }
+        ]},
+        { text: 'Student portfolios', collapsed: true, items: [
+          { text: 'Maya Chen', link: '/examples/submissions/maya-chen' },
+          { text: 'Jordan Rivera', link: '/examples/submissions/jordan-rivera' }
+        ]},
+        { text: 'Want to inspect the code?', collapsed: true, items: [
+          { text: 'Download & run the examples', link: '/examples/submissions/run-examples' },
+          { text: 'Original competitor comparison', link: '/examples/competitive-landscape' },
+          { text: 'Competitor screenshots', link: '/examples/site-references' },
+          { text: 'Detailed T-shirt spec', link: '/examples/tshirt-spec' }
+        ]}
+      ],
+      '/': standard
+    },
+    outline: { level: 2, label: 'On this page' },
+    docFooter: { prev: false, next: false },
     search: { provider: 'local' },
     socialLinks: [{ icon: 'github', link: 'https://github.com/kaw393939/is117-demo-days' }],
-    editLink: { pattern: 'https://github.com/kaw393939/is117-demo-days/edit/main/docs/:path', text: 'Suggest an update on GitHub' },
-    footer: { message: 'NJIT · Keith Williams · Sections 005 & 007 · Fall 2026', copyright: 'Canvas governs official deadlines and grading. Reference sources checked November 2, 2026.' }
+    editLink: { pattern: 'https://github.com/kaw393939/is117-demo-days/edit/main/docs/:path', text: 'Suggest a correction' },
+    footer: { message: 'NJIT · Keith Williams · Sections 005 & 007 · Fall 2026', copyright: 'Canvas: submissions, grades, and private questions. This guide: project instructions and examples.' }
   }
 })

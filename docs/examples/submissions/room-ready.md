@@ -1,124 +1,135 @@
-# Room Ready: complete submission example
+# Room Ready
 
-**Group business · Four short milestones · Introductory scope**
+**Group business · A small example of all four submissions**
 
-::: warning Teaching example
-The business/student is fictional. Personas are hypotheses inferred from website observations. Peer comments and contribution statements below are invented examples of documentation, not reports of actual interviews or student work. Perform and document your own walkthrough; do not submit these comments as your evidence.
-:::
+| Customer / reader | Goal | Example launch choice |
+| --- | --- | --- |
+| A Newark-area renter who needs help assembling a desk | Describe the item and request help without assuming a booking is confirmed. | **Version A** — The scope and confirmation language are clearer before the visitor starts the form. |
 
-[Version A](/samples/room-ready/a.html) · [Version B](/samples/room-ready/b.html) · [All six examples](/examples/submissions/)
+[Try version A](/samples/room-ready/a.html) · [Try version B](/samples/room-ready/b.html) · [Choose another example](/examples/submissions/)
 
-![Room Ready: AI-generated classroom concept image, not a real product or student record](/samples/room-ready/concept.jpg)
+*This is fictional teaching work. Personas are assumptions; sample peer comments and contribution claims below are invented examples. Use your own research and actual feedback in your submission.*
 
-*AI-generated concept imagery. The runnable versions show the actual interface.*
-
-<LearningDiagram kind="process" />
+**Try the fictional client:** [how to use the customer brief](/process/simulated-customer). <a href="/is117-demo-days/samples/room-ready/customer/AGENTS.md" download="AGENTS.md">Download this project’s AGENTS.md</a>.
 
 ## 1. Research
 
-### A small competitive landscape
+<details open>
+<summary>See the research submission</summary>
 
-Source pages checked November 2, 2026. Observations concern the public pages, not a completed purchase, tested service, or proof of customer demand. For a service, distinguish direct competitors from adjacent workflow references.
+### Compare three sites
 
-| Source | Observation | Implication for this project |
-| --- | --- | --- |
-| [Taskrabbit](https://www.taskrabbit.com/how-it-works) | Task, location, provider comparison, then confirmation | Explain the steps before the request. |
-| [Handy](https://www.handy.com/services/furniture-assembly) | A page dedicated to furniture assembly | Name the supported service clearly. |
-| [IKEA assembly](https://www.ikea.com/us/en/customer-service/services/assembly/) | Assembly offered through Taskrabbit with follow-up steps | Distinguish a request from a confirmed appointment; this is a partner channel, not an independent competitor. |
+Source pages checked November 2, 2026. These are observations, not a purchase test or proof of demand. Some references are adjacent workflows or partner channels, as noted.
 
-**Two positions:** A — Furniture assembly request service. B — All-purpose home-services marketplace.
+| Reference | Observation → lesson |
+| --- | --- |
+| [Taskrabbit](https://www.taskrabbit.com/how-it-works) | Task, location, provider comparison, then confirmation. Explain the steps before the request. |
+| [Handy](https://www.handy.com/services/furniture-assembly) | A page dedicated to furniture assembly. Name the supported service clearly. |
+| [IKEA assembly](https://www.ikea.com/us/en/customer-service/services/assembly/) | Assembly offered through Taskrabbit with follow-up steps. Distinguish a request from a confirmed appointment; this is a partner channel, not an independent competitor. |
 
-### Two persona hypotheses
+**Two possible positions:** A — Furniture assembly request service. B — All-purpose home-services marketplace.
+
+### Compare two personas
 
 | | Persona 1 | Persona 2 |
 | --- | --- | --- |
 | Situation | A Newark-area renter who needs help assembling a desk | An operator reviewing incoming assembly requests |
-| Goal / need | Describe the item and request help without assuming a booking is confirmed. | A scannable request queue and complete job details |
-| Uncertainty | What information is needed, and what happens after I submit? | Does this product focus on my task? |
-| Evidence and assumption | The reference pages provide ways to inspect relevant information. We hypothesize this visitor needs it too. | A plausible alternative audience; not validated by competitor pages alone. |
+| Need | Describe the item and request help without assuming a booking is confirmed. | A scannable request queue and complete job details |
+| Main concern | What information is needed, and what happens after I submit? | Will this site focus on my task? |
 
-**Choice:** Serve the renter first, with a small request summary to demonstrate the handoff to the operator. A persona summarizes a useful need; arbitrary ages, names, salaries, and hobbies would not establish evidence.
+**Evidence versus assumption:** Reference sites show how others present useful information. We hypothesize that these visitors need it too; we have not interviewed them.
+
+**Choice:** Serve the renter first, with a small request summary to demonstrate the handoff to the operator.
+
+</details>
 
 ## 2. Plan
 
-### Two concise website specifications
+<details>
+<summary>See two short website plans and the user stories</summary>
 
-| | Approach A | Approach B |
+| Plan A | Plan B |
+| --- | --- |
+| Service first: explain scope and next steps before the request form. | Request first: show the short form immediately, with scope and process alongside it. |
+
+**Brand:** Caregiver; helpful and direct. Both plans support the same core task and use the stories below. We change the information order and presentation, rather than doubling the whole project.
+
+| Story | User need | Feature and check for success |
 | --- | --- | --- |
-| Information order | Service first: explain scope and next steps before the request form. | Request first: show the short form immediately, with scope and process alongside it. |
-| Shared required workflow | Scope → topic/service and window → validated request → pending receipt | Same workflow and information, presented in another order |
-| Design direction | Caregiver; helpful and direct | Same honest brand and content; alternate hierarchy/composition |
-| Tradeoff | The selected need receives early emphasis. | An alternate entry point may suit a different visitor. |
+| 1 | As a renter, I want to know what assembly work is supported so I can decide whether to inquire. | A short scope statement: desks, chairs, and shelving; no electrical, mounting, or repair work. The supported work and exclusions are visible before submitting. |
+| 2 | As a renter, I want to provide my item and preferred window so the operator can assess the request. | Required service, preferred window, and demo-email fields. An empty required field prevents submission and a valid request retains the selected values. |
+| 3 | As an operator, I want a complete request summary so I can identify the next action. | A receipt/reference and a same-session request history. The receipt says request received, not appointment confirmed, and the record appears in history. |
 
-Both approaches use the stories and acceptance criteria below. Comparing them changes the presentation; it does not double the entire technical scope.
+**Build with:** HTML, CSS, JavaScript and demo records; browser storage on the public site, SQLite in the local server version.
 
-### User stories → features → acceptance criteria
+**Leave for later:** Provider matching, real addresses, payments, live availability, and automated quotes.
 
-| ID | User story | Essential feature | Acceptance check |
+### Shared work and individual contributions
+
+| Member | Owns | Reviews | Planned effort |
 | --- | --- | --- | --- |
-| ROOM-READY-1 | As a renter, I want to know what assembly work is supported so I can decide whether to inquire. | A short scope statement: desks, chairs, and shelving; no electrical, mounting, or repair work. | The supported work and exclusions are visible before submitting. |
-| ROOM-READY-2 | As a renter, I want to provide my item and preferred window so the operator can assess the request. | Required service, preferred window, and demo-email fields. | An empty required field prevents submission and a valid request retains the selected values. |
-| ROOM-READY-3 | As an operator, I want a complete request summary so I can identify the next action. | A receipt/reference and a same-session request history. | The receipt says request received, not appointment confirmed, and the record appears in history. |
+| Partner 1 | Service explanation and responsive layouts | Form labels, required inputs, pending-status wording | 5 points |
+| Partner 2 | Form, validation, receipt and request history | Scope, navigation, phone layout and keyboard use | 5 points |
 
-**Data / technology:** HTML, CSS, JavaScript with demo order/request records; browser storage on GitHub Pages and SQLite when run through the supplied Node server. **Deferred:** Provider matching, real addresses, payments, live availability, and automated quotes.
+Points estimate effort, not grades. Both people help design, code, and test. Update the plan if the effort changes. Record actual issues, branches, changes, and reviews.
 
-### Example equal-work plan
+**Contribution 1 — fictional example:** “I built the service explanation and layouts. I reviewed my partner’s form and raised the confirmation-wording issue. AI suggested layouts; I checked the phone view.”
 
-| Member | Design + development | QA/review of partner’s work | Effort |
-| --- | --- | --- | --- |
-| Partner 1 | Service explanation, two page compositions, responsive navigation | Check form labels, required fields, and pending-status wording | 5 points |
-| Partner 2 | Request form, validation, receipt and request history | Check service scope, navigation, mobile layout and keyboard access | 5 points |
+**Contribution 2 — fictional example:** “I built the form and receipt, then integrated them with my partner’s page. I reviewed the scope and navigation. I checked AI-drafted validation with missing and valid inputs.”
 
-Use issues, branches, and reviewed pull requests to record actual work. Rebalance if the estimates prove wrong. Both members participate in decisions and integration.
-
-**Contribution statement 1 (fictional):** “I wrote the service explanation and built the responsive layouts. I reviewed my partner’s request form and raised the confirmation-wording issue. I used AI for layout suggestions and checked the result on a narrow screen.”
-
-**Contribution statement 2 (fictional):** “I implemented the request form and receipt, then integrated them with my partner’s page. I reviewed the service-scope copy and tested the navigation. I checked AI-generated validation against missing and valid inputs.”
+</details>
 
 ## 3. Build and compare
 
-[Version A](/samples/room-ready/a.html) · [Version B](/samples/room-ready/b.html)
+<VersionComparison slug="room-ready" />
 
-Both versions contain the essential workflow. Keep the offer, underlying data, and task consistent enough to compare their presentation. Use the same task below with each version. Compare whether the visitor understands the offer, finds needed information, completes the task, and explains the next step.
+<details>
+<summary>See the comparison and launch decision</summary>
 
-**Example launch decision:** Select **A**. The scope and confirmation language are clearer before the visitor starts the form. This is a teaching decision, not a measured conversion result or evidence of market demand. A student's actual decision should reflect their own observations.
+Give a peer the same task in both versions: **Request assembly for a desk, select a preferred window, and explain whether you have a confirmed appointment.** Watch whether they understand the offer, find what they need, and finish the task.
 
-The public examples save demo records in this browser. The downloadable Node 24 server stores records in SQLite. A static page by itself cannot demonstrate server-side persistence. [Run and inspect the SQLite example](/examples/submissions/run-examples).
+**Example choice: A.** The scope and confirmation language are clearer before the visitor starts the form. This models a reasoned choice; it is not a measured sales result. Your choice should use your actual observations.
 
-## 4. Review, improve, and launch
+The public demo uses browser storage. [Run the downloadable SQLite version](/examples/submissions/run-examples) to see server-side persistence.
 
-### Sample peer-walkthrough record — fictional
+</details>
 
-| Field | Example entry |
+## 4. Get feedback and improve
+
+<details>
+<summary>See the feedback record, checks, and final submission</summary>
+
+### Sample walkthrough — fictional
+
+| What to record | Example |
 | --- | --- |
-| Reviewer | A classmate outside the project; replace with your actual reviewer/date |
+| Reviewer / date | A classmate; replace with your actual reviewer and date |
 | Task | Request assembly for a desk, select a preferred window, and explain whether you have a confirmed appointment. |
-| Observation / feedback | The original button sounded like an instant confirmed booking. |
-| Meaningful change | Use “Send demo request” and explain that an operator would confirm scope, price, and availability later. |
-| Verification to perform | Ask the reviewer whether the receipt guarantees an appointment; they should answer no. |
+| Observation | The original button sounded like an instant confirmed booking. |
+| Change | Use “Send demo request” and explain that an operator would confirm scope, price, and availability later. |
+| Retest to perform | Ask the reviewer whether the receipt guarantees an appointment; they should answer no. |
 
-The linked versions include the improved wording or feature so you can inspect the intended result. That does **not** mean a real peer performed this walkthrough. Your record must include what actually happened and what changed in your own project.
+The linked pages include the intended improvement. A real peer did not perform this sample walkthrough. Record what actually happens in your own test.
 
-### QA record to complete
+### Checks to run
 
-| Scenario | Expected result | Student’s actual result |
+| Scenario | Expected result | Your actual result |
 | --- | --- | --- |
-| Main task | The receipt says request received, not appointment confirmed, and the record appears in history. | Run and record your result |
-| Missing input / missing evidence | Required fields block submission. | Run and record your result |
-| Keyboard and phone-sized screen | Controls are reachable, focus is visible, and text does not require horizontal scrolling. | Run and record your result |
-| After the feedback change | Ask the reviewer whether the receipt guarantees an appointment; they should answer no. | Record the actual reviewer response |
+| Main task | The receipt says request received, not appointment confirmed, and the record appears in history. | Run and record |
+| Missing input / evidence | Required fields block submission. | Run and record |
+| Keyboard and phone view | Controls are reachable, focus is visible, and text fits. | Run and record |
+| After the change | Repeat the peer’s task. | Record the real response |
 
-### Short portfolio case-study example
+### Short case-study example
 
-**Problem:** Describe the item and request help without assuming a booking is confirmed. **Decision:** Compare A/B, then select A. **Reason:** The scope and confirmation language are clearer before the visitor starts the form. **Feedback-driven improvement:** Use “Send demo request” and explain that an operator would confirm scope, price, and availability later. **Limitation:** No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.
+“Describe the item and request help without assuming a booking is confirmed. I compared two approaches and chose A. The scope and confirmation language are clearer before the visitor starts the form. Feedback led me to use “Send demo request” and explain that an operator would confirm scope, price, and availability later.” In your own case study, add what you personally built and what you checked.
 
-**AI-use statement (illustrative):** “I used AI to propose alternatives and draft parts of the implementation. I reviewed the generated code against the specification, checked the core workflow, and revised the wording after feedback. I can explain the data flow and the checks I performed.” Replace this with your actual tool, task, checks, and contribution.
+**AI-use example:** “I used AI for alternatives and draft code. I reviewed it against the plan, checked the main task and missing inputs, and changed the wording after feedback.” Replace this with your actual tool, task, changes, and checks.
 
-### Final submission format
+**Final submission:** selected version, alternate version, actual repository, and this short process record. Each group member also submits their own contribution statement.
 
-- Selected launch version: [Version A](/samples/room-ready/a.html).
-- Comparison version: [Version B](/samples/room-ready/b.html).
-- Repository: link to your actual public repository and README, not a fabricated URL. The class example source is in [this repository](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
-- Documentation: research, persona choice, specification, A/B decision, actual peer feedback, change, QA results, AI-use statement, and limitations. Keep it short; this page models the structure.
+**Limitation:** No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.
 
-**Known limitation:** No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.
+</details>
+
+[Your assignment & grading](/course/milestones) · [Due dates](/course/schedule) · [Copy the short template](/templates/four-milestones).

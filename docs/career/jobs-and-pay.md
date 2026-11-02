@@ -1,52 +1,47 @@
-# FDE job descriptions and pay
+# FDE job examples and pay
 
-**FDE = forward deployed engineer.** Employers use the title for engineers who work close to customers or business teams, understand a workflow, build a solution, and help it succeed in practice. Roles vary. These examples are a **November 2, 2026 research snapshot**, not promises of placement or a representative salary survey.
+These real postings show why the work combines **business understanding, coding, teamwork, and testing**. Read them as learning targets; they do not all expect the same level of experience.
 
-<LearningDiagram kind="fde" />
+**Checked November 2, 2026.** Open the employer links for current qualifications, availability, and pay terms. This is a small set of examples, not an industry salary average.
 
-## Read three real examples
+## Three examples
 
-The short quotations below reproduce only small excerpts. Follow the employer links for the complete duties, qualifications, compensation terms, and current availability.
+| Employer / role | Posted pay | Experience context |
+| --- | --- | --- |
+| [Google — FDE intern, summer 2027](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) | **$98,000–$131,000** U.S. range, 0% bonus target | Later-stage student; substantial programming, cloud AI, and data-pipeline experience. NYC is a location option. |
+| [Palantir — FDSE, NYC](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0) | **$135,000–$200,000/year**, estimated salary | Full-time; at least one year of relevant post-college experience. Stock/sign-on incentives may be separate. |
+| [Stagwell — AI FDE, NYC](https://careers-stagwellglobal.icims.com/jobs/8709/ai-forward-deployed-engineer/job?in_iframe=1) | **$160,000–$200,000** NYC target base compensation | Professional enterprise role; commission-based incentives also stated. |
 
-### Google — FDE intern, summer 2027
+**Pay periods matter.** Google's displayed range is not a promise of that total for a 12-week internship; confirm the actual pay basis with the employer. Salary, hourly pay, internship earnings, stock, and commission are different quantities. None is a promised result of this course.
 
+## Read the work behind the title
+
+**Google:**
 > “Experience leading technical discovery sessions.”
 
-**In plain language:** Ask useful questions before building. The posting also expects substantial Python/software, cloud AI, and data-pipeline experience. This is a later-stage target, not an IS117 completion standard. New York is one listed location; the stated application date is before November 20, 2026.
+Ask questions before building. IS117 begins this habit through research, audience assumptions, and peer tasks. [Employer description](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027).
 
-**Pay:** The employer displays a U.S. compensation range of **$98,000–$131,000** and a 0% bonus target. Do not read this as total pay for a 12-week internship; confirm the pay basis and actual internship compensation with the employer. [Google employer posting](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027).
-
-### Palantir — forward deployed software engineer, NYC
-
+**Palantir:**
 > “Developing custom applications tailored to customer needs”
 
-**In plain language:** Build software that fits a customer's actual problem. The posting seeks strong programming, collaboration, and at least one year of relevant post-college experience; travel can be part of the work.
+Build software that fits the customer's problem. Your business project is a small first practice. [Employer description](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0).
 
-**Pay:** Posted estimated salary **$135,000–$200,000 per year**. Stock, sign-on payments, benefits, and other incentives are separate considerations. This example is an experienced full-time role. [Palantir employer posting](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0).
-
-### Stagwell — AI forward deployed engineer, NYC
-
+**Stagwell:**
 > “Translate customer requirements into deployable solution designs.”
 
-**In plain language:** Connect business requirements, data, implementation, and adoption. The posting emphasizes customer workshops, pilots, integration, and operational outcomes.
+Turn a need into a solution people can use. Practice that connection with your user stories, website plan, working product, and walkthrough. [Employer description](https://careers-stagwellglobal.icims.com/jobs/8709/ai-forward-deployed-engineer/job?in_iframe=1).
 
-**Pay:** Posted NYC target **base compensation $160,000–$200,000**, with commission-based incentive compensation also stated. This is a professional enterprise role, not an internship. [Stagwell employer posting](https://careers-stagwellglobal.icims.com/jobs/8709/ai-forward-deployed-engineer/job?in_iframe=1).
+These course connections are instructor interpretations. Professional work requires more depth.
 
-## Skills decoded
+## Skills in plain language
 
-| Term in a posting | What it means | Your first practice in IS117 | Develop further |
-| --- | --- | --- | --- |
-| Discovery / requirements | Understand who needs what and why | Research, personas, peer tasks, and explicit assumptions | Stakeholder interviews, workflow mapping, measurable outcomes |
-| Prototyping / iteration | Build a small version and learn from it | Compare two approaches, then two working versions | Integrated pilots with real users |
-| Full-stack software | Connect the interface to server behavior and data | A simple website and SQLite-backed store | Strong programming, APIs, data modeling, authentication |
-| Integration | Make different systems work together | Explain inputs, outputs, and data movement | APIs, webhooks, retries, access controls, enterprise systems |
-| AI engineering | Make AI behavior useful and dependable | Use coding AI, inspect output, and explain checks | Retrieval, evaluation datasets, monitoring, latency/cost tradeoffs |
-| Deployment / adoption | Deliver something people can use | Publish, demonstrate, document, and improve after feedback | Cloud operations, reliability, training, support, measured use |
+| Job-description term | What it means |
+| --- | --- |
+| Discovery | Learn what people need and how they work. |
+| Full-stack development | Connect the user interface, server behavior, and stored data. |
+| API integration | Let separate software systems exchange information. |
+| AI evaluation | Check whether an AI system produces useful, reliable results. |
+| Deployment | Put the software where others can use it. |
+| Adoption | Help people understand and use the result. |
 
-This mapping is an instructor interpretation of the postings. The course exercises are introductory versions of professional habits; they do not reproduce the technical depth or consequences of enterprise work.
-
-## How to interpret pay responsibly
-
-Compare the same location, experience level, and pay period. Annual salary, hourly pay, internship earnings, equity, and commission are different quantities. These three postings do not establish an industry average or a salary you should expect after one course. Read the actual offer and eligibility requirements.
-
-[Explore more NYC-area internships and dates](/career/internships) · [Plan the next courses](/career/course-pathway).
+[More skills and learning steps](/career/skills) · [NYC-area internships](/career/internships) · [Next courses](/career/course-pathway).

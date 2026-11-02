@@ -1,4 +1,4 @@
-# Collaboration and equal contribution
+# Divide the work fairly
 
 Plan equal workloads and make responsibilities visible. Each partner contributes to **design, development, and quality assurance**; all members share responsibility for integration and the final result.
 
@@ -13,7 +13,7 @@ Plan equal workloads and make responsibilities visible. Each partner contributes
 | Handoff and demo | Own contribution notes and demo, 1 point | Own contribution notes and demo, 1 point | Joint rehearsal |
 | **Planned total** | **12 points** | **12 points** | Rebalance if scope changes |
 
-Points estimate relative effort, not grades. A trio can divide three comparable vertical slices, each with design, implementation, and cross-review. A member who owns an unfamiliar or difficult part may need a smaller feature count for equal effort.
+Points estimate relative effort, not grades. A trio can divide three comparable complete parts of the workflow, each with design, implementation, and cross-review. A member who owns an unfamiliar or difficult part may need a smaller feature count for equal effort.
 
 ## Practical Git workflow
 

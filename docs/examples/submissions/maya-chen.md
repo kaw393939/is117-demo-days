@@ -1,122 +1,135 @@
-# Maya Chen: complete submission example
+# Maya Chen
 
-**Individual portfolio · Four short milestones · Introductory scope**
+**Personal portfolio · A small example of all four submissions**
 
-::: warning Teaching example
-The business/student is fictional. Personas are hypotheses inferred from website observations. Peer comments and contribution statements below are invented examples of documentation, not reports of actual interviews or student work. Perform and document your own walkthrough; do not submit these comments as your evidence.
-:::
+| Customer / reader | Goal | Example launch choice |
+| --- | --- | --- |
+| A recruiter scanning for an early-career web-development intern | Find two projects and understand the student’s actual contribution. | **Version A** — A recruiter can reach the work and the individual contribution in fewer steps. |
 
-[Version A](/samples/maya-chen/a.html) · [Version B](/samples/maya-chen/b.html) · [All six examples](/examples/submissions/)
+[Try version A](/samples/maya-chen/a.html) · [Try version B](/samples/maya-chen/b.html) · [Choose another example](/examples/submissions/)
 
-![Maya Chen: AI-generated classroom concept image, not a real product or student record](/samples/maya-chen/concept.jpg)
-
-*AI-generated concept imagery. The runnable versions show the actual interface.*
-
-<LearningDiagram kind="process" />
+*This is fictional teaching work. Personas are assumptions; sample peer comments and contribution claims below are invented examples. Use your own research and actual feedback in your submission.*
 
 ## 1. Research
 
-### A small competitive landscape
+<details open>
+<summary>See the research submission</summary>
 
-Source pages checked November 2, 2026. Observations concern the public pages, not a completed purchase, tested service, or proof of customer demand. For a portfolio, these are design references rather than business competitors.
+### Compare three sites
 
-| Source | Observation | Implication for this project |
-| --- | --- | --- |
-| [Brittany Chiang](https://brittanychiang.com/) | Role introduction, project/experience evidence, professional links | Make role and evidence easy to find. |
-| [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching | Use a short explanation to show reasoning. |
-| [Lee Robinson](https://leerob.com/) | A concise introduction and writing links | Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
+Source pages checked November 2, 2026. These are observations, not a purchase test or proof of demand. These portfolios are design references, not student achievement benchmarks.
 
-**Two positions:** A — Project-led student portfolio. B — Personal-story-led creative portfolio.
+| Reference | Observation → lesson |
+| --- | --- |
+| [Brittany Chiang](https://brittanychiang.com/) | Role introduction, project/experience evidence, professional links. Make role and evidence easy to find. |
+| [Josh W. Comeau](https://www.joshwcomeau.com/) | An article-led site that demonstrates teaching. Use a short explanation to show reasoning. |
+| [Lee Robinson](https://leerob.com/) | A concise introduction and writing links. Keep the introduction brief. These are experienced practitioners, not student achievement benchmarks. |
 
-### Two persona hypotheses
+**Two possible positions:** A — Project-led student portfolio. B — Personal-story-led creative portfolio.
+
+### Compare two personas
 
 | | Persona 1 | Persona 2 |
 | --- | --- | --- |
 | Situation | A recruiter scanning for an early-career web-development intern | A local small-business owner considering a student collaborator |
-| Goal / need | Find two projects and understand the student’s actual contribution. | Clear examples of useful customer-facing work and contact information |
-| Uncertainty | Can I distinguish a course exercise from professional experience? | Does this product focus on my task? |
-| Evidence and assumption | The reference pages provide ways to inspect relevant information. We hypothesize this visitor needs it too. | A plausible alternative audience; not validated by competitor pages alone. |
+| Need | Find two projects and understand the student’s actual contribution. | Clear examples of useful customer-facing work and contact information |
+| Main concern | Can I distinguish a course exercise from professional experience? | Will this site focus on my task? |
 
-**Choice:** Prioritize the internship recruiter; keep explanations readable for a nontechnical visitor too. A persona summarizes a useful need; arbitrary ages, names, salaries, and hobbies would not establish evidence.
+**Evidence versus assumption:** Reference sites show how others present useful information. We hypothesize that these visitors need it too; we have not interviewed them.
+
+**Choice:** Prioritize the internship recruiter; keep explanations readable for a nontechnical visitor too.
+
+</details>
 
 ## 2. Plan
 
-### Two concise website specifications
+<details>
+<summary>See two short website plans and the user stories</summary>
 
-| | Approach A | Approach B |
+| Plan A | Plan B |
+| --- | --- |
+| Projects first: two case-study cards lead into résumé and profiles. | About first: learning goals and personal brand lead into the same project evidence. |
+
+**Brand:** Creator; curious, concrete, honest. Both plans support the same core task and use the stories below. We change the information order and presentation, rather than doubling the whole project.
+
+| Story | User need | Feature and check for success |
 | --- | --- | --- |
-| Information order | Projects first: two case-study cards lead into résumé and profiles. | About first: learning goals and personal brand lead into the same project evidence. |
-| Shared required workflow | Introduction → two case studies → contribution → résumé/profile information | Same workflow and information, presented in another order |
-| Design direction | Creator; curious, concrete, honest | Same honest brand and content; alternate hierarchy/composition |
-| Tradeoff | The selected need receives early emphasis. | An alternate entry point may suit a different visitor. |
+| 1 | As a recruiter, I want to find two projects quickly so I can inspect relevant work. | Two project cards linked to case-study details and runnable examples. Both projects are labeled course projects and their demo links open the correct examples. |
+| 2 | As a reviewer, I want individual contribution details so I can understand what the student did. | Case studies distinguish individual work from team outcomes. The group case study names one personally owned feature and one peer-review task. |
+| 3 | As a recruiter, I want résumé and profile information so I can continue reviewing the student. | Readable résumé, sample GitHub README, and LinkedIn draft with replacement instructions. All profile buttons are clearly labeled sample drafts, not live student accounts. |
 
-Both approaches use the stories and acceptance criteria below. Comparing them changes the presentation; it does not double the entire technical scope.
+**Build with:** HTML, CSS, JavaScript, with static case studies and profile drafts.
 
-### User stories → features → acceptance criteria
+**Leave for later:** Blog platform, elaborate animation, analytics, and invented testimonials.
 
-| ID | User story | Essential feature | Acceptance check |
-| --- | --- | --- | --- |
-| MAYA-CHEN-1 | As a recruiter, I want to find two projects quickly so I can inspect relevant work. | Two project cards linked to case-study details and runnable examples. | Both projects are labeled course projects and their demo links open the correct examples. |
-| MAYA-CHEN-2 | As a reviewer, I want individual contribution details so I can understand what the student did. | Case studies distinguish individual work from team outcomes. | The group case study names one personally owned feature and one peer-review task. |
-| MAYA-CHEN-3 | As a recruiter, I want résumé and profile information so I can continue reviewing the student. | Readable résumé, sample GitHub README, and LinkedIn draft with replacement instructions. | All profile buttons are clearly labeled sample drafts, not live student accounts. |
-
-**Data / technology:** HTML, CSS, JavaScript; project details and professional drafts are static content. **Deferred:** Blog platform, elaborate animation, analytics, and invented testimonials.
+</details>
 
 ## 3. Build and compare
 
-[Version A](/samples/maya-chen/a.html) · [Version B](/samples/maya-chen/b.html)
+<VersionComparison slug="maya-chen" />
 
-Both versions contain the essential workflow. Keep the offer, underlying data, and task consistent enough to compare their presentation. Use the same task below with each version. Compare whether the visitor understands the offer, finds needed information, completes the task, and explains the next step.
+<details>
+<summary>See the comparison and launch decision</summary>
 
-**Example launch decision:** Select **A**. A recruiter can reach the work and the individual contribution in fewer steps. This is a teaching decision, not a measured conversion result or evidence of market demand. A student's actual decision should reflect their own observations.
+Give a peer the same task in both versions: **Find the T-shirt project, identify the student’s group contribution, and locate the résumé.** Watch whether they understand the offer, find what they need, and finish the task.
 
-The example profile links lead to labeled drafts. A real submission must use the student’s own working GitHub and LinkedIn links. Résumé contact and education fields must be completed truthfully.
+**Example choice: A.** A recruiter can reach the work and the individual contribution in fewer steps. This models a reasoned choice; it is not a measured sales result. Your choice should use your actual observations.
 
-## 4. Review, improve, and launch
+Profile buttons open labeled drafts. A real submission links to your own GitHub and LinkedIn accounts.
 
-### Sample peer-walkthrough record — fictional
+</details>
 
-| Field | Example entry |
+## 4. Get feedback and improve
+
+<details>
+<summary>See the feedback record, checks, and final submission</summary>
+
+### Sample walkthrough — fictional
+
+| What to record | Example |
 | --- | --- |
-| Reviewer | A classmate outside the project; replace with your actual reviewer/date |
+| Reviewer / date | A classmate; replace with your actual reviewer and date |
 | Task | Find the T-shirt project, identify the student’s group contribution, and locate the résumé. |
-| Observation / feedback | The group card explained the product but not what Maya personally built. |
-| Meaningful change | Add an “My contribution” paragraph to the group case study and a direct résumé navigation link. |
-| Verification to perform | Ask the reviewer to name Maya’s contribution and find the résumé without hints. |
+| Observation | The group card explained the product but not what Maya personally built. |
+| Change | Add an “My contribution” paragraph to the group case study and a direct résumé navigation link. |
+| Retest to perform | Ask the reviewer to name Maya’s contribution and find the résumé without hints. |
 
-The linked versions include the improved wording or feature so you can inspect the intended result. That does **not** mean a real peer performed this walkthrough. Your record must include what actually happened and what changed in your own project.
+The linked pages include the intended improvement. A real peer did not perform this sample walkthrough. Record what actually happens in your own test.
 
-### QA record to complete
+### Checks to run
 
-| Scenario | Expected result | Student’s actual result |
+| Scenario | Expected result | Your actual result |
 | --- | --- | --- |
-| Main task | All profile buttons are clearly labeled sample drafts, not live student accounts. | Run and record your result |
-| Missing input / missing evidence | Both project links and individual-contribution details can be found. | Run and record your result |
-| Keyboard and phone-sized screen | Controls are reachable, focus is visible, and text does not require horizontal scrolling. | Run and record your result |
-| After the feedback change | Ask the reviewer to name Maya’s contribution and find the résumé without hints. | Record the actual reviewer response |
+| Main task | All profile buttons are clearly labeled sample drafts, not live student accounts. | Run and record |
+| Missing input / evidence | Both project links and individual contributions are easy to find. | Run and record |
+| Keyboard and phone view | Controls are reachable, focus is visible, and text fits. | Run and record |
+| After the change | Repeat the peer’s task. | Record the real response |
 
-### Short portfolio case-study example
+### Short case-study example
 
-**Problem:** Find two projects and understand the student’s actual contribution. **Decision:** Compare A/B, then select A. **Reason:** A recruiter can reach the work and the individual contribution in fewer steps. **Feedback-driven improvement:** Add an “My contribution” paragraph to the group case study and a direct résumé navigation link. **Limitation:** Maya is a fictional student. The profile drafts, résumé, and contribution statements model a submission; they are not a real person’s credentials.
+“Find two projects and understand the student’s actual contribution. I compared two approaches and chose A. A recruiter can reach the work and the individual contribution in fewer steps. Feedback led me to add an “My contribution” paragraph to the group case study and a direct résumé navigation link.” In your own case study, add what you personally built and what you checked.
 
-**AI-use statement (illustrative):** “I used AI to propose alternatives and draft parts of the implementation. I reviewed the generated code against the specification, checked the core workflow, and revised the wording after feedback. I can explain the data flow and the checks I performed.” Replace this with your actual tool, task, checks, and contribution.
+**AI-use example:** “I used AI for alternatives and draft code. I reviewed it against the plan, checked the main task and missing inputs, and changed the wording after feedback.” Replace this with your actual tool, task, changes, and checks.
 
-### Final submission format
+**Final submission:** selected version, alternate version, actual repository, and this short process record.
 
-- Selected launch version: [Version A](/samples/maya-chen/a.html).
-- Comparison version: [Version B](/samples/maya-chen/b.html).
-- Repository: link to your actual public repository and README, not a fabricated URL. The class example source is in [this repository](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
-- Documentation: research, persona choice, specification, A/B decision, actual peer feedback, change, QA results, AI-use statement, and limitations. Keep it short; this page models the structure.
+**Limitation:** Maya is a fictional student. The profile drafts, résumé, and contribution statements model a submission; they are not a real person’s credentials.
 
-**Known limitation:** Maya is a fictional student. The profile drafts, résumé, and contribution statements model a submission; they are not a real person’s credentials.
+</details>
 
-## Professional-presence submissions
+## Résumé, GitHub, LinkedIn, and demo
 
-- [Résumé content](/samples/maya-chen/resume.txt) — fictional example with education/contact fields to replace.
-- [GitHub profile README](/samples/maya-chen/github-profile.txt) — copy the structure, then use your own project and repository links.
-- [LinkedIn headline, About, and project descriptions](/samples/maya-chen/linkedin.txt) — a draft, not a live student account.
-- The two case studies appear in both runnable versions. They link to the example products.
+These are two sets across the portfolio examples. Replace the fictional identity, account links, education, and completion claims with your own accurate information.
 
-### Example short demo script
+- [Résumé content](/samples/maya-chen/resume.txt)
+- [GitHub profile README](/samples/maya-chen/github-profile.txt)
+- [LinkedIn headline, About, and projects](/samples/maya-chen/linkedin.txt)
 
-“I’m Maya Chen, a fictional student interested in web development. My portfolio is for a recruiter scanning for an early-career web-development intern. I compared two page approaches and chose A because a recruiter can reach the work and the individual contribution in fewer steps. My shirt project turns fit uncertainty into a measurement-guide feature. In the group project, my role was the service explanation and responsive layouts. AI helped draft code; I checked required fields and the completed workflow. Peer feedback led me to add an “My contribution” paragraph to the group case study and a direct résumé navigation link. A remaining limitation is that these are simulated services, with no real orders or appointments.”
+<details>
+<summary>Example short demo script</summary>
+
+“I’m Maya Chen, a fictional student interested in customer-facing software. My portfolio is for a recruiter scanning for an early-career web-development intern. I compared two approaches and chose A: a recruiter can reach the work and the individual contribution in fewer steps. The shirt project addresses fit uncertainty with a size guide. In the group project, I owned the service explanation and responsive layouts. AI helped draft code; I checked required inputs and the main task. Peer feedback led me to add an “My contribution” paragraph to the group case study and a direct résumé navigation link. The services are simulations, with no real orders or appointments.”
+
+</details>
+
+[Your assignment & grading](/course/milestones) · [Due dates](/course/schedule) · [Copy the short template](/templates/four-milestones).

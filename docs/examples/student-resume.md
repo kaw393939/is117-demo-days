@@ -4,6 +4,8 @@ You can begin a credible project-focused résumé before you have a technical in
 
 This example assumes a student has **completed and verified** the listed work. The business names, group scenario, and bullets are illustrative. Replace every bracketed field and rewrite or remove any claim you cannot demonstrate. This is not a certificate of FDE readiness.
 
+**Two connected student examples:** [Maya’s résumé](/samples/maya-chen/resume.txt) · [Jordan’s résumé](/samples/jordan-rivera/resume.txt).
+
 ## A course-based résumé example
 
 The content below is designed to be adapted into a concise, approximately one-page résumé. Its plain structure can be copied into a document editor and exported as a selectable-text PDF.

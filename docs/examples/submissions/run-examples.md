@@ -9,7 +9,7 @@ The [six submission examples](/examples/submissions/) contain twelve clickable v
 | Public GitHub Pages examples | HTML/CSS/JavaScript in your browser | Browser storage for this device; no SQLite backend |
 | Downloaded local examples | The same pages plus a small Node 24 server | SQLite database outside the public files |
 
-[Download all example source files](/downloads/is117-example-products.zip). The archive includes twelve pages, shared styles/JavaScript, six project descriptions, professional-profile drafts, and the local server. The source is also in [GitHub](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
+[Download all example source files](/downloads/is117-example-products.zip). The archive includes twelve pages, shared styles/JavaScript, six project descriptions, professional-profile drafts, the local server, and two fictional-customer `AGENTS.md` briefs. The source is also in [GitHub](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
 
 ## Run the SQLite example locally
 

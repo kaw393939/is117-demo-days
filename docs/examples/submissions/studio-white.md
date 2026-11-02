@@ -1,111 +1,120 @@
-# Studio White: complete submission example
+# Studio White
 
-**Individual T-shirt store · Four short milestones · Introductory scope**
+**T-shirt store · A small example of all four submissions**
 
-::: warning Teaching example
-The business/student is fictional. Personas are hypotheses inferred from website observations. Peer comments and contribution statements below are invented examples of documentation, not reports of actual interviews or student work. Perform and document your own walkthrough; do not submit these comments as your evidence.
-:::
+| Customer / reader | Goal | Example launch choice |
+| --- | --- | --- |
+| An early-career creative choosing a simple workday wardrobe | Understand the fit and product details before choosing one tee. | **Version B** — Product details are accessible immediately while the visual style still supports the brand. |
 
-[Version A](/samples/studio-white/a.html) · [Version B](/samples/studio-white/b.html) · [All six examples](/examples/submissions/)
+[Try version A](/samples/studio-white/a.html) · [Try version B](/samples/studio-white/b.html) · [Choose another example](/examples/submissions/)
 
-![Studio White: AI-generated classroom concept image, not a real product or student record](/samples/studio-white/concept.jpg)
-
-*AI-generated concept imagery. The runnable versions show the actual interface.*
-
-<LearningDiagram kind="process" />
+*This is fictional teaching work. Personas are assumptions; sample peer comments and contribution claims below are invented examples. Use your own research and actual feedback in your submission.*
 
 ## 1. Research
 
-### A small competitive landscape
+<details open>
+<summary>See the research submission</summary>
 
-Source pages checked November 2, 2026. Observations concern the public pages, not a completed purchase, tested service, or proof of customer demand. The selected products come from brands with larger catalogs. No current-price comparison is needed for this example.
+### Compare three sites
 
-| Source | Observation | Implication for this project |
-| --- | --- | --- |
-| [Fresh Clean Tees](https://freshcleantees.com/products/white-crew-neck) | Length choices and fit information | Put measurements next to size selection. |
-| [True Classic](https://www.trueclassictees.com/products/white-crew-neck-tee) | Product options and membership pricing paths | Explain the single-item offer without extra pricing paths. |
-| [Buck Mason](https://www.buckmason.com/products/white-slub-curved-hem-tee) | Specific fabric and production details | Use specific product facts rather than vague premium claims. |
+Source pages checked November 2, 2026. These are observations, not a purchase test or proof of demand. These brands have larger catalogs; we compare selected white T-shirt pages.
 
-**Two positions:** A — Minimal workday wardrobe. B — Discount basics.
+| Reference | Observation → lesson |
+| --- | --- |
+| [Fresh Clean Tees](https://freshcleantees.com/products/white-crew-neck) | Length choices and fit information. Put measurements next to size selection. |
+| [True Classic](https://www.trueclassictees.com/products/white-crew-neck-tee) | Product options and membership pricing paths. Explain the single-item offer without extra pricing paths. |
+| [Buck Mason](https://www.buckmason.com/products/white-slub-curved-hem-tee) | Specific fabric and production details. Use specific product facts rather than vague premium claims. |
 
-### Two persona hypotheses
+**Two possible positions:** A — Minimal workday wardrobe. B — Discount basics.
+
+### Compare two personas
 
 | | Persona 1 | Persona 2 |
 | --- | --- | --- |
 | Situation | An early-career creative choosing a simple workday wardrobe | A shopper seeking the lowest available price |
-| Goal / need | Understand the fit and product details before choosing one tee. | Rapid price comparison and frequent discounts |
-| Uncertainty | Does the presentation explain a meaningful difference? | Does this product focus on my task? |
-| Evidence and assumption | The reference pages provide ways to inspect relevant information. We hypothesize this visitor needs it too. | A plausible alternative audience; not validated by competitor pages alone. |
+| Need | Understand the fit and product details before choosing one tee. | Rapid price comparison and frequent discounts |
+| Main concern | Does the presentation explain a meaningful difference? | Will this site focus on my task? |
 
-**Choice:** Choose the workday shopper. Specific information and a restrained presentation fit this concept better than price-led promotions. A persona summarizes a useful need; arbitrary ages, names, salaries, and hobbies would not establish evidence.
+**Evidence versus assumption:** Reference sites show how others present useful information. We hypothesize that these visitors need it too; we have not interviewed them.
+
+**Choice:** Choose the workday shopper. Specific information and a restrained presentation fit this concept better than price-led promotions.
+
+</details>
 
 ## 2. Plan
 
-### Two concise website specifications
+<details>
+<summary>See two short website plans and the user stories</summary>
 
-| | Approach A | Approach B |
+| Plan A | Plan B |
+| --- | --- |
+| Editorial first: product story and material concept precede the purchase panel. | Product facts first: fit, price, and selection lead; the story follows. |
+
+**Brand:** Creator; calm, specific, restrained. Both plans support the same core task and use the stories below. We change the information order and presentation, rather than doubling the whole project.
+
+| Story | User need | Feature and check for success |
 | --- | --- | --- |
-| Information order | Editorial first: product story and material concept precede the purchase panel. | Product facts first: fit, price, and selection lead; the story follows. |
-| Shared required workflow | Product → size/quantity → review → simulated checkout → confirmation | Same workflow and information, presented in another order |
-| Design direction | Creator; calm, specific, restrained | Same honest brand and content; alternate hierarchy/composition |
-| Tradeoff | More context before the visitor acts. | The selected need receives early emphasis. |
+| 1 | As a workday shopper, I want fit measurements before buying so I can judge the silhouette. | Labeled flat-garment measurements and a size selector. The guide labels centimeters and distinguishes garment dimensions from body measurements. |
+| 2 | As a careful buyer, I want a clear material description so I can understand the concept. | A visible product-facts section with classroom assumptions labeled. A visitor can locate material, fit, and care without opening checkout. |
+| 3 | As a buyer, I want to review my choices before completing the demo order. | An editable quantity, size, and total before validated confirmation. Three shirts show $126; confirmation states that no real order or payment occurred. |
 
-Both approaches use the stories and acceptance criteria below. Comparing them changes the presentation; it does not double the entire technical scope.
+**Build with:** HTML, CSS, JavaScript and demo records; browser storage on the public site, SQLite in the local server version.
 
-### User stories → features → acceptance criteria
+**Leave for later:** Subscriptions, performance claims, provenance certification, and real fulfillment.
 
-| ID | User story | Essential feature | Acceptance check |
-| --- | --- | --- | --- |
-| STUDIO-WHITE-1 | As a workday shopper, I want fit measurements before buying so I can judge the silhouette. | Labeled flat-garment measurements and a size selector. | The guide labels centimeters and distinguishes garment dimensions from body measurements. |
-| STUDIO-WHITE-2 | As a careful buyer, I want a clear material description so I can understand the concept. | A visible product-facts section with classroom assumptions labeled. | A visitor can locate material, fit, and care without opening checkout. |
-| STUDIO-WHITE-3 | As a buyer, I want to review my choices before completing the demo order. | An editable quantity, size, and total before validated confirmation. | Three shirts show $126; confirmation states that no real order or payment occurred. |
-
-**Data / technology:** HTML, CSS, JavaScript with demo order/request records; browser storage on GitHub Pages and SQLite when run through the supplied Node server. **Deferred:** Subscriptions, performance claims, provenance certification, and real fulfillment.
+</details>
 
 ## 3. Build and compare
 
-[Version A](/samples/studio-white/a.html) · [Version B](/samples/studio-white/b.html)
+<VersionComparison slug="studio-white" />
 
-Both versions contain the essential workflow. Keep the offer, underlying data, and task consistent enough to compare their presentation. Use the same task below with each version. Compare whether the visitor understands the offer, finds needed information, completes the task, and explains the next step.
+<details>
+<summary>See the comparison and launch decision</summary>
 
-**Example launch decision:** Select **B**. Product details are accessible immediately while the visual style still supports the brand. This is a teaching decision, not a measured conversion result or evidence of market demand. A student's actual decision should reflect their own observations.
+Give a peer the same task in both versions: **Find the product facts, choose L, review three shirts, and complete the demo checkout.** Watch whether they understand the offer, find what they need, and finish the task.
 
-The public examples save demo records in this browser. The downloadable Node 24 server stores records in SQLite. A static page by itself cannot demonstrate server-side persistence. [Run and inspect the SQLite example](/examples/submissions/run-examples).
+**Example choice: B.** Product details are accessible immediately while the visual style still supports the brand. This models a reasoned choice; it is not a measured sales result. Your choice should use your actual observations.
 
-## 4. Review, improve, and launch
+The public demo uses browser storage. [Run the downloadable SQLite version](/examples/submissions/run-examples) to see server-side persistence.
 
-### Sample peer-walkthrough record — fictional
+</details>
 
-| Field | Example entry |
+## 4. Get feedback and improve
+
+<details>
+<summary>See the feedback record, checks, and final submission</summary>
+
+### Sample walkthrough — fictional
+
+| What to record | Example |
 | --- | --- |
-| Reviewer | A classmate outside the project; replace with your actual reviewer/date |
+| Reviewer / date | A classmate; replace with your actual reviewer and date |
 | Task | Find the product facts, choose L, review three shirts, and complete the demo checkout. |
-| Observation / feedback | The story was attractive, but I had to search for practical product details. |
-| Meaningful change | Choose the facts-first version and keep a labeled product-facts section beside the purchase controls. |
-| Verification to perform | Ask a peer to find fit and material information before selecting a size. |
+| Observation | The story was attractive, but I had to search for practical product details. |
+| Change | Choose the facts-first version and keep a labeled product-facts section beside the purchase controls. |
+| Retest to perform | Ask a peer to find fit and material information before selecting a size. |
 
-The linked versions include the improved wording or feature so you can inspect the intended result. That does **not** mean a real peer performed this walkthrough. Your record must include what actually happened and what changed in your own project.
+The linked pages include the intended improvement. A real peer did not perform this sample walkthrough. Record what actually happens in your own test.
 
-### QA record to complete
+### Checks to run
 
-| Scenario | Expected result | Student’s actual result |
+| Scenario | Expected result | Your actual result |
 | --- | --- | --- |
-| Main task | Three shirts show $126; confirmation states that no real order or payment occurred. | Run and record your result |
-| Missing input / missing evidence | Required fields block submission. | Run and record your result |
-| Keyboard and phone-sized screen | Controls are reachable, focus is visible, and text does not require horizontal scrolling. | Run and record your result |
-| After the feedback change | Ask a peer to find fit and material information before selecting a size. | Record the actual reviewer response |
+| Main task | Three shirts show $126; confirmation states that no real order or payment occurred. | Run and record |
+| Missing input / evidence | Required fields block submission. | Run and record |
+| Keyboard and phone view | Controls are reachable, focus is visible, and text fits. | Run and record |
+| After the change | Repeat the peer’s task. | Record the real response |
 
-### Short portfolio case-study example
+### Short case-study example
 
-**Problem:** Understand the fit and product details before choosing one tee. **Decision:** Compare A/B, then select B. **Reason:** Product details are accessible immediately while the visual style still supports the brand. **Feedback-driven improvement:** Choose the facts-first version and keep a labeled product-facts section beside the purchase controls. **Limitation:** No manufacturing or sustainability claim is verified. Concept price $42 is an assumption, not a market-tested price.
+“Understand the fit and product details before choosing one tee. I compared two approaches and chose B. Product details are accessible immediately while the visual style still supports the brand. Feedback led me to choose the facts-first version and keep a labeled product-facts section beside the purchase controls.” In your own case study, add what you personally built and what you checked.
 
-**AI-use statement (illustrative):** “I used AI to propose alternatives and draft parts of the implementation. I reviewed the generated code against the specification, checked the core workflow, and revised the wording after feedback. I can explain the data flow and the checks I performed.” Replace this with your actual tool, task, checks, and contribution.
+**AI-use example:** “I used AI for alternatives and draft code. I reviewed it against the plan, checked the main task and missing inputs, and changed the wording after feedback.” Replace this with your actual tool, task, changes, and checks.
 
-### Final submission format
+**Final submission:** selected version, alternate version, actual repository, and this short process record.
 
-- Selected launch version: [Version B](/samples/studio-white/b.html).
-- Comparison version: [Version A](/samples/studio-white/a.html).
-- Repository: link to your actual public repository and README, not a fabricated URL. The class example source is in [this repository](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
-- Documentation: research, persona choice, specification, A/B decision, actual peer feedback, change, QA results, AI-use statement, and limitations. Keep it short; this page models the structure.
+**Limitation:** No manufacturing or sustainability claim is verified. Concept price $42 is an assumption, not a market-tested price.
 
-**Known limitation:** No manufacturing or sustainability claim is verified. Concept price $42 is an assumption, not a market-tested price.
+</details>
+
+[Your assignment & grading](/course/milestones) · [Due dates](/course/schedule) · [Copy the short template](/templates/four-milestones).

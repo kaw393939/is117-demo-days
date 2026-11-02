@@ -1,31 +1,29 @@
-# What forward deployed engineers do
+# What is an FDE?
 
-Forward deployed engineers work close to customers or internal business teams. They learn a workflow, define a useful technical solution, build and integrate it, and help people use it. The exact balance varies by employer.
+A **forward deployed engineer (FDE)** works closely with a customer or business team to build useful software. They learn how people work, find a problem worth solving, build a solution, and help people use it.
 
-Palantir describes its forward deployed engineers as responsible for customers' technical and operational outcomes. [Employer early-career overview](https://www.palantir.com/careers/students-and-early-talent).
+Think of a business that receives incomplete service requests. An FDE might work with staff to understand the problem, build a clearer request flow, connect it to existing data, and check whether it helps.
 
-## A typical project cycle
+<LearningDiagram kind="fde" />
 
-| Stage | What the engineer does | What IS117 can begin to demonstrate |
-| --- | --- | --- |
-| Discovery | Ask questions, observe work, identify a useful problem | Business brief, audience research, explicit assumptions |
-| Scope | Decide what success looks like and what to defer | Specification, priorities, acceptance criteria |
-| Build | Implement interfaces, data, integrations, or AI workflows | Functional business journey and explainable code |
-| Deploy and verify | Debug, test, deliver, and observe behavior | QA record, live demonstration, setup/deployment notes |
-| Adoption and handoff | Explain the system, gather feedback, help others continue | Demo, documentation, feedback-driven revision |
+## How IS117 starts that preparation
 
-This synthesis is informed by [Coinbase](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510), [Healthpeak](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/forward-deployed-software-engineer-internship), and [Interplay](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac) postings checked during this research.
+| You practice… | A professional habit |
+| --- | --- |
+| Comparing websites and audience needs | Investigating before choosing a solution. |
+| Writing user stories and a website plan | Turning a need into clear, manageable work. |
+| Building a small business website with AI | Making something useful and understanding the result. |
+| Sharing work and reviewing a partner's changes | Working with people, not just finishing your own part. |
+| Making a change after a peer walkthrough | Learning from feedback and checking the improvement. |
+| Showing the project and explaining your role | Helping another person understand and trust your work. |
 
-## Read titles carefully
+These are early steps. Many FDE internships also expect strong programming, APIs, databases, cloud systems, or AI engineering. Keep building that depth through later courses and projects.
 
-Some positions emphasize customer-facing software; others involve internal automation, data platforms, AI agents, infrastructure, or physical systems. Related titles include solutions engineer, implementation engineer, applied AI intern, and AI operations intern. Similar wording does not guarantee equivalent duties or eligibility.
+## Explore the next step
 
-## Start early, build progressively
+- [Job examples and pay](/career/jobs-and-pay): read small excerpts and learn what the skills mean.
+- [NYC-area internships](/career/internships): compare two roles and identify what you still need to learn.
+- [Next courses with Keith](/career/course-pathway): IS219, IS390, planned summer IS218, and later IS425.
+- [Your professional portfolio](/projects/portfolio): make your actual work easy to find.
 
-IS117 provides introductory web, design, research, collaboration, and delivery experience. Many FDE internships expect stronger programming, databases, APIs, testing, cloud deployment, or practical AI experience. Use your projects as a foundation for that next stage, not as a claim that one introductory course covers the entire role.
-
-Your portfolio should make your actual work visible: a useful problem, a working result, your contribution, and evidence of verification. See [skills and next steps](/career/skills) and [NYC internship examples](/career/internships).
-
-## See the work and plan your next step
-
-Read [short employer excerpts, pay examples, and skills explained](/career/jobs-and-pay), then explore [IS219, IS390, the planned summer IS218, and the BSEAI pathway](/career/course-pathway).
+This overview is an instructor summary of the linked employer examples. Related titles include solutions engineer, implementation engineer, and applied AI engineer. Read each description; similar titles can mean different work.
