@@ -1,0 +1,90 @@
+name: "Demo signup — Section 007"
+description: "Request a presentation slot for your pair or trio. Instructor confirmation is required."
+title: "[DEMO 007] Project title — slot code"
+labels: ["demo-signup", "signup-request", "section-007"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One request per team. Check the published schedule before choosing a slot.
+        A request is not a reservation. The instructor confirms and updates the schedule.
+        Use GitHub handles or public-facing names; keep student IDs, grades, private circumstances, and private meeting links in Canvas.
+  - type: dropdown
+    id: slot
+    attributes:
+      label: Preferred slot
+      description: "Eastern time. Match your team size; the last slot on Day 2 is reserved for the section's trio."
+      options:
+        - "007-D1-01 · 2026-12-08 08:35 · 2 people"
+        - "007-D1-02 · 2026-12-08 08:45 · 2 people"
+        - "007-D1-03 · 2026-12-08 08:55 · 2 people"
+        - "007-D1-04 · 2026-12-08 09:05 · 2 people"
+        - "007-D1-05 · 2026-12-08 09:15 · 2 people"
+        - "007-D1-06 · 2026-12-08 09:25 · 2 people"
+        - "007-D1-07 · 2026-12-08 09:35 · 2 people"
+        - "007-D2-01 · 2026-12-10 08:35 · 2 people"
+        - "007-D2-02 · 2026-12-10 08:45 · 2 people"
+        - "007-D2-03 · 2026-12-10 08:55 · 2 people"
+        - "007-D2-04 · 2026-12-10 09:05 · 2 people"
+        - "007-D2-05 · 2026-12-10 09:15 · 2 people"
+        - "007-D2-06 · 2026-12-10 09:25 · 2 people"
+        - "007-D2-07 · 2026-12-10 09:35 · 3 people"
+    validations:
+      required: true
+  - type: dropdown
+    id: team-size
+    attributes:
+      label: Team size
+      options:
+        - "2"
+        - "3 — instructor-designated trio"
+    validations:
+      required: true
+  - type: textarea
+    id: members
+    attributes:
+      label: Team members
+      description: "List each person's GitHub handle and public-facing name if desired."
+    validations:
+      required: true
+  - type: input
+    id: project
+    attributes:
+      label: Group business project title
+    validations:
+      required: true
+  - type: textarea
+    id: group-links
+    attributes:
+      label: Group project links and current status
+      description: "Live site or planned deployment, repository, specification, and QA record. Label unfinished items and update before the demo."
+    validations:
+      required: true
+  - type: textarea
+    id: individual-links
+    attributes:
+      label: Individual portfolio and T-shirt links
+      description: "For each member, list their portfolio, T-shirt site, and repositories. In-progress links are acceptable during signup."
+    validations:
+      required: true
+  - type: textarea
+    id: contributions
+    attributes:
+      label: Work division and presentation plan
+      description: "What did each member design, develop, and test? How will you use the individual and shared presentation time?"
+    validations:
+      required: true
+  - type: textarea
+    id: alternate
+    attributes:
+      label: Alternate available slot
+      description: "Optional second choice. Discuss private constraints in Canvas."
+  - type: checkboxes
+    id: readiness
+    attributes:
+      label: Team agreement
+      options:
+        - label: "We agree on this request and understand that the instructor must confirm it."
+          required: true
+        - label: "Each member will demonstrate their portfolio and T-shirt site and explain their own group contribution."
+          required: true

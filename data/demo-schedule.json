@@ -1,0 +1,237 @@
+{
+  "timezone": "America/New_York",
+  "sections": [
+    {
+      "id": "005",
+      "room": "CKB 106",
+      "start": "11:30",
+      "end": "12:50",
+      "dates": [
+        "2026-12-07",
+        "2026-12-10"
+      ],
+      "slots": [
+        {
+          "id": "005-D1-01",
+          "date": "2026-12-07",
+          "start": "11:35",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D1-02",
+          "date": "2026-12-07",
+          "start": "11:45",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D1-03",
+          "date": "2026-12-07",
+          "start": "11:55",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D1-04",
+          "date": "2026-12-07",
+          "start": "12:05",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D1-05",
+          "date": "2026-12-07",
+          "start": "12:15",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D1-06",
+          "date": "2026-12-07",
+          "start": "12:25",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D2-01",
+          "date": "2026-12-10",
+          "start": "11:35",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D2-02",
+          "date": "2026-12-10",
+          "start": "11:45",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D2-03",
+          "date": "2026-12-10",
+          "start": "11:55",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D2-04",
+          "date": "2026-12-10",
+          "start": "12:05",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D2-05",
+          "date": "2026-12-10",
+          "start": "12:15",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "005-D2-06",
+          "date": "2026-12-10",
+          "start": "12:25",
+          "minutes": 12,
+          "teamSize": 3,
+          "assignment": null
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "room": "CKB 223",
+      "start": "08:30",
+      "end": "09:50",
+      "dates": [
+        "2026-12-08",
+        "2026-12-10"
+      ],
+      "slots": [
+        {
+          "id": "007-D1-01",
+          "date": "2026-12-08",
+          "start": "08:35",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D1-02",
+          "date": "2026-12-08",
+          "start": "08:45",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D1-03",
+          "date": "2026-12-08",
+          "start": "08:55",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D1-04",
+          "date": "2026-12-08",
+          "start": "09:05",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D1-05",
+          "date": "2026-12-08",
+          "start": "09:15",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D1-06",
+          "date": "2026-12-08",
+          "start": "09:25",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D1-07",
+          "date": "2026-12-08",
+          "start": "09:35",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-01",
+          "date": "2026-12-10",
+          "start": "08:35",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-02",
+          "date": "2026-12-10",
+          "start": "08:45",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-03",
+          "date": "2026-12-10",
+          "start": "08:55",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-04",
+          "date": "2026-12-10",
+          "start": "09:05",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-05",
+          "date": "2026-12-10",
+          "start": "09:15",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-06",
+          "date": "2026-12-10",
+          "start": "09:25",
+          "minutes": 10,
+          "teamSize": 2,
+          "assignment": null
+        },
+        {
+          "id": "007-D2-07",
+          "date": "2026-12-10",
+          "start": "09:35",
+          "minutes": 12,
+          "teamSize": 3,
+          "assignment": null
+        }
+      ]
+    }
+  ]
+}

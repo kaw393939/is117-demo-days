@@ -1,0 +1,18 @@
+name: Documentation correction
+description: Report a public content, link, schedule, or research correction.
+title: "[DOCS] Short description"
+labels: ["documentation"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL or file
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs correcting?
+      description: Include supporting public sources. Keep private student information in Canvas.
+    validations:
+      required: true

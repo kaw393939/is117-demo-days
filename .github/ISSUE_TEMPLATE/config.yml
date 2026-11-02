@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Course deadlines, grades, or private questions
+    url: https://njit.instructure.com/
+    about: Use your Canvas section for official deadlines and private communication.
+  - name: Published Demo Day guide
+    url: https://kaw393939.github.io/is117-demo-days/demo-days/
+    about: Read the presentation format and section schedules before requesting a slot.

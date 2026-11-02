@@ -1,0 +1,22 @@
+{
+  "name": "is117-demo-days",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "node scripts/generate-schedules.mjs --check && vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "schedule:sync": "node scripts/generate-schedules.mjs",
+    "check": "node scripts/check-content.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  },
+  "overrides": {
+    "vite": "6.4.5"
+  }
+}

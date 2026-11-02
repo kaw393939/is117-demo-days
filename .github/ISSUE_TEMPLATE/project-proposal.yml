@@ -1,0 +1,40 @@
+name: Group project proposal
+description: Describe your business problem, scope, and equal work plan.
+title: "[PROJECT] Section — business concept"
+labels: ["project-proposal"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options: ["005", "007"]
+    validations:
+      required: true
+  - type: textarea
+    id: team
+    attributes:
+      label: Team handles
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Business, audience, and useful workflow
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Specification, essential features, and deferred work
+    validations:
+      required: true
+  - type: textarea
+    id: work
+    attributes:
+      label: Equal design, development, and QA allocation
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Repository and evidence links
