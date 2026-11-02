@@ -9,7 +9,7 @@ The [six submission examples](/examples/submissions/) contain twelve clickable v
 | Public GitHub Pages examples | HTML/CSS/JavaScript in your browser | Browser storage for this device; no SQLite backend |
 | Downloaded local examples | The same pages plus a small Node 24 server | SQLite database outside the public files |
 
-[Download all example source files](/downloads/is117-example-products.zip). The archive includes twelve pages, shared styles/JavaScript, six project descriptions, professional-profile drafts, the local server, and two fictional-customer `AGENTS.md` briefs. The source is also in [GitHub](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
+[Download all example source files](/downloads/is117-example-products.zip). The archive includes twelve pages, shared styles/JavaScript, six project descriptions, completed fictional professional-profile content, the local server, and two fictional-customer `AGENTS.md` briefs. The source is also in [GitHub](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples).
 
 ## Run the SQLite example locally
 
@@ -40,7 +40,7 @@ The demo email is validated but is not saved in SQLite or sent anywhere. Use syn
 
 ## Scope and limitations
 
-These are small teaching products. The AI-generated images are concepts; there is no manufactured stock or product photography. The services have no live availability, notifications, or fulfillment. The portfolios describe fictional students and link to labeled profile drafts.
+These are small teaching products. The AI-generated images are concepts; there is no manufactured stock or product photography. The services have no live availability, notifications, or fulfillment. The portfolios describe fictional students and link to labeled fictional profile examples.
 
 The code is an example to inspect and explain, not an additional framework requirement. Your project can use a different implementation. Follow the published project requirements, including the T-shirt project's SQLite expectation, and document what actually works in your deployment.
 

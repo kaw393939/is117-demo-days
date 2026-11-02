@@ -4,6 +4,10 @@ Build a **T-shirt store**, a **group business site**, and your **personal portfo
 
 <LearningDiagram kind="process" />
 
+## Start here
+
+Read this page, check [your dates](/course/schedule), then copy [the short template](/templates/four-milestones). Open a completed example only for the step you are working on. The detailed templates and career articles are help when you need them.
+
 ## What to submit at each step
 
 Use [one short document per project](/templates/four-milestones) and update it as you go. The portfolio can use shorter research and planning.
@@ -19,6 +23,33 @@ A **persona** describes a user and their needs. A **user story** explains what t
 
 [Check your section’s dates](/course/schedule) · [See completed examples](/examples/submissions/).
 
+<details>
+<summary>What does “compare two” mean? How much work is it?</summary>
+
+| At this step… | Make this comparison |
+| --- | --- |
+| Research | **One** table of three sites → two possible positions and two short personas → choose an audience. |
+| Plan | Two short approaches to the **same** business need; share the core stories and features where useful. |
+| Build | Two working versions of each project; shared code and content are fine. Change something that matters to the user. |
+| Improve | Choose one version, get real peer feedback, make a change, and retest. |
+
+You are building **three projects with two versions each**. Comparing alternatives helps you explain a decision instead of accepting the first AI output. It does not mean doubling every task.
+
+</details>
+
+## How to submit
+
+Keep **three evolving documents**: your T-shirt record, your shorter portfolio record, and the team's shared business record. At each milestone, update the current section.
+
+| Canvas review | Links to include |
+| --- | --- |
+| Individual review, four times | Your T-shirt **and** portfolio records; add the working version links as you build. |
+| Group review, four times | The shared business record, version links as available, and each member's contribution. |
+
+That is **eight review milestones**, covering three projects. The same documents grow over time. Use the matching Canvas assignment and its submission settings; a GitHub demo-signup issue does not submit coursework.
+
+**Canvas setup is pending.** If the matching entry is not visible, keep your work and links in your repository and ask the instructor in class or Canvas. Check Canvas for the official submission box, points, and any later changes.
+
 ## How each step is graded
 
 | Criterion | Share | What we look for |
@@ -32,10 +63,13 @@ These are the rubric shares for each milestone, not changes to the syllabus’s 
 
 [See completed submissions with grades and feedback](/examples/submissions/grading-guide). These illustrate how the rubric applies; they are not real student marks.
 
-## Work together and finish well
+<details>
+<summary>Final links, class feedback, and group contributions</summary>
 
 **Attendance is required.** We will provide [class time for partner work and feedback](/course/schedule). Bring your work and a task for someone to try. Give feedback as well as receive it.
 
 For each final project, submit the **chosen live version, alternate version, repository, and short process document**. Include actual checks, AI use, and remaining limits. Each group member adds a contribution statement. Your portfolio also needs your résumé, GitHub, LinkedIn, and both project stories.
 
-The four steps provide your four individual reviews and four group reviews. Individual reviews cover the T-shirt store and portfolio together. Use **Canvas to submit** and **GitHub issues to [request a demo slot](/demo-days/)**. Earlier assignments keep their original criteria.
+Use **GitHub issues to [request a demo slot](/demo-days/)**. Earlier assignments keep their original criteria.
+
+</details>

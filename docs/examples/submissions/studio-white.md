@@ -8,6 +8,8 @@ Read the completed submission, then compare it with the instructor’s score and
 
 [Version A](/samples/studio-white/a.html) · [Version B](/samples/studio-white/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
+**Read one step at a time:** [Research](#_1-research) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+
 ## 1. Research
 
 <details open>
@@ -50,7 +52,12 @@ I chose a workday shopper because I like the restrained look of the references a
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 78/100</summary>
+
 <SampleAssessment slug="studio-white" stage="research" />
+
+</details>
 
 ## 2. Plan
 
@@ -97,7 +104,12 @@ I made an editorial page and a facts-first page. Both have the same shopping con
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 79/100</summary>
+
 <SampleAssessment slug="studio-white" stage="plan" />
+
+</details>
 
 ## 3. Build and compare
 
@@ -131,7 +143,12 @@ The page reads the concept price from the project data. Quantity changes update 
 
 <VersionComparison slug="studio-white" />
 
+<details>
+<summary>See the rubric score and feedback: 84/100</summary>
+
 <SampleAssessment slug="studio-white" stage="build" />
+
+</details>
 
 ## 4. Get feedback and improve
 
@@ -178,7 +195,12 @@ The written record models the student's explanation. It does not establish that 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 79/100</summary>
+
 <SampleAssessment slug="studio-white" stage="improve" />
+
+</details>
 
 ## Instructor’s suggested revision
 

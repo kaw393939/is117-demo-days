@@ -8,6 +8,12 @@ Choose your project type. Each pair contains a **stronger submission** and a **d
 
 <ExampleGallery />
 
+## Read only the step you need
+
+Choose **one example in your project category**, then use its milestone links. Read the student work first and open the rubric feedback when you are ready. Compare the second example to understand one difference in reasoning; you do not need to read all six packets now.
+
+The two submissions in a row are different teaching examples. **Each example already has its own A/B product versions.** You are not being asked to build both fictional businesses.
+
 ## What is inside each submission?
 
 - Completed competitive research and two persona cards.

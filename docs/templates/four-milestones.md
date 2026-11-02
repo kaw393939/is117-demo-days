@@ -2,6 +2,10 @@
 
 Keep this in your own repository and update it as you work. Use it for each project; the portfolio can use shorter research and planning. [See two examples of each project](/examples/submissions/).
 
+Copy these headings into one Markdown file in each project repository. Your team shares its group record. Update the same file at each step; future sections can remain unfinished until that milestone. [See the Canvas hand-in map](/course/milestones#how-to-submit).
+
+<a href="/is117-demo-days/downloads/project-process-template.md" download="project-process.md">Download the editable Markdown version</a>, save it as `project-process.md`, and keep it in your repository.
+
 ## 1. Research
 
 - Compare three relevant sites: source/date, observation, implication. Identify direct competitors versus adjacent references.
@@ -12,7 +16,7 @@ Keep this in your own repository and update it as you work. Use it for each proj
 
 - Compare two concise website approaches: same business goal, different way of serving it. Choose what to build and compare.
 - Write three to five user stories with essential features and observable checks for success.
-- List what you will defer. For a group, divide comparable work and assign review each other’s work.
+- List what you will defer. For a group, divide comparable work and assign someone to review each task.
 
 ## 3. Build
 

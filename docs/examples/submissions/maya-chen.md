@@ -8,6 +8,8 @@ Read the completed submission, then compare it with the instructor’s score and
 
 [Version A](/samples/maya-chen/a.html) · [Version B](/samples/maya-chen/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
+**Read one step at a time:** [Research](#_1-research) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+
 ## 1. Research
 
 <details open>
@@ -50,7 +52,12 @@ I chose an internship recruiter as my primary reader because the first task is t
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 92/100</summary>
+
 <SampleAssessment slug="maya-chen" stage="research" />
+
+</details>
 
 ## 2. Plan
 
@@ -97,7 +104,12 @@ Both plans contain the same two course projects and professional information. A 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 93/100</summary>
+
 <SampleAssessment slug="maya-chen" stage="plan" />
+
+</details>
 
 ## 3. Build and compare
 
@@ -131,7 +143,12 @@ The portfolio is a static site. Each case study links to a working product and e
 
 <VersionComparison slug="maya-chen" />
 
+<details>
+<summary>See the rubric score and feedback: 93/100</summary>
+
 <SampleAssessment slug="maya-chen" stage="build" />
+
+</details>
 
 ## 4. Get feedback and improve
 
@@ -178,7 +195,12 @@ The written record models the student's explanation. It does not establish that 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 100/100</summary>
+
 <SampleAssessment slug="maya-chen" stage="improve" />
+
+</details>
 
 ## Instructor’s suggested revision
 

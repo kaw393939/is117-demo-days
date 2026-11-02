@@ -17,6 +17,16 @@ Everyone starts with the same product: a plain white T-shirt. Choose whom it is 
 
 No real payments or payment-card collection. Use synthetic orders and label fictional product claims and policies. A static GitHub Pages site cannot run a server-side SQLite database: explain how to run your backend and what your published version can do.
 
+## Show how your data works
+
+Your **public site** lets a visitor try the store. Your **backend** is the server code that reads or saves SQLite data. Explain both in your setup notes.
+
+- Link the published A/B pages and label any browser-storage simulation.
+- Include the backend code and the command needed to run it. Say where the SQLite file is created.
+- Try one synthetic order, inspect its saved record, then reload or restart and check what remains. Record the actual result and any limits.
+
+Browser storage alone does not meet the SQLite requirement. If your public host cannot run the backend, provide runnable local setup steps and demonstrate that version. [Try the class's working SQLite example](/examples/submissions/run-examples).
+
 ## Follow the four steps
 
 1. **Research:** compare three clothing sites. Consider two market positions and two customer personas. Choose an audience and explain your evidence and assumptions.

@@ -8,6 +8,8 @@ Read the completed submission, then compare it with the instructor’s score and
 
 [Version A](/samples/jordan-rivera/a.html) · [Version B](/samples/jordan-rivera/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
+**Read one step at a time:** [Research](#_1-research) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+
 ## 1. Research
 
 <details open>
@@ -50,7 +52,12 @@ I chose a team lead because I think managers want to see reasoning. I also want 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 79/100</summary>
+
 <SampleAssessment slug="jordan-rivera" stage="research" />
+
+</details>
 
 ## 2. Plan
 
@@ -97,7 +104,12 @@ I planned an evidence-first and an introduction-first version. Both show my proj
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 83/100</summary>
+
 <SampleAssessment slug="jordan-rivera" stage="plan" />
+
+</details>
 
 ## 3. Build and compare
 
@@ -131,7 +143,12 @@ I explain that AI helped draft code and that I checked required fields. My first
 
 <VersionComparison slug="jordan-rivera" />
 
+<details>
+<summary>See the rubric score and feedback: 84/100</summary>
+
 <SampleAssessment slug="jordan-rivera" stage="build" />
+
+</details>
 
 ## 4. Get feedback and improve
 
@@ -178,7 +195,12 @@ The written record models the student's explanation. It does not establish that 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 83/100</summary>
+
 <SampleAssessment slug="jordan-rivera" stage="improve" />
+
+</details>
 
 ## Instructor’s suggested revision
 

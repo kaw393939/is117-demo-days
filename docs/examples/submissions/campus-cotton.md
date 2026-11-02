@@ -8,6 +8,8 @@ Read the completed submission, then compare it with the instructor’s score and
 
 [Version A](/samples/campus-cotton/a.html) · [Version B](/samples/campus-cotton/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
+**Read one step at a time:** [Research](#_1-research) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+
 ## 1. Research
 
 <details open>
@@ -50,7 +52,12 @@ I chose the individual student shopper because fit and total price are decisions
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 92/100</summary>
+
 <SampleAssessment slug="campus-cotton" stage="research" />
+
+</details>
 
 ## 2. Plan
 
@@ -97,7 +104,12 @@ Both plans keep the same shirt, price, measurements, and checkout. A puts shoppi
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 94/100</summary>
+
 <SampleAssessment slug="campus-cotton" stage="plan" />
+
+</details>
 
 ## 3. Build and compare
 
@@ -131,7 +143,12 @@ The browser requires a size and calculates a preview total. In local-server mode
 
 <VersionComparison slug="campus-cotton" />
 
+<details>
+<summary>See the rubric score and feedback: 93/100</summary>
+
 <SampleAssessment slug="campus-cotton" stage="build" />
+
+</details>
 
 ## 4. Get feedback and improve
 
@@ -178,7 +195,12 @@ The written record models the student's explanation. It does not establish that 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 93/100</summary>
+
 <SampleAssessment slug="campus-cotton" stage="improve" />
+
+</details>
 
 ## Instructor’s suggested revision
 

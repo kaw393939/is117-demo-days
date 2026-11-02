@@ -98,7 +98,17 @@ export default defineConfig({
     },
     outline: { level: 2, label: 'On this page' },
     docFooter: { prev: false, next: false },
-    search: { provider: 'local' },
+    search: {
+      provider: 'local',
+      options: {
+        miniSearch: {
+          searchOptions: {
+            // Definitions and instructions should precede repeated sample sections.
+            boostDocument: (id: string) => id.includes('/process/') ? 4 : id.includes('/course/') ? 2 : 1
+          }
+        }
+      }
+    },
     socialLinks: [{ icon: 'github', link: 'https://github.com/kaw393939/is117-demo-days' }],
     editLink: { pattern: 'https://github.com/kaw393939/is117-demo-days/edit/main/docs/:path', text: 'Suggest a correction' },
     footer: { message: 'NJIT · Keith Williams · Sections 005 & 007 · Fall 2026', copyright: 'Canvas: submissions, grades, and private questions. This guide: project instructions and examples.' }

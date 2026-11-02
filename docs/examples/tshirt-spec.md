@@ -1,6 +1,6 @@
 # Worked example: from research to specification
 
-This is an illustrative student concept, not a required brand or finished implementation.
+This is an optional **planning example**. Its QA table is a place to record future results. For a completed submission, runnable product, actual technical checks, and rubric feedback, open [Campus Cotton](/examples/submissions/campus-cotton) or [Studio White](/examples/submissions/studio-white).
 
 ## Business and audience
 

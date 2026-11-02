@@ -13,6 +13,8 @@ Plan equal workloads and make responsibilities visible. Each partner contributes
 | Handoff and demo | Own contribution notes and demo, 1 point | Own contribution notes and demo, 1 point | Joint rehearsal |
 | **Planned total** | **12 points** | **12 points** | Rebalance if scope changes |
 
+This is one possible split, not a required feature list. A staff dashboard is optional; request validation and the receipt/history can provide two meaningful parts to share.
+
 Points estimate relative effort, not grades. A trio can divide three comparable complete parts of the workflow, each with design, implementation, and cross-review. A member who owns an unfamiliar or difficult part may need a smaller feature count for equal effort.
 
 ## Practical Git workflow

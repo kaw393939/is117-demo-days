@@ -1,28 +1,35 @@
 # Write a website plan
 
-A **specification**, or **spec**, is your current agreement about the problem, expected behavior, scope, and evidence of completion. It should help you decide what to build and help another person check whether it works.
+A **specification**, or **spec**, is a short plan: who the site serves, what it should do, and how you will check it. **Spec-driven development** means using that plan to guide the code, including code made with AI.
 
-Start with the [short four-step template](/templates/four-milestones). The sequence below explains the process; it is not eight extra submissions.
+## Compare two approaches to one task
 
-## Use this sequence
+For a T-shirt shopper who is unsure about fit:
 
-1. **Discover:** describe the audience, business need, current workflow, and assumptions.
-2. **Research:** inspect alternatives and record evidence that influences decisions.
-3. **Prioritize:** choose essential, differentiating, and deferred features.
-4. **Specify:** describe behavior, pages, data, acceptance criteria, and limits.
-5. **Delegate:** turn features into reviewable tasks with owners and reviewers.
-6. **Build:** use AI and your own engineering work in small increments.
-7. **Verify:** test against the acceptance criteria, record failures, and fix them.
-8. **Revise:** update the spec when a decision changes and explain why.
+| | Approach A | Approach B |
+| --- | --- | --- |
+| First thing shown | Product, price, size guide, and size choices | A short fit explanation, followed by the same shopping controls |
+| Same core task | Choose a size, review the total, complete a demo order | Choose a size, review the total, complete a demo order |
+| Why try it? | A returning shopper may want to act quickly | A first-time shopper may need more explanation |
+| What to compare | Can a peer find the guide and choose a size? | Give the peer the same task and record what happens |
 
-## Make acceptance criteria observable
+These are two short plans for the same product. You can share the data and checkout code. You do not need two separate business plans.
 
-Weak: “The checkout is professional.”
+## Turn one story into a check
 
-Better: “With a size selected and quantity 2, the summary shows the selected size and twice the unit price. Submitting without the required information shows a readable error. A valid simulated order produces a confirmation and a SQLite record.”
+**Story:** As a shopper, I want to review my quantity and total so I know what the demo order includes.
 
-## Keep the specification useful
+**Vague:** “The checkout is professional.”
 
-Include purpose, audience, brand direction, user stories, navigation, feature priorities, data model, interface states, acceptance checks, accessibility needs, task ownership, and known exclusions. Reference it in task issues and QA notes. Use the [specification template](/templates/specification).
+**Checkable:** “With a size selected and quantity 2, the summary shows that size and twice the unit price. Missing required information shows an error. A valid simulated order produces a confirmation and a SQLite record.”
 
-AI can help clarify or draft a specification. You are responsible for choosing the scope, correcting mistakes, and ensuring that the implemented behavior matches it. A large AI-generated document is not evidence that these decisions were made.
+## Use the plan while you build
+
+1. **Write:** choose three to five useful stories, essential features, and observable checks. Include the pages, data, errors, and limits they need.
+2. **Build a small part:** ask AI to help with one feature. Give it the relevant story and check.
+3. **Try it:** run the check yourself and record the result. Fix or explain failures.
+4. **Update:** if your decision changes, revise the plan and say why. For a group, name the task owner and reviewer.
+
+A useful AI request is: “Build the quantity summary for this story and check. Explain the changed files and how I can verify the total.” You still choose the scope and check the result.
+
+**Next:** fill in the Plan section of [your one project document](/templates/four-milestones#_2-plan). The [detailed specification template](/templates/specification) is optional help when you need more structure.

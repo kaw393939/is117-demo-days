@@ -8,6 +8,8 @@ Read the completed submission, then compare it with the instructor’s score and
 
 [Version A](/samples/room-ready/a.html) · [Version B](/samples/room-ready/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
+**Read one step at a time:** [Research](#_1-research) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+
 [Try this project's fictional client](/process/simulated-customer).
 
 ## 1. Research
@@ -52,7 +54,12 @@ We chose a narrow assembly-request service instead of a marketplace. Our renter 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 92/100</summary>
+
 <SampleAssessment slug="room-ready" stage="research" />
+
+</details>
 
 ## 2. Plan
 
@@ -108,7 +115,12 @@ We treated integration and retesting as shared tasks and rechecked the totals be
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 95/100</summary>
+
 <SampleAssessment slug="room-ready" stage="plan" />
+
+</details>
 
 ## 3. Build and compare
 
@@ -142,7 +154,12 @@ The interface validates the item and preferred window. The local server checks b
 
 <VersionComparison slug="room-ready" />
 
+<details>
+<summary>See the rubric score and feedback: 93/100</summary>
+
 <SampleAssessment slug="room-ready" stage="build" />
+
+</details>
 
 ## 4. Get feedback and improve
 
@@ -197,7 +214,12 @@ The written record models the student's explanation. It does not establish that 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 94/100</summary>
+
 <SampleAssessment slug="room-ready" stage="improve" />
+
+</details>
 
 ## Instructor’s suggested revision
 

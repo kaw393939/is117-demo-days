@@ -8,6 +8,8 @@ Read the completed submission, then compare it with the instructor鈥檚 score and
 
 [Version A](/samples/study-slot/a.html) 路 [Version B](/samples/study-slot/b.html) 路 [Download all six submissions](/downloads/is117-graded-student-submissions.zip) 路 [How to read these grades](/examples/submissions/grading-guide)
 
+**Read one step at a time:** [Research](#_1-research) 路 [Plan](#_2-plan) 路 [Build](#_3-build-and-compare) 路 [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+
 [Try this project's fictional client](/process/simulated-customer).
 
 ## 1. Research
@@ -52,7 +54,12 @@ We chose beginning web-development students because they can use a small set of 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 81/100</summary>
+
 <SampleAssessment slug="study-slot" stage="research" />
+
+</details>
 
 ## 2. Plan
 
@@ -108,7 +115,12 @@ We planned equal totals, but described integration only as 鈥渇inish together.鈥
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 84/100</summary>
+
 <SampleAssessment slug="study-slot" stage="plan" />
+
+</details>
 
 ## 3. Build and compare
 
@@ -142,7 +154,12 @@ The request sends a topic and preferred window to storage. The returned status m
 
 <VersionComparison slug="study-slot" />
 
+<details>
+<summary>See the rubric score and feedback: 86/100</summary>
+
 <SampleAssessment slug="study-slot" stage="build" />
+
+</details>
 
 ## 4. Get feedback and improve
 
@@ -197,7 +214,12 @@ The written record models the student's explanation. It does not establish that 
 
 </details>
 
+<details>
+<summary>See the rubric score and feedback: 83/100</summary>
+
 <SampleAssessment slug="study-slot" stage="improve" />
+
+</details>
 
 ## Instructor鈥檚 suggested revision
 
