@@ -55,7 +55,7 @@ We chose a narrow assembly-request service instead of a marketplace. Our renter 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 92/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="room-ready" stage="research" />
 
@@ -116,7 +116,7 @@ We treated integration and retesting as shared tasks and rechecked the totals be
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 95/100</summary>
+<summary>See the rubric score and feedback: 100/100</summary>
 
 <SampleAssessment slug="room-ready" stage="plan" />
 
@@ -155,7 +155,7 @@ The interface validates the item and preferred window. The local server checks b
 <VersionComparison slug="room-ready" />
 
 <details>
-<summary>See the rubric score and feedback: 93/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="room-ready" stage="build" />
 
@@ -168,7 +168,7 @@ The interface validates the item and preferred window. The local server checks b
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Morgan Lee, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Morgan Lee, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |
@@ -215,7 +215,7 @@ The written record models the student's explanation. It does not establish that 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 94/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="room-ready" stage="improve" />
 

@@ -4,7 +4,7 @@ Fictional completed student work by Maya Chen. Peer conversations are teaching s
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Taylor Brooks, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Taylor Brooks, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |

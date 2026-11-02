@@ -53,7 +53,7 @@ I chose the individual student shopper because fit and total price are decisions
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 92/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="campus-cotton" stage="research" />
 
@@ -105,7 +105,7 @@ Both plans keep the same shirt, price, measurements, and checkout. A puts shoppi
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 94/100</summary>
+<summary>See the rubric score and feedback: 100/100</summary>
 
 <SampleAssessment slug="campus-cotton" stage="plan" />
 
@@ -144,7 +144,7 @@ The browser requires a size and calculates a preview total. In local-server mode
 <VersionComparison slug="campus-cotton" />
 
 <details>
-<summary>See the rubric score and feedback: 93/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="campus-cotton" stage="build" />
 
@@ -157,7 +157,7 @@ The browser requires a size and calculates a preview total. In local-server mode
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Taylor Brooks, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Taylor Brooks, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |
@@ -196,7 +196,7 @@ The written record models the student's explanation. It does not establish that 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 93/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="campus-cotton" stage="improve" />
 

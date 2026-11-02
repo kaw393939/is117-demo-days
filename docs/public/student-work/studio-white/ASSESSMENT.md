@@ -2,29 +2,29 @@
 
 This assesses the fictional submitted record, not a real student. Use the published four-criterion rubric, 25 points per criterion. “Understood” here evaluates the written explanation only; a live class review would also check the student's own explanation.
 
-## 1. Research: 78/100
+## 1. Research: 81/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 22/25 | Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief. |
-| Thoughtful | 18/25 | The choice leans on a broad impression or preference rather than a specific task. |
-| Checked | 18/25 | Sources are named and assumptions disclosed, but the source-to-need connection is weak. |
-| Understood | 20/25 | The explanation identifies a direction but leaves the priority among user needs unclear. |
+| Complete | 25/25 | Full credit: Three linked references, two positions, two persona cards, and an audience choice are present. |
+| Thoughtful | 18/25 | Deduction (−7): The audience choice relies on liking a restrained look rather than deciding which shopping need matters most. |
+| Checked | 18/25 | Deduction (−7): The persona needs are not traced to particular observations in the three-source table. |
+| Understood | 20/25 | Deduction (−5): The explanation does not decide whether fit, material, or price is the primary user need. |
 
 **What worked:** The submission names a plausible audience and keeps claims tied to a small project.
 
-**Next revision:** Replace “looks professional” with a specific audience need and label what is still an assumption.
+**Next revision:** Replace the look preference with the main shopper task and explain which feature supports it.
 
 [Read the submitted work](01-research.md).
 
-## 2. Plan: 79/100
+## 2. Plan: 82/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 22/25 | Two specifications, three stories, priorities, data/states, and limits are present. |
-| Thoughtful | 19/25 | The two approaches differ, but the reason for favoring one is general. |
-| Checked | 18/25 | The first acceptance check uses clear/easy language without an observable result. |
-| Understood | 20/25 | The written explanation needs a clearer link between the user need, feature, and check. |
+| Complete | 25/25 | Full credit: Two plans, three stories, feature priorities, data/states, and limits are present. |
+| Thoughtful | 19/25 | Deduction (−6): The reason for choosing the facts-first layout is that it looks cleaner, rather than how it serves the chosen shopper. |
+| Checked | 18/25 | Deduction (−7): The first check asks for an easy/clear experience without an observable task result. |
+| Understood | 20/25 | Deduction (−5): The explanation does not connect the chosen layout to a specific shopper task and check. |
 
 **What worked:** The plan has a manageable core task and avoids a large feature backlog.
 
@@ -32,14 +32,14 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](02-specifications.md).
 
-## 3. Build and compare: 84/100
+## 3. Build and compare: 86/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 23/25 | Both linked versions work and share a complete small workflow. |
-| Thoughtful | 20/25 | The choice is plausible, but the notes include preference or inconsistent task evidence. |
-| Checked | 20/25 | The product has technical checks, but the student comparison record does not fully show both attempts. |
-| Understood | 21/25 | The explanation names what the interface does but leaves part of the data or verification story unclear. |
+| Complete | 25/25 | Full credit: Both working versions and a launch choice are linked. |
+| Thoughtful | 20/25 | Deduction (−5): The launch choice is based on comments and preference rather than the same complete task in both versions. |
+| Checked | 20/25 | Deduction (−5): Neither comparison note records the full size, quantity, and checkout task. |
+| Understood | 21/25 | Deduction (−4): The implementation explanation does not distinguish browser storage from the SQLite server. |
 
 **What worked:** A reader can open and compare two real working presentations.
 
@@ -47,14 +47,14 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](03-build-and-decision.md).
 
-## 4. Get feedback and improve: 79/100
+## 4. Get feedback and improve: 88/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 22/25 | A completed peer scenario, specific change, retest result, AI record, and handoff are present. |
-| Thoughtful | 19/25 | The change addresses the comment, but the evidence supports a narrower conclusion than the original task. |
-| Checked | 18/25 | The retest records a limited response; it does not fully demonstrate the intended task or explanation. |
-| Understood | 20/25 | The reflection is honest, but its explanation of a check or cross-review needs more detail. |
+| Complete | 25/25 | Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links. |
+| Thoughtful | 25/25 | Full credit: The change directly addresses the peer’s stated problem without expanding the product scope. |
+| Checked | 18/25 | Deduction (−7): The retest stops at finding Product facts; it does not record the requested full shopping task after the change. |
+| Understood | 20/25 | Deduction (−5): The AI-use record names a valid order but does not explain an invalid input and the behavior it is meant to prevent. |
 
 **What worked:** The submission records a specific feedback-driven change rather than a general promise to improve.
 
@@ -62,7 +62,7 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](04-review-and-launch.md).
 
-## Example project score: 80/100
+## Example project score: 84.25/100
 
 This is an equal average of four milestone scores for comparing the teaching examples. It is not a course grade, letter-grade rule, or new Canvas weighting.
 

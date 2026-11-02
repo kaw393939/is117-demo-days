@@ -2,29 +2,29 @@
 
 This assesses the fictional submitted record, not a real student. Use the published four-criterion rubric, 25 points per criterion. “Understood” here evaluates the written explanation only; a live class review would also check the student's own explanation.
 
-## 1. Research: 79/100
+## 1. Research: 82/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 22/25 | Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief. |
-| Thoughtful | 19/25 | The choice leans on a broad impression or preference rather than a specific task. |
-| Checked | 18/25 | Sources are named and assumptions disclosed, but the source-to-need connection is weak. |
-| Understood | 20/25 | The explanation identifies a direction but leaves the priority among user needs unclear. |
+| Complete | 25/25 | Full credit: Three linked references, two positions, two persona cards, and an audience choice are present. |
+| Thoughtful | 19/25 | Deduction (−6): The audience choice names both a team lead and a recruiter without deciding which reader task should come first. |
+| Checked | 18/25 | Deduction (−7): The persona needs are not traced to particular observations in the reference table. |
+| Understood | 20/25 | Deduction (−5): The explanation says managers value reasoning but does not name the evidence-finding task to prioritize. |
 
 **What worked:** The submission names a plausible audience and keeps claims tied to a small project.
 
-**Next revision:** Choose one primary reviewer and name the task they need to complete.
+**Next revision:** Choose one primary reader and name the task they need to complete.
 
 [Read the submitted work](01-research.md).
 
-## 2. Plan: 83/100
+## 2. Plan: 85/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 23/25 | Two specifications, three stories, priorities, data/states, and limits are present. |
-| Thoughtful | 20/25 | The two approaches differ, but the reason for favoring one is general. |
-| Checked | 19/25 | The first acceptance check uses clear/easy language without an observable result. |
-| Understood | 21/25 | The written explanation needs a clearer link between the user need, feature, and check. |
+| Complete | 25/25 | Full credit: Two plans, three stories, feature priorities, data/states, and limits are present. |
+| Thoughtful | 20/25 | Deduction (−5): The two layouts are named, but the choice is not tied to what the main reader must find. |
+| Checked | 19/25 | Deduction (−6): The first check says the case studies should be clear without naming what a visitor must be able to explain. |
+| Understood | 21/25 | Deduction (−4): The plan does not specify the feature, decision, and check the reader should be able to identify. |
 
 **What worked:** The plan has a manageable core task and avoids a large feature backlog.
 
@@ -32,14 +32,14 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](02-specifications.md).
 
-## 3. Build and compare: 84/100
+## 3. Build and compare: 86/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 23/25 | Both linked versions work and share a complete small workflow. |
-| Thoughtful | 20/25 | The choice is plausible, but the notes include preference or inconsistent task evidence. |
-| Checked | 20/25 | The product has technical checks, but the student comparison record does not fully show both attempts. |
-| Understood | 21/25 | The explanation names what the interface does but leaves part of the data or verification story unclear. |
+| Complete | 25/25 | Full credit: Both working versions and a launch choice are linked. |
+| Thoughtful | 20/25 | Deduction (−5): The launch choice relies on different favorable comments rather than the same evidence-finding task in both versions. |
+| Checked | 20/25 | Deduction (−5): Neither version has a recorded outcome for the full decision, contribution, and profile-finding task. |
+| Understood | 21/25 | Deduction (−4): The explanation says required fields were checked without naming an invalid input and its expected behavior. |
 
 **What worked:** A reader can open and compare two real working presentations.
 
@@ -47,14 +47,14 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](03-build-and-decision.md).
 
-## 4. Get feedback and improve: 83/100
+## 4. Get feedback and improve: 90/100
 
 | Criterion | Points | Evidence and reason |
 | --- | --- | --- |
-| Complete | 23/25 | A completed peer scenario, specific change, retest result, AI record, and handoff are present. |
-| Thoughtful | 20/25 | The change addresses the comment, but the evidence supports a narrower conclusion than the original task. |
-| Checked | 19/25 | The retest records a limited response; it does not fully demonstrate the intended task or explanation. |
-| Understood | 21/25 | The reflection is honest, but its explanation of a check or cross-review needs more detail. |
+| Complete | 25/25 | Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links. |
+| Thoughtful | 25/25 | Full credit: The change directly addresses the peer’s stated problem without expanding the product scope. |
+| Checked | 19/25 | Deduction (−6): The peer located a required-field statement but was not asked to explain the input, expected result, and reason for the check. |
+| Understood | 21/25 | Deduction (−4): The AI-use record says checked the form without stating a concrete input and observed result. |
 
 **What worked:** The submission records a specific feedback-driven change rather than a general promise to improve.
 
@@ -62,7 +62,7 @@ This assesses the fictional submitted record, not a real student. Use the publis
 
 [Read the submitted work](04-review-and-launch.md).
 
-## Example project score: 82.25/100
+## Example project score: 85.75/100
 
 This is an equal average of four milestone scores for comparing the teaching examples. It is not a course grade, letter-grade rule, or new Canvas weighting.
 

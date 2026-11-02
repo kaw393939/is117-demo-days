@@ -25,67 +25,91 @@
       "milestones": {
         "research": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            22,
-            23
+            25
           ],
-          "next": "Connect each persona need to a specific observation rather than treating all competitor features as proof of demand.",
+          "next": "Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.",
           "evidence": [
-            "Three linked references, two positions, and two persona cards are submitted. The selected audience is explicit.",
-            "The choice links a manageable user task to the proposed scope.",
-            "Observations are dated and distinguished from assumptions; no demand claim is made.",
-            "The written audience choice explains both the choice and the excluded alternative."
+            "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
+            "Full credit: The choice links a manageable user task to the proposed scope.",
+            "Deduction (−2): The persona evidence row refers to reference pages generally; it does not identify which observation supports the fit or price need.",
+            "Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples."
           ],
-          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
+          "deductions": [
+            "",
+            "",
+            "The persona evidence row refers to reference pages generally; it does not identify which observation supports the fit or price need.",
+            ""
+          ]
         },
         "plan": {
           "scores": [
-            24,
-            24,
-            23,
-            23
+            25,
+            25,
+            25,
+            25
           ],
-          "next": "Add a storage-failure acceptance check to the written plan.",
+          "next": "Reuse these checks while building and update the plan if a decision changes. No extra feature is needed for full credit.",
           "evidence": [
-            "Two specifications, three stories, priorities, data/states, and limits are present.",
-            "The two approaches change hierarchy while holding the offer and task steady.",
-            "Acceptance checks describe observable behavior for the core task.",
-            "The plan explains why this scope fits the chosen audience."
+            "Full credit: Two plans, three stories, feature priorities, data/states, and limits are present.",
+            "Full credit: The two approaches change hierarchy while holding the offer and task steady.",
+            "Full credit: Acceptance checks describe observable behavior for the core task.",
+            "Full credit: The plan explains why this scope fits the chosen audience."
           ],
-          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+          "strength": "The plan has a manageable core task and avoids a large feature backlog.",
+          "deductions": [
+            "",
+            "",
+            "",
+            ""
+          ]
         },
         "build": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            23,
-            23
+            25
           ],
-          "next": "Record the exact page/version used for each comparison observation.",
+          "next": "Record the size, quantity, and checkout outcome for the same task in A and B.",
           "evidence": [
-            "Both linked versions work and share a complete small workflow.",
-            "The launch choice uses the stated task and the comparison observations.",
-            "The record distinguishes observed task behavior from unmeasured outcomes.",
-            "The implementation explanation distinguishes the interface, data, and simulation limits."
+            "Full credit: Both working versions and a launch choice are linked.",
+            "Full credit: The launch choice uses the stated task and the comparison observations.",
+            "Deduction (−2): The A/B notes record finding measurements and choosing a size, but not the quantity and checkout outcome in both versions.",
+            "Full credit: The implementation explanation distinguishes the interface, data, and simulation limits."
           ],
-          "strength": "A reader can open and compare two real working presentations."
+          "strength": "A reader can open and compare two real working presentations.",
+          "deductions": [
+            "",
+            "",
+            "The A/B notes record finding measurements and choosing a size, but not the quantity and checkout outcome in both versions.",
+            ""
+          ]
         },
         "improve": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            23,
-            23
+            25
           ],
-          "next": "Keep the peer finding and the technical checks in the same short record so a reader can trace the change.",
+          "next": "Try the core task using only the keyboard and record the actual result; fix and retest any blocked control.",
           "evidence": [
-            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
-            "The change addresses the observed user problem without adding unnecessary scope.",
-            "The retest states what the reviewer did or explained after the change.",
-            "The written reflection identifies personal work, AI help, and limits."
+            "Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links.",
+            "Full credit: The change addresses the observed user problem without adding unnecessary scope.",
+            "Deduction (−2): The QA record gives no actual keyboard-operation result; saying no full accessibility audit was performed does not record that basic check.",
+            "Full credit: The written reflection identifies personal work, AI help, and limits."
           ],
-          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve.",
+          "deductions": [
+            "",
+            "",
+            "The QA record gives no actual keyboard-operation result; saying no full accessibility audit was performed does not record that basic check.",
+            ""
+          ]
         }
       }
     },
@@ -107,67 +131,91 @@
       "milestones": {
         "research": {
           "scores": [
-            22,
+            25,
             18,
             18,
             20
           ],
-          "next": "Replace “looks professional” with a specific audience need and label what is still an assumption.",
+          "next": "Replace the look preference with the main shopper task and explain which feature supports it.",
           "evidence": [
-            "Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief.",
-            "The choice leans on a broad impression or preference rather than a specific task.",
-            "Sources are named and assumptions disclosed, but the source-to-need connection is weak.",
-            "The explanation identifies a direction but leaves the priority among user needs unclear."
+            "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
+            "Deduction (−7): The audience choice relies on liking a restrained look rather than deciding which shopping need matters most.",
+            "Deduction (−7): The persona needs are not traced to particular observations in the three-source table.",
+            "Deduction (−5): The explanation does not decide whether fit, material, or price is the primary user need."
           ],
-          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
+          "deductions": [
+            "",
+            "The audience choice relies on liking a restrained look rather than deciding which shopping need matters most.",
+            "The persona needs are not traced to particular observations in the three-source table.",
+            "The explanation does not decide whether fit, material, or price is the primary user need."
+          ]
         },
         "plan": {
           "scores": [
-            22,
+            25,
             19,
             18,
             20
           ],
           "next": "Turn “easy to find” into a check: find fit, material, and price before choosing a size.",
           "evidence": [
-            "Two specifications, three stories, priorities, data/states, and limits are present.",
-            "The two approaches differ, but the reason for favoring one is general.",
-            "The first acceptance check uses clear/easy language without an observable result.",
-            "The written explanation needs a clearer link between the user need, feature, and check."
+            "Full credit: Two plans, three stories, feature priorities, data/states, and limits are present.",
+            "Deduction (−6): The reason for choosing the facts-first layout is that it looks cleaner, rather than how it serves the chosen shopper.",
+            "Deduction (−7): The first check asks for an easy/clear experience without an observable task result.",
+            "Deduction (−5): The explanation does not connect the chosen layout to a specific shopper task and check."
           ],
-          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+          "strength": "The plan has a manageable core task and avoids a large feature backlog.",
+          "deductions": [
+            "",
+            "The reason for choosing the facts-first layout is that it looks cleaner, rather than how it serves the chosen shopper.",
+            "The first check asks for an easy/clear experience without an observable task result.",
+            "The explanation does not connect the chosen layout to a specific shopper task and check."
+          ]
         },
         "build": {
           "scores": [
-            23,
+            25,
             20,
             20,
             21
           ],
           "next": "Have the peer attempt the same product-information task on A and B, rather than only choosing a favorite.",
           "evidence": [
-            "Both linked versions work and share a complete small workflow.",
-            "The choice is plausible, but the notes include preference or inconsistent task evidence.",
-            "The product has technical checks, but the student comparison record does not fully show both attempts.",
-            "The explanation names what the interface does but leaves part of the data or verification story unclear."
+            "Full credit: Both working versions and a launch choice are linked.",
+            "Deduction (−5): The launch choice is based on comments and preference rather than the same complete task in both versions.",
+            "Deduction (−5): Neither comparison note records the full size, quantity, and checkout task.",
+            "Deduction (−4): The implementation explanation does not distinguish browser storage from the SQLite server."
           ],
-          "strength": "A reader can open and compare two real working presentations."
+          "strength": "A reader can open and compare two real working presentations.",
+          "deductions": [
+            "",
+            "The launch choice is based on comments and preference rather than the same complete task in both versions.",
+            "Neither comparison note records the full size, quantity, and checkout task.",
+            "The implementation explanation does not distinguish browser storage from the SQLite server."
+          ]
         },
         "improve": {
           "scores": [
-            22,
-            19,
+            25,
+            25,
             18,
             20
           ],
           "next": "Repeat the complete shopping task after the change and record size, quantity, total, and outcome.",
           "evidence": [
-            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
-            "The change addresses the comment, but the evidence supports a narrower conclusion than the original task.",
-            "The retest records a limited response; it does not fully demonstrate the intended task or explanation.",
-            "The reflection is honest, but its explanation of a check or cross-review needs more detail."
+            "Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links.",
+            "Full credit: The change directly addresses the peer’s stated problem without expanding the product scope.",
+            "Deduction (−7): The retest stops at finding Product facts; it does not record the requested full shopping task after the change.",
+            "Deduction (−5): The AI-use record names a valid order but does not explain an invalid input and the behavior it is meant to prevent."
           ],
-          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve.",
+          "deductions": [
+            "",
+            "",
+            "The retest stops at finding Product facts; it does not record the requested full shopping task after the change.",
+            "The AI-use record names a valid order but does not explain an invalid input and the behavior it is meant to prevent."
+          ]
         }
       }
     },
@@ -189,67 +237,91 @@
       "milestones": {
         "research": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            22,
-            23
+            25
           ],
-          "next": "Explain why the IKEA reference is a partner channel and add an independent local competitor when extending the research.",
+          "next": "Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.",
           "evidence": [
-            "Three linked references, two positions, and two persona cards are submitted. The selected audience is explicit.",
-            "The choice links a manageable user task to the proposed scope.",
-            "Observations are dated and distinguished from assumptions; no demand claim is made.",
-            "The written audience choice explains both the choice and the excluded alternative."
+            "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
+            "Full credit: The choice links a manageable user task to the proposed scope.",
+            "Deduction (−2): The persona evidence row refers to reference pages generally; it does not trace the renter and operator needs to the listed observations.",
+            "Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples."
           ],
-          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
+          "deductions": [
+            "",
+            "",
+            "The persona evidence row refers to reference pages generally; it does not trace the renter and operator needs to the listed observations.",
+            ""
+          ]
         },
         "plan": {
           "scores": [
-            24,
-            24,
-            23,
-            24
+            25,
+            25,
+            25,
+            25
           ],
-          "next": "Specify what the visitor should see if saving a request fails.",
+          "next": "Reuse these checks while building and update the plan if a decision changes. No extra feature is needed for full credit.",
           "evidence": [
-            "Two specifications, three stories, priorities, data/states, and limits are present.",
-            "The two approaches change hierarchy while holding the offer and task steady.",
-            "Acceptance checks describe observable behavior for the core task.",
-            "The plan explains why this scope fits the chosen audience."
+            "Full credit: Two plans, three stories, feature priorities, data/states, and limits are present; the team work plan is included.",
+            "Full credit: The two approaches change hierarchy while holding the offer and task steady.",
+            "Full credit: Acceptance checks describe observable behavior for the core task.",
+            "Full credit: The plan explains why this scope fits the chosen audience."
           ],
-          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+          "strength": "The plan has a manageable core task and avoids a large feature backlog.",
+          "deductions": [
+            "",
+            "",
+            "",
+            ""
+          ]
         },
         "build": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            23,
-            23
+            25
           ],
-          "next": "Keep the comparison observations tied to the same visitor task.",
+          "next": "Record a complete desk request and the visitor’s explanation of pending status in both versions.",
           "evidence": [
-            "Both linked versions work and share a complete small workflow.",
-            "The launch choice uses the stated task and the comparison observations.",
-            "The record distinguishes observed task behavior from unmeasured outcomes.",
-            "The implementation explanation distinguishes the interface, data, and simulation limits."
+            "Full credit: Both working versions and a launch choice are linked.",
+            "Full credit: The launch choice uses the stated task and the comparison observations.",
+            "Deduction (−2): The A/B notes explain scope and booking language, but do not record a complete desk-request attempt in each version.",
+            "Full credit: The implementation explanation distinguishes the interface, data, and simulation limits."
           ],
-          "strength": "A reader can open and compare two real working presentations."
+          "strength": "A reader can open and compare two real working presentations.",
+          "deductions": [
+            "",
+            "",
+            "The A/B notes explain scope and booking language, but do not record a complete desk-request attempt in each version.",
+            ""
+          ]
         },
         "improve": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            24,
-            23
+            25
           ],
-          "next": "Link each contribution statement to the relevant source section and review result.",
+          "next": "Try the core task using only the keyboard and record the actual result; fix and retest any blocked control.",
           "evidence": [
-            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
-            "The change addresses the observed user problem without adding unnecessary scope.",
-            "The retest states what the reviewer did or explained after the change.",
-            "The written reflection identifies personal work, AI help, and limits."
+            "Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links.",
+            "Full credit: The change addresses the observed user problem without adding unnecessary scope.",
+            "Deduction (−2): The QA record gives no actual keyboard-operation result; saying no full accessibility audit was performed does not record that basic check.",
+            "Full credit: The written reflection identifies personal work, AI help, and limits."
           ],
-          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve.",
+          "deductions": [
+            "",
+            "",
+            "The QA record gives no actual keyboard-operation result; saying no full accessibility audit was performed does not record that basic check.",
+            ""
+          ]
         }
       }
     },
@@ -271,67 +343,91 @@
       "milestones": {
         "research": {
           "scores": [
-            22,
+            25,
             20,
             18,
             21
           ],
-          "next": "Add a tutoring-service reference and explain how it changes the audience or offer.",
+          "next": "Explain which scheduling observation supports the learner’s task and which tutoring claims remain assumptions.",
           "evidence": [
-            "Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief.",
-            "The choice leans on a broad impression or preference rather than a specific task.",
-            "Sources are named and assumptions disclosed, but the source-to-need connection is weak.",
-            "The explanation identifies a direction but leaves the priority among user needs unclear."
+            "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
+            "Deduction (−5): The reasoning moves from scheduling-tool features to a tutoring offer without explaining how those findings support the learner’s main need.",
+            "Deduction (−7): The persona needs are not traced to particular observations in the source table.",
+            "Deduction (−4): The reflection identifies a research limit but does not connect a specific finding to the chosen learner’s request task."
           ],
-          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
+          "deductions": [
+            "",
+            "The reasoning moves from scheduling-tool features to a tutoring offer without explaining how those findings support the learner’s main need.",
+            "The persona needs are not traced to particular observations in the source table.",
+            "The reflection identifies a research limit but does not connect a specific finding to the chosen learner’s request task."
+          ]
         },
         "plan": {
           "scores": [
-            23,
+            25,
             20,
             20,
             21
           ],
           "next": "Break the shared integration and QA tasks into owned, comparable pieces.",
           "evidence": [
-            "Two specifications, three stories, priorities, data/states, and limits are present. Integration ownership is still vague.",
-            "The two approaches differ, but the reason for favoring one is general.",
-            "The first acceptance check uses clear/easy language without an observable result.",
-            "The written explanation needs a clearer link between the user need, feature, and check."
+            "Full credit: Two plans, three stories, feature priorities, data/states, and limits are present; the team work plan is included.",
+            "Deduction (−5): The explanation does not give a clear user-task reason for favoring one information order.",
+            "Deduction (−5): The first acceptance check uses clear/easy wording rather than a result another person can observe.",
+            "Deduction (−4): The integration and QA work is described as shared without explaining who will join and review the parts."
           ],
-          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+          "strength": "The plan has a manageable core task and avoids a large feature backlog.",
+          "deductions": [
+            "",
+            "The explanation does not give a clear user-task reason for favoring one information order.",
+            "The first acceptance check uses clear/easy wording rather than a result another person can observe.",
+            "The integration and QA work is described as shared without explaining who will join and review the parts."
+          ]
         },
         "build": {
           "scores": [
-            24,
+            25,
             21,
             20,
             21
           ],
           "next": "Record the same topic-and-window task in each version before choosing the launch version.",
           "evidence": [
-            "Both linked versions work and share a complete small workflow.",
-            "The choice is plausible, but the notes include preference or inconsistent task evidence.",
-            "The product has technical checks, but the student comparison record does not fully show both attempts.",
-            "The explanation names what the interface does but leaves part of the data or verification story unclear."
+            "Full credit: Both working versions and a launch choice are linked.",
+            "Deduction (−4): The notes compare topic discovery in A with window selection in B, rather than comparing the same whole task.",
+            "Deduction (−5): The record does not show a complete CSS-topic and preferred-window request in both versions.",
+            "Deduction (−4): The implementation explanation names request fields but does not clearly explain how the saved request is read back in history."
           ],
-          "strength": "A reader can open and compare two real working presentations."
+          "strength": "A reader can open and compare two real working presentations.",
+          "deductions": [
+            "",
+            "The notes compare topic discovery in A with window selection in B, rather than comparing the same whole task.",
+            "The record does not show a complete CSS-topic and preferred-window request in both versions.",
+            "The implementation explanation names request fields but does not clearly explain how the saved request is read back in history."
+          ]
         },
         "improve": {
           "scores": [
-            23,
-            20,
+            25,
+            25,
             19,
             21
           ],
           "next": "Retest both the successful request and a missing-topic case, with the actual outcome written down.",
           "evidence": [
-            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
-            "The change addresses the comment, but the evidence supports a narrower conclusion than the original task.",
-            "The retest records a limited response; it does not fully demonstrate the intended task or explanation.",
-            "The reflection is honest, but its explanation of a check or cross-review needs more detail."
+            "Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links.",
+            "Full credit: The change directly addresses the peer’s stated problem without expanding the product scope.",
+            "Deduction (−6): The retest records a pending-status explanation but no missing-topic attempt after the change.",
+            "Deduction (−4): The contribution and AI-use notes do not name a specific cross-review finding from each member."
           ],
-          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve.",
+          "deductions": [
+            "",
+            "",
+            "The retest records a pending-status explanation but no missing-topic attempt after the change.",
+            "The contribution and AI-use notes do not name a specific cross-review finding from each member."
+          ]
         }
       }
     },
@@ -353,67 +449,91 @@
       "milestones": {
         "research": {
           "scores": [
-            24,
+            25,
+            25,
             23,
-            22,
-            23
+            25
           ],
-          "next": "Connect each reference-site observation to one specific portfolio choice.",
+          "next": "Name the source/observation that supports each persona need; keep untested needs labeled as assumptions.",
           "evidence": [
-            "Three linked references, two positions, and two persona cards are submitted. The selected audience is explicit.",
-            "The choice links a manageable user task to the proposed scope.",
-            "Observations are dated and distinguished from assumptions; no demand claim is made.",
-            "The written audience choice explains both the choice and the excluded alternative."
+            "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
+            "Full credit: The choice links a manageable user task to the proposed scope.",
+            "Deduction (−2): The persona evidence row refers to reference pages generally; it does not connect a particular reference observation to the recruiter task.",
+            "Full credit: The explanation ties the chosen audience to a task and states the limits of the project or reference examples."
           ],
-          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
+          "deductions": [
+            "",
+            "",
+            "The persona evidence row refers to reference pages generally; it does not connect a particular reference observation to the recruiter task.",
+            ""
+          ]
         },
         "plan": {
-          "scores": [
-            24,
-            23,
-            23,
-            23
-          ],
-          "next": "Define exactly what contribution detail a reader should be able to identify.",
-          "evidence": [
-            "Two specifications, three stories, priorities, data/states, and limits are present.",
-            "The two approaches change hierarchy while holding the offer and task steady.",
-            "Acceptance checks describe observable behavior for the core task.",
-            "The plan explains why this scope fits the chosen audience."
-          ],
-          "strength": "The plan has a manageable core task and avoids a large feature backlog."
-        },
-        "build": {
-          "scores": [
-            24,
-            23,
-            23,
-            23
-          ],
-          "next": "Keep a short note of the task outcome for each version.",
-          "evidence": [
-            "Both linked versions work and share a complete small workflow.",
-            "The launch choice uses the stated task and the comparison observations.",
-            "The record distinguishes observed task behavior from unmeasured outcomes.",
-            "The implementation explanation distinguishes the interface, data, and simulation limits."
-          ],
-          "strength": "A reader can open and compare two real working presentations."
-        },
-        "improve": {
           "scores": [
             25,
             25,
             25,
             25
           ],
-          "next": "Check the exported résumé and actual account links when adapting this fictional example to a real student.",
+          "next": "Reuse these checks while building and update the plan if a decision changes. No extra feature is needed for full credit.",
           "evidence": [
-            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
-            "The change addresses the observed user problem without adding unnecessary scope.",
-            "The retest states what the reviewer did or explained after the change.",
-            "The written reflection identifies personal work, AI help, and limits."
+            "Full credit: Two plans, three stories, feature priorities, data/states, and limits are present.",
+            "Full credit: The two approaches change hierarchy while holding the offer and task steady.",
+            "Full credit: Acceptance checks describe observable behavior for the core task.",
+            "Full credit: The plan explains why this scope fits the chosen audience."
           ],
-          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+          "strength": "The plan has a manageable core task and avoids a large feature backlog.",
+          "deductions": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "build": {
+          "scores": [
+            25,
+            25,
+            23,
+            25
+          ],
+          "next": "Record whether the reviewer found the project, contribution, and résumé in each version.",
+          "evidence": [
+            "Full credit: Both working versions and a launch choice are linked.",
+            "Full credit: The launch choice uses the stated task and the comparison observations.",
+            "Deduction (−2): The A/B notes describe finding projects, but do not record all three task outcomes, including finding the résumé, in both versions.",
+            "Full credit: The implementation explanation distinguishes the interface, data, and simulation limits."
+          ],
+          "strength": "A reader can open and compare two real working presentations.",
+          "deductions": [
+            "",
+            "",
+            "The A/B notes describe finding projects, but do not record all three task outcomes, including finding the résumé, in both versions.",
+            ""
+          ]
+        },
+        "improve": {
+          "scores": [
+            25,
+            25,
+            23,
+            25
+          ],
+          "next": "Try the core task using only the keyboard and record the actual result; fix and retest any blocked control.",
+          "evidence": [
+            "Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links.",
+            "Full credit: The change addresses the observed user problem without adding unnecessary scope.",
+            "Deduction (−2): The QA record gives no actual keyboard-operation result; saying no full accessibility audit was performed does not record that basic check.",
+            "Full credit: The written reflection identifies personal work, AI help, and limits."
+          ],
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve.",
+          "deductions": [
+            "",
+            "",
+            "The QA record gives no actual keyboard-operation result; saying no full accessibility audit was performed does not record that basic check.",
+            ""
+          ]
         }
       }
     },
@@ -435,67 +555,91 @@
       "milestones": {
         "research": {
           "scores": [
-            22,
+            25,
             19,
             18,
             20
           ],
-          "next": "Choose one primary reviewer and name the task they need to complete.",
+          "next": "Choose one primary reader and name the task they need to complete.",
           "evidence": [
-            "Three linked references, two positions, and two persona cards are submitted. The comparison notes remain brief.",
-            "The choice leans on a broad impression or preference rather than a specific task.",
-            "Sources are named and assumptions disclosed, but the source-to-need connection is weak.",
-            "The explanation identifies a direction but leaves the priority among user needs unclear."
+            "Full credit: Three linked references, two positions, two persona cards, and an audience choice are present.",
+            "Deduction (−6): The audience choice names both a team lead and a recruiter without deciding which reader task should come first.",
+            "Deduction (−7): The persona needs are not traced to particular observations in the reference table.",
+            "Deduction (−5): The explanation says managers value reasoning but does not name the evidence-finding task to prioritize."
           ],
-          "strength": "The submission names a plausible audience and keeps claims tied to a small project."
+          "strength": "The submission names a plausible audience and keeps claims tied to a small project.",
+          "deductions": [
+            "",
+            "The audience choice names both a team lead and a recruiter without deciding which reader task should come first.",
+            "The persona needs are not traced to particular observations in the reference table.",
+            "The explanation says managers value reasoning but does not name the evidence-finding task to prioritize."
+          ]
         },
         "plan": {
           "scores": [
-            23,
+            25,
             20,
             19,
             21
           ],
           "next": "Replace “clear case study” with an observable result: name my feature, one decision, and one check.",
           "evidence": [
-            "Two specifications, three stories, priorities, data/states, and limits are present.",
-            "The two approaches differ, but the reason for favoring one is general.",
-            "The first acceptance check uses clear/easy language without an observable result.",
-            "The written explanation needs a clearer link between the user need, feature, and check."
+            "Full credit: Two plans, three stories, feature priorities, data/states, and limits are present.",
+            "Deduction (−5): The two layouts are named, but the choice is not tied to what the main reader must find.",
+            "Deduction (−6): The first check says the case studies should be clear without naming what a visitor must be able to explain.",
+            "Deduction (−4): The plan does not specify the feature, decision, and check the reader should be able to identify."
           ],
-          "strength": "The plan has a manageable core task and avoids a large feature backlog."
+          "strength": "The plan has a manageable core task and avoids a large feature backlog.",
+          "deductions": [
+            "",
+            "The two layouts are named, but the choice is not tied to what the main reader must find.",
+            "The first check says the case studies should be clear without naming what a visitor must be able to explain.",
+            "The plan does not specify the feature, decision, and check the reader should be able to identify."
+          ]
         },
         "build": {
           "scores": [
-            23,
+            25,
             20,
             20,
             21
           ],
           "next": "Use the same evidence-finding task in A and B, then record the outcome.",
           "evidence": [
-            "Both linked versions work and share a complete small workflow.",
-            "The choice is plausible, but the notes include preference or inconsistent task evidence.",
-            "The product has technical checks, but the student comparison record does not fully show both attempts.",
-            "The explanation names what the interface does but leaves part of the data or verification story unclear."
+            "Full credit: Both working versions and a launch choice are linked.",
+            "Deduction (−5): The launch choice relies on different favorable comments rather than the same evidence-finding task in both versions.",
+            "Deduction (−5): Neither version has a recorded outcome for the full decision, contribution, and profile-finding task.",
+            "Deduction (−4): The explanation says required fields were checked without naming an invalid input and its expected behavior."
           ],
-          "strength": "A reader can open and compare two real working presentations."
+          "strength": "A reader can open and compare two real working presentations.",
+          "deductions": [
+            "",
+            "The launch choice relies on different favorable comments rather than the same evidence-finding task in both versions.",
+            "Neither version has a recorded outcome for the full decision, contribution, and profile-finding task.",
+            "The explanation says required fields were checked without naming an invalid input and its expected behavior."
+          ]
         },
         "improve": {
           "scores": [
-            23,
-            20,
+            25,
+            25,
             19,
             21
           ],
           "next": "Add a concrete input, expected result, and observed result to the AI-use explanation and repeat the peer explanation task.",
           "evidence": [
-            "A completed peer scenario, specific change, retest result, AI record, and handoff are present.",
-            "The change addresses the comment, but the evidence supports a narrower conclusion than the original task.",
-            "The retest records a limited response; it does not fully demonstrate the intended task or explanation.",
-            "The reflection is honest, but its explanation of a check or cross-review needs more detail."
+            "Full credit: The record includes peer feedback, a change, retest, QA/AI notes, and final links.",
+            "Full credit: The change directly addresses the peer’s stated problem without expanding the product scope.",
+            "Deduction (−6): The peer located a required-field statement but was not asked to explain the input, expected result, and reason for the check.",
+            "Deduction (−4): The AI-use record says checked the form without stating a concrete input and observed result."
           ],
-          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve."
+          "strength": "The submission records a specific feedback-driven change rather than a general promise to improve.",
+          "deductions": [
+            "",
+            "",
+            "The peer located a required-field statement but was not asked to explain the input, expected result, and reason for the check.",
+            "The AI-use record says checked the form without stating a concrete input and observed result."
+          ]
         }
       }
     }

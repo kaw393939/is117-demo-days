@@ -1,8 +1,8 @@
 # Your assignment: four steps
 
-Build a **T-shirt store**, a **group business site**, and your **personal portfolio**. Practice a professional process using AI to solve a realistic business problem. You do not need to be an expert.
+Build a **[T-shirt store](/projects/white-tshirt)**, a **[group business site](/projects/group-project)**, and your **[personal portfolio](/projects/portfolio)**. Practice a professional process using AI to solve a realistic business problem. You do not need to be an expert.
 
-Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional help. [See the visual roadmap](/course/overview#follow-four-steps).
+Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional reading; the résumé and actual GitHub/LinkedIn links are still required in your portfolio. [See the visual roadmap](/course/overview#follow-four-steps).
 
 ## What to submit at each step
 

@@ -4,7 +4,7 @@ Fictional completed student work by Jordan Rivera. Peer conversations are teachi
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Casey Lane, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Casey Lane, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |

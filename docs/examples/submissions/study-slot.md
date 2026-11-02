@@ -55,7 +55,7 @@ We chose beginning web-development students because they can use a small set of 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 81/100</summary>
+<summary>See the rubric score and feedback: 84/100</summary>
 
 <SampleAssessment slug="study-slot" stage="research" />
 
@@ -116,7 +116,7 @@ We planned equal totals, but described integration only as “finish together.�
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 84/100</summary>
+<summary>See the rubric score and feedback: 86/100</summary>
 
 <SampleAssessment slug="study-slot" stage="plan" />
 
@@ -155,7 +155,7 @@ The request sends a topic and preferred window to storage. The returned status m
 <VersionComparison slug="study-slot" />
 
 <details>
-<summary>See the rubric score and feedback: 86/100</summary>
+<summary>See the rubric score and feedback: 87/100</summary>
 
 <SampleAssessment slug="study-slot" stage="build" />
 
@@ -168,7 +168,7 @@ The request sends a topic and preferred window to storage. The returned status m
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Jamie Ross, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Jamie Ross, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |
@@ -215,7 +215,7 @@ The written record models the student's explanation. It does not establish that 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 83/100</summary>
+<summary>See the rubric score and feedback: 90/100</summary>
 
 <SampleAssessment slug="study-slot" stage="improve" />
 

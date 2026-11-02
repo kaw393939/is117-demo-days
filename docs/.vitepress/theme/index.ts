@@ -26,6 +26,14 @@ export default {
   enhanceApp({ app, router }) {
     if (typeof window !== 'undefined') {
       window.addEventListener('hashchange', revealHashTarget)
+      // Re-selecting the current hash emits no hashchange event. Reveal it on click too.
+      document.addEventListener('click', (event: MouseEvent) => {
+        if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return
+        const link = event.target instanceof Element ? event.target.closest('a[href]') : null
+        if (!link) return
+        const url = new URL(link.getAttribute('href')!, location.href)
+        if (url.origin === location.origin && url.pathname === location.pathname && url.hash === location.hash) revealHashTarget()
+      }, true)
       router.onAfterRouteChange = async () => {
         await nextTick()
         revealHashTarget()

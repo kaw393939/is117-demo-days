@@ -53,7 +53,7 @@ I chose a team lead because I think managers want to see reasoning. I also want 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 79/100</summary>
+<summary>See the rubric score and feedback: 82/100</summary>
 
 <SampleAssessment slug="jordan-rivera" stage="research" />
 
@@ -105,7 +105,7 @@ I planned an evidence-first and an introduction-first version. Both show my proj
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 83/100</summary>
+<summary>See the rubric score and feedback: 85/100</summary>
 
 <SampleAssessment slug="jordan-rivera" stage="plan" />
 
@@ -144,7 +144,7 @@ I explain that AI helped draft code and that I checked required fields. My first
 <VersionComparison slug="jordan-rivera" />
 
 <details>
-<summary>See the rubric score and feedback: 84/100</summary>
+<summary>See the rubric score and feedback: 86/100</summary>
 
 <SampleAssessment slug="jordan-rivera" stage="build" />
 
@@ -157,7 +157,7 @@ I explain that AI helped draft code and that I checked required fields. My first
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Alex Reed, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Alex Reed, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |
@@ -196,7 +196,7 @@ The written record models the student's explanation. It does not establish that 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 83/100</summary>
+<summary>See the rubric score and feedback: 90/100</summary>
 
 <SampleAssessment slug="jordan-rivera" stage="improve" />
 

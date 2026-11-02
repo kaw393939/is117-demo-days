@@ -30,7 +30,7 @@ const name=slug=>({'campus-cotton':'Campus Cotton','studio-white':'Studio White'
   <div class="assessment-heading"><span class="assessment-label">Illustrative instructor assessment</span><strong>{{total(milestone)}}/100</strong></div>
   <table tabindex="0"><thead><tr><th>Rubric criterion</th><th>Points</th><th>Evidence and reason</th></tr></thead><tbody><tr v-for="(criterion,index) in grading.criteria" :key="criterion"><th>{{criterion}}</th><td>{{milestone.scores[index]}}/25</td><td>{{milestone.evidence[index]}}</td></tr></tbody></table>
   <p><strong>What worked:</strong> {{milestone.strength}}</p>
-  <p><strong>Next revision:</strong> {{milestone.next}}</p>
+  <p><strong>{{total(milestone)===100 ? 'Optional next step:' : 'Next revision:'}}</strong> {{milestone.next}}</p>
   <p class="assessment-note">Feedback concerns this introductory submission. A real class review also checks the student's own explanation; written work alone does not prove that understanding.</p>
  </section>
 </template>

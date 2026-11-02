@@ -53,7 +53,7 @@ I chose a workday shopper because I like the restrained look of the references a
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 78/100</summary>
+<summary>See the rubric score and feedback: 81/100</summary>
 
 <SampleAssessment slug="studio-white" stage="research" />
 
@@ -105,7 +105,7 @@ I made an editorial page and a facts-first page. Both have the same shopping con
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 79/100</summary>
+<summary>See the rubric score and feedback: 82/100</summary>
 
 <SampleAssessment slug="studio-white" stage="plan" />
 
@@ -144,7 +144,7 @@ The page reads the concept price from the project data. Quantity changes update 
 <VersionComparison slug="studio-white" />
 
 <details>
-<summary>See the rubric score and feedback: 84/100</summary>
+<summary>See the rubric score and feedback: 86/100</summary>
 
 <SampleAssessment slug="studio-white" stage="build" />
 
@@ -157,7 +157,7 @@ The page reads the concept price from the project data. Quantity changes update 
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Casey Lane, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Casey Lane, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |
@@ -196,7 +196,7 @@ The written record models the student's explanation. It does not establish that 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 79/100</summary>
+<summary>See the rubric score and feedback: 88/100</summary>
 
 <SampleAssessment slug="studio-white" stage="improve" />
 

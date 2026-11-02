@@ -17,6 +17,14 @@ For each milestone, the instructor model uses the [published rubric](/course/mil
 
 The assessment next to each submission names evidence, explains the score, and gives a specific next revision. **A small project can earn full credit.** More features or more pages do not automatically earn more points.
 
+## Why points are lost
+
+Every row below 25 names the gap and the points deducted. A complete submission can earn 25 for **Complete** while losing points for an unsupported choice or an incomplete check. A more ambitious project does not earn extra credit just for being larger.
+
+For example, recording that a peer found the size guide does not show whether they completed the whole checkout task. That gap belongs under **Checked**. A full-credit milestone may still include an **optional next step**; it is not a hidden requirement.
+
+These fictional scores were recalibrated to match the submitted evidence. The four criteria and their equal shares stay the same.
+
 ## Stronger versus developing
 
 A stronger comparison says what the visitor attempted in both versions and uses that observation to explain the choice. A developing comparison may say only “my classmate liked B.” Both can have working websites; the evidence and reasoning differ.

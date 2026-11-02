@@ -53,7 +53,7 @@ I chose an internship recruiter as my primary reader because the first task is t
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 92/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="maya-chen" stage="research" />
 
@@ -105,7 +105,7 @@ Both plans contain the same two course projects and professional information. A 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 93/100</summary>
+<summary>See the rubric score and feedback: 100/100</summary>
 
 <SampleAssessment slug="maya-chen" stage="plan" />
 
@@ -144,7 +144,7 @@ The portfolio is a static site. Each case study links to a working product and e
 <VersionComparison slug="maya-chen" />
 
 <details>
-<summary>See the rubric score and feedback: 93/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="maya-chen" stage="build" />
 
@@ -157,7 +157,7 @@ The portfolio is a static site. Each case study links to a working product and e
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Drew Kim, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Drew Kim, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |
@@ -196,7 +196,7 @@ The written record models the student's explanation. It does not establish that 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 100/100</summary>
+<summary>See the rubric score and feedback: 98/100</summary>
 
 <SampleAssessment slug="maya-chen" stage="improve" />
 

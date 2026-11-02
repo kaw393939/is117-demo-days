@@ -4,7 +4,7 @@ Fictional completed student work by Maya Chen and Avery Ellis. Peer conversation
 
 ### Completed peer-feedback record — fictional scenario
 
-**Reviewer:** Morgan Lee, a fictional classmate. **Session:** example review session, followed by a retest. These are scenario events, not actual interviews.
+**Reviewer:** Morgan Lee, a fictional classmate. **Session:** November 30, 2026; retest in the same fictional session. These are scenario events, not actual interviews.
 
 | Task | Before the change | Change made | Retest result |
 | --- | --- | --- | --- |

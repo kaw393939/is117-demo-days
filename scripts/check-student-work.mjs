@@ -11,8 +11,16 @@ for(const c of data.cases){
  const assessment=readFileSync('docs/public/student-work/'+c.slug+'/ASSESSMENT.md','utf8');
  let total=0;
  for(const [key,file] of Object.entries(files)){
-  const m=c.milestones[key];assert.equal(m.scores.length,4);assert.equal(m.evidence.length,4);
-  for(const n of m.scores)assert.ok(Number.isInteger(n)&&n>=0&&n<=25);
+  const m=c.milestones[key];assert.equal(m.scores.length,4);assert.equal(m.evidence.length,4);assert.equal(m.deductions.length,4);
+  for(const [i,n] of m.scores.entries()){
+   assert.ok(Number.isInteger(n)&&n>=0&&n<=25);
+   if(n<25){
+    assert.ok(m.deductions[i].length>30,'Specific deduction required: '+c.slug+'/'+key);
+    assert.ok(m.evidence[i].includes('Deduction (−'+(25-n)+'): '+m.deductions[i]));
+   }else{
+    assert.equal(m.deductions[i],'');assert.ok(m.evidence[i].startsWith('Full credit:'));
+   }
+  }
   for(const t of [...m.evidence,m.next,m.strength])assert.ok(typeof t==='string'&&t.length>20);
   const score=m.scores.reduce((a,b)=>a+b,0);assert.ok(assessment.includes(': '+score+'/100'));total+=score;
   const artifact=readFileSync('docs/public/student-work/'+c.slug+'/'+file,'utf8');
