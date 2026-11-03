@@ -12,7 +12,7 @@ const diagrams = {
  ['3', 'Express', 'Promise · voice · visual direction', 'Give honest reasons to act', 'Reuse Brand Studio; compare alternatives'],
  ['4', 'Check', 'Understand the offer + do the task', 'Peer observation → change → retest', 'Explain what the evidence does and does not show'] ] },
  process: { title: 'Explore two. Choose deliberately. Keep moving.', note: 'Career exploration is portfolio Research. The group follows about a week behind the T-shirt project. Shared code keeps A/B manageable.', steps: [
- ['01', 'Research', 'Three reference sites', 'Position A ↔ Position B', 'Two persona hypotheses → choose an audience'],
+ ['01', 'Research', 'T-shirt/group: three sites · Portfolio: two roles', 'Compare positions or career directions', 'Choose a reader; label evidence and assumptions'],
  ['02', 'Plan', 'One customer need', 'Approach A ↔ Approach B', 'Stories + features + checks'],
  ['03', 'Build', 'One core workflow', 'Version A ↔ Version B', 'Compare the same realistic task'],
  ['04', 'Improve', 'One selected launch version', 'Peer observation → meaningful change', 'Retest, explain, publish'] ] },
