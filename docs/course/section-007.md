@@ -4,7 +4,7 @@
 
 **Every cycle:** introduction → next class: work, peer feedback, and GitHub issues → submit and use the result for the next step. The same projects grow over time.
 
-[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. New Canvas project entries remain unpublished while setup is verified.
+[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve project checkpoints and five project modules are published in Canvas. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
 
 ## Before next class
 

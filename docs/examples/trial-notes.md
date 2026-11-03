@@ -21,7 +21,7 @@ The table records current status. Earlier observations describe what failed befo
 
 | ID | Remaining limit | Next action |
 | --- | --- | --- |
-| C1 · Canvas check pending | Student View can reach the published guide, but the new submission boxes/modules remain unpublished. Actual submission and group-assignment behavior were not tested. | Preserve the drafts for instructor review. After the instructor publishes the intended items and forms real teams, verify student access, the submission path and group membership. Do not mark this complete from an instructor preview. |
+| C1 · Published; student access verified | All twelve Section 007 checkpoints and five project modules are published. Student View reached all four reference pages, showed all twelve checkpoint links, and opened career Research with Start Assignment, text entry, 100 points, the Nov 12 8:30 a.m. deadline, and private two-card/reflection instructions. No actual submission or grade was tested. | Confirm real team membership after teams form November 5, then verify the intended group behavior. Real students still need to complete and submit their own work. Section 005’s manual alignment is separate and still in progress. |
 | C7 · Real participants required | Roleplayed customer/partner feedback cannot establish teamwork or a human peer review. Fictional profile drafts are not owned professional accounts. | Real students need contribution evidence, an actual peer's issue → response → change → retest, and working GitHub/LinkedIn links. The [portfolio checklist](/projects/portfolio) and [GitHub](/career/github), [LinkedIn](/career/linkedin) and [résumé](/career/resume) guides show the expected result. |
 | C8 · Expected simulation limit | Nina has no real demo signup. | Keep the 10-minute pair outline as a rehearsal. Do not occupy a real student's slot for a fictional person. Actual students must sign up. |
 
@@ -53,12 +53,12 @@ A novice with the starter and AI might budget about 2–3 focused hours for each
 2. Find the current project's requirements, one relevant example and the portfolio's LinkedIn, GitHub repositories and résumé checklist.
 3. Explain what the public preview proves and what must be shown with local SQLite.
 4. Try one real peer task using the review routine: observe, give specific feedback, record an issue, make a change and retry.
-5. **Only after instructor publication:** check the real Canvas submission path and the intended team behavior. Do not submit or publish on a volunteer's behalf during an instruction-only pilot.
+5. **Section 007 access was checked in Student View:** ask volunteers to find the right Canvas submission box without coaching. Once real teams are formed, verify the intended group behavior. Do not submit on a volunteer's behalf during an instruction-only pilot. Section 005 must complete its separate Canvas alignment first.
 
 Record each task's elapsed time, first wrong turn, question asked and whether the student could finish without help. Ask students what they thought they had to submit and which reading felt optional. Fix repeated confusion before adding more material. No volunteers are available in this assistant rehearsal, so these checks remain pending.
 
 ## Ready for instructor review
-Three final prototypes + A/B + 12 stage records/sections + résumé/profile drafts + private career example + test evidence + source. Not ready to claim genuine student completion: draft submissions hidden, actual teammates/peers and accounts absent, application/networking not performed, no verified attendance or verbal explanation.
+Three final prototypes + A/B + 12 stage records/sections + résumé/profile drafts + private career example + test evidence + source. Not ready to claim genuine student completion: actual Canvas submission and grade behavior untested, actual teammates/peers and accounts absent, application/networking not performed, no verified attendance or verbal explanation. Section 007 publication and Student View access checks are complete. Actual submission/grade behavior and the volunteer pilot remain untested.
 
 
 [Back to the three products](/examples/student-trial).

@@ -43,7 +43,7 @@ For **section 007**, T-shirt Research is due November 10. Career exploration is 
 
 Submit each project in its own Canvas box: record link, current site/repository links, [feedback issue links](/process/github-feedback), and a short update. **For portfolio Research, paste the two role cards and reflection directly into the private Canvas text box instead.** The group submits once and names contributions. Each project has four checkpoints; the career reflection adds no extra research report.
 
-**Canvas setup is being aligned one section at a time.** Section 007 has separate unpublished project placeholders. Section 005’s earlier combined individual-review drafts have not yet been converted; follow its published Canvas directions. No new draft is an active submission box until published.
+**Section 007:** all twelve project checkpoints and five project modules are published in Canvas; teams form November 5. **Section 005:** the [updated class plan](/course/section-005) has T-shirt Research November 9, portfolio Research November 12, portfolio Plan and group Research November 16, and group Plan November 23. Group Build is December 3; group Improve is December 6 at 11:59 p.m. Manual Canvas alignment for 005 is still in progress; follow its published entries until that verification is complete.
 
 In 007, T-shirt/portfolio final review records are due December 3 at the start of class; the group Build is due then, with group Improve due December 6 at 11:59 p.m. Continue fixes and rehearsal on the same sites and records at the same URLs; all final work must be ready December 6 at 11:59 p.m. No extra individual Canvas assignment is added. Send a corrected URL through Canvas Inbox if a submitted link changes. A demo-signup issue does not submit coursework.
 

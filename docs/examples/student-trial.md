@@ -43,7 +43,7 @@ The review led to these changes:
 
 **Next: verify the experience with real students.** The [process notes](/examples/trial-notes#instructor-next-step-a-small-student-pilot) outline a pending two- or three-student pilot: find the next task, explain the requirements and storage modes, and complete one real peer review. Record time and confusion. No volunteers have completed this pilot yet.
 
-**Canvas access and submission remain unverified:** Student View reaches the published weekly guide, but the new assignments/modules remain unpublished as requested. The instructor must review publication and team membership before students can test the actual submission path. I did not publish, submit or grade them. This update adds guidance, not another assignment.
+**Canvas publication is complete for Section 007:** all twelve project checkpoints and five project modules are published, with publication verified in Chrome. Student View verified the home outline, all four reference pages, all twelve checkpoint links in Modules, and the career Research assignment with its Start Assignment button, text-entry setting, 100 points, November 12 at 8:30 a.m. deadline, and private role-card/reflection instructions. Actual submission and grade behavior remain untested, and real team membership will be confirmed after teams form November 5. No fictional student submission or grade was entered. Section 005’s manual Canvas alignment is separate and still in progress.
 
 [Read the dated issue log and simulated instructor questions](/examples/trial-notes).
 
