@@ -94,7 +94,7 @@ For each project, get a real peer walkthrough, make at least one meaningful feed
 
 ## Keep submissions small
 
-Use one evolving record per project. Each checkpoint contains **the record link, current site/repository links, relevant feedback issue links, and a short change/open-issue note**. The group submits once and names each member's contribution. Team settings/membership must be correct before publication.
+Use one evolving record per project. Each checkpoint contains **the record link, current site/repository links, relevant feedback issue links, and a short change/open-issue note**. The group submits once and names each member's contribution. The instructor confirms team membership before your first shared submission.
 
 **Portfolio Research is the exception:** paste your two role cards and reflection into its private Canvas text box. Put only suitable professional findings in your public portfolio record.
 

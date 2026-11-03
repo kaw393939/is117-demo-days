@@ -4,7 +4,7 @@
 
 **Every cycle:** introduction → next class: work, peer feedback, and GitHub issues → submit and use the result for the next step. The same projects grow over time.
 
-[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. The section’s revised Canvas project entries are being aligned to this plan. Follow the published Canvas deadlines and submission settings until that check is complete.
+[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve project checkpoints and five project modules are published in Canvas; student access has been checked in Student View. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
 
 ## Before next class
 
@@ -94,7 +94,7 @@ For each project, get a real peer walkthrough, make at least one meaningful feed
 
 ## Keep submissions small
 
-Use one evolving record per project. Each checkpoint contains **the record link, current site/repository links, relevant feedback issue links, and a short change/open-issue note**. The group submits once and names each member's contribution. Team settings/membership must be correct before publication.
+Use one evolving record per project. Each checkpoint contains **the record link, current site/repository links, relevant feedback issue links, and a short change/open-issue note**. The group submits once and names each member's contribution. The instructor confirms team membership before your first shared submission.
 
 **Portfolio Research is the exception:** paste your two role cards and reflection into its private Canvas text box. Put only suitable professional findings in your public portfolio record.
 
