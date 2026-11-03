@@ -31,7 +31,7 @@ features:
 
 Reuse your earlier design library and Brand Studio work to [find your brand’s angle](/process/find-your-angle): connect the audience, look, voice, and honest reasons to act.
 
-The portfolio starts with career exploration due November 12. Your group uses one shared record. Section 007: [follow the class-by-class plan](/course/section-007). [See how the three projects fit into the submissions](/course/milestones#how-to-submit).
+Career exploration is portfolio Research, due November 12. In 007, teams form first and group Research is due November 17. Your group uses one shared record. Section 007: [follow the class-by-class plan](/course/section-007). [See how the three projects fit into the submissions](/course/milestones#how-to-submit).
 
 **First research submission:** section 005 — **Nov 9 at 11:30 a.m.**; section 007 — **Nov 10 at 8:30 a.m.** [See the full schedule and Thanksgiving adjustment](/course/schedule).
 

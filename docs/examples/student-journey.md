@@ -1,102 +1,107 @@
 # One student journey: three connected projects
 
-**Fictional student Maya Chen and partner Avery Ellis.** These are completed teaching examples, not real student credentials, grades, attendance, or customer research. The peer comments in the original packets are fictional. The browser checks below were actually performed by an AI on November 2, 2026; they do not replace a student's real peer review.
+**Fictional student Maya Chen and partner Avery Ellis.** These are teaching examples, not real credentials, grades, attendance, or customer research. Fictional peer comments model the process; actual browser/SQLite checks are identified below.
 
-[Section 007 class plan](/course/section-007) · [How GitHub reviews work](/process/github-feedback) · [Download the complete example packets](/downloads/is117-graded-student-submissions.zip).
+[Section 007 schedule](/course/section-007) · [GitHub reviews](/process/github-feedback) · [Download example packets](/downloads/is117-graded-student-submissions.zip).
 
 ## Try the three final products
 
-| Project | Try it | Read the completed record and grading | Walkthrough issue |
-| --- | --- | --- | --- |
-| **Individual: Campus Cotton** | [A](/samples/campus-cotton/a.html) / [B](/samples/campus-cotton/b.html) | [Research → Plan → Build → Improve](/examples/submissions/campus-cotton) | [Teaching issue #1](https://github.com/kaw393939/is117-demo-days/issues/1) |
-| **Team: Room Ready** | [A](/samples/room-ready/a.html) / [B](/samples/room-ready/b.html) | [Shared record, work split, and feedback](/examples/submissions/room-ready) | [Teaching issue #2](https://github.com/kaw393939/is117-demo-days/issues/2) |
-| **Portfolio: Maya Chen** | [A](/samples/maya-chen/a.html) / [B](/samples/maya-chen/b.html) | [Audience, plans, case studies, and feedback](/examples/submissions/maya-chen) | [Teaching issue #3](https://github.com/kaw393939/is117-demo-days/issues/3) |
+| Project | Try A/B | Completed record and grading |
+| --- | --- | --- |
+| Individual: Campus Cotton | [A](/samples/campus-cotton/a.html) / [B](/samples/campus-cotton/b.html) | [Research → Plan → Build → Improve](/examples/submissions/campus-cotton) |
+| Shared business: Room Ready | [A](/samples/room-ready/a.html) / [B](/samples/room-ready/b.html) | [Shared record and contributions](/examples/submissions/room-ready) |
+| Portfolio: Maya Chen | [A](/samples/maya-chen/a.html) / [B](/samples/maya-chen/b.html) | [Plans, project stories, and review](/examples/submissions/maya-chen) |
 
-The portfolio connects the two business projects and explains Maya's contribution. The team record gives Maya and Avery comparable work and cross-review responsibilities. The [fictional customer brief](https://github.com/kaw393939/is117-demo-days/blob/main/docs/public/samples/room-ready/customer/AGENTS.md) supports practice discovery; it is a role-play, not market validation.
+The portfolio connects both business projects and explains Maya's role. The group's [fictional customer brief](https://github.com/kaw393939/is117-demo-days/blob/main/docs/public/samples/room-ready/customer/AGENTS.md) supports discovery practice; its answers are simulated.
 
-[Optional: read the class-by-class student/instructor role-play and end-of-term review](/examples/term-walkthrough). It is a worked scenario, not extra coursework.
+**Use the current schedule below.** The sample portfolio packet contains extra reference-site research; that is optional enrichment. In 007, the [career reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step) is portfolio Research. Submit it once, privately in Canvas. Carry its goals, intended reader, and evidence into the Plan.
+
+[Optional class-by-class role-play and instructor findings](/examples/term-walkthrough).
 
 ## What goes into Canvas each week
 
-These are filled examples of submission notes. Link your own evolving record and actual peer issues. The teaching issues above document this course-material walkthrough, not a substitute for student-owned stage reviews. The linked sample source is shared classroom code; real submissions link the student's or team's repository.
+These filled notes link existing work; they are not extra essays. Real submissions link your own repository and real peer issues. The shared classroom code and AI walkthrough issues are teaching examples, not student-owned review evidence.
 
 <details open>
-<summary>November 10: Research — two separate submissions</summary>
+<summary>November 10: individual T-shirt Research</summary>
 
-**T-shirt:** “Campus Cotton: [Research record](/examples/submissions/campus-cotton#_1-research). Compared Fresh Clean Tees, True Classic, and Buck Mason. Chose the single-purchase student shopper; the need remains a hypothesis. Fit measurements and a clear total are the next planning priorities. [Walkthrough feedback trail](https://github.com/kaw393939/is117-demo-days/issues/1).”
+“Campus Cotton: [Research](/examples/submissions/campus-cotton#_1-research). Compared Fresh Clean Tees, True Classic, and Buck Mason. Chose a student buying one shirt; this audience remains a hypothesis. Fit measurements and a clear total guide the Plan. Revised the unsupported price claim after feedback.”
 
-**Team:** “Room Ready: [Research record](/examples/submissions/room-ready#_1-research). Compared assembly-service references; chose a first-apartment renter who needs help describing a job. We will collect a request, without promising a confirmed booking. Maya and Avery share this record. [Walkthrough feedback trail](https://github.com/kaw393939/is117-demo-days/issues/2).”
-
-**Portfolio:** not submitted yet. It starts November 12.
+Teams have formed and begin group Research now; it is due November 17.
 
 </details>
 
 <details>
-<summary>November 12: career reflection starts the portfolio</summary>
+<summary>November 12: portfolio Research is career exploration</summary>
 
-Read [Maya's filled role cards and reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step). She compares expectations, connects actual/planned course evidence, identifies two gaps, and chooses a bounded next action. The example earns **100/100** under the reflection rubric; professional experience or career certainty is not required.
+Use [Maya's two role cards and reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step), with **100/100** illustrative rubric feedback. The cards connect role requirements to course evidence and two gaps; her next step is bounded.
 
-**Portfolio starting decision:** “Reach an internship reviewer who wants to see useful work and my personal contribution. Compare a projects-first layout with an introduction-first layout using the same truthful evidence.”
-
-</details>
-
-<details>
-<summary>November 17: Plan — three separate submissions</summary>
-
-**T-shirt:** “[Plan](/examples/submissions/campus-cotton#_2-plan): compare shop-first with product-context-first. Stories cover fit, total, and simulated confirmation. Check M × 2 = $50 and reject missing size. Defer payments and accounts.”
-
-**Team:** “[Plan and work split](/examples/submissions/room-ready#_2-plan): compare service-first and form-first. Maya owns service copy/layout and reviews the form; Avery owns controls/receipt/history and reviews scope/navigation. Both integrate and retest. Acceptance checks distinguish a request from a booking.”
-
-**Portfolio:** “[Short Research](/examples/submissions/maya-chen#_1-research) + [Plan](/examples/submissions/maya-chen#_2-plan): compare three portfolio references and two audiences. Choose an internship reviewer. Compare projects-first and introduction-first using both course projects, personal contribution, résumé, and professional profile evidence.”
-
-For each, add the actual peer issue, response, and revised record. This is one submission per project, not an additional essay.
+Portfolio starting decision: “Reach an internship reviewer who needs to find useful work and my personal contribution.” Keep the full reflection private. Use the findings to compare projects-first and introduction-first plans; no second Research report.
 
 </details>
 
 <details>
-<summary>November 24: Build — three separate submissions</summary>
+<summary>November 17: T-shirt Plan, portfolio Plan, shared group Research</summary>
 
-**T-shirt:** “[A](/samples/campus-cotton/a.html) / [B](/samples/campus-cotton/b.html), [decision and checks](/examples/submissions/campus-cotton#_3-build-and-compare). Selected A because fit and price are nearby. The same task works in both; no conversion claim.”
+**T-shirt:** “[Plan](/examples/submissions/campus-cotton#_2-plan): compare shop-first and product-context-first. Stories cover fit, total, and simulated confirmation. Check M × 2 = $50 and reject missing size. Defer payments/accounts.”
 
-**Team:** “[A](/samples/room-ready/a.html) / [B](/samples/room-ready/b.html), [decision and contributions](/examples/submissions/room-ready#_3-build-and-compare). Selected A to explain scope before the request. A valid request shows a reference and pending confirmation.”
+**Portfolio:** “[Plan](/examples/submissions/maya-chen#_2-plan): use the career reflection's internship-reviewer audience. Compare projects-first and introduction-first. A visitor can find both projects, my contribution, résumé, and real profile links.”
 
-**Portfolio:** “[A](/samples/maya-chen/a.html) / [B](/samples/maya-chen/b.html), [decision and checks](/examples/submissions/maya-chen#_3-build-and-compare). Selected A to put project evidence first. A reviewer can find both projects, my team role, résumé, and profile examples.”
+**Group, once per team:** “[Room Ready Research](/examples/submissions/room-ready#_1-research): assembly-service references suggest a first-apartment renter who needs to explain a job. Offer an inquiry, not a confirmed booking. Maya and Avery both contributed.”
 
-All three use the [shared classroom source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). Add your own repository and actual issue/retest evidence in a real submission.
+Add actual issue links, responses, and updated records.
 
 </details>
 
 <details>
-<summary>December 3: Improve — three separate submissions</summary>
+<summary>November 24: T-shirt Build, portfolio Build, shared group Plan</summary>
 
-**T-shirt:** “[Final review](/examples/submissions/campus-cotton#_4-get-feedback-and-improve). The fictional peer scenario leads to labeled measurement units. Actual browser checks confirmed missing size is blocked and two M shirts produce a $50 simulated receipt.”
+**T-shirt:** “[A](/samples/campus-cotton/a.html) / [B](/samples/campus-cotton/b.html), [checks and choice](/examples/submissions/campus-cotton#_3-build-and-compare). Choose A to keep fit and price nearby; no conversion claim.”
 
-**Team:** “[Final review](/examples/submissions/room-ready#_4-get-feedback-and-improve). The fictional peer scenario clarifies pending confirmation. Actual browser checks confirmed missing item is blocked and Desk / Weekday afternoon produces a pending request, not a booking.”
+**Portfolio:** “[A](/samples/maya-chen/a.html) / [B](/samples/maya-chen/b.html), [checks and choice](/examples/submissions/maya-chen#_3-build-and-compare). Choose projects-first; a reviewer can reach my contribution and résumé.”
 
-**Portfolio:** “[Final review](/examples/submissions/maya-chen#_4-get-feedback-and-improve). The fictional peer scenario makes personal contribution explicit. Actual checks found two project cards, the team contribution, résumé and fictional profile links in A/B.”
+**Group:** “[Plan/work split](/examples/submissions/room-ready#_2-plan): compare service-first and form-first. Maya implements service explanation/layout and reviews the form; Avery implements intake/receipt/history and reviews scope/navigation. Both integrate/retest. A valid request must show pending confirmation.”
 
-A real submission names the real peer and date, links their issue, shows a meaningful change, and records a retest. Keep remaining issues visible. Continue fixes and rehearsal after the checkpoint; final sites are ready December 6.
+</details>
+
+<details>
+<summary>December 3: T-shirt Improve, portfolio Improve, shared group Build</summary>
+
+**T-shirt:** “[Review](/examples/submissions/campus-cotton#_4-get-feedback-and-improve). Peer scenario led to labeled measurement units; actual implementation checks confirm missing-size validation and a $50 simulated order.”
+
+**Portfolio:** “[Review](/examples/submissions/maya-chen#_4-get-feedback-and-improve). Peer scenario clarifies my contribution; actual checks found both project links and profile examples.”
+
+**Group:** “[A](/samples/room-ready/a.html) / [B](/samples/room-ready/b.html), [build decision](/examples/submissions/room-ready#_3-build-and-compare). Choose service-first so scope precedes the request. Desk / Weekday afternoon produces pending confirmation.”
+
+Use this class for group final walkthroughs, changes/retests, missed reviews, and rehearsal. No new topic.
+
+</details>
+
+<details>
+<summary>December 6, 11:59 p.m.: shared group Improve; all final links ready</summary>
+
+**Group:** “[Final review](/examples/submissions/room-ready#_4-get-feedback-and-improve). Fictional peer confusion led to explicit pending-confirmation wording. A real submission names the real reviewer/date, links the issue/change, and records the actual retest. Both members' contributions and cross-review are documented.”
+
+All three selected sites, alternatives, repositories, and setup notes are ready. Follow Canvas instructions for any T-shirt/portfolio record updates after December 3. Demo Days are December 8 and 10.
 
 </details>
 
 ## How the example work earns credit
 
-The records above each link four-part feedback: **Complete, Thoughtful, Checked, Understood — 25 points each.** Existing illustrative scores are 100 Research, 100 Plan, 98 Build, and 98 Improve for each of these three stronger examples. Open the stage's feedback for the specific evidence and deduction; a working page alone does not establish full credit.
-
-For the 007 portfolio's combined Research + Plan submission, the two 100-point example records illustrate one **100/100 checkpoint**, not two gradebook entries. These are teaching scores, not grades assigned to anyone in Canvas. The current AI walkthrough does not turn fictional peer evidence into real peer evidence.
+**Complete, Thoughtful, Checked, Understood — 25 points each.** T-shirt/group examples illustrate 100 Research, 100 Plan, 98 Build, 98 Improve. For the portfolio, the career example illustrates **Research 100**; the portfolio record illustrates **Plan 100, Build 98, Improve 98**. Open each assessment for reasons and deductions. Extra portfolio reference notes are not another graded Research submission. No example score is a real Canvas mark.
 
 ## What the walkthrough found
 
-| Confusion | Improvement |
+| Confusion | Current clarification |
 | --- | --- |
-| Does one individual submission cover two different projects? | Separate T-shirt and portfolio boxes. One team submission covers the shared business. |
-| Is portfolio Research due before it starts? | Launch November 12; shorter Research + Plan due together November 17. |
-| Do we only upload something each week? | Each class now has a purpose: introduction, work/peer issues, or submission/next stage. |
-| Does a closed issue automatically earn credit? | Show the observation, response, change or reasoned decision, and check. |
-| Does the final week introduce another topic? | No new topic; catch up, retest, fix, and rehearse. |
+| Three new reports every week? | One evolving record per project; links and a short update in Canvas. |
+| Portfolio needs career research and another research report? | Career exploration is portfolio Research. |
+| Everyone builds all projects at once? | Individual work leads; the group follows about a week behind and finishes in catch-up week. |
+| Closed issue equals full credit? | Show observation, response/change, and retest. |
+| A/B means six independent codebases? | Share code/content/data; compare a meaningful difference. |
 
-**Actual checks on the sample code:** both A/B checkout paths returned 2 × M / $50; both A/B service paths returned a pending Desk request; portfolio A/B contained both projects and the same profile destinations. At the browser's natural 319 px width, the three B pages and portfolio A had no horizontal document overflow. This is a limited narrow-screen check, not a full accessibility audit. Server-side validation and SQLite persistence are checked separately by the repository's example test.
+**Actual checks, November 2:** public T-shirt A/B returned M × 2 / $50; public service A/B returned a pending Desk request. Portfolio A/B had both projects and fictional profile examples. Limited checks at a natural 319 px width found no horizontal overflow on the three B pages and portfolio A. Downloaded Node 24 source saved a $50 order and pending request in SQLite; both remained in browser history after a server restart. This is not a full accessibility audit or novice timing study.
 
-**Canvas limit:** the new modules and assignments remain unpublished. Six concise descriptions are saved; the other six remain pending because Safari’s editor intermittently renders blank. Team Research/Plan use a new final-project group set with individual grading; remaining team settings and actual team membership are pending. Section 007 Student View was checked: the home/guide link is visible and the five new draft modules are hidden. It cannot verify a complete submission/grade flow yet. The Canvas home has been updated to the central class plan and current project scope. Do not treat the preview as a live assignment.
+**Canvas status:** the short outline and four reference pages are published; assignment dates/titles and module headings match the revised schedule. Assignment descriptions still need completion/alignment because Safari’s full assignment editor is blank. Draft assignments remain unpublished until descriptions, dates, group settings/membership, and student visibility are verified. The earlier Student View check confirmed the home guide link and hidden draft modules; it did not test actual submission/grade behavior.
 
-[Return to your class plan](/course/section-007) · [More examples, including developing work](/examples/submissions/).
+[Back to your class plan](/course/section-007) · [More graded examples](/examples/submissions/).

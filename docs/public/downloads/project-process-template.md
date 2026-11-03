@@ -5,9 +5,11 @@ Use **one Markdown file per project** and update it at each step. Your team shar
 
 ## Feedback at every stage
 
-Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Section 007 begins portfolio Research + Plan together after November 12.
+Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Portfolio Research is the career role cards and reflection. In 007 it is due November 12; Plan is due November 17. The group runs about a week behind; follow the section plan.
 
 ## 1. Research
+
+**Portfolio:** use your career role cards and reflection to identify your reader, goals, evidence, and gaps. Keep the full reflection private in Canvas. Link or summarize suitable findings in this record; the comparison below applies to the T-shirt/group projects.
 
 - Compare three relevant sites: source/date, observation, implication. Add short notes on look, brand character, and honest reasons to trust or act. Identify direct competitors versus adjacent references.
 - Consider two ways to position your offer: who it serves and why they would choose it.

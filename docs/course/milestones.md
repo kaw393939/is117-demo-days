@@ -2,15 +2,15 @@
 
 Build a **[T-shirt store](/projects/white-tshirt)**, a **[group business site](/projects/group-project)**, and your **[personal portfolio](/projects/portfolio)**. Practice a professional process using AI to solve a realistic business problem. You do not need to be an expert.
 
-Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional reading; the résumé and actual GitHub/LinkedIn links are still required in your portfolio. [See the visual roadmap](/course/overview#follow-four-steps).
+Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional reading; the résumé and actual GitHub/LinkedIn links are still required in your portfolio. [See the visual roadmap](/course/overview#how-to-manage-the-work).
 
 ## What to submit at each step
 
-Use [one short document per project](/templates/four-milestones) and update it as you go. The portfolio can use shorter research and planning.
+Use [one short document per project](/templates/four-milestones) and update it as you go. For the portfolio, career exploration counts as Research; use its findings for your Plan.
 
 | Step | Submit this |
 | --- | --- |
-| **1. Research** | Compare three relevant websites. Consider two market/design positions and two personas. Choose an audience; explain your evidence and assumptions. |
+| **1. Research** | T-shirt/group: compare three relevant sites, two positions, and two personas; choose an audience. Portfolio: complete career role cards and reflection, then identify your reader and evidence. |
 | **2. Plan** | Compare two short website plans. Write three to five user stories, essential features, and checks for success. For the group project, divide work fairly. |
 | **3. Build** | Link two working versions and explain which you plan to launch. Share code where useful; make the difference meaningful. |
 | **4. Improve** | Have a peer walk through each project. Make at least one meaningful change per project, retest, and publish your selected versions. |
@@ -26,7 +26,7 @@ A **persona** describes a user and their needs. A **user story** explains what t
 
 | At this step… | Make this comparison |
 | --- | --- |
-| Research | **One** table of three sites → two possible positions and two short personas → choose an audience. |
+| Research | T-shirt/group: **one** comparison table → two positions/personas → choose an audience. Portfolio: two career roles → reflection → reader, goals, and evidence. |
 | Plan | Two short approaches to the **same** business need; share the core stories and features where useful. |
 | Build | Two working versions of each project; shared code and content are fine. Change something that matters to the user. |
 | Improve | Choose one version, get real peer feedback, make a change, and retest. |
@@ -39,13 +39,13 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 **One submission per active project each week.** Keep three evolving records: your T-shirt record, your portfolio record, and the team’s shared business record. Update the current stage; do not make a new report each week.
 
-For **section 007**, T-shirt and team Research are due November 10. The career reflection is due November 12 and starts the portfolio. Its shorter Research and Plan are submitted together November 17. All three projects then have Build and Improve checkpoints. [Follow the class-by-class plan](/course/section-007).
+For **section 007**, T-shirt Research is due November 10. Career exploration is portfolio Research, due November 12; portfolio Plan is due November 17. The group forms first, then runs about a week behind: Research November 17, Plan November 24, Build December 3, Improve December 6 at 11:59 p.m. [Follow every class and deadline](/course/section-007).
 
-Submit each project in its own Canvas box: record link, current site/repository links as available, [feedback issue links](/process/github-feedback), and a short change/open-issue note. The team submits once and names each member’s contribution. This makes four T-shirt checkpoints, four shared team checkpoints, and three portfolio checkpoints in 007; the private career reflection is separate.
+Submit each project in its own Canvas box: record link, current site/repository links, [feedback issue links](/process/github-feedback), and a short update. The group submits once and names contributions. Each project has four checkpoints; the existing private career reflection is the portfolio's Research checkpoint. It adds no extra research report.
 
 **Canvas setup is being aligned one section at a time.** Section 007 has separate unpublished project placeholders. Section 005’s earlier combined individual-review drafts have not yet been converted; follow its published Canvas directions. No new draft is an active submission box until published.
 
-Submit the final review record on December 3 at the start of class. Continue fixes and rehearsal afterward; all sites and final links must be ready December 6 at 11:59 p.m. Follow Canvas for any record-resubmission arrangements. A demo-signup issue does not submit coursework.
+In 007, T-shirt/portfolio final review records are due December 3 at the start of class; the group Build is due then, with group Improve due December 6 at 11:59 p.m. Continue fixes and rehearsal; all sites and final links must be ready December 6 at 11:59 p.m. Follow Canvas for any record-resubmission arrangements. A demo-signup issue does not submit coursework.
 
 ## How each step is graded
 

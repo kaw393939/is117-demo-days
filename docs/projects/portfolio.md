@@ -32,7 +32,7 @@ Use a few screenshots and links. Distinguish course projects from employment and
 
 ## Compare and improve
 
-Use a small comparison of three portfolio references, two likely audiences, and two short page plans. Build two versions using the same project content. Have a peer find a project, your contribution, and your résumé. Make at least one meaningful change from the walkthrough and check it again.
+Your [career role cards and reflection](/career/explore) are portfolio Research. Choose your intended reader and project evidence from those findings. For Plan, compare two short page approaches and define checkable stories. Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Build two versions using the same project content. Have a peer find a project, your contribution, and your résumé. Make at least one meaningful change from the walkthrough and check it again.
 
 ## Use it beyond class
 

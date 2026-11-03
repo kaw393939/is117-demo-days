@@ -1,10 +1,12 @@
-# Explore two roles. Choose one next step.
+# Portfolio Research: explore two roles
 
-**Section 007: due Thursday November 12, 2026, at 8:30 a.m. Eastern.** Introduce November 5, discuss November 10, then use the reflection to begin your portfolio in class November 12. [Class plan](/course/section-007#career-and-portfolio-launch). The Canvas draft remains unpublished until setup is verified. Other sections should follow their published Canvas assignment.
+**Section 007: due Thursday November 12, 2026, at 8:30 a.m. Eastern.** Introduce November 5, discuss November 10, this activity is your portfolio Research. Use draft findings to begin Plan November 10, work/review November 12, and submit Plan November 17. [Class plan](/course/section-007#career-and-portfolio-launch). The Canvas draft remains unpublished until setup is verified. Other sections should follow their published Canvas assignment.
 
 You do not have to decide your career now. Use real descriptions to find work that interests you, see what you can already demonstrate, and choose something to learn next.
 
-**Your output:** two short role cards and about **250–350 words of reflection** submitted privately in Canvas. Bullets are fine. This is an individual reflection, not a fourth website project. Your Canvas assignment gives the section-specific deadline.
+**Your output:** two short role cards and about **250–350 words of reflection** submitted privately in Canvas. Bullets are fine. This is the Research checkpoint for your individual portfolio, not a fourth project or an extra research report. Your Canvas assignment gives the section-specific deadline.
+
+Use the findings to choose your portfolio reader, goals, and evidence. Keep the full reflection private in Canvas; carry suitable professional goals into your portfolio record. Portfolio references are optional inspiration, not another competitive-landscape submission.
 
 ## 1. Understand the work · about 5 minutes
 

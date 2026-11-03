@@ -2,9 +2,9 @@
 
 **Attendance is required.** Bring your computer and current work. Class time includes partner work, feedback, and time to make improvements.
 
-All dates are in **2026**, and all times are **Eastern**. Open your section below. Milestones are due **at the start of class**; final publication is due Sunday, December 6. Canvas review placeholders are drafted and unpublished; follow the published Canvas entries for submission settings and later instructor changes.
+All dates are in **2026**, and all times are **Eastern**. Open your section below. Milestones are due **at the start of class**, except 007 group Improve and final publication: Sunday, December 6 at 11:59 p.m. Canvas review placeholders are drafted and unpublished; follow the published Canvas entries for submission settings and later instructor changes.
 
-There are **four project steps across five preparation weeks**, including the Thanksgiving adjustment and the week for work/catch-up before demos.
+There are **four steps per project**, staggered across the preparation weeks. Career exploration is portfolio Research. In 007 the group follows about a week behind and uses the pre-demo catch-up week.
 
 **Section 007:** use the [class-by-class plan](/course/section-007) for separate project submissions, career exploration, portfolio launch, and GitHub review activities. Section 005’s Canvas conversion will follow separately.
 
@@ -12,6 +12,8 @@ There are **four project steps across five preparation weeks**, including the Th
 
 <details>
 <summary>Section 005 — Monday/Thursday, 11:30 a.m.–12:50 p.m. · CKB 106</summary>
+
+This table retains the original individual T-shirt cycle. The staggered group/portfolio Canvas conversion for 005 is pending; follow its published Canvas entries. The revised 007 group deadlines do not apply to 005.
 
 | Step | Start in class | Partner work / feedback | Submit |
 | --- | --- | --- | --- |
@@ -29,16 +31,18 @@ There are **four project steps across five preparation weeks**, including the Th
 <details>
 <summary>Section 007 — Tuesday/Thursday, 8:30–9:50 a.m. · CKB 223</summary>
 
-| Step | Start in class | Partner work / feedback | Submit |
+| Checkpoint | T-shirt | Portfolio | Shared group |
 | --- | --- | --- | --- |
-| **1. Research** | Tue Nov 3 | Thu Nov 5 | **Tue Nov 10, 8:30 a.m.** |
-| **2. Plan** | Tue Nov 10 | Thu Nov 12 | **Tue Nov 17, 8:30 a.m.** |
-| **3. Build two versions** | Tue Nov 17 | Thu Nov 19 | **Tue Nov 24, 8:30 a.m.** |
-| **4. Review and improve** | Tue Nov 24 | Tue Dec 1 | **Thu Dec 3, 8:30 a.m.** |
+| Research | Nov 10 | Nov 12: career exploration | Nov 17 |
+| Plan | Nov 17 | Nov 17 | Nov 24 |
+| Build A/B | Nov 24 | Nov 24 | Dec 3 |
+| Improve | Dec 3 | Dec 3 | Dec 6, 11:59 p.m. |
 
-- **December 3:** finish fixes and rehearse after submitting your review record.
-- **December 6, 11:59 p.m.:** all three sites and final links ready.
-- **December 8 and 10:** Demo Days, during the regular class time. [Request a slot](/demo-days/section-007).
+All other submissions are due at **8:30 a.m. Eastern**. Career exploration is portfolio Research. Form teams November 5; group Research starts November 10 and runs about a week behind the individual work. [See the introduce → work/review → submit dates for every project](/course/section-007).
+
+- **December 1 and 3:** finish group builds, walkthroughs, changes/retests, catch-up, and rehearsal; no new topic.
+- **December 6, 11:59 p.m.:** group Improve submitted; all three final sites and links ready.
+- **December 8 and 10:** Demo Days. [Request a slot](/demo-days/section-007).
 
 </details>
 
@@ -53,7 +57,7 @@ These are focuses within the existing milestones, not extra submissions. [See th
 
 ## Career reflection starts the portfolio
 
-Introduce career exploration November 5, discuss two role cards November 9/10, and submit the reflection **Thursday November 12 at the start of class**. Use that class to start portfolio research and planning; its short Research + Plan checkpoint follows November 16/17. Section 007’s Canvas career date is updated; section 005’s corresponding draft still needs updating before publication. [Career activity](/career/explore).
+**Career exploration is portfolio Research.** In 007: introduce November 5, discuss/work November 10, submit November 12 at 8:30 a.m. Use draft findings to introduce portfolio Plan November 10; work/review November 12; submit Plan November 17. There is no second portfolio research report. Section 005 should follow its published Canvas entry until converted. [Career activity](/career/explore).
 
 ## Our weekly rhythm
 
@@ -64,7 +68,7 @@ Introduce career exploration November 5, discuss two role cards November 9/10, a
 **November 30–December 3: no new topic.** Use class to finish projects, catch up on individual and group reviews, get peer feedback, fix problems, and rehearse. Bring the work that still needs attention.
 
 - **November 30 / December 1:** protected work and peer-walkthrough time.
-- **December 3:** submit the final review record at the start of class, then continue fixes, catch-up reviews, and rehearsal.
+- **December 3 in 007:** submit T-shirt/portfolio Improve and group Build; then complete group final walkthroughs, changes/retests, catch-up reviews, and rehearsal.
 - **December 6, 11:59 p.m.:** all three sites and final links ready.
 - **December 7/8 and 10:** section-specific Demo Days.
 
@@ -72,7 +76,7 @@ The usual submit-and-start-the-next-topic pattern applies to the first three han
 
 ## Thanksgiving changes the last cycle
 
-There is **no class Thursday, November 26**. Start the last step November 23/24, then complete peer walkthroughs in class November 30/December 1. Submit the review/change record December 3. Use the remaining time for fixes and final publication by December 6. No new submission is due during Thanksgiving recess.
+There is **no class Thursday, November 26**. Start the last step November 23/24, then complete peer walkthroughs in class November 30/December 1. In 007 submit T-shirt/portfolio Improve and group Build December 3; group Improve follows December 6 at 11:59 p.m. Use the remaining time for fixes and final publication by December 6. No new submission is due during Thanksgiving recess.
 
 ## What happens during a feedback class?
 

@@ -35,7 +35,7 @@ Show both projects and your contribution, with an accurate résumé, actual GitH
 
 [Check your dates](/course/schedule) · [Section 007: every class and deadline](/course/section-007) · [Submissions and rubric](/course/milestones).
 
-Career reflection starts your portfolio. The week before Demo Days is for finishing, reviews, and rehearsal. Follow your section’s published Canvas deadlines.
+Career exploration is portfolio Research; use it to plan your site. The group starts after team formation and runs about a week behind the T-shirt project. The week before Demo Days is for finishing, reviews, and rehearsal. Follow your section’s published Canvas deadlines.
 
 ## Turn course work into a professional introduction
 
