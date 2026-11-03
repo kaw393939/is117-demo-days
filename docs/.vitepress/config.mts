@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+const siteBase = '/is117-demo-days/'
 
 const start = { text: 'Start here', items: [
   { text: 'Three projects & your goals', link: '/course/overview' },
@@ -54,7 +55,7 @@ const standard = [start,
 export default defineConfig({
   title: 'IS117 Studio',
   description: 'Three projects, four steps: research, plan, build, and improve. NJIT · Fall 2026.',
-  base: '/is117-demo-days/',
+  base: siteBase,
   lang: 'en-US',
   markdown: {
     config(md) {
@@ -63,6 +64,7 @@ export default defineConfig({
         const href = tokens[idx].attrGet('href') || ''
         // Public HTML apps must navigate normally, including before hydration.
         if (/^\/(?:is117-demo-days\/)?(?:samples|student-trial)\/.*\.html(?:[?#]|$)/.test(href)) {
+          if (!href.startsWith(siteBase)) tokens[idx].attrSet('href', siteBase.slice(0, -1) + href)
           tokens[idx].attrSet('target', '_self')
         }
         return renderLink(tokens, idx, options, env, self)
