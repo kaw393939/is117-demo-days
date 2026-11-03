@@ -2,6 +2,21 @@
 
 Use the [five-step class review](/process/collaboration) first. An issue keeps the task, observation, response, and retest in one place. **Use the repository for the project being reviewed.** The course repository is for course-material problems or demo signup.
 
+## The simple workflow
+
+**Issue → make the change → check it → close the issue.** Use the project repository. Reference the issue in a commit so the work is easy to find:
+
+```text
+Issue #8: Make the size guide easier to find
+Commit: Move size guide beside the size selector (#8)
+Issue comment: My classmate found the guide and selected M after the change. [commit link]
+```
+
+This is an example, not a real review. Your comment records what actually happened. Link that issue in the existing Canvas submission. There is no commit or issue quota. Keep any earlier assignment's specific pull-request requirements.
+
+<details>
+<summary>How to open an issue and record the review</summary>
+
 ## Open or update the issue
 
 1. Open the project's repository, choose **Issues**, then **New issue**. If the same problem already has an issue, add a comment there instead.
@@ -46,3 +61,6 @@ Use one continuing issue when useful; there is no required number of new or clos
 Keep grades and personal circumstances in Canvas. AI may help phrase feedback, but the observation and reviewer name must describe what actually happened.
 
 [Filled review examples](/process/collaboration#review-examples) · [Section 007 class plan](/course/section-007) · [Rubric](/course/milestones#how-each-step-is-graded).
+
+
+</details>

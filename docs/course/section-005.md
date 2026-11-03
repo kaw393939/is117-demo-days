@@ -2,13 +2,18 @@
 
 **Monday and Thursday · 11:30 a.m.–12:50 p.m. · CKB 106 · Fall 2026. Attendance is required.** Bring your computer and current work. Contact the instructor privately about absences or accommodations under course/university policies.
 
-**Every cycle:** introduction → next class: work, peer feedback, and GitHub issues → submit and use the result for the next step. The same projects grow over time.
-
-[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments are published in Canvas; student access has been checked in Student View. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
-
 ## Before next class
 
 <ClassWorkCard section="005" />
+
+Start here. Bring the work, try it with a classmate, then update the same project record. **Research → Plan → Build → Improve.**
+
+<details>
+<summary>All project deadlines, class dates, and reference details</summary>
+
+**Every cycle:** introduction → next class: work, peer feedback, and GitHub issues → submit and use the result for the next step. The same projects grow over time.
+
+[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments are published in Canvas; student access has been checked in Student View. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
 
 ## Three projects, staggered deadlines
 
@@ -107,3 +112,5 @@ Use one evolving record per project. Each checkpoint contains **the record link,
 There are **four checkpoints per project**; the portfolio's Research is the existing career reflection, not an additional assignment. Keep that reflection in Canvas and carry its useful findings into the portfolio record. A/B can share code. GitHub issues track feedback; they do not submit coursework.
 
 [Rubric](/course/milestones#how-each-step-is-graded) · [Filled student submissions](/examples/student-journey) · [Canvas assignments](https://njit.instructure.com/courses/70710/assignments).
+
+</details>

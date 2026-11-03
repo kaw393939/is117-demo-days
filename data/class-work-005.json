@@ -9,84 +9,96 @@
       "title": "T-shirt Research",
       "date": "2026-11-09",
       "time": "11:30 a.m.",
-      "assignmentId": 769124
+      "assignmentId": 769124,
+      "points": 100
     },
     {
       "key": "portfolio-research",
       "title": "Portfolio Research: career exploration",
       "date": "2026-11-12",
       "time": "11:30 a.m.",
-      "assignmentId": 769132
+      "assignmentId": 769132,
+      "points": 100
     },
     {
       "key": "shirt-plan",
       "title": "T-shirt Plan",
       "date": "2026-11-16",
       "time": "11:30 a.m.",
-      "assignmentId": 769126
+      "assignmentId": 769126,
+      "points": 100
     },
     {
       "key": "portfolio-plan",
       "title": "Portfolio Plan",
       "date": "2026-11-16",
       "time": "11:30 a.m.",
-      "assignmentId": 769155
+      "assignmentId": 769155,
+      "points": 100
     },
     {
       "key": "group-research",
       "title": "Group Research",
       "date": "2026-11-16",
       "time": "11:30 a.m.",
-      "assignmentId": 769125
+      "assignmentId": 769125,
+      "points": 100
     },
     {
       "key": "shirt-build",
       "title": "T-shirt Build A/B",
       "date": "2026-11-23",
       "time": "11:30 a.m.",
-      "assignmentId": 769128
+      "assignmentId": 769128,
+      "points": 100
     },
     {
       "key": "portfolio-build",
       "title": "Portfolio Build A/B",
       "date": "2026-11-23",
       "time": "11:30 a.m.",
-      "assignmentId": 769156
+      "assignmentId": 769156,
+      "points": 100
     },
     {
       "key": "group-plan",
       "title": "Group Plan",
       "date": "2026-11-23",
       "time": "11:30 a.m.",
-      "assignmentId": 769127
+      "assignmentId": 769127,
+      "points": 100
     },
     {
       "key": "shirt-improve",
       "title": "T-shirt Improve",
       "date": "2026-12-03",
       "time": "11:30 a.m.",
-      "assignmentId": 769130
+      "assignmentId": 769130,
+      "points": 100
     },
     {
       "key": "portfolio-improve",
       "title": "Portfolio Improve",
       "date": "2026-12-03",
       "time": "11:30 a.m.",
-      "assignmentId": 769157
+      "assignmentId": 769157,
+      "points": 100
     },
     {
       "key": "group-build",
       "title": "Group Build A/B",
       "date": "2026-12-03",
       "time": "11:30 a.m.",
-      "assignmentId": 769129
+      "assignmentId": 769129,
+      "points": 100
     },
     {
       "key": "group-improve",
       "title": "Group Improve",
       "date": "2026-12-06",
       "time": "11:59 p.m.",
-      "assignmentId": 769131
+      "assignmentId": 769131,
+      "points": 100
     }
   ],
   "classes": [
@@ -106,10 +118,11 @@
         "link": "/process/find-your-angle"
       },
       "example": {
-        "text": "T-shirt example",
-        "link": "/examples/submissions/campus-cotton"
+        "text": "Short Research example",
+        "link": "/examples/submissions/#a-short-research-submission"
       },
-      "note": "Brand Studio keeps its own November 2, 11:59 p.m. deadline and original rubric."
+      "note": "Brand Studio keeps its own November 2, 11:59 p.m. deadline and original rubric.",
+      "careerWin": "Explain why a website serves a particular audience—useful evidence for a client conversation."
     },
     {
       "date": "2026-11-05",
@@ -128,10 +141,11 @@
         "link": "/process/collaboration"
       },
       "example": {
-        "text": "Career example",
-        "link": "/examples/career-reflections"
+        "text": "Short Research example",
+        "link": "/examples/submissions/#a-short-research-submission"
       },
-      "note": ""
+      "note": "",
+      "careerWin": "Practice giving useful feedback and choosing career skills to build next."
     },
     {
       "date": "2026-11-09",
@@ -154,7 +168,8 @@
         "text": "Career example",
         "link": "/examples/career-reflections"
       },
-      "note": ""
+      "note": "",
+      "careerWin": "Turn research into a plan you can explain to a teammate or interviewer."
     },
     {
       "date": "2026-11-12",
@@ -179,7 +194,8 @@
         "text": "Portfolio checklist",
         "link": "/projects/portfolio"
       },
-      "note": ""
+      "note": "",
+      "careerWin": "Show that you can improve an idea after another person questions it."
     },
     {
       "date": "2026-11-16",
@@ -203,10 +219,11 @@
         "link": "/process/specifications"
       },
       "example": {
-        "text": "Group example",
-        "link": "/examples/submissions/room-ready"
+        "text": "Run the SQLite starter",
+        "link": "/examples/submissions/run-examples#run-the-sqlite-example-locally"
       },
-      "note": ""
+      "note": "",
+      "careerWin": "Turn a small plan into a working feature and share responsibilities clearly."
     },
     {
       "date": "2026-11-19",
@@ -229,7 +246,8 @@
         "text": "T-shirt example",
         "link": "/examples/submissions/campus-cotton"
       },
-      "note": ""
+      "note": "",
+      "careerWin": "Show a working interaction, a real check, and a useful response to feedback."
     },
     {
       "date": "2026-11-23",
@@ -256,7 +274,8 @@
         "text": "Portfolio checklist",
         "link": "/projects/portfolio"
       },
-      "note": "No class Thursday November 26. November 30–December 3 is work/review/catch-up time with no new topic."
+      "note": "No class Thursday November 26. November 30–December 3 is work/review/catch-up time with no new topic.",
+      "careerWin": "Make a launch decision and explain what you built, checked, and still need to finish."
     },
     {
       "date": "2026-11-30",
@@ -279,7 +298,8 @@
         "text": "Group example",
         "link": "/examples/submissions/room-ready"
       },
-      "note": ""
+      "note": "",
+      "careerWin": "Finish a reliable workflow you can demonstrate without coaching the visitor."
     },
     {
       "date": "2026-12-03",
@@ -304,7 +324,8 @@
         "text": "Portfolio checklist",
         "link": "/projects/portfolio"
       },
-      "note": "Group Improve and all final sites/links are ready Sunday December 6 at 11:59 p.m. Eastern."
+      "note": "Group Improve and all final sites/links are ready Sunday December 6 at 11:59 p.m. Eastern.",
+      "careerWin": "Practice a short demonstration that makes your own contribution clear."
     },
     {
       "date": "2026-12-07",
@@ -323,7 +344,8 @@
         "text": "Section 005 slots",
         "link": "/demo-days/section-005"
       },
-      "note": "Follow your confirmed slot. Pairs use 10 minutes; trios use 12."
+      "note": "Follow your confirmed slot. Pairs use 10 minutes; trios use 12.",
+      "careerWin": "Use finished work to explain your choices and contribution to a professional audience."
     },
     {
       "date": "2026-12-10",
@@ -342,7 +364,8 @@
         "text": "Section 005 slots",
         "link": "/demo-days/section-005"
       },
-      "note": "The December 22 overflow/redo arrangement remains in the Demo Days guide."
+      "note": "The December 22 overflow/redo arrangement remains in the Demo Days guide.",
+      "careerWin": "Show useful work and make a clear professional introduction."
     }
   ]
 }

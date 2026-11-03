@@ -4,6 +4,21 @@ from zipfile import ZipFile, ZIP_DEFLATED
 root = Path(__file__).resolve().parent.parent
 public = root / 'docs/public'
 with ZipFile(public / 'downloads/is117-example-products.zip', 'w', ZIP_DEFLATED) as archive:
+    archive.writestr('START-HERE.txt', """IS117 SQLITE STARTER — CAMPUS COTTON FIRST
+
+1. Install Node 24 or newer.
+2. Open a terminal in the extracted samples folder.
+3. Run: node server.mjs
+4. Open the printed Campus Cotton URL. Try A, then compare B.
+5. Save a synthetic order, copy its reference, stop/restart the server,
+   and check that the same reference remains in Demo order history.
+
+The other five examples are references, not five more assignments.
+Adapt Campus Cotton for your own audience and explain your changes.
+No real orders, payments, email, or personal data. Use demo@example.test.
+Full instructions: https://kaw393939.github.io/is117-demo-days/examples/submissions/run-examples.html
+Product pages run locally; documentation links open the published guide.
+""")
     for path in sorted((public / 'samples').rglob('*')):
         if path.is_file(): archive.write(path, path.relative_to(public))
 with ZipFile(public / 'downloads/is117-graded-student-submissions.zip', 'w', ZIP_DEFLATED) as archive:

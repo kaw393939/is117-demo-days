@@ -1,12 +1,15 @@
 import { defineConfig } from 'vitepress'
 const siteBase = '/is117-demo-days/'
 
-const start = { text: 'Start here', items: [
+const start = { text: 'Start with your section', items: [
+  { text: '005: next class & submission', link: '/course/section-005#before-next-class' },
+  { text: '007: next class & submission', link: '/course/section-007#before-next-class' }
+] }
+const reference = { text: 'Plan, grading & examples', collapsed: true, items: [
   { text: 'Three projects & your goals', link: '/course/overview' },
   { text: 'Four steps & grading', link: '/course/milestones' },
   { text: 'Class dates & due dates', link: '/course/schedule' },
-  { text: 'Section 007: next class & dates', link: '/course/section-007' },
-  { text: 'Section 005: next class & dates', link: '/course/section-005' },
+  { text: 'Short Research example', link: '/examples/submissions/#a-short-research-submission' },
   { text: 'See completed examples', link: '/examples/submissions/' },
   { text: 'Three-project student rehearsal', link: '/examples/student-trial' }
 ] }
@@ -25,7 +28,7 @@ const career = [
     { text: 'Skills to build next', link: '/career/skills' }
   ]}
 ]
-const standard = [start,
+const standard = [start, reference,
   { text: 'Your three projects', items: [
     { text: 'T-shirt store', link: '/projects/white-tshirt' },
     { text: 'Group business', link: '/projects/group-project' },
@@ -33,6 +36,7 @@ const standard = [start,
   ]},
   { text: 'Help while you work', collapsed: true, items: [
     { text: 'Research, personas & user stories', link: '/process/research-to-features' },
+    { text: 'Run the SQLite starter', link: '/examples/submissions/run-examples' },
     { text: 'Find your brand’s angle', link: '/process/find-your-angle' },
     { text: 'Write a website plan', link: '/process/specifications' },
     { text: 'Practice with a fictional customer', link: '/process/simulated-customer' },
@@ -77,7 +81,11 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'IS117 / FALL 2026',
     nav: [
-      { text: 'Start here', link: '/course/overview' },
+      { text: 'Next class', items: [
+        { text: 'Section 005', link: '/course/section-005#before-next-class' },
+        { text: 'Section 007', link: '/course/section-007#before-next-class' },
+        { text: 'Three-project overview', link: '/course/overview' }
+      ] },
       { text: 'Examples', link: '/examples/submissions/' },
       { text: 'Schedule', link: '/course/schedule' },
       { text: 'Demo Days', link: '/demo-days/' },
@@ -90,7 +98,7 @@ export default defineConfig({
       ]}],
       '/examples/submissions/': [
         { text: 'Example library', items: [
-          { text: 'Choose an example', link: '/examples/submissions/' },
+          { text: 'Start with a short example', link: '/examples/submissions/#a-short-research-submission' },
           { text: 'How the sample grades work', link: '/examples/submissions/grading-guide' },
           { text: 'What you submit', link: '/course/milestones' },
           { text: 'Copy the short template', link: '/templates/four-milestones' }
@@ -108,7 +116,7 @@ export default defineConfig({
           { text: 'Jordan Rivera', link: '/examples/submissions/jordan-rivera' }
         ]},
         { text: 'Want to inspect the code?', collapsed: true, items: [
-          { text: 'Download & run the examples', link: '/examples/submissions/run-examples' },
+          { text: 'Run the SQLite starter', link: '/examples/submissions/run-examples' },
           { text: 'Original competitor comparison', link: '/examples/competitive-landscape' },
           { text: 'Competitor screenshots', link: '/examples/site-references' },
           { text: 'Detailed T-shirt spec', link: '/examples/tshirt-spec' }

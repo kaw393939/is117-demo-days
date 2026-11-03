@@ -2,7 +2,7 @@
 
 Build a **[T-shirt store](/projects/white-tshirt)**, a **[group business site](/projects/group-project)**, and your **[personal portfolio](/projects/portfolio)**. Practice a professional process using AI to solve a realistic business problem. You do not need to be an expert.
 
-Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional reading; the résumé, actual GitHub/LinkedIn profiles, and all three project repository links are required in your [portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist). [See the visual roadmap](/course/overview#how-to-manage-the-work).
+**Start with your next class:** [005](/course/section-005#before-next-class) · [007](/course/section-007#before-next-class). Open one matching example, then update [the short template](/templates/four-milestones). Work on the current step. Detailed templates and career articles are optional reading; the résumé, actual GitHub/LinkedIn profiles, and all three project repository links are required in your [portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist). [See the visual roadmap](/course/overview#how-to-manage-the-work).
 
 ## What to submit at each step
 
@@ -37,6 +37,11 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 ## How to submit
 
+Open the matching Canvas assignment from your section card. Submit **your project-record link, current site/repository links, relevant issue links, and a short update**. The team submits once and names contributions. Portfolio Research goes directly in its private Canvas text box.
+
+<details>
+<summary>Exact section dates, exceptions, and final-link instructions</summary>
+
 **One checkpoint per active project in the current cycle.** Use your section’s actual dates, including the career/Thanksgiving exceptions. Keep three evolving records: your T-shirt record, your portfolio record, and the team’s shared business record. Update the current stage; do not make a new report each week.
 
 For **section 007**, T-shirt Research is due November 10. Career exploration is portfolio Research, due November 12; portfolio Plan is due November 17. The group forms first, then runs about a week behind: Research November 17, Plan November 24, Build December 3, Improve December 6 at 11:59 p.m. [Follow every class and deadline](/course/section-007).
@@ -47,13 +52,22 @@ Submit each project in its own Canvas box: record link, current site/repository 
 
 In both sections, T-shirt/portfolio final review records are due December 3 at the start of class; group Build is due then, with group Improve due December 6 at 11:59 p.m. Continue fixes and rehearsal at the same URLs; all final work must be ready December 6 at 11:59 p.m. **No second individual upload is needed: final assessments reuse your existing links and Demo Day evidence.** Send a corrected URL through Canvas Inbox if a submitted link changes. A demo-signup issue does not submit coursework.
 
+</details>
+
 ## Reviews and final project grades
+
+Each progress review is **100 points**. Final assessments use your finished work and Demo Day explanation. They reuse the same links.
+
+<details>
+<summary>Course grade categories and the three final assessments</summary>
 
 **Reviews grade your progress; final assessments grade the finished work and your explanation.** All twelve 100-point reviews, including Improve and career Research, belong to **Assignments**, worth **50% of the course** together with earlier work in that category.
 
 The other **50% is Projects and Tests**: Hands On Test 1 and three separate final assessments—T-shirt, group business, and portfolio—at 100 points each. Each of these four items is **12.5% of the course**. Earlier assessment criteria stay the same.
 
 For each final project, the instructor uses the finished site, existing code/process links, your actual contribution, and your Demo Day explanation. The same four criteria below are worth **25 points each**. A Canvas final-assessment row may say **No submission**: it is a graded entry that reuses your existing work, not another upload or report. Have the links ready **December 6 at 11:59 p.m.**; present in your assigned [Demo Day slot](/demo-days/).
+
+</details>
 
 ## How each step is graded
 

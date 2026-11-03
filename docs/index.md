@@ -2,50 +2,45 @@
 layout: home
 hero:
   name: IS117 Studio
-  text: Build work you can show.
-  tagline: Three projects. One professional process. Prepare to introduce yourself, share useful work, and pursue internships, part-time work, or a first client project.
+  text: Make something you can show.
+  tagline: Build your T-shirt store, a group business site, and your portfolio. Start with your next class.
   actions:
     - theme: brand
-      text: Start here — see the whole plan
-      link: /course/overview
+      text: Section 005 · next class
+      link: /course/section-005#before-next-class
     - theme: alt
-      text: This week’s task
-      link: /#this-week-start-your-research
-features:
-  - title: Your T-shirt store
-    details: Give a simple white tee a clear audience, brand, and simulated shopping experience.
-    link: /projects/white-tshirt
-  - title: Your group business
-    details: Build a useful product or service with a partner. Share design, coding, and testing.
-    link: /projects/group-project
-  - title: Your portfolio
-    details: Show both projects, explain your contribution, and link your résumé, GitHub, and LinkedIn.
-    link: /projects/portfolio
+      text: Section 007 · next class
+      link: /course/section-007#before-next-class
 ---
 
 ## This week: start your research
 
-1. Read [what to submit](/course/milestones). You will keep **three project documents** and update them through four steps.
-2. Open [one completed research example](/examples/submissions/campus-cotton#_1-research), then [copy the short template](/templates/four-milestones).
-3. Compare three sites for your T-shirt idea. Bring your notes to the **November 5 feedback class**. Use that class to ask questions and work with your partner.
+**Your first win:** choose who your T-shirt store is for and explain why. Compare three brands, consider two directions, and bring your notes to the **November 5 workshop**. Reuse Brand Studio.
 
-Reuse your earlier design library and Brand Studio work to [find your brand’s angle](/process/find-your-angle): connect the audience, look, voice, and honest reasons to act.
+[See a short Research example](/examples/submissions/#a-short-research-submission) · [Copy the template](/templates/four-milestones)
 
-Career exploration is portfolio Research, due **November 12**. Teams form **November 5**; group Research is due **November 16 in 005** or **November 17 in 007**. Open your section’s next-class card: [005](/course/section-005#before-next-class) · [007](/course/section-007#before-next-class). [See what to submit](/course/milestones#how-to-submit).
+**T-shirt Research — 100 points:** section 005, **Nov 9 at 11:30 a.m.** · section 007, **Nov 10 at 8:30 a.m.** All times are Eastern. Submit in your section's Canvas assignment.
 
-**First research submission:** section 005 — **Nov 9 at 11:30 a.m.**; section 007 — **Nov 10 at 8:30 a.m.** [See the full schedule and Thanksgiving adjustment](/course/schedule).
+## Three projects, one step at a time
+
+| Make this | Have this to show |
+| --- | --- |
+| [Your T-shirt store](/projects/white-tshirt) | Your own brand and a working simulated purchase. |
+| [Your group business](/projects/group-project) | Useful work you built and improved with a partner. |
+| [Your portfolio](/projects/portfolio) | Both projects, your contribution, résumé, GitHub, and LinkedIn. |
+
+**Research → Plan → Build → Improve.** Keep one record per project and update it. Come to class, try each other's work, and improve it. [See the whole plan](/course/overview).
 
 ## You will have time to work together
 
-**Attendance is required.** Start each step in the first class, work with classmates in the next, and submit when the next cycle begins. Use [GitHub issues](/process/github-feedback) to record feedback and responses at each stage. Each final project needs a peer walkthrough, a meaningful change, and a retest.
+**Attendance is required.** First class: meet the task. Next class: work, get feedback, and resolve issues. Submit when the next step starts. The week before demos is for finishing and rehearsal.
+
+Career exploration is portfolio Research, due **November 12**. Teams form **November 5**. Group Research follows a week behind: **November 16 in 005** or **November 17 in 007**. Your section card gives the exact task, points, and submission link.
 
 ## Ready for Demo Days?
 
-| Section | Presentation dates |
-| --- | --- |
-| 005 | December 7 and 10 |
-| 007 | December 8 and 10 |
+**005: December 7 and 10 · 007: December 8 and 10.** [See the format and request a team slot](/demo-days/).
 
-[See the format and request a team slot](/demo-days/). Use **Canvas for submissions, grades, and private questions**. This site holds the shared instructions and examples.
+Use **Canvas for submissions, grades, and private questions**. Use this site for instructions and examples. [Grading and hand-in details](/course/milestones) · [Full schedule](/course/schedule).
 
-Curious where this leads? [Explore FDE work, internships, and your next courses](/career/fde).
+You are building evidence you can discuss with an internship interviewer or a potential client. [Explore FDE work and next steps](/career/fde).

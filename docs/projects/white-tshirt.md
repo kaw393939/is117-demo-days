@@ -27,7 +27,7 @@ Your **public site** lets a visitor try the store. Your **backend** is the serve
 
 **Keep the proof short:** “Public mode: [browser simulation or live backend]. Local start: [command]. Persistence check: [synthetic reference and what remained after restart].” Put it in the existing record, not another report.
 
-Browser storage alone does not meet the SQLite requirement. If your public host cannot run the backend, provide runnable local setup steps and demonstrate that version. [Try the class's working SQLite example](/examples/submissions/run-examples).
+Browser storage alone does not meet the SQLite requirement. If your public host cannot run the backend, provide runnable local setup steps and demonstrate that version. [Use the supported SQLite starter: run, save, and reopen one order](/examples/submissions/run-examples).
 
 ## Follow the four steps
 

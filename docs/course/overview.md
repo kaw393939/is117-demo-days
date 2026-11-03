@@ -1,6 +1,8 @@
 # Three projects. Your next opportunity.
 
-**By the end of the semester, be ready to show your work, explain what you can do, and start a professional conversation.** Use your work to pursue an internship, part-time job, or small project for a real client.
+**Make work you can show, then explain what you contributed.** These projects give you examples to discuss with an internship interviewer, teammate, or potential client.
+
+**Start with your next class:** [Section 005](/course/section-005#before-next-class) · [Section 007](/course/section-007#before-next-class). Your card has the task, points, deadline, and one example.
 
 A **forward deployed engineer (FDE)** understands a customer’s problem, builds useful software, and helps people use it. IS117 introduces that process. Many FDE roles require further technical study. [Explore the career](/career/fde).
 
@@ -36,6 +38,9 @@ Show both projects and your contribution, with an accurate résumé, actual GitH
 [Check your dates](/course/schedule) · [Section 007: next class](/course/section-007#before-next-class) · [Section 005: next class](/course/section-005#before-next-class) · [Submissions and rubric](/course/milestones).
 
 Career exploration is portfolio Research; use it to plan your site. The group starts after team formation and runs about a week behind the T-shirt project. The week before Demo Days is for finishing, reviews, and rehearsal. Follow your section’s published Canvas deadlines.
+
+<details>
+<summary>Use the finished work to meet people and find opportunities</summary>
 
 ## Turn course work into a professional introduction
 
@@ -74,3 +79,6 @@ These are career goals, not extra graded submissions or required paid events. We
 **Start now:** open your section’s Before next class card, then its matching guide and one example. Update the same project record. [007](/course/section-007#before-next-class) · [005](/course/section-005#before-next-class) · [Portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist).
 
 <small>Opportunity resources checked November 2, 2026. Event listings and job postings change; verify details on the original site.</small>
+
+
+</details>
