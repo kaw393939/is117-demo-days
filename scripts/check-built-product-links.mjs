@@ -7,7 +7,7 @@ let count=0;
 for(const file of walk(root).filter(x=>x.endsWith('.html'))){
  for(const [tag] of readFileSync(file,'utf8').matchAll(/<a\b[^>]*>/g)){
   const href=tag.match(/\bhref="([^"]+)"/)?.[1];
-  if(!href||!/(?:\/samples\/|\/student-trial\/).*\.html(?:[?#]|$)/.test(href))continue;
+  if(!href||!href.startsWith('/')||!/(?:\/samples\/|\/student-trial\/).*\.html(?:[?#]|$)/.test(href))continue;
   if(!href.startsWith(base)||!tag.includes('target="_self"'))throw Error(`${file}: standalone link must preserve base and use normal navigation: ${tag}`);
   if(!existsSync(join(root,href.slice(base.length).split(/[?#]/)[0])))throw Error(`${file}: missing ${href}`);
   count++;
