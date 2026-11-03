@@ -4,6 +4,8 @@ These are **fictional student submissions and illustrative grades**, not actual 
 
 [Activity and reflection prompts](/career/explore) · [Rubric](/career/explore#what-earns-credit).
 
+**Read these at the career checkpoint:** use earlier work you can already show. Finished group apps and final portfolios are later examples, not expected evidence by November 12. Label future work as planned.
+
 ## Maya: specific evidence and a small next step
 
 <details open>
@@ -24,7 +26,7 @@ These are **fictional student submissions and illustrative grades**, not actual 
 
 I am interested in the part of FDE work that begins with a person explaining a messy problem. Coinbase's HR role makes that concrete: the customer could be another team inside the business. Google also interests me, but its production AI and cloud expectations are much further from what I can currently demonstrate. I am using both as learning targets, not saying I qualify now. I also want to explore ordinary web-development internships rather than search only for an FDE title.
 
-Two expectations connect to my course work. First, discovery and scope relate to Room Ready's decision to collect an assembly request instead of claiming to book an appointment. My [project record](/examples/submissions/room-ready) explains that small workflow and its limits. Second, explaining and checking delivered work relates to my [portfolio case studies](/samples/maya-chen/a.html), where my contribution is separated from my partner's. The classroom checks are a beginning; they do not establish professional customer discovery or production readiness.
+Two expectations connect to my earlier Brand Studio work. First, discovery and scope relate to choosing a student buying one shirt and writing a specific promise. My [Campus Cotton style guide](/samples/campus-cotton/style-guide.html) records that audience, voice, and design direction. Second, explaining and checking delivered work relates to my [SVG logo](/samples/campus-cotton/logo.svg) and style guide: I can explain the design decision and inspect whether the asset remains readable at navigation size. These early brand artifacts do not establish professional discovery or production readiness. The checkout, group application, and portfolio are later work; I will label them as planned until I build and check them.
 
 My main gaps are building reliable API integrations and deploying software with persistent data in a real hosted environment. Using AI to draft a page does not fill either gap. I need to understand errors, test cases, and what another person needs to run the result. Later web-application and systems courses can deepen that practice.
 
@@ -70,7 +72,7 @@ I am interested in FDE work because the jobs seem to combine technology and busi
 
 Google and Coinbase both mention AI and programming, so I think either could be interesting later. I have not yet explained how Google's production systems differ from Coinbase's internal workflow project. My notes come from the class guide, and I did not open the employer pages again. I should not treat those notes as a current application check or assume that doing well in IS117 meets the requirements.
 
-My shirt and tutoring-request projects are related to software development. They show that I can practice making a website and using AI to help. I would tell a reviewer that the projects are class simulations. However, I have not pointed to a specific feature I personally built or a check that proves the behavior I am describing. My portfolio needs that evidence to support the general statement.
+My earlier shirt-brand work and planned tutoring-request project are related to software development. The tutoring application is not built yet. The brand work shows that I can practice making a website and using AI to help. I would tell a reviewer that the projects are class simulations. However, I have not pointed to a specific feature I personally built or a check that proves the behavior I am describing. My portfolio needs that evidence to support the general statement.
 
 Two areas I need to improve are Python and cloud systems. I also need more practice explaining my work to another person. My current plan is to take more courses and practice AI tools when I have time. That is a direction, but I have not chosen an artifact, a next-week deadline, or a result I could check. Before applying, I need to make that step smaller and verify the original requirements.
 
