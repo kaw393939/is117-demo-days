@@ -56,6 +56,19 @@ export default defineConfig({
   description: 'Three projects, four steps: research, plan, build, and improve. NJIT · Fall 2026.',
   base: '/is117-demo-days/',
   lang: 'en-US',
+  markdown: {
+    config(md) {
+      const renderLink = md.renderer.rules.link_open || ((tokens, idx, options, _env, self) => self.renderToken(tokens, idx, options))
+      md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+        const href = tokens[idx].attrGet('href') || ''
+        // Public HTML apps must navigate normally, including before hydration.
+        if (/^\/(?:is117-demo-days\/)?(?:samples|student-trial)\/.*\.html(?:[?#]|$)/.test(href)) {
+          tokens[idx].attrSet('target', '_self')
+        }
+        return renderLink(tokens, idx, options, env, self)
+      }
+    }
+  },
   srcExclude: ['public/**'],
   lastUpdated: true,
   head: [['meta', { name: 'theme-color', content: '#142b3b' }]],
