@@ -26,6 +26,7 @@ jobs:
       - run: npm run check:student-work
       - run: node docs/public/student-trial/verify.mjs
       - run: npm run docs:build
+      - run: node scripts/check-built-product-links.mjs
       - uses: actions/upload-pages-artifact@v3
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         with:
