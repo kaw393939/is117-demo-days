@@ -4,7 +4,7 @@
 
 **Every cycle:** introduction → next class: work, peer feedback, and GitHub issues → submit and use the result for the next step. The same projects grow over time.
 
-[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve project checkpoints and five project modules are published in Canvas. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
+[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments are published in Canvas; student access has been checked in Student View. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
 
 ## Before next class
 
@@ -88,9 +88,15 @@ Build two meaningful versions of the same project's main workflow. Share code, c
 
 For each project, get a real peer walkthrough, make at least one meaningful feedback-driven change, and retest. Link the issue, response, changed work, and result. Group members show meaningful contributions and cross-review.
 
-**November 30–December 3: no new topic.** Use the week to catch up, finish the group project, fix the individual sites, and rehearse. T-shirt/portfolio review records capture the December 3 checkpoint. Keep improving those same sites and records at the same URLs through December 6; this is not a new individual Canvas assignment. If a submitted URL changes, send the corrected link through Canvas Inbox. Group Improve is submitted December 6 at 11:59 p.m.; all final sites and links are ready then.
+**November 30–December 3: no new topic.** Use the week to catch up, finish the group project, fix the individual sites, and rehearse. T-shirt/portfolio review records capture the December 3 checkpoint. Keep improving those same sites and records at the same URLs through December 6. No second individual upload is needed; final assessment rows reuse your existing links and Demo Day evidence. If a submitted URL changes, send the corrected link through Canvas Inbox. Group Improve is submitted December 6 at 11:59 p.m.; all final sites and links are ready then.
 
 [GitHub feedback steps](/process/github-feedback) · [Final review example](/examples/submissions/campus-cotton#_4-get-feedback-and-improve) · [Presentation format](/demo-days/).
+
+## Progress reviews and final assessments
+
+All twelve 100-point reviews stay in **Assignments**, the 50% course category. The finished T-shirt, group business, and portfolio each receive a separate **100-point final assessment in Projects and Tests**, alongside Hands On Test 1. The instructor uses your existing links, actual contribution, and Demo Day explanation; there is **no second individual upload or new report**. A final grading row can say “No submission” because it reuses that work. All final links must be ready **December 6 at 11:59 p.m.** [Grading categories and four equal criteria](/course/milestones#reviews-and-final-project-grades).
+
+**Final grade entries — no upload:** [T-shirt](https://njit.instructure.com/courses/70711/assignments/769161) · [Group business](https://njit.instructure.com/courses/70711/assignments/769162) · [Portfolio](https://njit.instructure.com/courses/70711/assignments/769163).
 
 ## Keep submissions small
 

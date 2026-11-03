@@ -20,6 +20,8 @@ Include one short connection: **“We observed …, so for this audience we chos
 
 Explain **one choice between alternatives** and **one improvement from peer feedback**. Open code or documents only when they help explain the result. Slides are optional; the working product is the focus.
 
+**Grading:** your three finished projects and your explanation are assessed separately from the weekly progress reviews. Each final project is 100 points in **Projects and Tests**; the four criteria are Complete, Thoughtful, Checked, and Understood, 25 points each. Final assessment entries reuse the sites and records you already linked—**no extra upload or report**. Have all links ready December 6 at 11:59 p.m., then present in your assigned slot. [See the course grading categories](/course/milestones#reviews-and-final-project-grades).
+
 ## Request a slot
 
 1. Agree on your team, section, and preferred available time.

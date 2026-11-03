@@ -84,7 +84,7 @@ Use this class for group final walkthroughs, changes/retests, missed reviews, an
 
 **Group:** “[Final review](/examples/submissions/room-ready#_4-get-feedback-and-improve). Fictional peer confusion led to explicit pending-confirmation wording. A real submission names the real reviewer/date, links the issue/change, and records the actual retest. Both members' contributions and cross-review are documented.”
 
-All three selected sites, alternatives, repositories, and setup notes are ready. Keep improving the same T-shirt/portfolio sites and records at the same URLs after the December 3 checkpoint; no extra individual assignment is added. Send corrected links through Canvas Inbox if a submitted URL changes. Demo Days are December 8 and 10.
+All three selected sites, alternatives, repositories, and setup notes are ready. Keep improving the same T-shirt/portfolio sites and records at the same URLs after the December 3 checkpoint; no second individual upload is needed; final assessments reuse those links and Demo Day evidence. Send corrected links through Canvas Inbox if a submitted URL changes. Demo Days are December 8 and 10.
 
 </details>
 
@@ -104,6 +104,6 @@ All three selected sites, alternatives, repositories, and setup notes are ready.
 
 **Actual checks, November 2:** public T-shirt A/B returned M × 2 / $50; public service A/B returned a pending Desk request. Portfolio A/B had both projects and fictional profile examples. Limited checks at a natural 319 px width found no horizontal overflow on the three B pages and portfolio A. Downloaded Node 24 source saved a $50 order and pending request in SQLite; both remained in browser history after a server restart. This is not a full accessibility audit or novice timing study.
 
-**Canvas status:** all twelve Section 007 assignment descriptions, deadlines, and 100-point values are saved and verified. All four group checkpoints use the final-project team set with individual grading. Five module headings and guide-link labels match the staggered schedule. The short outline and four reference pages are published. Student View confirmed access to the weekly guide and hidden draft modules; it did not test actual submission/grade behavior. Assignments/modules remain unpublished for instructor review and actual team formation.
+**Canvas status:** all twelve Section 007 review checkpoints plus three separate final assessments are published and visible in Student View. Five cycle modules and the Final Products module hold the links; the short outline and four reference pages are published. All four group checkpoints use the final-project team set with individual grading. Final assessment rows show 100 points, December 6 at 11:59 p.m., and No submission: they reuse existing links and Demo Day evidence. Reviews stay in Assignments (50%); final products and Hands On Test 1 are in Projects and Tests (50%). Actual submission, grading, and real team behavior remain untested.
 
 [Back to your class plan](/course/section-007) · [More graded examples](/examples/submissions/).
