@@ -1,50 +1,50 @@
-# NYC-area internships
+# Internships near NYC and Newark
 
-Start by comparing **two roles**. Look at the work, student eligibility, and the skills you still need to learn.
+**Choose two leads, check eligibility, and pick one next step.** Include related software, implementation, and solutions roles. No exact-title Newark FDE internship was confirmed in this search.
 
-**Research checked November 2, 2026.** These are examples and application leads, not guaranteed placements or a promise that introductory coursework meets every qualification. Employer pages can change or close early. “Not stated” means no deadline was established from the reviewed source; it does not mean unlimited availability. No confirmed exact-title Newark FDE internship was found in this search.
+Research checked **November 2, 2026**. Open the original listing before applying. “Not stated” means the reviewed source did not establish a deadline; it does not mean applications stay open indefinitely.
 
-## Dated application opportunities
+## Start with these employer listings
 
-| Program / source | Local option | Timing / deadline observed | Eligibility / work |
-| --- | --- | --- | --- |
-| [Google · FDE Intern, BS/MS](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) | New York among listed locations | Summer 2027; **apply before November 20, 2026**; rolling review | Penultimate-year bachelor's/master's; programming and production AI/cloud experience. Primary employer listing checked Nov 2. |
-| [Ascend AI · Forward Deployed AI Engineer Intern](https://capd.mit.edu/jobs/ascend-ai-forward-deployed-ai-engineer-intern/) | New York or Los Angeles; potential partner-site travel | Summer 2027, 10–12 weeks; university listing expires **November 18, 2026** | Undergraduate/graduate; LLM/AI building and clear handoff. University-hosted employer description; employer-side opening/deadline not independently confirmed. |
+| Lead | Timing and location | Check before applying |
+| --- | --- | --- |
+| [Google · FDE Intern, BS/MS](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027) | Summer 2027; NYC an option. **Apply before November 20, 2026**; rolling review. | Penultimate-year student; Python and production AI/cloud experience. |
+| [Palantir · Commercial FDSE intern](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) | NYC onsite. Deadline not stated. | Graduation December 2027 or spring 2028; programming. |
+| [Beacon Health · FDE intern](https://www.beaconhealth.ai/team/forward-deployed-engineer-intern) | NYC or remote options; rolling immediate/spring/summer 2027. | Enrolled student; Python/TypeScript and substantial shipped work beyond coursework. |
+| [Pace · FDE intern](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) | NYC onsite; 10–14 summer weeks. **Year and deadline not stated.** | Strong programming; AI experience helpful. Indexed employer listing; confirm program dates. |
+| [MakiPeople · AI Implementation intern](https://jobs.ashbyhq.com/maki/e315491d-2c1d-4656-a5a2-07ce158d5d40) | NYC hybrid; six months from January 2027. **$27–$42/hour**; deadline not stated. | Related implementation work: configuration, testing, client rollout. Indexed employer listing; confirm student eligibility and class compatibility. |
 
-These are employer/application dates, **not course deadlines**. Set your own reminders; this site does not monitor openings or send deadline notifications.
+These are employer dates, not course deadlines. This site does not monitor openings or send reminders.
 
 <details>
-<summary>More NYC-area FDE programs and their requirements</summary>
+<summary>A year-long option and a broader search</summary>
 
-## More local FDE examples
+[The Palantir Year · Commercial FDE](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) is a **full-year** NYC program open to students at different college stages; the posting lists **$5,900–$10,500/month**. Deadline not stated. Discuss the academic impact with your advisor before planning a year away.
 
-| Employer / application source | Location and timing | Skills and evidence emphasized |
-| --- | --- | --- |
-| [Coinbase · FDE Intern, HR Technology](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Hybrid NYC; 12 weeks, summer 2027; deadline not stated | Scoped internal applications, integrations, AI workflows; academic projects/hackathons count; explain technical decisions. Primary listing checked Nov 2. |
-| [Healthpeak · FDSE Internship](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/forward-deployed-software-engineer-internship) | NYC; summer 2027, 12 weeks, 40 hours/week; deadline not stated | Business-team prototypes and production software, AI-assisted coding, technical/nontechnical collaboration. Listed on [employer careers](https://healthpeak.com/careers/available-positions/); direct detail page was readable during research but a later fetch failed. Recheck before applying. |
-| [Dime · Forward Deployed Engineering Intern](https://www.ycombinator.com/companies/dime-2/jobs/Gk8Z0s5-forward-deployed-engineering-intern) | NYC; juniors and above; dates/deadline not stated | APIs, onboarding, workflow customization, troubleshooting, documentation. Employer-authored YC listing checked Nov 2; confirm timing directly. |
-| [Beacon Health · FDE Intern](https://www.beaconhealth.ai/team/forward-deployed-engineer-intern) | New York; in-person/hybrid/remote options; rolling for immediate, spring 2027, summer 2027 | Enrolled students; Python or TypeScript/JavaScript; substantial shipped work, browser automation and diagnostics. Primary page checked Nov 2. |
-| [Charta Health · Software Engineer, FDE / Platform Intern](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf) | NYC or SF, onsite; deadline not stated | At least second year completed; Python/TypeScript, debugging, tests, customer-facing healthcare software. Employer posting reviewed Nov 2. |
-| [Pace · FDE Intern](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) | NYC onsite; summer; specific year/deadline not established from reviewed employer text | Insurance operations, discovery, AI workflows, implementation and iteration. Employer posting reviewed Nov 2; confirm program dates. |
-| [Datasite · AI Transformation / FDE Intern](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | NYC hybrid; program dates/deadline not stated | Business discovery and AI prototypes; enterprise experience not expected. Employer search-index text reviewed; direct page was not text-readable. **Lead requiring confirmation.** |
-| [Palantir · internships](https://jobs.lever.co/palantir?commitment=Internship) | NYC commercial and US-government FDSE listings; requirements vary | Programming, customer problem-solving, data and deployment. Use the individual posting for graduation-year, work-authorization, and other requirements; read the eligibility terms for the specific opening. |
+[MongoDB's student program index](https://www.mongodb.com/company/careers/students-and-graduates) lists 2027 software-engineering internships with NYC among locations. Individual eligibility, pay, and deadlines were not confirmed here. This is an adjacent-role discovery link.
+
+Use [NJIT Career Development Services](https://www.njit.edu/careerservices/find-opportunities) and Handshake for additional local internships and part-time work. Search “software engineering intern,” “implementation,” “solutions,” and “applied AI,” too.
 
 </details>
 
 <details>
-<summary>Related part-time roles and programs</summary>
+<summary>Earlier leads to recheck</summary>
 
-## Closely related, potentially compatible with classes
+These links preserve earlier course research. **Their availability, dates and eligibility were not reconfirmed in this refresh.** Use the employer's current page before treating any as open. A failed or unreadable page is not proof that a role is closed.
 
-| Program | Schedule and work | Evidence status |
-| --- | --- | --- |
-| [Interplay · AI Labs Intern](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac) | NYC hybrid, 2–3 office days; 10–20 hours/week; frontend/backend/API tasks, QA, documentation, research | Employer posting reviewed Nov 2; currently enrolled/recent graduates or equivalent building experience; U.S. work authorization; dates/deadline not stated. Title is AI Labs, not FDE. |
-| [Fenwick · Forward Deployed Operations Intern](https://fenwick.wd1.myworkdayjobs.com/en-US/Fenwick_External_Careers/job/Forward-Deployed-Operations-Intern_R2964) | New York office eligible; 16+ hours/week; fall 2026 into winter 2027; internal AI workflows and prototypes | Primary employer posting reviewed Nov 2; student enrollment and programming/API/AI familiarity; deadline not stated. Operations title, with closely related work. |
+- [Coinbase · HR Technology FDE intern](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510)
+- [Healthpeak · FDSE internship](https://healthpeak.applytojob.com/apply/ss4v1Qi95q/forward-deployed-software-engineer-internship)
+- [Dime · FDE intern, employer-authored YC page](https://www.ycombinator.com/companies/dime-2/jobs/Gk8Z0s5-forward-deployed-engineering-intern)
+- [Charta Health · FDE / Platform intern](https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf)
+- [Datasite · AI Transformation / FDE intern](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255)
+- [Interplay · AI Labs intern](https://jobs.ashbyhq.com/interplay/bdf67758-1f20-4a01-8bb3-ccebfa79e9ac)
+- [Fenwick · Forward Deployed Operations intern](https://fenwick.wd1.myworkdayjobs.com/en-US/Fenwick_External_Careers/job/Forward-Deployed-Operations-Intern_R2964)
+- [Ascend AI · earlier university-hosted lead](https://capd.mit.edu/jobs/ascend-ai-forward-deployed-ai-engineer-intern/)
 
 </details>
 
-## Turn a posting into a learning plan
+## Make a two-role comparison
 
-Pick two local roles. Record their location, dates, student eligibility, three technical skills, and three examples of work. Map your existing evidence to those expectations, identify gaps, and choose one next learning step. Use the [internship research template](/templates/internship).
+For each role, record **link + date checked, location, program dates, deadline, eligibility, three skills, one piece of your evidence, and one gap**. If something is unclear, write “not confirmed” and name what you need to check.
 
-The October/Fall 2026 recruiting context includes summer 2027 opportunities. This is a dated research snapshot, not an archived guarantee that every posting had identical wording throughout October. Examples are not endorsements of employers, services, or hiring outcomes.
+You can pursue an opportunity while you are still learning. Be accurate about your skills; a class project alone does not meet every FDE requirement. [Career exploration guide](/career/explore) · [GitHub](/career/github) · [LinkedIn](/career/linkedin) · [Résumé](/career/resume).

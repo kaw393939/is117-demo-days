@@ -31,7 +31,7 @@ Show both projects and your contribution, with an accurate résumé, actual GitH
 - **Keep one record per project.** Update the [short template](/templates/four-milestones). Your group shares one record and submits once.
 - **Follow the class cycle:** introduction → next class: work, peer feedback, and GitHub issues → following class: submit and begin the next step. Attendance and participation are required under course/university policies.
 - **Keep A/B manageable.** Compare two options; share code, content, and data. Choose one to launch.
-- **Show progress in Canvas.** One checkpoint per active project each week: links and a short update. Keep detailed work on your project record; use GitHub issues for feedback and retests.
+- **Show progress in Canvas.** One checkpoint per active project in the current cycle: links and a short update. Use your section’s dates for the career and holiday exceptions. Keep detailed work on your project record; use GitHub issues for feedback and retests.
 
 [Check your dates](/course/schedule) · [Section 007: next class](/course/section-007#before-next-class) · [Section 005: next class](/course/section-005#before-next-class) · [Submissions and rubric](/course/milestones).
 

@@ -41,6 +41,6 @@ Research three relevant sites, two possible positions, and two short persona hyp
 - A [short process document](/templates/four-milestones), including research, stories, plan, feedback, changes, checks, and AI use.
 - The work plan and a brief contribution statement from each member.
 
-Each person adds a case study to their own portfolio. Both partners explain their work during the team demo.
+Each person adds a case study to their own portfolio. Both partners explain their work during the team demo. Keep final links in the shared review record; the separate final assessment reuses them and Demo Day evidence rather than asking for another report.
 
 [Assignment & simple rubric](/course/milestones) · [Due dates and class work time](/course/schedule).

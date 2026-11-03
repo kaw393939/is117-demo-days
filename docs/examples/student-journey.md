@@ -16,7 +16,7 @@
 
 The portfolio connects both business projects and explains Maya's role. The group's [fictional customer brief](https://github.com/kaw393939/is117-demo-days/blob/main/docs/public/samples/room-ready/customer/AGENTS.md) supports discovery practice; its answers are simulated.
 
-**Use the current schedule below.** The sample portfolio packet contains extra reference-site research; that is optional enrichment. In 007, the [career reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step) is portfolio Research. Submit it once, privately in Canvas. Carry its goals, intended reader, and evidence into the Plan.
+**The dated notes below follow Section 007.** Section 005 uses the same process on [its own dates](/course/section-005). The sample portfolio packet contains extra reference-site research; that is optional enrichment. In both sections, the [career reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step) is portfolio Research. Submit it once, privately in Canvas. Carry its goals, intended reader, and evidence into the Plan.
 
 [Optional class-by-class role-play and instructor findings](/examples/term-walkthrough).
 

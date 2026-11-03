@@ -42,6 +42,6 @@ Reuse and improve your Brand Studio work: audience promise, archetype/voice, ori
 
 ## What you submit
 
-Your selected site, alternate version, repository, and [short process document](/templates/four-milestones). Include the store in your portfolio and demonstrate a purchase at Demo Day.
+Your selected site, alternate version, repository, and [short process document](/templates/four-milestones). Include the store in your portfolio and demonstrate a purchase at Demo Day. Keep these links in the existing review record; the final grading entry reuses that work and your Demo Day explanation, with no second upload or report.
 
 [Assignment & simple rubric](/course/milestones) · [Due dates](/course/schedule) · [Learn research and user stories](/process/research-to-features).

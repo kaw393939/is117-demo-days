@@ -23,6 +23,13 @@ Plan this with your advisor so waiting for summer IS218 does not block another r
 
 Summaries: [NJIT 2026–27 catalog](https://catalog.njit.edu/undergraduate/computing-sciences/informatics/). Career connections are instructor interpretations; check each section’s syllabus for its tools and assignments.
 
+## Explore the connected course studios
+
+- [IS218 Studio](https://kaw393939.github.io/is218-studio/course/overview.html): programming, specifications, meaningful tests, reviewed changes and an application you can explain.
+- [IS373 Studio](https://kaw393939.github.io/is373-studio/course/overview.html): connect applications, content workflows, deployment and operational evidence.
+
+These guides show how the process develops across courses. Later checkpoint dates are labeled **planned** until their own Canvas courses post them; they are not extra IS117 work or registration guarantees.
+
 ## Spring 2027 sections
 
 | Course | When · Eastern | Section / CRN | Room |

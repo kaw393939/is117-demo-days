@@ -29,7 +29,7 @@ Other submission times are **11:30 a.m. in 005** and **8:30 a.m. in 007**. [005 
 
 ## What to work on in each cycle
 
-- **Research:** revisit three sites through design, brand character, and trust; compare two audience/need hypotheses. Bring them to the first feedback class.
+- **T-shirt/group Research:** revisit three sites through design, brand character, and trust; compare two audience/need hypotheses. Bring them to the first feedback class. **Portfolio Research uses the career role cards/reflection instead**, as explained below.
 - **Plan:** choose the promise, voice, visual approaches, and two honest persuasion elements; connect them to stories and checks in the same document. Reuse Brand Studio.
 - **Build:** make those decisions visible in the two working versions. Shared content and code are fine.
 - **Improve:** have a peer explain the offer and attempt the task; make a meaningful change and retest.
