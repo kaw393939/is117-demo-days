@@ -1,5 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
 import { nextTick, onMounted } from 'vue'
+import { withBase } from 'vitepress'
 import SampleAssessment from './SampleAssessment.vue'
 import LearningDiagram from './LearningDiagram.vue'
 import VersionComparison from './VersionComparison.vue'
@@ -34,6 +35,15 @@ export default {
         const url = new URL(link.getAttribute('href')!, location.href)
         if (url.origin === location.origin && url.pathname === location.pathname && url.hash === location.hash) revealHashTarget()
       }, true)
+      // Public student apps have no VitePress page module. Leave the SPA for them.
+      router.onBeforeRouteChange = (href: string) => {
+        const url = new URL(href, location.href)
+        if (url.origin === location.origin && url.pathname.endsWith('.html') &&
+            [withBase('/samples/'), withBase('/student-trial/')].some(prefix => url.pathname.startsWith(prefix))) {
+          location.assign(url.href)
+          return false
+        }
+      }
       router.onAfterRouteChange = async () => {
         await nextTick()
         revealHashTarget()

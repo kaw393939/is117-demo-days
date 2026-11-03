@@ -5,7 +5,8 @@ const start = { text: 'Start here', items: [
   { text: 'Four steps & grading', link: '/course/milestones' },
   { text: 'Class dates & due dates', link: '/course/schedule' },
   { text: 'Section 007: class-by-class', link: '/course/section-007' },
-  { text: 'See completed examples', link: '/examples/submissions/' }
+  { text: 'See completed examples', link: '/examples/submissions/' },
+  { text: 'Three-project student rehearsal', link: '/examples/student-trial' }
 ] }
 const career = [
   { text: 'Careers & next courses', items: [

@@ -1,5 +1,7 @@
 # One student journey: three connected projects
 
+[New: follow one fictional student through all three working projects, with candid process notes](/examples/student-trial).
+
 **Fictional student Maya Chen and partner Avery Ellis.** These are teaching examples, not real credentials, grades, attendance, or customer research. Fictional peer comments model the process; actual browser/SQLite checks are identified below.
 
 [Section 007 schedule](/course/section-007) · [GitHub reviews](/process/github-feedback) · [Download example packets](/downloads/is117-graded-student-submissions.zip).
