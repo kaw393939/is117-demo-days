@@ -21,6 +21,8 @@ All other deadlines are **8:30 a.m. Eastern**. All three final sites and links a
 
 ## What happens in every class
 
+**Use this page one class at a time:** find your date below, then open the matching stage and one example. Update your existing project record. You do not need to read every linked guide before starting.
+
 | Date | Class work | Submit by 8:30 a.m. |
 | --- | --- | --- |
 | Tue Nov 3 | Introduce individual T-shirt Research; inspect competitor examples and reuse Brand Studio. | Brand Studio keeps its own 11:59 p.m. deadline. |

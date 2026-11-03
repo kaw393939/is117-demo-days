@@ -12,6 +12,8 @@ Link the peer-feedback issue, your response, the changed work, and the check of 
 
 **Portfolio:** use your career role cards and reflection to identify your reader, goals, evidence, and gaps. Keep the full reflection private in Canvas. Link or summarize suitable findings in this record; the comparison below applies to the T-shirt/group projects.
 
+**T-shirt and group only:**
+
 - Compare three relevant sites: source/date, observation, implication. Add short notes on look, brand character, and honest reasons to trust or act. Identify direct competitors versus adjacent references.
 - Consider two ways to position your offer: who it serves and why they would choose it.
 - Write two short persona hypotheses: situation, goal, uncertainty, evidence, assumption. Choose a primary audience and explain why.
