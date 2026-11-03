@@ -1,45 +1,57 @@
 # Get your GitHub ready
 
-Your portfolio shows the result. GitHub shows the code and how you worked. Make it easy for someone new to the course to understand each project.
+Your portfolio shows the result. GitHub shows the code and how you worked. **Link your actual GitHub profile and the repositories for all three projects from your portfolio.** A profile link alone does not replace the project code links. A free account is enough.
 
-## Your checklist
+## Minimum checklist
 
-- Add a clear bio and your portfolio link.
-- Make your portfolio, T-shirt store, and group repository easy to find. Pin them where available.
-- Give each repository a useful name and short description.
-- Add a README: the page that explains the project when someone opens the repository.
-- Show your actual contribution and how you checked the work. In the process record, connect one customer need to a brand/design decision and a working feature; link the existing style guide.
+- [ ] My profile has a short bio and my portfolio link.
+- [ ] My portfolio links to its own repository, my T-shirt repository, and the shared group repository.
+- [ ] Each repository has a clear name, description, live demo link, and README.
+- [ ] The group README identifies each person's actual contribution and review work.
+- [ ] A visitor can open the code and follow the setup instructions.
 
-## What each project README needs
+The group uses **one shared repository**. Link to it and explain your role; you do not need to duplicate your partner's project. Keep private career reflections, passwords, and API keys out of public code.
 
-| Include | Answer this question |
+## Make each README useful
+
+A **README** is the introduction someone sees when opening a repository. Keep it short and link longer records.
+
+| Include | What a new reader needs |
 | --- | --- |
-| Purpose | Who is it for, and what does it help them do? |
-| Demo | Where can I try it? What is simulated? |
-| Setup | How do I run it, including the database if needed? |
-| Process | Where are the research, plan, feedback, and checks? |
-| Contribution | What did each person build and review? |
-| Limits and sources | What is unfinished? What code, images, or AI help did you use? |
+| Purpose and demo | Audience, main task, live link, and what is simulated. |
+| Setup | Exact steps to run the project, including SQLite where required. |
+| Process and checks | Links to research, specification, review issues, and test results. |
+| Contribution and credits | Your work, each teammate's work, starter code, images, and AI help. |
+| Limits | What is unfinished or works differently in the public preview. |
 
-Use clear commits and real reviews. “Fix required-field validation” tells a reader more than “update.” Commit counts alone do not show equal work. Keep passwords, API keys, and private information out of the repository.
+Use commits such as “Fix required-field validation” and issues that show a problem, response, and retest. Commit counts alone do not show equal work. [Use the class review routine](/process/github-feedback).
 
-## Optional: a profile README
+## Two filled examples
 
-GitHub can show a README on your personal profile. Put a nonempty `README.md` in a public repository named exactly like your username. This is separate from your portfolio website repository. [GitHub’s instructions](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
+These fictional examples show wording to adapt, not projects to claim as your own.
 
-```md
-# Hi, I'm [Name]
-I'm an NJIT student interested in [direction].
+**Maya — Campus Cotton README excerpt**
 
-## My course projects
-- [Portfolio](your-live-link)
-- [T-shirt store](your-repository-link)
-- [Group business](your-repository-link)
-  My contribution: [what you designed, built, and checked]
-```
+> A simulated white T-shirt store for a student comparing fit and total cost. The workflow covers size, quantity, order review, and confirmation. The public preview uses browser storage; the local Node/SQLite version demonstrates saved orders. I built the individual project with AI assistance and documented the checks and limits.
 
-Replace the placeholders. You can also [pin selected repositories](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile).
+[Working product, setup, and completed record](/examples/submissions/campus-cotton) · [Maya's filled profile README](/samples/maya-chen/github-profile.txt).
 
-**Two examples:** [Maya’s README draft](/samples/maya-chen/github-profile.txt) · [Jordan’s README draft](/samples/jordan-rivera/github-profile.txt).
+**Jordan — Study Slot README excerpt**
 
-[Portfolio requirements](/projects/portfolio) · [LinkedIn](/career/linkedin) · [Résumé](/examples/student-resume).
+> A team course project for requesting a study session. A request is pending until reviewed; it is not a confirmed booking. My contribution was request validation and the pending-confirmation flow, plus review of my partner's work. The project record separates our responsibilities and explains the public demo's storage limits.
+
+[Working product, setup, and completed record](/examples/submissions/study-slot) · [Jordan's filled profile README](/samples/jordan-rivera/github-profile.txt).
+
+## Use it effectively
+
+Make the three repositories easy to find on your profile. Pinning is helpful. A profile README is optional: it introduces you and points to your strongest work; it is separate from each project README. Explain a feature, its source, and one check before listing its technology as a skill.
+
+**Ready check:** ask a peer to start at your portfolio, find all three repositories, explain your group contribution, and run one project from its README. Fix missing steps and try again.
+
+## Official resources
+
+- [GitHub: what a repository README should explain](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+- [GitHub: pin repositories to your profile](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile).
+- [GitHub: add an optional profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
+
+[Portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist) · [LinkedIn guide](/career/linkedin) · [Résumé guide](/career/resume).

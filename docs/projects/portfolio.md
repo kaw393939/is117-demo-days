@@ -4,14 +4,16 @@ Build a website that introduces you and shows what you can do. Your reader might
 
 **Examples:** [Maya Chen](/examples/submissions/maya-chen) · [Jordan Rivera](/examples/submissions/jordan-rivera). Both are fictional students.
 
-## Include these six things
+## Portfolio ready checklist
 
-1. **A short introduction:** what you are studying, what interests you, and the work you want to do next.
-2. **Your T-shirt project:** the live site, code, and a short explanation of your choices.
-3. **Your group project:** the live site, code, and exactly what you contributed.
-4. **Your résumé:** readable online or as a download, based on skills and work you can demonstrate.
-5. **Your GitHub and LinkedIn:** clearly labeled links to your actual profiles.
-6. **A professional way to contact you.**
+- [ ] **Introduction:** what you study, what interests you, and the opportunity you want next.
+- [ ] **T-shirt case study:** working site, its GitHub repository, your choices, and checks.
+- [ ] **Group case study:** working site, shared GitHub repository, and your actual contribution.
+- [ ] **Portfolio source:** a link to this site's GitHub repository.
+- [ ] **Professional materials:** your actual [GitHub profile](/career/github), actual [LinkedIn profile](/career/linkedin), and a readable [résumé](/career/resume).
+- [ ] **Contact and review:** a professional way to reach you, plus a real peer walkthrough, meaningful change, and retest recorded in your process notes.
+
+These are parts of the portfolio, not extra assignments. Free GitHub and LinkedIn accounts are enough. Fictional examples use labeled profile drafts; **your final portfolio needs your own real profile and repository links**.
 
 ## Give the site your own style
 
@@ -30,18 +32,27 @@ A **case study** explains a project and your decisions. Answer:
 
 Use a few screenshots and links. Distinguish course projects from employment and your work from the whole team's work.
 
-## Compare and improve
+## Build it across the four stages
 
-Your [career role cards and reflection](/career/explore) are portfolio Research. Choose your intended reader and project evidence from those findings. For Plan, compare two short page approaches and define checkable stories. Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Build two versions using the same project content. Have a peer find a project, your contribution, and your résumé. Make at least one meaningful change from the walkthrough and check it again.
+| Stage | Add to the same portfolio and process record |
+| --- | --- |
+| **Research** | Use your [career role cards and reflection](/career/explore) to choose a reader, direction, and project evidence. Keep the reflection private in Canvas. |
+| **Plan** | Compare two short page approaches. Write checkable stories and list destinations for your profile, repository, and résumé links. |
+| **Build** | Make both versions with the same content. Add your actual profiles and repositories, a résumé draft, and honest case studies. Label unfinished work. |
+| **Improve** | Have a peer find a project, your contribution, code, résumé, and profiles. Record a meaningful feedback change, retest it, and verify every final link. |
 
-**Section 007 checkpoints:** at portfolio Build on November 24, your group project is still in progress. Include its current goal, planned and completed contributions labeled separately, and repository or prototype link. You do not need the finished group product early. At portfolio Improve on December 3, show the current group build and your actual work so far. Update the same case study and links by December 6 at 11:59 p.m., when all final sites must be ready.
+Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Use the [same review routine](/process/collaboration) as your other projects.
+
+**Group work follows a later deadline:** at portfolio Build (**005: November 23; 007: November 24**), show the group goal, actual work so far, and a repository/prototype link. Label planned work. At portfolio Improve **December 3**, show the current group build and your actual contribution. Update the same case study and links by **December 6 at 11:59 p.m.** The group’s finished product is not due early because it appears in the portfolio.
 
 ## Use it beyond class
 
 Practice introducing yourself and showing one project workflow. Use your portfolio in an application, at a Meetup or campus event, or in a conversation about a small client project. [Follow the professional preparation plan](/course/overview#meet-people-and-look-for-opportunities).
 
-## Get your profiles ready
+## Finish your professional materials
 
-[GitHub checklist](/career/github) · [LinkedIn checklist](/career/linkedin) · [Résumé example](/examples/student-resume) · [Fill-in résumé](/templates/resume).
+Each short guide has a checklist, two filled examples, and official resources:
+
+[GitHub profile & repositories](/career/github) · [LinkedIn profile](/career/linkedin) · [Résumé](/career/resume).
 
 [What to submit & grading](/course/milestones) · [Due dates](/course/schedule) · [Short case-study template](/templates/case-study).

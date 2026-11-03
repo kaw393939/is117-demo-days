@@ -1,46 +1,48 @@
-# Turn peer feedback into a useful issue
+# Record a review in GitHub
 
-**Bring your work to class.** A GitHub issue is a short, shared record of something to improve. Use issues in the repository for the project being reviewed. Use the course repository only for course-material problems or demo signup.
+Use the [five-step class review](/process/collaboration) first. An issue keeps the task, observation, response, and retest in one place. **Use the repository for the project being reviewed.** The course repository is for course-material problems or demo signup.
 
-## The class review loop
+## Open or update the issue
 
-1. **Show the current stage.** Share the record or version and one question/task. Research can be reviewed before a website exists.
-2. **Peer opens an issue.** Record the stage, version/link, task, expected result, observed confusion, and one useful suggestion. Be specific and respectful.
-3. **Owner responds.** Link the change or explain why a different decision makes sense. Do not make every suggestion automatically.
-4. **Check it again.** The peer retries or rereads the changed work and comments with the outcome. Close a resolved issue. If a reviewer is unavailable, document your own retest and ask the instructor how to complete the peer check; do not invent one.
-5. **Submit the evidence.** Add issue links and a sentence about the result to the same project record, then submit that record in Canvas.
-
-A working-class review should produce at least one actionable feedback issue for each active project. It can begin before class. Spread reviews across available time; you do not need to resolve every issue before submitting. Explain open issues and their next steps. Each final project still needs at least one meaningful change based on actual peer feedback and a retest.
-
-Keep a continuing issue open across stages if the same problem remains; link it again with an update rather than copying it. A reviewer can close their own issue after a successful retest. Repository owners or people with the needed repository permission can also close it. See [GitHub’s issue permissions](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue). If a peer cannot open an issue, check that Issues is enabled and they can access the repository; do not post private work to the course repository as a workaround.
-
-## Copy this small issue
+1. Open the project's repository, choose **Issues**, then **New issue**. If the same problem already has an issue, add a comment there instead.
+2. Give it a clear title and fill in the small record below. Include a live version or document link so another person can repeat the task.
+3. The owner comments with the decision and a link to the changed work, commit, or pull request. A suggestion is a proposal; explain if you choose another solution.
+4. The reviewer retries the task and comments with the version and result. Close the issue when the problem is resolved. Otherwise, record what remains and who will handle it.
+5. Put the issue link and a sentence about the result in your existing project record. Submit that record in Canvas as instructed; an issue alone is not an assignment submission.
 
 ```md
-Title: [Plan] Make the success check observable
-Project/version or record link:
+Title: [Stage] Brief description of the problem
+Version or record link:
 Reviewer and date:
-Task or question:
-Expected:
-Observed:
-Suggested improvement:
+Task / expected result:
+Observed result and its effect:
+Useful strength / possible improvement:
+
+Owner response and change link:
+Retest — who, date, version, result:
+Remaining problem / next step, if any:
 ```
 
-**Filled Plan example:** “The story says the request should be easy. I cannot tell what passes. Suggest: a request with an item and preferred window shows a reference and says pending confirmation.”
+<details>
+<summary>Access or closing problems?</summary>
 
-**Owner response:** “Updated story S2 and check C2; linked the change. We will test missing item and a valid request.”
+Check that Issues is enabled and the reviewer can access the repository. Do not move private work into the public course repository as a workaround. The issue's author or someone with the required repository permission can close it. See [GitHub's issue permissions](https://docs.github.com/en/issues/tracking-your-work-with-issues/administering-issues/closing-an-issue).
 
-**Reviewer check:** “I reread C2 and can explain the pass/fail result. Closing this planning issue. We still need to test the built form.”
+If the reviewer becomes unavailable, record your own retest honestly and ask the instructor how to complete the peer check. Do not label your own test as a peer test.
 
-## What to review at each stage
+</details>
 
-| Stage | Useful review question | Evidence of improvement |
+## Match the record to the stage
+
+| Stage | Useful task | What a change might improve |
 | --- | --- | --- |
-| Research | Does the chosen audience follow from observations, or is it an assumption? | Clarified source, niche, persona, or limitation. |
-| Plan | Can another person check the story’s success? Is team effort fair? | Revised story, feature, check, or work split. |
-| Build | Can a visitor complete the same task in A/B? | A working fix and an observed comparison. |
-| Improve | Did the change address the observed problem? | Before/after explanation and retest result. |
+| Research | Explain which observations support the chosen audience. | Source, niche, persona, or clearly labeled assumption |
+| Plan | Explain how to tell whether a user story passes. | Acceptance check, feature scope, or fair work split |
+| Build | Try the same customer task in A and B. | A working interaction or clearer decision about versions |
+| Improve | Retry the task that caused the original problem. | Evidence that the feedback-driven change helped |
 
-We assess **Complete, Thoughtful, Checked, and Understood**, not a raw count of closed issues. A closed issue without evidence is not a completed review. Keep grades and private personal circumstances in Canvas. AI can help phrase feedback, but actual peer observations must come from the person who tried the work.
+Use one continuing issue when useful; there is no required number of new or closed issues. Each final project needs an actual peer walkthrough, a meaningful feedback-driven change, and a retest. We grade **Complete, Thoughtful, Checked, and Understood**, including the evidence and your explanation. A closed issue by itself does not prove the work was checked.
 
-[Completed teaching walkthrough](/examples/student-journey) · [Section 007 class plan](/course/section-007) · [Rubric](/course/milestones#how-each-step-is-graded).
+Keep grades and personal circumstances in Canvas. AI may help phrase feedback, but the observation and reviewer name must describe what actually happened.
+
+[Filled review examples](/process/collaboration#review-examples) · [Section 007 class plan](/course/section-007) · [Rubric](/course/milestones#how-each-step-is-graded).

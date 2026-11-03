@@ -1,20 +1,31 @@
 # Running rehearsal notes — actual work November 2, 2026
 This is an assistant walkthrough using a fictional student, not a study of typical NJIT students. No attendance, instructor conversation, peer interview, submission or grade was manufactured. Future dates are scenario checkpoints. Times/hours below are planning assumptions, not a measured student workload.
 
-| ID | Where/when found | Actual observation | Response / remaining question |
-| --- | --- | --- | --- |
-| C1 | Canvas Student View, home → weekly page → Modules | Published guide has dates, but the new submission boxes/modules are absent because they remain unpublished. | Real end-to-end submission cannot be tested. Preserve requested draft state. Instructor must verify/publish before launch. This is the main remaining blocker. |
-| C2 | Comparing weekly dates | “One each week” is only an approximate rhythm: portfolio career is Thursday Nov 12; most checkpoints Tuesday; Thanksgiving group Build is Thursday Dec 3; Improve Sunday Dec 6. | Existing table states exceptions accurately. Use date table, not a promise of literally one deadline every seven days. |
-| C3 | Nov 10 Plan vs Nov 12 career deadline | Portfolio Plan begins before final career Research is due. | Guide says draft findings can start Plan. No second reflection or extra Research report. Student must bring draft role findings Nov 10. |
-| C4 | Nov 24 portfolio vs Dec 3 group Build | A final group story cannot exist yet. | Show in-progress case study, label actual/planned work, update same URL later. Existing guide covers it; retain this reminder. |
-| C5 | Reviewing stages across guides | Many optional examples and guides could look like extra reading. | Worked from one Section 007 date + matching stage + one example. Keep four stages inside one record; don't create a report for every guide. Suggest a single “before next class” card. |
-| C6 | Local backend vs public demo | GitHub Pages cannot run Node/SQLite. | Label storage mode in both products; run local backend and include source/setup and persistence evidence. Don't mistake browser-storage success for SQLite proof. |
-| C7 | Finishing grade | Real peer/partner work cannot be replaced by roleplay. | All invented feedback/client/partner material explicitly simulated. No fake GitHub issues or instructor responses. Real participants required for remaining evidence. |
-| S1 | Trying size jump | The bag anchor can skip the main size explanation. | Added compact flat-garment cm reminder in bag; repeat quantity/size and charges near receipt. |
-| G1 | Saving repair inquiry A then B | Receipt says Pending review; saved history says Pending confirmation. | Unified backend status to Pending review; new clean-database retest required. |
-| P1 | Desktop portfolio screenshot | Five-line headline hides both project cards. | Smaller headline/less hero padding; screenshot and task navigation retest. |
-| C9 | Clicking a working product from the built VitePress guide | The SPA router showed a false 404 although the standalone HTML existed. | Added explicit same-tab navigation for public sample/trial HTML; retest real clicks in new and existing examples. |
-| C8 | Demo preparation | No actual signed-up slot exists for this fictional person. | Prepare 10-minute pair outline only; do not occupy a real student's slot. |
+## Issues fixed or clarified
+
+The table records current status. Earlier observations describe what failed before the change; they are not outstanding retest requests.
+
+| ID | What was confusing or failed | Change and verification |
+| --- | --- | --- |
+| S1 · Fixed and retested | A size shortcut could skip the measuring explanation. | Added flat-garment cm guidance in the bag and repeated size, quantity and charges. Browser checkout saved M × 2 as **DEMO-231445BE**, $48, no payment. |
+| G1 · Fixed and retested | Repair receipt said Pending review; saved history said Pending confirmation. | Standardized new records to **Pending review**. A fresh-database browser retest saved **DEMO-1A6375EA**; receipt and history agree that no appointment is confirmed. |
+| P1 · Fixed and retested | A five-line portfolio headline hid both project cards. | Reduced headline size and hero space. The new desktop screenshot shows both project headings on the first screen; project links and résumé/profile drafts opened. |
+| C9 · Fixed and retested | VitePress intercepted standalone example HTML and showed a false 404. | Added normal same-tab navigation for sample/trial HTML. Actual guide-to-product clicks were retested in both the new trial and existing examples. |
+| C2 · Dates clarified | “One each week” suggested a literal seven-day deadline pattern. | Keep the [Section 007 date table](/course/section-007) authoritative: career Research Nov 12, group Build Dec 3 and group Improve Dec 6 are exceptions. No extra assignment was added. |
+| C3 · Handoff clarified | Portfolio Plan starts Nov 10 before the career reflection is due Nov 12. | Bring draft role findings Nov 10; use the final reflection to refine the same Plan. No second reflection or extra portfolio Research report. |
+| C4 · Handoff clarified | Portfolio Build is due before the group product finishes. | Show the group story as **in progress**, separate actual work from planned work, then update the same URL. |
+| C5 · Route simplified | Optional guides and examples could look like extra assignments. | Start at [Before next class](/course/section-007#before-next-class), follow the current stage and use one example. Keep one evolving record per project. Use the [collaboration and review routine](/process/collaboration) during class. |
+| C6 · Evidence clarified | A successful GitHub Pages order could look like proof of SQLite. | Both products label storage mode. Public previews use browser storage; the [local setup and test evidence](/examples/trial-setup) demonstrate Node/SQLite, including persistence after restart. One does not prove the other. |
+
+## What remains untested
+
+| ID | Remaining limit | Next action |
+| --- | --- | --- |
+| C1 · Canvas check pending | Student View can reach the published guide, but the new submission boxes/modules remain unpublished. Actual submission and group-assignment behavior were not tested. | Preserve the drafts for instructor review. After the instructor publishes the intended items and forms real teams, verify student access, the submission path and group membership. Do not mark this complete from an instructor preview. |
+| C7 · Real participants required | Roleplayed customer/partner feedback cannot establish teamwork or a human peer review. Fictional profile drafts are not owned professional accounts. | Real students need contribution evidence, an actual peer's issue → response → change → retest, and working GitHub/LinkedIn links. The [portfolio checklist](/projects/portfolio) and [GitHub](/career/github), [LinkedIn](/career/linkedin) and [résumé](/career/resume) guides show the expected result. |
+| C8 · Expected simulation limit | Nina has no real demo signup. | Keep the 10-minute pair outline as a rehearsal. Do not occupy a real student's slot for a fictional person. Actual students must sign up. |
+
+No new human participation, Canvas submission or signup has been claimed in this update.
 
 ## Class rhythm rehearsal and evidence carried forward
 - Nov 3 introduce shirt Research; Nov 5 work/review and teams/career launch → Nov 10 shirt Research carries audience into Plan.
@@ -33,6 +44,18 @@ These are not messages from the instructor.
 
 ## Workload assumptions to validate with actual students
 A novice with the starter and AI might budget about 2–3 focused hours for each Research/Plan record, 4–6 for each build, and 1–2 for review/fixes, partly in class; backend setup may add time. This estimate is unmeasured and likely varies widely. Ask students to log actual time before treating it as a course promise. Four records/stages do not mean four separate websites. Stop adding features once the stories pass.
+
+## Instructor next step: a small student pilot
+
+**Pending; not conducted.** Ask two or three volunteers to use the student-facing pages without coaching. This is a short check of the instructions, not a new graded assignment.
+
+1. From the course outline, find the next class, what to bring, what happens in class and the next submission date.
+2. Find the current project's requirements, one relevant example and the portfolio's LinkedIn, GitHub repositories and résumé checklist.
+3. Explain what the public preview proves and what must be shown with local SQLite.
+4. Try one real peer task using the review routine: observe, give specific feedback, record an issue, make a change and retry.
+5. **Only after instructor publication:** check the real Canvas submission path and the intended team behavior. Do not submit or publish on a volunteer's behalf during an instruction-only pilot.
+
+Record each task's elapsed time, first wrong turn, question asked and whether the student could finish without help. Ask students what they thought they had to submit and which reading felt optional. Fix repeated confusion before adding more material. No volunteers are available in this assistant rehearsal, so these checks remain pending.
 
 ## Ready for instructor review
 Three final prototypes + A/B + 12 stage records/sections + résumé/profile drafts + private career example + test evidence + source. Not ready to claim genuine student completion: draft submissions hidden, actual teammates/peers and accounts absent, application/networking not performed, no verified attendance or verbal explanation.

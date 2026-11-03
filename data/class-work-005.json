@@ -1,0 +1,348 @@
+{
+  "section": "005",
+  "courseId": 70710,
+  "meeting": "Monday/Thursday · 11:30 a.m.–12:50 p.m. · CKB 106",
+  "timezone": "America/New_York",
+  "checkpoints": [
+    {
+      "key": "shirt-research",
+      "title": "T-shirt Research",
+      "date": "2026-11-09",
+      "time": "11:30 a.m.",
+      "assignmentId": 769124
+    },
+    {
+      "key": "portfolio-research",
+      "title": "Portfolio Research: career exploration",
+      "date": "2026-11-12",
+      "time": "11:30 a.m.",
+      "assignmentId": 769132
+    },
+    {
+      "key": "shirt-plan",
+      "title": "T-shirt Plan",
+      "date": "2026-11-16",
+      "time": "11:30 a.m.",
+      "assignmentId": 769126
+    },
+    {
+      "key": "portfolio-plan",
+      "title": "Portfolio Plan",
+      "date": "2026-11-16",
+      "time": "11:30 a.m.",
+      "assignmentId": null
+    },
+    {
+      "key": "group-research",
+      "title": "Group Research",
+      "date": "2026-11-16",
+      "time": "11:30 a.m.",
+      "assignmentId": 769125
+    },
+    {
+      "key": "shirt-build",
+      "title": "T-shirt Build A/B",
+      "date": "2026-11-23",
+      "time": "11:30 a.m.",
+      "assignmentId": 769128
+    },
+    {
+      "key": "portfolio-build",
+      "title": "Portfolio Build A/B",
+      "date": "2026-11-23",
+      "time": "11:30 a.m.",
+      "assignmentId": null
+    },
+    {
+      "key": "group-plan",
+      "title": "Group Plan",
+      "date": "2026-11-23",
+      "time": "11:30 a.m.",
+      "assignmentId": 769127
+    },
+    {
+      "key": "shirt-improve",
+      "title": "T-shirt Improve",
+      "date": "2026-12-03",
+      "time": "11:30 a.m.",
+      "assignmentId": 769130
+    },
+    {
+      "key": "portfolio-improve",
+      "title": "Portfolio Improve",
+      "date": "2026-12-03",
+      "time": "11:30 a.m.",
+      "assignmentId": null
+    },
+    {
+      "key": "group-build",
+      "title": "Group Build A/B",
+      "date": "2026-12-03",
+      "time": "11:30 a.m.",
+      "assignmentId": 769129
+    },
+    {
+      "key": "group-improve",
+      "title": "Group Improve",
+      "date": "2026-12-06",
+      "time": "11:59 p.m.",
+      "assignmentId": 769131
+    }
+  ],
+  "classes": [
+    {
+      "date": "2026-11-02",
+      "label": "Mon Nov 2 · Start T-shirt Research",
+      "bring": "Your Brand Studio work and three relevant brand links.",
+      "work": "Connect competitor observations to two possible audiences and brand directions.",
+      "review": "Ask a classmate which observation supports your intended audience.",
+      "update": "Add the comparison, two short personas and your choice to the existing T-shirt record.",
+      "due": [],
+      "next": [
+        "shirt-research"
+      ],
+      "guide": {
+        "text": "Research guide",
+        "link": "/process/find-your-angle"
+      },
+      "example": {
+        "text": "T-shirt example",
+        "link": "/examples/submissions/campus-cotton"
+      },
+      "note": "Brand Studio keeps its own November 2, 11:59 p.m. deadline and original rubric."
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Thu Nov 5 · Research workshop and teams",
+      "bring": "Your T-shirt research draft and two career descriptions to explore.",
+      "work": "Work on T-shirt Research, form teams, and launch career exploration as portfolio Research.",
+      "review": "Trade one specific research observation and question; respond in the project issue.",
+      "update": "Revise the T-shirt record. Keep career cards/reflection private; record team members.",
+      "due": [],
+      "next": [
+        "shirt-research",
+        "portfolio-research"
+      ],
+      "guide": {
+        "text": "Review routine",
+        "link": "/process/collaboration"
+      },
+      "example": {
+        "text": "Career example",
+        "link": "/examples/career-reflections"
+      },
+      "note": ""
+    },
+    {
+      "date": "2026-11-09",
+      "label": "Mon Nov 9 · Start plans and group Research",
+      "bring": "Submitted T-shirt Research, draft career findings, and a group business idea.",
+      "work": "Begin T-shirt/portfolio plans. Discuss roles; begin the group comparison.",
+      "review": "Can someone explain your chosen reader and check a proposed user story?",
+      "update": "Continue each project record; use draft career findings without making a second portfolio Research report.",
+      "due": [
+        "shirt-research"
+      ],
+      "next": [
+        "portfolio-research"
+      ],
+      "guide": {
+        "text": "Plan guide",
+        "link": "/process/specifications"
+      },
+      "example": {
+        "text": "Career example",
+        "link": "/examples/career-reflections"
+      },
+      "note": ""
+    },
+    {
+      "date": "2026-11-12",
+      "label": "Thu Nov 12 · Plan and research workshop",
+      "bring": "T-shirt/portfolio plan options, group Research, and private career reflection.",
+      "work": "Improve the two individual plans and the group audience choice.",
+      "review": "Swap roles: check a story and its success condition; discuss one career interest/gap.",
+      "update": "Update the same records and one continuing issue where relevant.",
+      "due": [
+        "portfolio-research"
+      ],
+      "next": [
+        "shirt-plan",
+        "portfolio-plan",
+        "group-research"
+      ],
+      "guide": {
+        "text": "Review routine",
+        "link": "/process/collaboration"
+      },
+      "example": {
+        "text": "Portfolio checklist",
+        "link": "/projects/portfolio"
+      },
+      "note": ""
+    },
+    {
+      "date": "2026-11-16",
+      "label": "Mon Nov 16 · Start individual builds and group Plan",
+      "bring": "Your three checkpoint records and the local T-shirt backend starter/setup.",
+      "work": "Build the two individual A/B approaches; turn group findings into a small spec and fair work split.",
+      "review": "Can a partner tell what passes and who owns/reviews each group task?",
+      "update": "Add current build links and actual contributions; plan SQLite as part of the T-shirt workflow.",
+      "due": [
+        "shirt-plan",
+        "portfolio-plan",
+        "group-research"
+      ],
+      "next": [
+        "shirt-build",
+        "portfolio-build",
+        "group-plan"
+      ],
+      "guide": {
+        "text": "Plan guide",
+        "link": "/process/specifications"
+      },
+      "example": {
+        "text": "Group example",
+        "link": "/examples/submissions/room-ready"
+      },
+      "note": ""
+    },
+    {
+      "date": "2026-11-19",
+      "label": "Thu Nov 19 · Build and group-plan workshop",
+      "bring": "Working individual versions, profile/résumé drafts, and the group Plan.",
+      "work": "Try A/B, improve links and stories, and integrate small changes early.",
+      "review": "A peer tries the same task in both versions without coaching; group partners cross-review.",
+      "update": "Link observations, changes and checks. Distinguish public preview from local SQLite.",
+      "due": [],
+      "next": [
+        "shirt-build",
+        "portfolio-build",
+        "group-plan"
+      ],
+      "guide": {
+        "text": "Review routine",
+        "link": "/process/collaboration"
+      },
+      "example": {
+        "text": "T-shirt example",
+        "link": "/examples/submissions/campus-cotton"
+      },
+      "note": ""
+    },
+    {
+      "date": "2026-11-23",
+      "label": "Mon Nov 23 · Improve individuals; start group Build",
+      "bring": "Individual A/B builds and the shared group Plan.",
+      "work": "Choose individual launch directions; start the group build. Review final improvement expectations now.",
+      "review": "Check résumé/profile/repository links and actual contributions; group partners test each other’s slice.",
+      "update": "Mark the portfolio group case study in progress. Record current work separately from planned work.",
+      "due": [
+        "shirt-build",
+        "portfolio-build",
+        "group-plan"
+      ],
+      "next": [
+        "shirt-improve",
+        "portfolio-improve",
+        "group-build"
+      ],
+      "guide": {
+        "text": "Build checks",
+        "link": "/process/quality"
+      },
+      "example": {
+        "text": "Portfolio checklist",
+        "link": "/projects/portfolio"
+      },
+      "note": "No class Thursday November 26. November 30–December 3 is work/review/catch-up time with no new topic."
+    },
+    {
+      "date": "2026-11-30",
+      "label": "Mon Nov 30 · Protected work and reviews",
+      "bring": "All three working projects, one task per review, and open issues.",
+      "work": "Finish individual walkthroughs and fixes; test and integrate the group workflow.",
+      "review": "A real peer tries the task; capture a meaningful obstacle and the change/retest.",
+      "update": "Update existing records with evidence, limits and each member’s actual work.",
+      "due": [],
+      "next": [
+        "shirt-improve",
+        "portfolio-improve",
+        "group-build"
+      ],
+      "guide": {
+        "text": "Review routine",
+        "link": "/process/collaboration"
+      },
+      "example": {
+        "text": "Group example",
+        "link": "/examples/submissions/room-ready"
+      },
+      "note": ""
+    },
+    {
+      "date": "2026-12-03",
+      "label": "Thu Dec 3 · Submit checkpoints; finish and rehearse",
+      "bring": "Individual final-review records and the group A/B build.",
+      "work": "Finish group walkthroughs, changes/retests, missed reviews and demo rehearsal.",
+      "review": "Verify final links and professional materials; both partners explain their own work.",
+      "update": "Keep the same individual URLs current through December 6; no extra individual assignment.",
+      "due": [
+        "shirt-improve",
+        "portfolio-improve",
+        "group-build"
+      ],
+      "next": [
+        "group-improve"
+      ],
+      "guide": {
+        "text": "Review routine",
+        "link": "/process/collaboration"
+      },
+      "example": {
+        "text": "Portfolio checklist",
+        "link": "/projects/portfolio"
+      },
+      "note": "Group Improve and all final sites/links are ready Sunday December 6 at 11:59 p.m. Eastern."
+    },
+    {
+      "date": "2026-12-07",
+      "label": "Mon Dec 7 · Demo Day",
+      "bring": "Your assigned demo slot, portfolio, both projects and working links.",
+      "work": "Present if scheduled; support classmates and give useful feedback.",
+      "review": "Explain one decision, your actual contribution and a verified improvement.",
+      "update": "Keep the same published URLs; note any instructor-requested fixes.",
+      "due": [],
+      "next": [],
+      "guide": {
+        "text": "Presentation format",
+        "link": "/demo-days/"
+      },
+      "example": {
+        "text": "Section 005 slots",
+        "link": "/demo-days/section-005"
+      },
+      "note": "Follow your confirmed slot. Pairs use 10 minutes; trios use 12."
+    },
+    {
+      "date": "2026-12-10",
+      "label": "Thu Dec 10 · Demo Day",
+      "bring": "Your assigned demo slot, portfolio, both projects and working links.",
+      "work": "Present if scheduled; support classmates and give useful feedback.",
+      "review": "Show actual evidence and clearly state unfinished work.",
+      "update": "Keep the same published URLs; follow Canvas for any remaining instructor directions.",
+      "due": [],
+      "next": [],
+      "guide": {
+        "text": "Presentation format",
+        "link": "/demo-days/"
+      },
+      "example": {
+        "text": "Section 005 slots",
+        "link": "/demo-days/section-005"
+      },
+      "note": "The December 22 overflow/redo arrangement remains in the Demo Days guide."
+    }
+  ]
+}

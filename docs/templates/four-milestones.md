@@ -8,7 +8,7 @@ Already using `SPEC.md` from Brand Studio? Extend it with these sections, or lin
 
 ## Feedback at every stage
 
-Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Portfolio Research is the career role cards and reflection. In 007 it is due November 12; Plan is due November 17. The group runs about a week behind; follow the section plan.
+Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Portfolio Research is the career role cards and reflection. Research is due November 12 in both sections; Plan is due November 16 in 005 and November 17 in 007. The group runs about a week behind; follow the section plan.
 
 ## 1. Research
 
@@ -48,6 +48,6 @@ Repeat a final walkthrough on the selected version if the comparison happened ea
 - Selected live version, alternate version, repository, and setup instructions.
 - Testing results: main path, missing/error state, keyboard, phone-sized screen, and feedback retest. Mark unrun checks as not run.
 - AI tool/tasks, your checks, individual contribution, and known limitations.
-- A short case study explaining the process. The portfolio also needs your résumé, GitHub, and LinkedIn.
+- A short case study explaining the process. The portfolio also needs a résumé, actual GitHub and LinkedIn profiles, and links to the portfolio, T-shirt, and shared group repositories. [Use the portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist).
 
 Keep it short. A few specific observations and decisions are more useful than pages of generic AI-written text.

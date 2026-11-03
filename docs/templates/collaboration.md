@@ -1,20 +1,34 @@
-# Collaboration record template
+# Collaboration record starter
+
+Copy the parts you need into your **existing group project record**. Keep it short and update it as you work. Follow the [collaboration and review guide](/process/collaboration).
 
 Team / section / project: …
 
-## Equal workload plan
+## Share and adjust the work
 
-| Task / spec ID | Design/build/QA work | Owner | Reviewer | Planned effort | Actual effort / revision |
+| Task / spec ID | Design, build, and QA work | Owner | Reviewer | Planned effort | Actual effort / adjustment |
 | --- | --- | --- | --- | --- | --- |
 | … | … | … | … | … | … |
 
-Totals by member: …  
-Rebalancing decisions and dates: …
+- How each member contributes to design, development, and testing: …
+- How the parts connect, and when we will integrate them: …
+- Workload change, reason, and date: …
 
-## Individual contributions
+Estimate effort rather than counting commits, issues, or features. Rebalance remaining work when a task takes longer than expected.
 
-For each member: specific work, links to issues/commits/reviews, integration work, QA of another member's work, and learning.
+## Keep review links
 
-## Review and handoff
+| Date / version | Owner and peer reviewer | Task | Issue or review link | Change and retest result |
+| --- | --- | --- | --- | --- |
+| … | … | … | … | … |
 
-Feedback received, change made, evidence checked, known limits, and how another person can continue the project.
+Swap owner/reviewer roles; a trio rotates observer as well. Reuse an issue if the same problem continues. There is no new issue quota and no separate review report.
+
+## Explain each person's contribution
+
+- **Member:** …
+- **Work completed and links:** …
+- **Another member's work I reviewed or tested:** …
+- **What I learned / what remains:** …
+
+Each final project needs a walkthrough by a real peer, at least one meaningful change based on that feedback, and a retest. Label simulated or AI feedback accurately. Keep personal circumstances and grades in Canvas.

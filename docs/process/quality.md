@@ -1,34 +1,48 @@
-# Test your site and get feedback
+# Check your work
 
-**Quality assurance (QA)** means checking the work. It asks whether the result works for the intended user and matches the specification. Keep a short record with the scenario, expected result, actual result, date, reviewer, and any fix/retest.
+**Quality assurance (QA) means checking whether the result works for its intended user and matches the specification.** Start with the main task. Then check a likely mistake and the way the site explains the result.
 
-## Check the meaningful paths
+For peer feedback, use the [five-step review](/process/collaboration). Record observations and changes in a [GitHub issue](/process/github-feedback), then link it from your existing project record. Each final project needs an actual peer walkthrough, a meaningful change based on the feedback, and a retest. A simulated customer or AI review does not replace the peer.
 
-| Area | What to check |
+## Before next class
+
+- **Bring:** a link to your current record or version and one task you want checked.
+- **Do in class:** try a peer's task without coaching, then swap roles. Group members test each other's work.
+- **Update:** record the observation, choose a response, make the change, and retry the task.
+- **Submit:** use the same project record and the due date in your section's Canvas assignment. Do not add a separate review report.
+
+Attendance is required. The [class schedule](/course/schedule) reserves time for this work; a submission does not replace participation.
+
+## Choose checks that fit your project
+
+| Check | What to try |
 | --- | --- |
-| Core workflow | Complete the main customer task from beginning to end |
-| Invalid and missing input | Explain errors and preserve useful information |
-| Data | Verify expected reads/writes, totals, duplicate handling, and persistence where specified |
-| Responsive design | Review desktop and narrow screens; check navigation, forms, and overflow |
-| Accessibility basics | Keyboard operation, visible focus, labeled inputs, useful headings and alternative text |
-| Content and persuasion | Audience, benefit, next action, pricing, and claims are clear and consistent |
-| Deployment | Live links, assets, deep links, setup steps, and any server/database dependency work |
-| AI behavior, if present | Try incorrect/unexpected input, identify limits, and define human review/fallback |
+| Main workflow | Complete the customer task from beginning to end. Check the receipt or result as well as the form. |
+| Mistakes | Leave a required field blank or enter an invalid value. Check that the error explains how to continue and preserves useful input. |
+| Data and totals | Check the expected price, saved fields, status, and persistence. Test duplicate handling where your spec requires it. |
+| Narrow screen | Try navigation and forms at a phone width. Check for clipped controls, unreadable text, and sideways overflow. |
+| Accessibility basics | Use the keyboard, look for visible focus, and check input labels, headings, and useful image descriptions. |
+| Content | Can a peer explain who it is for, the benefit, the next action, and any price or limitation? Verify evidence for persuasive claims. |
+| Live site and setup | Open important links and assets. Follow the README on a fresh start; identify any server or database dependency. |
+| AI feature, if present | Try unexpected input. Check limits, output validation, sensitive information handling, and the human fallback you specified. |
 
-For the group project, each member tests another member's work and records an issue or review result. Use automated tests for important logic when appropriate and manual checks for the experience. A passing build alone is not a usability test.
+Use automated checks for important logic when useful and manual checks for the experience. A passing build does not show that a person can use the site. A public static preview also does not prove that the local SQLite backend works: run the backend and check its saved data separately.
 
-## Check understanding before explaining
+<details>
+<summary>What counts as useful test evidence?</summary>
 
-Ask your peer: **What is offered? Who is it for? What gives a reason to trust it? What would you do next?** Then give the main task and observe without coaching. Check whether the copy and visual direction support the intended promise. Verify the evidence behind persuasion claims; a displayed review count is not independent proof of quality.
+Keep the version, task, expected result, actual result, date, tester, and fix/retest. A short issue comment can hold this; you do not need another document.
 
-## Progress reviews
+Example: “Nov. 19, build A, Sam tested: submit a request with no service selected. Expected: explain missing service and keep the notes. Actual: the notes disappeared. Fixed in linked commit. Sam retried: error appeared and notes remained.”
 
-Use [one submission per active project each week](/course/milestones#how-to-submit). The [class schedule](/course/schedule) reserves time for partner work and feedback. Attendance is required. During each stage, use [GitHub issues](/process/github-feedback) to record peer observations, your response, and the check of the changed work.
+Ask a peer what the site offers and what they would do next **before explaining it**. Observe the task without coaching. Review a claim's evidence rather than treating a displayed review count or trust badge as proof.
 
-For each review, retain: the version shown, reviewer/date, feedback, the action taken, and the result. Each of the three projects must include an actual peer walkthrough, at least one meaningful feedback-driven change, and a retest. Document this in each case study.
+</details>
 
 <LearningDiagram kind="feedback" />
 
-## Explain limitations
+## Be clear about limits
 
-A best attempt can have incomplete features. Identify them clearly, show the working portion, and explain the next step. Do not represent a mocked interaction as a live integration or an untested claim as a measured result. See the [QA template](/templates/qa).
+A best attempt can have unfinished features. Identify them, show the working portion, and explain the next step. Label simulated payment, sample data, mocked integrations, and untested claims accurately. Keep unresolved issues open with a next action.
+
+[QA record starter](/templates/qa) · [How to submit](/course/milestones#how-to-submit).

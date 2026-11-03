@@ -31,7 +31,7 @@ Use GitHub handles or public-facing names. Keep student IDs, grades, passwords, 
 ## Before you present
 
 - Open all three sites and repositories. Check the links.
-- Make your résumé, GitHub, LinkedIn, and project stories easy to find.
+- Use the [portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist): résumé, actual GitHub/LinkedIn profiles, all three repositories, and project stories.
 - Prepare synthetic demo data and practice the main task plus one missing-input case.
 - Be ready to explain your own work and what AI helped with.
 - Keep backup screenshots or a short recording in case a live dependency fails.

@@ -25,6 +25,8 @@ Your **public site** lets a visitor try the store. Your **backend** is the serve
 - Include the backend code and the command needed to run it. Say where the SQLite file is created.
 - Try one synthetic order, inspect its saved record, then reload or restart and check what remains. Record the actual result and any limits.
 
+**Keep the proof short:** “Public mode: [browser simulation or live backend]. Local start: [command]. Persistence check: [synthetic reference and what remained after restart].” Put it in the existing record, not another report.
+
 Browser storage alone does not meet the SQLite requirement. If your public host cannot run the backend, provide runnable local setup steps and demonstrate that version. [Try the class's working SQLite example](/examples/submissions/run-examples).
 
 ## Follow the four steps

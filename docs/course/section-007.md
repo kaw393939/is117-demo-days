@@ -6,6 +6,12 @@
 
 [Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. New Canvas project entries remain unpublished while setup is verified.
 
+## Before next class
+
+Choose the date you are preparing for. Bring the current work, use class time for feedback and changes, then submit the same record at the next checkpoint. Open one matching guide and one example.
+
+<ClassWorkCard section="007" />
+
 ## Three projects, staggered deadlines
 
 **Career exploration is your portfolio Research.** Keep its full reflection private in Canvas; use its audience, goals, and evidence to plan your portfolio. The group starts after team formation and runs about a week behind the T-shirt project.

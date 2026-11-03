@@ -2,7 +2,7 @@
 
 Build a **[T-shirt store](/projects/white-tshirt)**, a **[group business site](/projects/group-project)**, and your **[personal portfolio](/projects/portfolio)**. Practice a professional process using AI to solve a realistic business problem. You do not need to be an expert.
 
-Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional reading; the résumé and actual GitHub/LinkedIn links are still required in your portfolio. [See the visual roadmap](/course/overview#how-to-manage-the-work).
+Copy [the short template](/templates/four-milestones) and check [your dates](/course/schedule). Work on the current step. Detailed templates and career articles are optional reading; the résumé, actual GitHub/LinkedIn profiles, and all three project repository links are required in your [portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist). [See the visual roadmap](/course/overview#how-to-manage-the-work).
 
 ## What to submit at each step
 
@@ -37,7 +37,7 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 ## How to submit
 
-**One submission per active project each week.** Keep three evolving records: your T-shirt record, your portfolio record, and the team’s shared business record. Update the current stage; do not make a new report each week.
+**One checkpoint per active project in the current cycle.** Use your section’s actual dates, including the career/Thanksgiving exceptions. Keep three evolving records: your T-shirt record, your portfolio record, and the team’s shared business record. Update the current stage; do not make a new report each week.
 
 For **section 007**, T-shirt Research is due November 10. Career exploration is portfolio Research, due November 12; portfolio Plan is due November 17. The group forms first, then runs about a week behind: Research November 17, Plan November 24, Build December 3, Improve December 6 at 11:59 p.m. [Follow every class and deadline](/course/section-007).
 
@@ -67,7 +67,7 @@ These are the rubric shares for each milestone, not changes to the syllabus’s 
 
 **Attendance is required.** We will provide [class time for partner work and feedback](/course/schedule). Bring your work and a task for someone to try. Give feedback as well as receive it.
 
-For each final project, submit the **chosen live version, alternate version, repository, and short process document**. Include actual checks, AI use, and remaining limits. Each group member adds a contribution statement. Your portfolio also needs your résumé, GitHub, LinkedIn, and both project stories.
+For each final project, submit the **chosen live version, alternate version, repository, and short process document**. Include actual checks, AI use, and remaining limits. Each group member adds a contribution statement. Your portfolio also needs your résumé, actual GitHub and LinkedIn profiles, all three project repository links, and both project stories. [Check every final link](/projects/portfolio#portfolio-ready-checklist).
 
 Use **GitHub issues to [request a demo slot](/demo-days/)**. Earlier assignments keep their original criteria.
 

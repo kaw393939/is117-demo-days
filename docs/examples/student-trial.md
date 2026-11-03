@@ -32,15 +32,18 @@ The three-project structure is manageable **if students work from one date and o
 
 A built-site click test also found a **false 404**: VitePress intercepted standalone example HTML as a documentation route. The shared theme now uses normal same-tab navigation for both the existing sample apps and this new rehearsal. This required a click test; checking that the file existed did not catch it.
 
-The remaining friction is specific:
+The review led to these changes:
 
-- **Submission is still blocked for students:** Canvas Student View shows the published weekly guide, but the new assignments/modules remain unpublished as requested. I did not publish, submit or grade them.
+- **One clear starting point:** the [Before next class card](/course/section-007#before-next-class) points students to what to bring, do, review, update and submit. The examples support that task; they are not extra assignments.
+- **A complete professional portfolio checklist:** the [portfolio requirements](/projects/portfolio) now connect the [GitHub](/career/github), [LinkedIn](/career/linkedin) and [résumé](/career/resume) guides. Fictional profile drafts show content; actual students must link their own professional profiles and repositories.
+- **One review routine:** the [collaboration guide](/process/collaboration) connects a real task, specific feedback, a GitHub issue, a chosen change and a retest. A simulated customer can help define scope; actual people still supply peer feedback and team contributions.
 - **The rhythm has exceptions:** career Research is November 12; Thanksgiving shifts group Build to December 3 and final Improve to December 6. Lead with actual dates, not a literal “every seven days” promise.
-- **Portfolio work overlaps group work:** use draft career findings to start Plan, then show the group case study as in progress until it is actually finished. The existing guide explains both handoffs.
+- **Portfolio work overlaps group work:** use draft career findings to start Plan, then show the group case study as in progress until it is actually finished. Keep the same record and URL through these handoffs.
 - **Public preview and SQLite are different checks:** a successful browser-storage order is not backend evidence. The source includes a local run and restart check.
-- **Real collaboration remains essential:** fictional customer answers cannot replace a teammate or a human peer’s issue, change and retest. Real students also need their own working GitHub/LinkedIn links.
 
-**Recommended next change to discuss:** put one small “before next class” card in the weekly view: bring this, try this with a peer, update this record, submit here/by this date. Keep the full examples behind a link. Do not add another report, tool or project.
+**Next: verify the experience with real students.** The [process notes](/examples/trial-notes#instructor-next-step-a-small-student-pilot) outline a pending two- or three-student pilot: find the next task, explain the requirements and storage modes, and complete one real peer review. Record time and confusion. No volunteers have completed this pilot yet.
+
+**Canvas access and submission remain unverified:** Student View reaches the published weekly guide, but the new assignments/modules remain unpublished as requested. The instructor must review publication and team membership before students can test the actual submission path. I did not publish, submit or grade them. This update adds guidance, not another assignment.
 
 [Read the dated issue log and simulated instructor questions](/examples/trial-notes).
 

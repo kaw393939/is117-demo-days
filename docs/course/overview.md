@@ -20,7 +20,7 @@ With a partner, build for a realistic business product or service. Share design,
 
 ### 3. Your portfolio — make your work easy to understand
 
-Show both projects and your contribution, with an accurate résumé, actual GitHub and LinkedIn profiles, and contact information. Choose a style that fits your goals.
+Show both projects and your contribution, with an accurate résumé, actual GitHub and LinkedIn profiles, all three project repository links, and contact information. Choose a style that fits your goals.
 
 **Show:** what you offer a recruiter, teammate, or client. [Portfolio requirements](/projects/portfolio).
 
@@ -33,7 +33,7 @@ Show both projects and your contribution, with an accurate résumé, actual GitH
 - **Keep A/B manageable.** Compare two options; share code, content, and data. Choose one to launch.
 - **Show progress in Canvas.** One checkpoint per active project each week: links and a short update. Keep detailed work on your project record; use GitHub issues for feedback and retests.
 
-[Check your dates](/course/schedule) · [Section 007: every class and deadline](/course/section-007) · [Submissions and rubric](/course/milestones).
+[Check your dates](/course/schedule) · [Section 007: next class](/course/section-007#before-next-class) · [Section 005: next class](/course/section-005#before-next-class) · [Submissions and rubric](/course/milestones).
 
 Career exploration is portfolio Research; use it to plan your site. The group starts after team formation and runs about a week behind the T-shirt project. The week before Demo Days is for finishing, reviews, and rehearsal. Follow your section’s published Canvas deadlines.
 
@@ -71,6 +71,6 @@ Ask before following up. Keep promises small and accurate.
 
 These are career goals, not extra graded submissions or required paid events. We grade your process, not a hiring outcome. Use [career reflection](/career/explore) to choose a direction and [later courses](/career/course-pathway) to build depth.
 
-**Start now:** [see one completed student example](/examples/student-journey), then [open your schedule](/course/schedule) and choose the next action for each active project.
+**Start now:** open your section’s Before next class card, then its matching guide and one example. Update the same project record. [007](/course/section-007#before-next-class) · [005](/course/section-005#before-next-class) · [Portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist).
 
 <small>Opportunity resources checked November 2, 2026. Event listings and job postings change; verify details on the original site.</small>

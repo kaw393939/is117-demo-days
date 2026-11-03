@@ -5,7 +5,8 @@ const start = { text: 'Start here', items: [
   { text: 'Three projects & your goals', link: '/course/overview' },
   { text: 'Four steps & grading', link: '/course/milestones' },
   { text: 'Class dates & due dates', link: '/course/schedule' },
-  { text: 'Section 007: class-by-class', link: '/course/section-007' },
+  { text: 'Section 007: next class & dates', link: '/course/section-007' },
+  { text: 'Section 005: next class & dates', link: '/course/section-005' },
   { text: 'See completed examples', link: '/examples/submissions/' },
   { text: 'Three-project student rehearsal', link: '/examples/student-trial' }
 ] }
@@ -20,8 +21,7 @@ const career = [
   { text: 'Your professional profiles', collapsed: true, items: [
     { text: 'GitHub', link: '/career/github' },
     { text: 'LinkedIn', link: '/career/linkedin' },
-    { text: 'Example résumé', link: '/examples/student-resume' },
-    { text: 'Résumé template', link: '/templates/resume' },
+    { text: 'Résumé', link: '/career/resume' },
     { text: 'Skills to build next', link: '/career/skills' }
   ]}
 ]
@@ -36,7 +36,7 @@ const standard = [start,
     { text: 'Find your brand’s angle', link: '/process/find-your-angle' },
     { text: 'Write a website plan', link: '/process/specifications' },
     { text: 'Practice with a fictional customer', link: '/process/simulated-customer' },
-    { text: 'Divide the group work', link: '/process/collaboration' },
+    { text: 'Collaborate & review', link: '/process/collaboration' },
     { text: 'Test & get feedback', link: '/process/quality' },
     { text: 'Review with GitHub issues', link: '/process/github-feedback' },
     { text: 'Use AI & explain your work', link: '/process/ai' },
