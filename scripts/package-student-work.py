@@ -12,6 +12,8 @@ with ZipFile(public / 'downloads/is117-graded-student-submissions.zip', 'w', ZIP
 Start in student-work/: two T-shirt stores, two group businesses, two portfolios.
 Each folder contains completed research, two specifications, product comparison,
 a peer/change/retest scenario, and rubric scores with instructor feedback.
+Section 007 portfolio Research is the career role cards and reflection;
+reference-site research and its practice grade in portfolio packets are optional.
 
 These are fictional people and scenario grades, not actual student records.
 The peer conversations are invented worked examples, not real interviews.

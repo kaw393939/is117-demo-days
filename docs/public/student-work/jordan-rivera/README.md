@@ -2,6 +2,8 @@
 
 **Author:** Jordan Rivera, fictional. **Example type:** Developing example.
 
+**Section 007: required portfolio Research is the [career role cards and reflection](https://kaw393939.github.io/is117-demo-days/examples/career-reflections.html).** Submit it once, privately in Canvas. The reference-site research and its practice score in this packet are optional; they are not a second Research checkpoint.
+
 This folder contains completed research, two website specifications, a two-version product decision, a peer-feedback/change/retest scenario, QA/AI-use notes, and an illustrative instructor assessment. Nothing here is a real student's grade or actual peer interview.
 
 1. [Research](01-research.md)

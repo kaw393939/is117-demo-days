@@ -2,6 +2,8 @@
 
 Use **one Markdown file per project** and update it at each step. Your team shares its group record; the portfolio can use shorter notes. Future sections can stay unfinished until their milestone. [See the hand-in map](https://kaw393939.github.io/is117-demo-days/course/milestones.html#how-to-submit) or [a completed example](https://kaw393939.github.io/is117-demo-days/examples/submissions/).
 
+Already using `SPEC.md` from Brand Studio? Extend it with these sections, or link it from `project-process.md`. Either filename is fine. Link existing decisions and evidence rather than rewriting them.
+
 
 ## Feedback at every stage
 

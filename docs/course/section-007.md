@@ -42,6 +42,8 @@ All other deadlines are **8:30 a.m. Eastern**. All three final sites and links a
 
 **T-shirt: introduce Nov 3 → work/review Nov 5 → submit Nov 10.** Compare three relevant brands, consider two positions and two short personas, choose an audience, and separate evidence from assumptions. Include design, brand character, and honest persuasion. Reuse Brand Studio.
 
+Check the [finished T-shirt requirements](/projects/white-tshirt) before choosing features: the store includes a working SQLite backend. Its public static preview may simulate storage, but you must also run and demonstrate the backend. Include that work in your Plan; it is not a new requirement at final review.
+
 **Group: form teams Nov 5 → begin Research Nov 10 → work/review Nov 12 → submit Nov 17.** Choose a realistic business problem together, then use the same short competitive-landscape process. Record each member's contribution. A fictional customer brief can help you practice asking questions; label its answers as simulated.
 
 **In class:** a peer questions an observation and explains your chosen audience back to you. Open a specific issue, respond, and revise or explain the decision.
@@ -70,6 +72,8 @@ Compare two concise approaches; write three to five user stories, essential feat
 
 Build two meaningful versions of the same project's main workflow. Share code, content, and data. A peer tries the same task in A/B without coaching; record the observation, respond, and choose a launch direction with a reason.
 
+**Portfolio timing:** the group project can still be in progress at the November 24 portfolio Build checkpoint. Show its current goal, your actual contribution so far, and a repository/prototype link. Label planned work. Update that case study as the group finishes; its finished product is not due early because it appears in your portfolio.
+
 [T-shirt A/B](/samples/campus-cotton/a.html) · [Group A/B](/samples/room-ready/a.html) · [Portfolio A/B](/samples/maya-chen/a.html) · [Testing guide](/process/quality).
 
 ## Improve
@@ -78,13 +82,15 @@ Build two meaningful versions of the same project's main workflow. Share code, c
 
 For each project, get a real peer walkthrough, make at least one meaningful feedback-driven change, and retest. Link the issue, response, changed work, and result. Group members show meaningful contributions and cross-review.
 
-**November 30–December 3: no new topic.** Use the week to catch up, finish the group project, fix the individual sites, and rehearse. T-shirt/portfolio review records capture the December 3 checkpoint; follow Canvas for any later record updates. All final sites and links are ready December 6.
+**November 30–December 3: no new topic.** Use the week to catch up, finish the group project, fix the individual sites, and rehearse. T-shirt/portfolio review records capture the December 3 checkpoint. Keep improving those same sites and records at the same URLs through December 6; this is not a new individual Canvas assignment. If a submitted URL changes, send the corrected link through Canvas Inbox. Group Improve is submitted December 6 at 11:59 p.m.; all final sites and links are ready then.
 
 [GitHub feedback steps](/process/github-feedback) · [Final review example](/examples/submissions/campus-cotton#_4-get-feedback-and-improve) · [Presentation format](/demo-days/).
 
 ## Keep submissions small
 
 Use one evolving record per project. Each checkpoint contains **the record link, current site/repository links, relevant feedback issue links, and a short change/open-issue note**. The group submits once and names each member's contribution. Team settings/membership must be correct before publication.
+
+**Portfolio Research is the exception:** paste your two role cards and reflection into its private Canvas text box. Put only suitable professional findings in your public portfolio record.
 
 There are **four checkpoints per project**; the portfolio's Research is the existing career reflection, not an additional assignment. Keep that reflection in Canvas and carry its useful findings into the portfolio record. A/B can share code. GitHub issues track feedback; they do not submit coursework.
 

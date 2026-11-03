@@ -56,7 +56,7 @@ This is a **10-minute pair rehearsal outline**, not a measured live presentation
 
 An AI operated the public A/B examples and the downloaded Node 24 source on November 2. Campus Cotton M × 2 produced a $50 receipt/SQLite record; a missing size returned focus to the required field without a receipt. Room Ready Desk / Weekday afternoon saved pending confirmation, not a booking. Both histories survived a server restart. The portfolio opened both local projects and displayed contributions. [Detailed evidence and teaching grades](/examples/student-journey).
 
-An earlier Section 007 Student View check showed the home guide link and hidden draft modules; it did not test submission/grade behavior. Canvas dates/titles and module headings now match the staggered plan; the outline and four reference pages are published. The full assignment editor remains blank, so revised descriptions and remaining team settings are pending. Keep drafts unpublished until descriptions, dates, group membership/settings, and visibility are verified.
+Section 007 Student View verified the published weekly guide and hidden draft modules; actual submission/grade behavior has not been tested while assignments are unpublished. All twelve revised descriptions, deadlines, and 100-point values are saved. All four group checkpoints use the final-project team set with individual grading, and all five module guide labels match the staggered plan. Keep drafts unpublished for instructor review and actual team formation.
 
 ## Instructor findings
 

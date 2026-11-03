@@ -19,7 +19,7 @@ Compare the second example to understand one difference in reasoning. You do not
 
 ## What is inside each submission?
 
-- Completed competitive research and two persona cards.
+- T-shirt/group: completed competitive research and two persona cards. Portfolio: use the [career reflection examples](/examples/career-reflections) for required Research; reference-site research in the packets is optional practice.
 - Two written website specifications, user stories, feature priorities, and checks.
 - Two working versions and a recorded launch decision.
 - A completed peer-feedback, change, and retest scenario.

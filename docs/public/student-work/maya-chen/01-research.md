@@ -2,6 +2,8 @@
 
 Fictional completed student work by Maya Chen. Peer conversations are teaching scenarios. This is a filled example, not a worksheet.
 
+**Section 007: required portfolio Research is the [career role cards and reflection](https://kaw393939.github.io/is117-demo-days/examples/career-reflections.html).** Submit it once, privately in Canvas. The reference-site research and its practice score in this packet are optional; they are not a second Research checkpoint.
+
 ### Submitted by Maya Chen
 
 **Project:** Maya Chen. **Research date:** November 2, 2026.

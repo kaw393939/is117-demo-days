@@ -8,7 +8,7 @@ A **forward deployed engineer (FDE)** understands a customer’s problem, builds
 
 ### 1. Your T-shirt store — show your decisions
 
-Give a white T-shirt your own audience, brand, and simulated shopping experience. Research, compare options, plan, build, and improve. Reuse Brand Studio.
+Give a white T-shirt your own audience, brand, simulated shopping experience, and working SQLite backend. Research, compare options, plan, build, and improve. Reuse Brand Studio. The [requirements explain public preview versus local backend](/projects/white-tshirt#show-how-your-data-works).
 
 **Show:** how you turn an idea into a useful website and explain your choices. [T-shirt requirements](/projects/white-tshirt).
 

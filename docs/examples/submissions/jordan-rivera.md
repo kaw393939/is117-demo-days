@@ -4,16 +4,20 @@
 
 Read the completed submission, then compare it with the instructor’s score and feedback. The work and peer comments are fictional teaching scenarios. The linked product is real runnable code.
 
+**Section 007: required portfolio Research is the [career role cards and reflection](https://kaw393939.github.io/is117-demo-days/examples/career-reflections.html).** Submit it once, privately in Canvas. The reference-site research and its practice score in this packet are optional; they are not a second Research checkpoint.
+
 <SampleAssessment slug="jordan-rivera" />
 
 [Version A](/samples/jordan-rivera/a.html) · [Version B](/samples/jordan-rivera/b.html) · [Download all six submissions](/downloads/is117-graded-student-submissions.zip) · [How to read these grades](/examples/submissions/grading-guide)
 
-**Read one step at a time:** [Research](#_1-research) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
+**Read one step at a time:** [Career Research](/examples/career-reflections) · [Plan](#_2-plan) · [Build](#_3-build-and-compare) · [Improve](#_4-get-feedback-and-improve). Open the student work, then open the rubric feedback to compare your judgment.
 
 ## 1. Research
 
-<details open>
-<summary>Read the completed student submission</summary>
+**Optional reference-site practice:** this exercise and its feedback are not the career Research checkpoint.
+
+<details>
+<summary>Optional reference-site exercise</summary>
 
 ### Submitted by Jordan Rivera
 
@@ -72,7 +76,7 @@ I chose a team lead because I think managers want to see reasoning. I also want 
 </details>
 
 <details>
-<summary>See the rubric score and feedback: 82/100</summary>
+<summary>Optional exercise score and feedback: 82/100</summary>
 
 <SampleAssessment slug="jordan-rivera" stage="research" />
 

@@ -36,6 +36,8 @@ Browser storage alone does not meet the SQLite requirement. If your public host 
 
 Reuse and improve your Brand Studio work: audience promise, archetype/voice, original logo and style guide, two visual routes, and two honest persuasion applications. Show how those decisions appear in the store. [Find your angle](/process/find-your-angle). Keep that earlier milestone's original scope separate from this final store.
 
+**How this grows from Brand Studio:** keep your existing brand and code where useful. Brand Studio required the size selector and demo bag, without full checkout. The final project adds a simulated checkout and SQLite data, supported by research, a plan, and peer review. Link your existing `SPEC.md`, reviewed `LEARNING.md`, and feature pull request instead of copying them into another report. Brand Studio keeps its original 30/40/30 rubric; the new checkpoints use the four-part rubric.
+
 ## What you submit
 
 Your selected site, alternate version, repository, and [short process document](/templates/four-milestones). Include the store in your portfolio and demonstrate a purchase at Demo Day.

@@ -41,11 +41,11 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 For **section 007**, T-shirt Research is due November 10. Career exploration is portfolio Research, due November 12; portfolio Plan is due November 17. The group forms first, then runs about a week behind: Research November 17, Plan November 24, Build December 3, Improve December 6 at 11:59 p.m. [Follow every class and deadline](/course/section-007).
 
-Submit each project in its own Canvas box: record link, current site/repository links, [feedback issue links](/process/github-feedback), and a short update. The group submits once and names contributions. Each project has four checkpoints; the existing private career reflection is the portfolio's Research checkpoint. It adds no extra research report.
+Submit each project in its own Canvas box: record link, current site/repository links, [feedback issue links](/process/github-feedback), and a short update. **For portfolio Research, paste the two role cards and reflection directly into the private Canvas text box instead.** The group submits once and names contributions. Each project has four checkpoints; the career reflection adds no extra research report.
 
 **Canvas setup is being aligned one section at a time.** Section 007 has separate unpublished project placeholders. Section 005’s earlier combined individual-review drafts have not yet been converted; follow its published Canvas directions. No new draft is an active submission box until published.
 
-In 007, T-shirt/portfolio final review records are due December 3 at the start of class; the group Build is due then, with group Improve due December 6 at 11:59 p.m. Continue fixes and rehearsal; all sites and final links must be ready December 6 at 11:59 p.m. Follow Canvas for any record-resubmission arrangements. A demo-signup issue does not submit coursework.
+In 007, T-shirt/portfolio final review records are due December 3 at the start of class; the group Build is due then, with group Improve due December 6 at 11:59 p.m. Continue fixes and rehearsal on the same sites and records at the same URLs; all final work must be ready December 6 at 11:59 p.m. No extra individual Canvas assignment is added. Send a corrected URL through Canvas Inbox if a submitted link changes. A demo-signup issue does not submit coursework.
 
 ## How each step is graded
 

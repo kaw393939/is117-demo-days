@@ -43,6 +43,7 @@ A stronger acceptance check says “submitting without a topic does not save a r
 - **The products are runnable.** A separate [technical receipt](/examples/submissions/technical-checks) lists checks actually performed on the class code. Those checks do not establish a fictional student's personal understanding.
 - **Written understanding is modeled.** In a real class review, the instructor also asks the student to explain the work. These examples do not pretend that conversation happened.
 - **Portfolio accounts are simulated.** Completed local résumé/GitHub/LinkedIn examples stand in for the fictional people's accounts. Real students must link their own actual profiles.
+- **Portfolio Research is career exploration.** The summary uses Maya's 100/100 and Jordan's 80/100 career examples. Reference-site research inside their packets is optional practice; its separate exercise grade is not another Section 007 checkpoint. Packet averages that include that exercise are not Section 007 portfolio averages.
 - **Project scores are illustrative.** We average four milestone scores equally to compare these examples. That does not create a new Canvas/course weighting, letter-grade policy, or actual student grade.
 
 ## Use the feedback

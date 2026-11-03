@@ -34,6 +34,8 @@ Use a few screenshots and links. Distinguish course projects from employment and
 
 Your [career role cards and reflection](/career/explore) are portfolio Research. Choose your intended reader and project evidence from those findings. For Plan, compare two short page approaches and define checkable stories. Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Build two versions using the same project content. Have a peer find a project, your contribution, and your résumé. Make at least one meaningful change from the walkthrough and check it again.
 
+**Section 007 checkpoints:** at portfolio Build on November 24, your group project is still in progress. Include its current goal, planned and completed contributions labeled separately, and repository or prototype link. You do not need the finished group product early. At portfolio Improve on December 3, show the current group build and your actual work so far. Update the same case study and links by December 6 at 11:59 p.m., when all final sites must be ready.
+
 ## Use it beyond class
 
 Practice introducing yourself and showing one project workflow. Use your portfolio in an application, at a Meetup or campus event, or in a conversation about a small client project. [Follow the professional preparation plan](/course/overview#meet-people-and-look-for-opportunities).

@@ -2,6 +2,10 @@
 
 This assesses the fictional submitted record, not a real student. Use the published four-criterion rubric, 25 points per criterion. “Understood” here evaluates the written explanation only; a live class review would also check the student's own explanation.
 
+**Section 007: required portfolio Research is the [career role cards and reflection](https://kaw393939.github.io/is117-demo-days/examples/career-reflections.html).** Submit it once, privately in Canvas. The reference-site research and its practice score in this packet are optional; they are not a second Research checkpoint.
+
+The four-exercise average below includes optional reference research. It is not the Section 007 portfolio checkpoint average. Use the career reflection for required Research.
+
 ## 1. Research: 82/100
 
 | Criterion | Points | Evidence and reason |

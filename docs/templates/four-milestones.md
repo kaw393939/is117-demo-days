@@ -2,6 +2,8 @@
 
 Use **one Markdown file per project** and update it at each step. Your team shares its group record; the portfolio can use shorter notes. Future sections can stay unfinished until their milestone. [See the hand-in map](/course/milestones#how-to-submit) or [a completed example](/examples/submissions/).
 
+Already using `SPEC.md` from Brand Studio? Extend it with these sections, or link it from `project-process.md`. Either filename is fine. Link existing decisions and evidence rather than rewriting them.
+
 <a href="/is117-demo-days/downloads/project-process-template.md" download="project-process.md">Download the editable Markdown version</a>, save it as `project-process.md`, and keep it in your repository.
 
 ## Feedback at every stage

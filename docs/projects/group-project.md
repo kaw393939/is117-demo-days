@@ -33,7 +33,7 @@ Do not give one person all coding and the other only slides or proofreading. Adj
 
 ## Follow the four steps together
 
-Research three relevant sites and compare two audiences. Compare two website plans, build two working versions, choose one, and improve it after a peer walkthrough. Someone outside the team can give a fresh view. Record at least one meaningful change and retest it.
+Research three relevant sites, two possible positions, and two short persona hypotheses; choose one audience. Compare two website plans, build two working versions, choose one, and improve it after a peer walkthrough. Someone outside the team can give a fresh view. Record at least one meaningful change and retest it.
 
 ## What you submit
 
