@@ -28,6 +28,15 @@ For each, make a small card:
 
 A course list is a starting point, not a live application system. If a page has closed, label it as a historical learning example or choose another source. Do not infer a deadline from an annual recruiting pattern. Application deadlines are different from your Canvas due date. Pay can be hourly or annualized; it is not automatically total internship earnings.
 
+### Optional instructor research examples
+
+These November 5, 2026 examples are available to **both sections 005 and 007**:
+
+- [AI Career Atlas](https://kaw393939.github.io/ai-career-research/) · [repository](https://github.com/kaw393939/ai-career-research) — role comparisons, selected employer examples, and ways to connect responsibilities to project evidence.
+- [AI Career Field Guide](https://kaw393939.github.io/is117005-portfolio/) · [repository](https://github.com/kaw393939/is117005-portfolio) — additional New York/New Jersey employer examples and regional research. The repository's section number does not restrict who may use it.
+
+Use either guide to find questions and original sources, then do your own research into work that interests you. These are dated, selected examples, not live job boards or proof of current eligibility. Choose your own portfolio reader and direction; do not copy the instructor's goals or claim suggested projects as completed work. Your output remains the **two role cards and private 250–350-word Canvas reflection** above, with no extra report.
+
 ## 3. Discuss your findings in class · about 15 minutes
 
 Bring your two cards to the feedback meeting. Tell a classmate one task that interests you and one requirement you do not yet meet. Ask what project evidence would make your claim believable. Keep the rest of class-work time for the current project milestone.

@@ -15,6 +15,12 @@ Build a website that introduces you and shows what you can do. Your reader might
 
 These are parts of the portfolio, not extra assignments. Free GitHub and LinkedIn accounts are enough. Fictional examples use labeled profile drafts; **your final portfolio needs your own real profile and repository links**.
 
+## Turn your research into your own direction
+
+Use your [career research and optional instructor examples](/career/explore#optional-instructor-research-examples) to explore work that interests you, then choose the reader, evidence, and impression your portfolio should support. Carry suitable professional goals into your decisions and specifications while keeping the full **two-role-card and 250–350-word reflection submission private in Canvas**. No additional research report is required.
+
+Make your own portfolio website, LinkedIn, and GitHub tell a consistent, accurate story about your interests and actual work. Explain what you built, link the evidence, and label planned learning honestly. The instructor's research sites and fictional student examples are starting points; their goals, claims, and projects are not your achievements.
+
 ## Give the site your own style
 
 Explain the impression you want to make, then choose a tone, layout, type, colors, and images that support it. An **archetype** is a useful brand pattern: a Creator might highlight original work; a Sage might highlight clear explanations. Choose one and show it through your words, visual choices, and work. Keep a short brand brief in the existing record; reuse your logo/style guide. [Compare possible directions](/process/find-your-angle).

@@ -2,6 +2,10 @@
 
 **Bring one clear task to class. Take turns trying each other's work, then use the feedback to improve it.** Research and plans can be reviewed before a website exists.
 
+::: info Current research round · November 5, 2026
+For the **current T-shirt and career/portfolio research round only**, open **3–5 constructive GitHub issues per classmate, per project**. Partners review each other; in a group of three, each person reviews both peers. Describe specific evidence, its effect, and a useful question or improvement. Counts alone do not demonstrate quality. Keep the full career reflection private in Canvas. This exception does not extend to the group business project, later stages, or future review rounds. [Record the research feedback in GitHub](/process/github-feedback#current-research-round).
+:::
+
 ## Use this five-step review
 
 1. **State the goal.** Share the current version and one task: “Choose a size and order two shirts,” or “Check whether this persona follows from my research.”
@@ -15,7 +19,7 @@ Then **swap roles** so both people's work receives attention. In a trio, rotate 
 Choose a small improvement you can act on. Feedback is not a grade or a judgment about a person. Sincere encouragement helps, but a required praise sandwich should not bury a serious problem.
 
 ::: tip What you keep
-Add the review link and a short result to the **same project record**. There is no new issue quota or separate review report. Each of your three final projects needs a walkthrough by an actual peer, at least one meaningful change based on that feedback, and a retest. AI feedback and a simulated customer can help you practice; they do not replace that peer.
+Add the review links and a short result to the **same project record**. The dated research-round exception above is the only new issue-count requirement; there is no separate review report. Each of your three final projects needs a walkthrough by an actual peer, at least one meaningful change based on that feedback, and a retest. AI feedback and a simulated customer can help you practice; they do not replace that peer.
 :::
 
 ## Share the group work fairly

@@ -8,6 +8,8 @@ You do not need a large market report. Start with **three relevant websites** an
 
 Look at each reference’s **design, brand character, and reasons to trust or act**, as well as its features. Compare two possible niches, then choose a promise your project can deliver. Reuse the earlier library and Brand Studio work; keep notes in the same document. [Follow the short brand strategy example](/process/find-your-angle).
 
+For optional November 5 instructor research notebooks, see the [T-shirt examples](/projects/white-tshirt#optional-instructor-research-examples) and [career examples](/career/explore#optional-instructor-research-examples). Both sets are available to both IS117 sections. Treat their directions as hypotheses and starting points: inspect original sources, follow your own interests, and explain how your evidence becomes a decision, a user story, and a checkable specification. Keep using the same project record; the examples add no submission.
+
 ## Try one decision from start to finish
 
 Here is a small T-shirt example. The proposed audience need remains an assumption until you check it.

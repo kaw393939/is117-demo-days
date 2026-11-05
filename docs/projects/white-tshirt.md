@@ -4,6 +4,15 @@ Everyone starts with the same product: a plain white T-shirt. Choose whom it is 
 
 **Examples:** [Campus Cotton](/examples/submissions/campus-cotton) · [Studio White](/examples/submissions/studio-white).
 
+## Optional instructor research examples
+
+These November 5, 2026 research notebooks are available to **both sections 005 and 007**:
+
+- [Plain White Tee Studio](https://kaw393939.github.io/plain-white-tee-studio/) · [repository](https://github.com/kaw393939/plain-white-tee-studio) — competitor evidence, audience hypotheses, and proposed brand directions.
+- [White Tee / Field Notes](https://kaw393939.github.io/is117007-tshirt/) · [repository](https://github.com/kaw393939/is117007-tshirt) — competitor benchmarks, positioning hypotheses, and a research plan. The repository's section number does not restrict who may use it.
+
+Both are **research examples, not chosen brands or completed storefronts**. Reopen original product pages, check their dates and claims, and follow your own interests when choosing an audience and brand. Turn observations into decisions, then user stories, specifications, and checks in your existing project record. These optional examples add no report and do not replace the finished-store requirements below.
+
 ## What the finished store needs
 
 | A visitor can… | What you show |
