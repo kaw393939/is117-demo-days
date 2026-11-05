@@ -7,11 +7,11 @@ Already using `SPEC.md` from Brand Studio? Extend it with these sections, or lin
 
 ## Feedback at every stage
 
-Link the peer-feedback issue, your response, the changed work, and the check of the result. Explain any open issues. Reuse this record at the next stage. Portfolio Research is the career role cards and reflection. In 007 it is due November 12; Plan is due November 17. The group runs about a week behind; follow the section plan.
+Link the peer-feedback issues, your responses, the changed work, and the checks of the result. Explain any open issues. Reuse this record at the next stage. **Portfolio Research** is the career role cards and reflection, due **November 12** in both sections at the section's class time. **Portfolio Plan** is due November 16 in 005 and November 17 in 007. T-shirt and group Research have different dates; follow your section plan. The [November 5 research-round issue requirement](https://kaw393939.github.io/is117-demo-days/process/github-feedback.html#current-research-round) applies only to the current T-shirt and career/portfolio research round, not later stages or the group project.
 
 ## 1. Research
 
-**Portfolio:** use your career role cards and reflection to identify your reader, goals, evidence, and gaps. Keep the full reflection private in Canvas. Link or summarize suitable findings in this record; the comparison below applies to the T-shirt/group projects.
+**Portfolio:** use your career role cards and reflection to identify your reader, goals, evidence, and gaps. Paste the **two role cards and 250–350-word reflection privately into Canvas**, with the required repository/documentation URLs and relevant feedback links in that same entry. Keep the full reflection and personal eligibility circumstances out of public records. Link or summarize only suitable professional findings here; the comparison below applies to the T-shirt/group projects.
 
 **T-shirt and group only:**
 
@@ -44,9 +44,11 @@ Link the peer-feedback issue, your response, the changed work, and the check of 
 
 Repeat a final walkthrough on the selected version if the comparison happened earlier. Every project needs its own feedback-driven improvement.
 
+For **Group Improve**, use a real peer and follow your section's assignment: **005 requires a reviewer from outside the team**; **007 requires real peer review**. Teammate cross-review is also required in both sections.
+
 - Selected live version, alternate version, repository, and setup instructions.
 - Testing results: main path, missing/error state, keyboard, phone-sized screen, and feedback retest. Mark unrun checks as not run.
 - AI tool/tasks, your checks, individual contribution, and known limitations.
-- A short case study explaining the process. The portfolio also needs your résumé, GitHub, and LinkedIn.
+- A short case study explaining the process. The portfolio also needs a résumé, actual GitHub and LinkedIn profiles, and links to the portfolio, T-shirt, and shared group repositories. [Use the portfolio ready checklist](https://kaw393939.github.io/is117-demo-days/projects/portfolio.html#portfolio-ready-checklist).
 
 Keep it short. A few specific observations and decisions are more useful than pages of generic AI-written text.

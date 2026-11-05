@@ -9,18 +9,24 @@ Each team gets one slot. **Every student** shows their own portfolio and T-shirt
 
 ## Your presentation time
 
-| Part | Pair | Trio | Show this |
+**Exact presentation duration and delivery details are awaiting confirmation in Canvas.** The allocation below and linked signup grids are scheduling drafts, not a confirmed time allowance. Follow the instructor's confirmed slot and rehearse to that length.
+
+| Part | Pair draft | Trio draft | Show this |
 | --- | --- | --- | --- |
 | Individual projects | 2 minutes each | 2 minutes each | Your portfolio, T-shirt store, one research/design choice, and your group contribution. |
 | Group business | 4 minutes | 4 minutes | The business need, working task, work division, AI use, and checks. |
 | Questions / transition | 2 minutes | 2 minutes | Answer questions and finish on time. |
-| **Total** | **10 minutes** | **12 minutes** | Rehearse together. |
+| **Draft total** | **10 minutes** | **12 minutes** | Rehearse together; confirm the actual allowance in Canvas. |
 
 Include one short connection: **“We observed …, so for this audience we chose …; our check showed ….”** This fits inside your existing time.
 
-Explain **one choice between alternatives** and **one improvement from peer feedback**. Open code or documents only when they help explain the result. Slides are optional; the working product is the focus.
+Explain **one choice between alternatives** and **one improvement from peer feedback**. Open code or documents only when they help explain the result.
 
-**Grading:** your three finished projects and your explanation are assessed separately from the weekly progress reviews. Each final project is 100 points in **Projects and Tests**; the four criteria are Complete, Thoughtful, Checked, and Understood, 25 points each. Final assessment entries reuse the sites and records you already linked—**no extra upload or report**. Have all links ready December 6 at 11:59 p.m., then present in your assigned slot. [See the course grading categories](/course/milestones#reviews-and-final-project-grades).
+## Required PowerPoint support
+
+Prepare a **short PowerPoint presentation** to support your live demonstration, as required in the Canvas final-product assignments. Use a consulting-style story: problem and audience; solution and live demo; evidence and results; lessons and next steps. Give each slide one clear takeaway, use screenshots or simple visuals, and show your own contribution. Teams prepare one shared deck; individuals prepare their own. Keep slides brief so the working product, explanation, and questions fit the confirmed slot.
+
+**Grading:** your three finished projects and your explanation are assessed separately from the weekly progress reviews. Each final project is 100 points in **Tests**; the four criteria are Complete, Thoughtful, Checked, and Understood, 25 points each. Final assessment entries reuse the sites and records you already linked—**no extra upload or report**. Have all links ready December 6 at 11:59 p.m., then present in your assigned slot. [See the actual Canvas group weights](/course/milestones#reviews-and-final-project-grades).
 
 ## Request a slot
 

@@ -3,6 +3,8 @@
 
 All times are **Eastern (America/New_York)**. Regular meeting: **11:30 a.m.–12:50 p.m.**, CKB 106. Canvas currently directs Zoom screen sharing; follow the instructor's meeting instructions there.
 
+**Scheduling draft:** exact presentation duration and delivery details are awaiting confirmation in Canvas. The times below support requests; they are not a confirmed time allowance or booking. See the [required PowerPoint and presentation guidance](/demo-days/#required-powerpoint-support).
+
 **[Request a slot](https://github.com/kaw393939/is117-demo-days/issues/new?template=demo-005.yml)** · [Presentation format](/demo-days/) · [Pending requests](https://github.com/kaw393939/is117-demo-days/issues?q=is%3Aissue+is%3Aopen+label%3Ademo-signup+label%3Asection-005)
 
 A request is pending until the instructor confirms it and updates this table. One issue per team. The 12-minute slot is reserved for the section's designated trio. No student assignments are prefilled.

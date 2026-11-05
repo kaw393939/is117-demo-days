@@ -33,7 +33,7 @@ Do not give one person all coding and the other only slides or proofreading. Adj
 
 ## Follow the four steps together
 
-Research three relevant sites, two possible positions, and two short persona hypotheses; choose one audience. Compare two website plans, build two working versions, choose one, and improve it after a peer walkthrough. Someone outside the team can give a fresh view. Record at least one meaningful change and retest it.
+Research three relevant sites, two possible positions, and two short persona hypotheses; choose one audience. Compare two website plans, build two working versions, and choose one. For **Group Improve**, use a real peer and follow your section's Improve assignment: **005 requires a reviewer from outside the team**; **007 requires real peer review**. Record at least one meaningful feedback-driven change and retest it. Teammate cross-review is also required in both sections.
 
 ## What you submit
 

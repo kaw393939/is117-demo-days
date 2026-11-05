@@ -61,9 +61,18 @@ Each progress review is **100 points**. Final assessments use your finished work
 <details>
 <summary>Course grade categories and the three final assessments</summary>
 
-**Reviews grade your progress; final assessments grade the finished work and your explanation.** All twelve 100-point reviews, including Improve and career Research, belong to **Assignments**, worth **50% of the course** together with earlier work in that category.
+**Reviews grade your progress; final assessments grade the finished work and your explanation.** The November 5 Student View gradebooks for both sections show these Canvas groups:
 
-The other **50% is Projects and Tests**: Hands On Test 1 and three separate final assessments—T-shirt, group business, and portfolio—at 100 points each. Each of these four items is **12.5% of the course**. Earlier assessment criteria stay the same.
+| Canvas group | Course weight | Work in this group |
+| --- | --- | --- |
+| **Tests** | **50%** | Hands On Test 1 and the three separate final products: T-shirt, group business, and portfolio; each is 100 points. |
+| **Assignments - General** | **12.5%** | Earlier assignments and labs, including Brand Studio and the AI reading. |
+| **Assignments - Portfolio** | **12.5%** | The four portfolio reviews, beginning with the private career Research. |
+| **Assignments - Individual Project** | **12.5%** | The four T-shirt reviews. |
+| **Assignments - Group** | **12.5%** | The four group-business reviews. |
+| **Academic Engagement: Fall 2026** | **0%** | Administrative engagement check. |
+
+The four Assignments groups total **50%**, but they are separate weighted groups, not one points pool. The four equal 100-point items in Tests each account for **12.5% of the course**. Any unused legacy final groups shown at 0% are not extra final projects. This guide documents the existing gradebook; it does not change weights, scores, or earlier assessment criteria.
 
 For each final project, the instructor uses the finished site, existing code/process links, your actual contribution, and your Demo Day explanation. The same four criteria below are worth **25 points each**. A Canvas final-assessment row may say **No submission**: it is a graded entry that reuses your existing work, not another upload or report. Have the links ready **December 6 at 11:59 p.m.**; present in your assigned [Demo Day slot](/demo-days/).
 
@@ -80,7 +89,7 @@ For each final project, the instructor uses the finished site, existing code/pro
 
 A small, well-explained attempt can earn full credit. We assess your reasons and checks, not a preferred aesthetic or professional market validation. Earlier assignments retain their original criteria.
 
-The four equal rubric shares apply to each review and final project assessment; they are separate from the **50% / 50% course categories** above. Canvas holds the points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
+The four equal rubric shares apply to each review and final project assessment; they are separate from the **Canvas group weights** above. Canvas holds the points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
 
 [See completed submissions with grades and feedback](/examples/submissions/grading-guide). These illustrate how the rubric applies; they are not real student marks.
 

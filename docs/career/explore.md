@@ -52,7 +52,7 @@ Answer these four prompts in your own voice:
 3. **Gaps:** Name two skills or experiences to develop beyond this course. [Use the skills guide](/career/skills) if a job term is unfamiliar.
 4. **Next step:** Choose one action you can finish in about a week. State what you will produce and how you will check it. [Later courses](/career/course-pathway) can support a longer plan, but “learn AI” is not a specific next action.
 
-Paste both cards and the reflection into the Canvas assignment. The cards do not count toward the suggested word length. No job application, employer message, paid account, public reflection, or disclosure of private eligibility circumstances is required.
+Paste both cards and the reflection into the Canvas assignment. In that **same private entry**, include your GitHub repository URL, published documentation/research-record URL, deployed-site URL when available, and relevant peer-feedback/change/check links. Keep public research limited to sources, suitable professional goals, and portfolio evidence. The cards do not count toward the suggested word length. No job application, employer message, paid account, public reflection, or disclosure of private eligibility circumstances is required.
 
 ## What earns credit
 

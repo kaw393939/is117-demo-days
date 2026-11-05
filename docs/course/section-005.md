@@ -57,6 +57,8 @@ Check the [finished T-shirt requirements](/projects/white-tshirt) before choosin
 
 **In class:** a peer questions an observation and explains your chosen audience back to you. Open a specific issue, respond, and revise or explain the decision.
 
+**Current individual research round only:** follow the [November 5 requirement for 3–5 constructive issues per classmate, per project](/process/github-feedback#current-research-round) for T-shirt and career/portfolio research. It does not extend to group Research or later stages. Keep the full career reflection private in Canvas.
+
 [Research guide](/process/find-your-angle) · [Template](/templates/four-milestones) · [T-shirt example](/examples/submissions/campus-cotton#_1-research) · [Group example](/examples/submissions/room-ready#_1-research).
 
 ## Career and portfolio launch
@@ -93,13 +95,15 @@ Build two meaningful versions of the same project's main workflow. Share code, c
 
 For each project, get a real peer walkthrough, make at least one meaningful feedback-driven change, and retest. Link the issue, response, changed work, and result. Group members show meaningful contributions and cross-review.
 
+For **Group Improve**, the human reviewer must be **outside the team**, in addition to teammate cross-review.
+
 **November 30–December 3: no new topic.** Use the week to catch up, finish the group project, fix the individual sites, and rehearse. T-shirt/portfolio review records capture the December 3 checkpoint. Keep improving those same sites and records at the same URLs through December 6. No second individual upload is needed; final assessment rows reuse your existing links and Demo Day evidence. If a submitted URL changes, send the corrected link through Canvas Inbox. Group Improve is submitted December 6 at 11:59 p.m.; all final sites and links are ready then.
 
 [GitHub feedback steps](/process/github-feedback) · [Final review example](/examples/submissions/campus-cotton#_4-get-feedback-and-improve) · [Presentation format](/demo-days/).
 
 ## Progress reviews and final assessments
 
-All twelve 100-point reviews stay in **Assignments**, the 50% course category. The finished T-shirt, group business, and portfolio each receive a separate **100-point final assessment in Projects and Tests**, alongside Hands On Test 1. The instructor uses your existing links, actual contribution, and Demo Day explanation; there is **no second individual upload or new report**. A final grading row can say “No submission” because it reuses that work. All final links must be ready **December 6 at 11:59 p.m.** [Grading categories and four equal criteria](/course/milestones#reviews-and-final-project-grades).
+The twelve 100-point reviews are split among **Assignments - Individual Project**, **Assignments - Portfolio**, and **Assignments - Group**, each worth **12.5% of the course**. **Assignments - General** holds earlier work and contributes another 12.5%. The finished T-shirt, group business, and portfolio each receive a separate **100-point final assessment in Tests**, alongside Hands On Test 1; Tests is worth **50%**. The instructor uses your existing links, actual contribution, and Demo Day explanation; there is **no second individual upload or new report**. A final grading row can say “No submission” because it reuses that work. All final links must be ready **December 6 at 11:59 p.m.** [Actual Canvas groups and four equal criteria](/course/milestones#reviews-and-final-project-grades).
 
 **Final grade entries — no upload:** [T-shirt](https://njit.instructure.com/courses/70710/assignments/769167) · [Group business](https://njit.instructure.com/courses/70710/assignments/769168) · [Portfolio](https://njit.instructure.com/courses/70710/assignments/769169).
 
