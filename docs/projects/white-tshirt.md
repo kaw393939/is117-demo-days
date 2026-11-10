@@ -13,6 +13,8 @@ These November 5, 2026 research notebooks are available to **both sections 005 a
 
 Both are **research examples, not chosen brands or completed storefronts**. Reopen original product pages, check their dates and claims, and follow your own interests when choosing an audience and brand. Turn observations into decisions, then user stories, specifications, and checks in your existing project record. These optional examples add no report and do not replace the finished-store requirements below.
 
+Before the research walkthrough, [make your existing documentation easy to review](/process/research-to-features#research-review). Link sources, audience assumptions, your chosen direction, and the next story/check from a short index. Reuse the same research record and site; this adds no submission.
+
 ## What the finished store needs
 
 | A visitor can… | What you show |
