@@ -37,6 +37,8 @@ These November 5, 2026 examples are available to **both sections 005 and 007**:
 
 Use either guide to find questions and original sources, then do your own research into work that interests you. These are dated, selected examples, not live job boards or proof of current eligibility. Choose your own portfolio reader and direction; do not copy the instructor's goals or claim suggested projects as completed work. Your output remains the **two role cards and private 250–350-word Canvas reflection** above, with no extra report.
 
+Before the walkthrough, [check the research-review navigation](/process/research-to-features#research-review) on your existing documentation site. Help a classmate follow a public employer requirement to your portfolio direction and evidence or next learning step. Keep personal reflection and eligibility circumstances in the private Canvas entry.
+
 ## 3. Discuss your findings in class · about 15 minutes
 
 Bring your two cards to the feedback meeting. Tell a classmate one task that interests you and one requirement you do not yet meet. Ask what project evidence would make your claim believable. Keep the rest of class-work time for the current project milestone.
