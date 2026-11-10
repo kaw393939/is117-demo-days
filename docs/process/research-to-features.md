@@ -10,6 +10,24 @@ Look at each reference’s **design, brand character, and reasons to trust or ac
 
 For optional November 5 instructor research notebooks, see the [T-shirt examples](/projects/white-tshirt#optional-instructor-research-examples) and [career examples](/career/explore#optional-instructor-research-examples). Both sets are available to both IS117 sections. Treat their directions as hypotheses and starting points: inspect original sources, follow your own interests, and explain how your evidence becomes a decision, a user story, and a checkable specification. Keep using the same project record; the examples add no submission.
 
+## Walk a reviewer through your research {#research-review}
+
+Make the **published documentation/research-record URL already requested in Canvas** easy to browse. Add a small index of links to the relevant sections of your existing record: question and audience, original sources, observations and assumptions, alternatives and decision, next story/check, and peer-feedback issues. Link the repository as well. Reuse your current record and documentation site; this adds no report or website.
+
+Start with one decision and let a partner follow **source → observation → hypothesis → decision → story/check**:
+
+1. Open the original source and show its date and the specific detail you used. What did you actually observe?
+2. Explain what you infer about the audience. Which part is still an assumption?
+3. Compare the alternatives already in your record. Why does your chosen approach fit the evidence, and what would change your mind?
+4. Show the linked user story and its observable acceptance check. Mark future work as planned and record actual results only after trying it.
+5. Ask your partner where the reasoning or navigation breaks. Link the GitHub issue, your decision, the documentation/code change, and the repeated check before resolving it.
+
+For career research, trace an original employer requirement to suitable portfolio evidence or a specific next learning step. Keep the **two role cards and 250–350-word reflection private in Canvas**, and share only suitable professional findings on the public site.
+
+AI can help suggest questions or alternatives. Reopen the original sources, check claims yourself, and briefly note AI help and its limits in the existing record. You own the decision and the evidence. Optional diagrams or narration may help a reviewer; include a transcript with audio.
+
+The [November 5 research-round requirement](/process/github-feedback#current-research-round) remains **3–5 constructive issues per classmate, per project for the current individual T-shirt and career/portfolio research only**. It does not apply to the group project or later stages. Keep the existing source counts, milestone dates, and submission requirements.
+
 ## Try one decision from start to finish
 
 Here is a small T-shirt example. The proposed audience need remains an assumption until you check it.
@@ -18,6 +36,7 @@ Here is a small T-shirt example. The proposed audience need remains an assumptio
 | --- | --- |
 | Observation | A reference product page puts garment measurements near the size choices. Save its link and the date. |
 | Persona hypothesis | A student buying online wants to avoid choosing the wrong size. We have not yet confirmed how important this is. |
+| Decision | Compare a guide beside the selector with a separate help page. Try the nearby guide because it keeps the evidence at the sizing decision; test whether the peer notices it. |
 | User story | As a shopper unsure about fit, I want to compare measurements so I can choose a size. |
 | Feature | A measurement guide beside the size selector. |
 | Acceptance check | A peer can open the guide, read labeled measurements, and choose a size. Closing it preserves the selection. |
