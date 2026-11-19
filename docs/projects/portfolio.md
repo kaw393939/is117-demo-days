@@ -1,6 +1,6 @@
 # Your personal portfolio
 
-Build a website that introduces you and shows what you can do. Your reader might be an internship recruiter, a future teammate, or a potential client. Choose one main audience and make the next step clear.
+Build a website on GitHub Pages that introduces you and shows what you can do. Your reader might be an internship recruiter, a future teammate, or a potential client. Choose one main audience and make the next step clear.
 
 **Examples:** [Maya Chen](/examples/submissions/maya-chen) · [Jordan Rivera](/examples/submissions/jordan-rivera). Both are fictional students.
 
