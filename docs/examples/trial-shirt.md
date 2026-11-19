@@ -1,7 +1,7 @@
 # Day One Cotton — one evolving project record
-Fictional Nina Shah. Actual artifact work and tests: November 2, 2026. The class checkpoints below are a rehearsal of future dates, not claimed attendance. AI drafted code and this record; the assistant selected scope, inspected it and ran the checks. Server adapted from the course sample.
+Fictional Nina Shah. Actual artifact work and tests: November 2, 2026. This example follows the learning stages, not a course calendar. AI drafted code and this record; the assistant selected scope, inspected it and ran the checks. Server adapted from the course sample.
 
-## 1. Research — due November 10
+## 1. Research
 **Question:** can a single white-shirt store make fit and total cost easy for a student commuter?
 
 | Source checked Nov 2 | Observation | My design inference |
@@ -18,7 +18,7 @@ These are interface observations, not proof of demand or comparative garment qua
 
 **Class-review rehearsal:** ask a real peer “Who is this for, and what evidence supports that?” Pending actual peer. No GitHub issue is fabricated.
 
-## 2. Plan — due November 17
+## 2. Plan
 **A:** balanced product story/illustration followed by adjacent size guide and bag. **B:** stacked, fit-first page with a shorter illustration. Same data and workflow, different hierarchy. Choose after trying the same task, not after counting features.
 
 | User story | Acceptance check |
@@ -30,12 +30,12 @@ These are interface observations, not proof of demand or comparative garment qua
 
 Essential: one product, clear fit, quantity, total, simulated checkout and actual local SQLite. Cut: accounts, payments, shipping integration and promotions. Use synthetic email; never persist it. Public Pages stores only in this browser; the local server is a separate demonstration. Specification is this Plan section, not a second report.
 
-## 3. Build A/B — due November 24
+## 3. Build A/B
 Working [A](/student-trial/shirt/a.html) and [B](/student-trial/shirt/b.html). Shared CSS/JS and Node SQLite backend. Public static simulation is labeled. SVG shirt is an illustration, not a photo of a real garment. A better matches a quick product overview; B gives the same offer a more sequential rhythm. Selection is the assistant's heuristic judgment, not a student preference experiment. Launch A.
 
 Actual browser run: missing size saved nothing. A M × 2 saved DEMO-6CAEBF2E at $48. B S × 1 saved DEMO-3D43BC24 at $24. B could see A's local history. See review hub for final retests/backend checks.
 
-## 4. Improve — checkpoint December 3; same links through December 6
+## 4. Improve
 **Observed issue S1:** the “Choose your size” anchor lands in the bag; the measurement explanation could be missed, especially in a stacked layout. Added a compact measurement reminder inside the bag. Also put sample delivery/tax immediately under total and repeated size/quantity in the receipt.
 **Retest:** see the dated review hub and actual browser receipts. No payment or email sent.
 **Real peer:** still required. The change above comes from assistant inspection, not a human peer. Ask the peer to buy M × 2, explain the measurements and tell whether payment happened. Record their actual GitHub issue, response/change and retest before claiming full review credit.

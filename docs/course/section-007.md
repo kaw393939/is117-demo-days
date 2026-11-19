@@ -1,116 +1,41 @@
-# Section 007: your weekly project work
-
-**Tuesday and Thursday · 8:30–9:50 a.m. · CKB 223 · Fall 2026. Attendance is required.** Bring your computer and current work. Contact the instructor privately about absences or accommodations under course/university policies.
+# Section 007: start here
 
 ## Before next class
 
-<ClassWorkCard section="007" />
+**[Open your Canvas modules](https://njit.instructure.com/courses/70711/modules)** for your next task and **[open Assignments](https://njit.instructure.com/courses/70711/assignments)** for the due date and submission box. Use [Canvas Grades](https://njit.instructure.com/courses/70711/grades) for scores and feedback. This page teaches the work; it does not set dates.
 
-Start here. Bring the work, try it with a classmate, then update the same project record. **Research → Plan → Build → Improve.**
+## Three projects, in order {#three-projects-staggered-deadlines}
 
-<details>
-<summary>All project deadlines, class dates, and reference details</summary>
-
-**Every cycle:** introduction → next class: work, peer feedback, and GitHub issues → submit and use the result for the next step. The same projects grow over time.
-
-[Start with the three projects and your career goal](/course/overview). Canvas holds submissions, official deadlines, grades, and private questions. This site holds instructions, examples, and the rubric. All twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments are published in Canvas; student access has been checked in Student View. Teams form November 5; the instructor will then confirm membership in the shared group assignments.
-
-## Three projects, staggered deadlines
-
-**Career exploration is your portfolio Research.** Keep its full reflection private in Canvas; use its audience, goals, and evidence to plan your portfolio. The group starts after team formation and runs about a week behind the T-shirt project.
-
-| Checkpoint | Your T-shirt | Your portfolio | Shared group business |
-| --- | --- | --- | --- |
-| Research | Nov 10 | **Nov 12: career exploration** | Nov 17 |
-| Plan | Nov 17 | Nov 17 | Nov 24 |
-| Build A/B | Nov 24 | Nov 24 | Dec 3 |
-| Improve | Dec 3 | Dec 3 | **Dec 6, 11:59 p.m.** |
-
-All other deadlines are **8:30 a.m. Eastern**. All three final sites and links are ready **December 6 at 11:59 p.m.** The group uses the week before demos to finish, review, improve, and rehearse.
+Practice the process on **[your T-shirt store](/projects/white-tshirt)** and **[your portfolio](/projects/portfolio)** first. Then do a focused **[group sprint](/projects/group-project)** with one useful customer workflow. Follow Canvas for when each checkpoint opens or is due.
 
 ## What happens in every class
 
-**Use this page one class at a time:** find your date below, then open the matching stage and one example. Update your existing project record. You do not need to read every linked guide before starting.
-
-| Date | Class work | Submit by 8:30 a.m. |
-| --- | --- | --- |
-| Tue Nov 3 | Introduce individual T-shirt Research; inspect competitor examples and reuse Brand Studio. | Brand Studio keeps its own 11:59 p.m. deadline. |
-| Thu Nov 5 | Work/review T-shirt Research. Form pairs, with one trio if needed; discuss possible business problems. Introduce career exploration as portfolio Research. | — |
-| Tue Nov 10 | Use T-shirt research and draft career findings to introduce T-shirt/portfolio Plan. Discuss role cards. Teams begin group Research using the process already practiced. | T-shirt Research. |
-| Thu Nov 12 | Peer review and revise T-shirt/portfolio plans and group Research; record and respond to GitHub issues. | Portfolio Research: career cards + reflection. |
-| Tue Nov 17 | Use plans to introduce T-shirt/portfolio Build; use group Research to begin group Plan. | T-shirt Plan; portfolio Plan; one shared group Research. |
-| Thu Nov 19 | Work/review T-shirt/portfolio A/B builds and group Plan. Try tasks; check stories and work allocation. | — |
-| Tue Nov 24 | Begin T-shirt/portfolio Improve and group Build. Explain the group's final review expectations now, before catch-up week. | T-shirt Build; portfolio Build; one shared group Plan. |
-| Thu Nov 26 | Thanksgiving recess: no class. | — |
-| Tue Dec 1 | Protected work: T-shirt/portfolio final walkthroughs; group build review, fixes, and catch-up. No new topic. | — |
-| Thu Dec 3 | Submit checkpoints, then finish group walkthroughs, changes/retests, missed reviews, and rehearsal. No new topic. | T-shirt Improve; portfolio Improve; one shared group Build. |
-| Sun Dec 6 | Final sites and links ready; group submits its final improvement evidence. | **Group Improve: 11:59 p.m. Eastern.** |
-| Tue Dec 8 / Thu Dec 10 | Demo Days during class. Show your individual work and your contribution to the group. | [Request a demo slot](/demo-days/section-007). |
+Bring the latest version and give your classmate one task to try without coaching. Watch what happens, then swap roles. Put one specific observation in a [GitHub issue](/process/github-feedback). Attendance and participation follow the course policy.
 
 ## Research
 
-**T-shirt: introduce Nov 3 → work/review Nov 5 → submit Nov 10.** Compare three relevant brands, consider two positions and two short personas, choose an audience, and separate evidence from assumptions. Include design, brand character, and honest persuasion. Reuse Brand Studio.
-
-Check the [finished T-shirt requirements](/projects/white-tshirt) before choosing features: the store includes a working SQLite backend. Its public static preview may simulate storage, but you must also run and demonstrate the backend. Include that work in your Plan; it is not a new requirement at final review.
-
-**Group: form teams Nov 5 → begin Research Nov 10 → work/review Nov 12 → submit Nov 17.** Choose a realistic business problem together, then use the same short competitive-landscape process. Record each member's contribution. A fictional customer brief can help you practice asking questions; label its answers as simulated.
-
-**In class:** a peer questions an observation and explains your chosen audience back to you. Open a specific issue, respond, and revise or explain the decision.
-
-**Current individual research round only:** follow the [November 5 requirement for 3–5 constructive issues per classmate, per project](/process/github-feedback#current-research-round) for T-shirt and career/portfolio research. It does not extend to group Research or later stages. Keep the full career reflection private in Canvas.
-
-[Research guide](/process/find-your-angle) · [Template](/templates/four-milestones) · [T-shirt example](/examples/submissions/campus-cotton#_1-research) · [Group example](/examples/submissions/room-ready#_1-research).
+[Turn observations into a design choice](/process/research-to-features). See how [Campus Cotton](/examples/submissions/#a-short-research-submission) turns a competitor's fit details into an idea about what belongs next to size selection.
 
 ## Career and portfolio launch
 
-**Introduce Nov 5 → discuss/work Nov 10 → submit Nov 12.** Your two career role cards and 250–350-word reflection **are the portfolio Research submission**, with the career activity's rubric. Use them to choose your intended reader, goals, project evidence, and skills to develop. [Follow the activity](/career/explore) · [Completed examples and feedback](/examples/career-reflections).
-
-Plan from your draft findings November 10, work/review November 12, and submit **portfolio Plan November 17**. Compare two page approaches and write checkable stories. Reference portfolio examples when useful; a second competitive-landscape report or separate portfolio persona assignment is not required. Keep the full career reflection private and put only the professional goals/evidence you want to share on your site.
+Your [career exploration](/career/explore) is Portfolio Research. Submit the two role cards and reflection **in the private Canvas assignment**, not your public site. Bring forward only the goals and evidence you want to share.
 
 ## Plan
 
-**T-shirt/portfolio: introduce Nov 10 → work/review Nov 12 → submit Nov 17.** **Group: introduce Nov 17 → work/review Nov 19 → submit Nov 24.**
-
-Compare two concise approaches; write three to five user stories, essential features, and observable checks. Carry forward your brand promise, voice, visuals, and two honest persuasion choices. The group divides comparable design, development, and QA work, with cross-review.
-
-**In class:** can another person tell whether a story passes? Open an issue, respond, and improve the plan before building.
-
-[Plan guide](/process/specifications) · [T-shirt example](/examples/submissions/campus-cotton#_2-plan) · [Group example](/examples/submissions/room-ready#_2-plan) · [Portfolio example](/examples/submissions/maya-chen#_2-plan).
+[Write an acceptance check](/process/specifications) another person can actually try. Use [one continuing project record](/templates/four-milestones); don't copy the same decision into two reports.
 
 ## Build
 
-**T-shirt/portfolio: introduce Nov 17 → work/review Nov 19 → submit Nov 24.** **Group: introduce Nov 24 → work/review Dec 1 → submit Dec 3.**
-
-Build two meaningful versions of the same project's main workflow. Share code, content, and data. A peer tries the same task in A/B without coaching; record the observation, respond, and choose a launch direction with a reason.
-
-**Portfolio timing:** the group project can still be in progress at the November 24 portfolio Build checkpoint. Show its current goal, your actual contribution so far, and a repository/prototype link. Label planned work. Update that case study as the group finishes; its finished product is not due early because it appears in your portfolio.
-
-[T-shirt A/B](/samples/campus-cotton/a.html) · [Group A/B](/samples/room-ready/a.html) · [Portfolio A/B](/samples/maya-chen/a.html) · [Testing guide](/process/quality).
+[Compare two versions](/course/milestones#what-to-submit-at-each-step) of the same task. Reuse the code and data where you can. Your portfolio can describe the group project while it is still in progress; label plans as plans.
 
 ## Improve
 
-**T-shirt/portfolio: expectations Nov 24 → work/review Dec 1 → submit Dec 3.** **Group: expectations Nov 24 → use build feedback Dec 1 → final walkthrough/change/retest Dec 3 → submit Dec 6 at 11:59 p.m.**
-
-For each project, get a real peer walkthrough, make at least one meaningful feedback-driven change, and retest. Link the issue, response, changed work, and result. Group members show meaningful contributions and cross-review.
-
-**November 30–December 3: no new topic.** Use the week to catch up, finish the group project, fix the individual sites, and rehearse. T-shirt/portfolio review records capture the December 3 checkpoint. Keep improving those same sites and records at the same URLs through December 6. No second individual upload is needed; final assessment rows reuse your existing links and Demo Day evidence. If a submitted URL changes, send the corrected link through Canvas Inbox. Group Improve is submitted December 6 at 11:59 p.m.; all final sites and links are ready then.
-
-[GitHub feedback steps](/process/github-feedback) · [Final review example](/examples/submissions/campus-cotton#_4-get-feedback-and-improve) · [Presentation format](/demo-days/).
+Watch a peer try the chosen version, fix something meaningful, then ask them to retry it. For Group Improve, ask a **real peer** to try the workflow. Teammate cross-review still matters. [See a finished feedback record](/examples/submissions/room-ready#_4-get-feedback-and-improve).
 
 ## Progress reviews and final assessments
 
-The twelve 100-point reviews are split among **Assignments - Individual Project**, **Assignments - Portfolio**, and **Assignments - Group**, each worth **12.5% of the course**. **Assignments - General** holds earlier work and contributes another 12.5%. The finished T-shirt, group business, and portfolio each receive a separate **100-point final assessment in Tests**, alongside Hands On Test 1; Tests is worth **50%**. The instructor uses your existing links, actual contribution, and Demo Day explanation; there is **no second individual upload or new report**. A final grading row can say “No submission” because it reuses that work. All final links must be ready **December 6 at 11:59 p.m.** [Actual Canvas groups and four equal criteria](/course/milestones#reviews-and-final-project-grades).
-
-**Final grade entries — no upload:** [T-shirt](https://njit.instructure.com/courses/70711/assignments/769161) · [Group business](https://njit.instructure.com/courses/70711/assignments/769162) · [Portfolio](https://njit.instructure.com/courses/70711/assignments/769163).
+[Read the course rubric](/course/milestones#how-each-step-is-graded), then check the actual assignment and grades in Canvas. [Demo preparation](/demo-days/) is here; your slot, format, and meeting logistics are in Canvas.
 
 ## Keep submissions small
 
-Use one evolving record per project. Each checkpoint contains **the record link, current site/repository links, relevant feedback issue links, and a short change/open-issue note**. The group submits once and names each member's contribution. The instructor confirms team membership before your first shared submission.
-
-**Portfolio Research is the exception:** paste your two role cards and reflection into its private Canvas text box. Put only suitable professional findings in your public portfolio record.
-
-There are **four checkpoints per project**; the portfolio's Research is the existing career reflection, not an additional assignment. Keep that reflection in Canvas and carry its useful findings into the portfolio record. A/B can share code. GitHub issues track feedback; they do not submit coursework.
-
-[Rubric](/course/milestones#how-each-step-is-graded) · [Filled student submissions](/examples/student-journey) · [Canvas assignments](https://njit.instructure.com/courses/70711/assignments).
-
-</details>
+Update your existing record and use the matching assignment. [What to submit](/course/milestones#how-to-submit) tells you which links to include and when to keep the content private.

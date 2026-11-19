@@ -30,6 +30,12 @@ No real payments or payment-card collection. Use synthetic orders and label fict
 
 ## Show how your data works
 
+| What you show | What it proves |
+| --- | --- |
+| Your public A/B preview | A shopper can try the workflow. Label browser-storage checkout as a simulation. |
+| Your local run | The actual SQLite backend saves a simulated order and can show it again. Never collect real payment details. |
+| Your Canvas hand-in | Use the existing record and required links. Point to your backend setup and what you checked; no new report. |
+
 Your **public site** lets a visitor try the store. Your **backend** is the server code that reads or saves SQLite data. Explain both in your setup notes.
 
 - Link the published A/B pages and label any browser-storage simulation.

@@ -37,15 +37,15 @@ The review led to these changes:
 - **One clear starting point:** the [Before next class card](/course/section-007#before-next-class) points students to what to bring, do, review, update and submit. The examples support that task; they are not extra assignments.
 - **A complete professional portfolio checklist:** the [portfolio requirements](/projects/portfolio) now connect the [GitHub](/career/github), [LinkedIn](/career/linkedin) and [résumé](/career/resume) guides. Fictional profile drafts show content; actual students must link their own professional profiles and repositories.
 - **One review routine:** the [collaboration guide](/process/collaboration) connects a real task, specific feedback, a GitHub issue, a chosen change and a retest. A simulated customer can help define scope; actual people still supply peer feedback and team contributions.
-- **The rhythm has exceptions:** career Research is November 12; Thanksgiving shifts group Build to December 3 and final Improve to December 6. Lead with actual dates, not a literal “every seven days” promise.
+- **The rhythm is a sequence, not a calendar:** check your Canvas assignment. Reuse evidence and make the smallest useful improvement.
 - **Portfolio work overlaps group work:** use draft career findings to start Plan, then show the group case study as in progress until it is actually finished. Keep the same record and URL through these handoffs.
 - **Public preview and SQLite are different checks:** a successful browser-storage order is not backend evidence. The source includes a local run and restart check.
 
 **Next: verify the experience with real students.** The [process notes](/examples/trial-notes#instructor-next-step-a-small-student-pilot) outline a pending two- or three-student pilot: find the next task, explain the requirements and storage modes, and complete one real peer review. Record time and confusion. No volunteers have completed this pilot yet.
 
-**Canvas publication and student access are verified for both sections:** each has twelve published review checkpoints, five cycle modules, and a Final Products module with three published final assessments. Student View reached each home outline, all four reference pages and all twelve checkpoint links. Career Research showed Start Assignment, text entry and 100 points in both sections: **November 12 at 8:30 a.m. in 007; 11:30 a.m. in 005**. Section 005’s home showed the correct Monday/Thursday, 11:30 a.m.–12:50 p.m., CKB 106 meeting. Its Portfolio Build also opened with Start Assignment and the November 23, 11:30 a.m. deadline; actual profiles, three repositories, résumé and the in-progress group story were explicit.
+**Historical Student View check:** both sections’ original home, references and assignment links opened. Use the current Canvas assignment for dates and grades; this rehearsal did not submit real coursework.
 
-All six final assessments also opened in Student View with 100 points, December 6 at 11:59 p.m., No submission, and no Start Assignment button. They grade the finished products and Demo Day explanation using existing links; no second individual upload is required. [Review and final grading categories](/course/milestones#reviews-and-final-project-grades).
+The original Student View check accessed the final assessments without a Start Assignment button. That was an access check, not a real submission or a current schedule.
 
 Student View was exited. Actual submission, grades, resets and real group membership were **not** tested. No fictional student submission or grade was entered. The [dated notes](/examples/trial-notes#canvas-student-view-checks-completed) distinguish these access checks from the volunteer pilot and real teamwork still needed.
 

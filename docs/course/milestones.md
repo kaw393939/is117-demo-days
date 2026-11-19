@@ -19,7 +19,7 @@ Carry forward the earlier Brand Studio decisions in your existing record: audien
 
 A **persona** describes a user and their needs. A **user story** explains what that user wants to do and why. A **specification**, or **spec**, is your website plan. [See how they connect](/process/research-to-features).
 
-[Check your section’s dates](/course/schedule) · [See completed examples](/examples/submissions/).
+[Find your assignments in Canvas](/course/schedule#choose-your-next-class) · [See completed examples](/examples/submissions/).
 
 <details>
 <summary>What does “compare two” mean? How much work is it?</summary>
@@ -39,44 +39,13 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 Open the matching Canvas assignment from your section card. Submit **your project-record link, current site/repository links, relevant issue links, and a short update**. The team submits once and names contributions. Portfolio Research goes directly in its private Canvas text box.
 
-<details>
-<summary>Exact section dates, exceptions, and final-link instructions</summary>
-
-**One checkpoint per active project in the current cycle.** Use your section’s actual dates, including the career/Thanksgiving exceptions. Keep three evolving records: your T-shirt record, your portfolio record, and the team’s shared business record. Update the current stage; do not make a new report each week.
-
-For **section 007**, T-shirt Research is due November 10. Career exploration is portfolio Research, due November 12; portfolio Plan is due November 17. The group forms first, then runs about a week behind: Research November 17, Plan November 24, Build December 3, Improve December 6 at 11:59 p.m. [Follow every class and deadline](/course/section-007).
-
-Submit each project in its own Canvas box: record link, current site/repository links, [feedback issue links](/process/github-feedback), and a short update. **For portfolio Research, paste the two role cards and reflection directly into the private Canvas text box instead.** The group submits once and names contributions. Each project has four checkpoints; the career reflection adds no extra research report.
-
-**Section 007:** all twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments are published in Canvas; teams form November 5. **Section 005:** the [updated class plan](/course/section-005) has T-shirt Research November 9, portfolio Research November 12, portfolio Plan and group Research November 16, and group Plan November 23. Group Build is December 3; group Improve is December 6 at 11:59 p.m. All twelve Section 005 review checkpoints, five cycle modules, and the Final Products module with three final assessments are published in Canvas, with access checked in Student View; teams form November 5. Use the assignment for your own section.
-
-In both sections, T-shirt/portfolio final review records are due December 3 at the start of class; group Build is due then, with group Improve due December 6 at 11:59 p.m. Continue fixes and rehearsal at the same URLs; all final work must be ready December 6 at 11:59 p.m. **No second individual upload is needed: final assessments reuse your existing links and Demo Day evidence.** Send a corrected URL through Canvas Inbox if a submitted link changes. A demo-signup issue does not submit coursework.
-
-</details>
+Each project has four checkpoints. Submit each project in its matching Canvas box; the private Portfolio Research entry uses role cards and a reflection instead of a public record. Keep work at the same links when possible. If a URL changes after you submit it, send the corrected link through Canvas Inbox.
 
 ## Reviews and final project grades
 
-Each progress review is **100 points**. Final assessments use your finished work and Demo Day explanation. They reuse the same links.
+The practice reviews are about what you tried and learned. Final assessments use the finished work and your Demo Day explanation.
 
-<details>
-<summary>Course grade categories and the three final assessments</summary>
-
-**Reviews grade your progress; final assessments grade the finished work and your explanation.** The November 5 Student View gradebooks for both sections show these Canvas groups:
-
-| Canvas group | Course weight | Work in this group |
-| --- | --- | --- |
-| **Tests** | **50%** | Hands On Test 1 and the three separate final products: T-shirt, group business, and portfolio; each is 100 points. |
-| **Assignments - General** | **12.5%** | Earlier assignments and labs, including Brand Studio and the AI reading. |
-| **Assignments - Portfolio** | **12.5%** | The four portfolio reviews, beginning with the private career Research. |
-| **Assignments - Individual Project** | **12.5%** | The four T-shirt reviews. |
-| **Assignments - Group** | **12.5%** | The four group-business reviews. |
-| **Academic Engagement: Fall 2026** | **0%** | Administrative engagement check. |
-
-The four Assignments groups total **50%**, but they are separate weighted groups, not one points pool. The four equal 100-point items in Tests each account for **12.5% of the course**. Any unused legacy final groups shown at 0% are not extra final projects. This guide documents the existing gradebook; it does not change weights, scores, or earlier assessment criteria.
-
-For each final project, the instructor uses the finished site, existing code/process links, your actual contribution, and your Demo Day explanation. The same four criteria below are worth **25 points each**. A Canvas final-assessment row may say **No submission**: it is a graded entry that reuses your existing work, not another upload or report. Have the links ready **December 6 at 11:59 p.m.**; present in your assigned [Demo Day slot](/demo-days/).
-
-</details>
+Each final assessment reuses the finished site, existing code and process links, your actual contribution, and your explanation. A **No submission** row is not a new upload or an earlier hand-in. Use Canvas for deadlines, points, category weights, and feedback.
 
 ## How each step is graded
 
@@ -89,7 +58,7 @@ For each final project, the instructor uses the finished site, existing code/pro
 
 A small, well-explained attempt can earn full credit. We assess your reasons and checks, not a preferred aesthetic or professional market validation. Earlier assignments retain their original criteria.
 
-The four equal rubric shares apply to each review and final project assessment; they are separate from the **Canvas group weights** above. Canvas holds the points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
+The four equal rubric shares describe the criteria, not the Canvas grade-category weights. Canvas holds the points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
 
 [See completed submissions with grades and feedback](/examples/submissions/grading-guide). These illustrate how the rubric applies; they are not real student marks.
 
@@ -100,6 +69,6 @@ The four equal rubric shares apply to each review and final project assessment; 
 
 For each final project, keep the **chosen live version, alternate version, repository, and short process document** linked in your existing review record. Include actual checks, AI use, and remaining limits. Each group member adds a contribution statement. Your portfolio also needs your résumé, actual GitHub and LinkedIn profiles, all three project repository links, and both project stories. [Check every final link](/projects/portfolio#portfolio-ready-checklist). The final assessment uses these same links; do not upload a second individual report.
 
-Use **GitHub issues to [request a demo slot](/demo-days/)**. Earlier assignments keep their original criteria.
+Use **Canvas** for presentation logistics and signup instructions. Earlier assignments keep their original criteria.
 
 </details>

@@ -5,10 +5,10 @@ const start = { text: 'Start with your section', items: [
   { text: '005: next class & submission', link: '/course/section-005#before-next-class' },
   { text: '007: next class & submission', link: '/course/section-007#before-next-class' }
 ] }
-const reference = { text: 'Plan, grading & examples', collapsed: true, items: [
+const reference = { text: 'Work stages & examples', collapsed: true, items: [
   { text: 'Three projects & your goals', link: '/course/overview' },
   { text: 'Four steps & grading', link: '/course/milestones' },
-  { text: 'Class dates & due dates', link: '/course/schedule' },
+  { text: 'Find your Canvas course', link: '/course/schedule' },
   { text: 'Short Research example', link: '/examples/submissions/#a-short-research-submission' },
   { text: 'See completed examples', link: '/examples/submissions/' },
   { text: 'Three-project student rehearsal', link: '/examples/student-trial' }
@@ -35,6 +35,7 @@ const standard = [start, reference,
     { text: 'Personal portfolio', link: '/projects/portfolio' }
   ]},
   { text: 'Help while you work', collapsed: true, items: [
+    { text: 'From evidence to decisions', link: '/process/from-evidence-to-decisions' },
     { text: 'Research, personas & user stories', link: '/process/research-to-features' },
     { text: 'Run the SQLite starter', link: '/examples/submissions/run-examples' },
     { text: 'Find your brand’s angle', link: '/process/find-your-angle' },
@@ -49,9 +50,9 @@ const standard = [start, reference,
     { text: 'Group project ideas', link: '/projects/ideas' }
   ]},
   { text: 'Demo Days', collapsed: true, items: [
-    { text: 'Presentation & signup', link: '/demo-days/' },
-    { text: 'Section 005 / Dec 7 & 10', link: '/demo-days/section-005' },
-    { text: 'Section 007 / Dec 8 & 10', link: '/demo-days/section-007' }
+    { text: 'Prepare to present', link: '/demo-days/' },
+    { text: 'Section 005 in Canvas', link: '/demo-days/section-005' },
+    { text: 'Section 007 in Canvas', link: '/demo-days/section-007' }
   ]},
   { text: 'Careers & next courses', collapsed: true, items: career[0].items }
 ]
@@ -87,7 +88,7 @@ export default defineConfig({
         { text: 'Three-project overview', link: '/course/overview' }
       ] },
       { text: 'Examples', link: '/examples/submissions/' },
-      { text: 'Schedule', link: '/course/schedule' },
+      { text: 'Course book', link: '/course/overview' },
       { text: 'Demo Days', link: '/demo-days/' },
       { text: 'Careers', link: '/career/fde' }
     ],
@@ -143,6 +144,6 @@ export default defineConfig({
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/kaw393939/is117-demo-days' }],
     editLink: { pattern: 'https://github.com/kaw393939/is117-demo-days/edit/main/docs/:path', text: 'Suggest a correction' },
-    footer: { message: 'NJIT · Keith Williams · Sections 005 & 007 · Fall 2026', copyright: 'Canvas: submissions, grades, and private questions. This guide: project instructions and examples.' }
+    footer: { message: 'NJIT · Keith Williams · Sections 005 & 007 · Fall 2026', copyright: 'Canvas: dates, submissions, grades, and private questions. This guide: project instructions and examples.' }
   }
 })

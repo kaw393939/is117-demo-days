@@ -1,7 +1,6 @@
 import { readdirSync, readFileSync, existsSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
-import { execFileSync } from 'node:child_process'
 
 const root = fileURLToPath(new URL('../', import.meta.url))
 const docs = path.join(root, 'docs')
@@ -21,14 +20,15 @@ for (const page of pages) {
   }
 }
 if (broken.length) throw new Error(`Broken local references:\n${broken.join('\n')}`)
-execFileSync(process.execPath, ['scripts/generate-schedules.mjs', '--check'], { cwd: root, stdio: 'inherit' })
-const schedule = JSON.parse(readFileSync(path.join(root, 'data/demo-schedule.json'), 'utf8'))
-for (const section of schedule.sections) {
-  const form = readFileSync(path.join(root, `.github/ISSUE_TEMPLATE/demo-${section.id}.yml`), 'utf8')
-  for (const slot of section.slots) {
-    if (!form.includes(`${slot.id} · ${slot.date} ${slot.start} · ${slot.teamSize} people`)) {
-      throw new Error(`Signup form missing or mismatched slot ${slot.id}`)
-    }
-  }
+const dateLeaks = []
+const coursePages = [
+  'index.md', 'course/schedule.md', 'course/section-005.md', 'course/section-007.md',
+  'course/milestones.md', 'demo-days/index.md', 'demo-days/section-005.md', 'demo-days/section-007.md'
+]
+const classTime = /\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+\d{1,2}\b|\b\d{1,2}:\d{2}\s*(?:[ap]\.?m\.?)|\b20\d{2}-\d{2}-\d{2}\b/i
+for (const relative of coursePages) {
+  const source = readFileSync(path.join(docs, relative), 'utf8')
+  if (classTime.test(source)) dateLeaks.push(relative)
 }
-console.log(`Verified local references in ${pages.length} Markdown pages and matching signup options.`)
+if (dateLeaks.length) throw new Error(`Class dates belong in Canvas, not these pages:\n${dateLeaks.join('\n')}`)
+console.log(`Verified local references in ${pages.length} Markdown pages and checked schedule-free core pages.`)

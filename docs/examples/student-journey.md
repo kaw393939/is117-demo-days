@@ -16,7 +16,7 @@
 
 The portfolio connects both business projects and explains Maya's role. The group's [fictional customer brief](https://github.com/kaw393939/is117-demo-days/blob/main/docs/public/samples/room-ready/customer/AGENTS.md) supports discovery practice; its answers are simulated.
 
-**The dated notes below follow Section 007.** Section 005 uses the same process on [its own dates](/course/section-005). The sample portfolio packet contains extra reference-site research; that is optional enrichment. In both sections, the [career reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step) is portfolio Research. Submit it once, privately in Canvas. Carry its goals, intended reader, and evidence into the Plan.
+This is a fictional workflow, not your calendar. In both sections, use Canvas for dates and the actual submission. Extra portfolio reference notes in the samples are optional.
 
 [Optional class-by-class role-play and instructor findings](/examples/term-walkthrough).
 
@@ -25,16 +25,16 @@ The portfolio connects both business projects and explains Maya's role. The grou
 These filled notes link existing work; they are not extra essays. Real submissions link your own repository and real peer issues. The shared classroom code and AI walkthrough issues are teaching examples, not student-owned review evidence.
 
 <details open>
-<summary>November 10: individual T-shirt Research</summary>
+<summary>individual T-shirt Research</summary>
 
 “Campus Cotton: [Research](/examples/submissions/campus-cotton#_1-research). Compared Fresh Clean Tees, True Classic, and Buck Mason. Chose a student buying one shirt; this audience remains a hypothesis. Fit measurements and a clear total guide the Plan. Revised the unsupported price claim after feedback.”
 
-Teams have formed and begin group Research now; it is due November 17.
+Once you work with your team, use the same research method for the group project.
 
 </details>
 
 <details>
-<summary>November 12: portfolio Research is career exploration</summary>
+<summary>portfolio Research is career exploration</summary>
 
 Use [Maya's two role cards and reflection](/examples/career-reflections#maya-specific-evidence-and-a-small-next-step), with **100/100** illustrative rubric feedback. The cards connect role requirements to course evidence and two gaps; her next step is bounded.
 
@@ -43,7 +43,7 @@ Portfolio starting decision: “Reach an internship reviewer who needs to find u
 </details>
 
 <details>
-<summary>November 17: T-shirt Plan, portfolio Plan, shared group Research</summary>
+<summary>T-shirt Plan, portfolio Plan, shared group Research</summary>
 
 **T-shirt:** “[Plan](/examples/submissions/campus-cotton#_2-plan): compare shop-first and product-context-first. Stories cover fit, total, and simulated confirmation. Check M × 2 = $50 and reject missing size. Defer payments/accounts.”
 
@@ -56,7 +56,7 @@ Add actual issue links, responses, and updated records.
 </details>
 
 <details>
-<summary>November 24: T-shirt Build, portfolio Build, shared group Plan</summary>
+<summary>T-shirt Build, portfolio Build, shared group Plan</summary>
 
 **T-shirt:** “[A](/samples/campus-cotton/a.html) / [B](/samples/campus-cotton/b.html), [checks and choice](/examples/submissions/campus-cotton#_3-build-and-compare). Choose A to keep fit and price nearby; no conversion claim.”
 
@@ -67,7 +67,7 @@ Add actual issue links, responses, and updated records.
 </details>
 
 <details>
-<summary>December 3: T-shirt Improve, portfolio Improve, shared group Build</summary>
+<summary>T-shirt Improve, portfolio Improve, shared group Build</summary>
 
 **T-shirt:** “[Review](/examples/submissions/campus-cotton#_4-get-feedback-and-improve). Peer scenario led to labeled measurement units; actual implementation checks confirm missing-size validation and a $50 simulated order.”
 
@@ -80,11 +80,11 @@ Use this class for group final walkthroughs, changes/retests, missed reviews, an
 </details>
 
 <details>
-<summary>December 6, 11:59 p.m.: shared group Improve; all final links ready</summary>
+<summary>shared group Improve; all final links ready</summary>
 
 **Group:** “[Final review](/examples/submissions/room-ready#_4-get-feedback-and-improve). Fictional peer confusion led to explicit pending-confirmation wording. A real submission names the real reviewer/date, links the issue/change, and records the actual retest. Both members' contributions and cross-review are documented.”
 
-All three selected sites, alternatives, repositories, and setup notes are ready. Keep improving the same T-shirt/portfolio sites and records at the same URLs after the December 3 checkpoint; no second individual upload is needed; final assessments reuse those links and Demo Day evidence. Send corrected links through Canvas Inbox if a submitted URL changes. Demo Days are December 8 and 10.
+Keep improving the same sites and records at the same URLs. Final assessments reuse those links and Demo Day evidence; no second individual upload is needed. Send a corrected link through Canvas Inbox if it changes.
 
 </details>
 
@@ -104,6 +104,6 @@ All three selected sites, alternatives, repositories, and setup notes are ready.
 
 **Actual checks, November 2:** public T-shirt A/B returned M × 2 / $50; public service A/B returned a pending Desk request. Portfolio A/B had both projects and fictional profile examples. Limited checks at a natural 319 px width found no horizontal overflow on the three B pages and portfolio A. Downloaded Node 24 source saved a $50 order and pending request in SQLite; both remained in browser history after a server restart. This is not a full accessibility audit or novice timing study.
 
-**Canvas status:** all twelve Section 007 review checkpoints plus three separate final assessments are published and visible in Student View. Five cycle modules and the Final Products module hold the links; the short outline and four reference pages are published. All four group checkpoints use the final-project team set with individual grading. Final assessment rows show 100 points, December 6 at 11:59 p.m., and No submission: they reuse existing links and Demo Day evidence. For the current Canvas group names and separate weights, use the [November 5 grading map](/course/milestones#reviews-and-final-project-grades): Tests is 50%, and the four Assignments groups are 12.5% each. Actual submission, grading, and real team behavior remain untested.
+**Canvas is the hand-in:** check your section for current grade and submission settings. These examples do not show a real submission or grade.
 
 [Back to your class plan](/course/section-007) · [More graded examples](/examples/submissions/).

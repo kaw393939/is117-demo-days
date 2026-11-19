@@ -26,7 +26,7 @@ For career research, trace an original employer requirement to suitable portfoli
 
 AI can help suggest questions or alternatives. Reopen the original sources, check claims yourself, and briefly note AI help and its limits in the existing record. You own the decision and the evidence. Optional diagrams or narration may help a reviewer; include a transcript with audio.
 
-The [November 5 research-round requirement](/process/github-feedback#current-research-round) remains **3–5 constructive issues per classmate, per project for the current individual T-shirt and career/portfolio research only**. It does not apply to the group project or later stages. Keep the existing source counts, milestone dates, and submission requirements.
+Use the peer-review directions attached to your Canvas assignment. [Read the general GitHub issue workflow](/process/github-feedback) for what a useful observation looks like.
 
 ## Try one decision from start to finish
 

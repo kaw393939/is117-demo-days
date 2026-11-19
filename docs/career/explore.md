@@ -1,6 +1,6 @@
 # Portfolio Research: explore two roles
 
-**Portfolio Research is due Thursday November 12, 2026:** **005 at 11:30 a.m.; 007 at 8:30 a.m. Eastern.** Introduce November 5; discuss/work November 9 in 005 or November 10 in 007. Use draft findings to begin Plan, review it November 12, and submit Plan November 16 in 005 or November 17 in 007. [005 class plan](/course/section-005) · [007 class plan](/course/section-007). Use your matching Canvas assignment.
+**Start in Canvas:** open Portfolio Research for your section’s deadline and private submission box. Use draft job findings to start your portfolio plan; you can refine the same plan after writing your reflection.
 
 You do not have to decide your career now. Use real descriptions to find work that interests you, see what you can already demonstrate, and choose something to learn next.
 

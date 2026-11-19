@@ -6,6 +6,12 @@ With a partner, build a website for a realistic business product or service. It 
 
 ## Keep the scope small
 
+Pick **one complete customer workflow**. For example: let someone choose a repair service, send a request, and see that it is pending. Do not add payments or an admin dashboard unless they are part of your agreed scope.
+
+Start after the two solo projects have taught you the process. Share one project record. Both versions can use the same code and data; change one choice that matters to the customer. Each person owns a meaningful piece of the build and reviews another person's work. This is the same group project, not extra work.
+
+[Try this flow in the Room Ready example](/examples/submissions/room-ready#_3-build-and-compare).
+
 Choose a customer, a business need, and one complete task. “A visitor submits a request, sees a receipt, and the business can find the request” is enough to build around.
 
 Use AI to help plan and code. An AI feature inside the product is optional. Choose tools you can explain and run.

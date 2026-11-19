@@ -1,14 +1,14 @@
 # Record a review in GitHub
 
-Use the [five-step class review](/process/collaboration) first. An issue keeps the task, observation, response, and retest in one place. **Use the repository for the project being reviewed.** The course repository is for course-material problems or demo signup.
+Use the [five-step class review](/process/collaboration) first. An issue keeps the task, observation, response, and retest in one place. **Use the repository for the project being reviewed.** The course repository is for course-material problems; demo logistics are in Canvas.
 
-## Current research round · November 5, 2026 {#current-research-round}
+## Historical research-round exception {#current-research-round}
 
-For the **current T-shirt and career/portfolio research round only**, each student must open **3–5 constructive GitHub issues per classmate, per project**. Partners review each other's research; in a group of three, each student reviews both peers. Use the classmate's repository for the project being reviewed.
+In the original individual T-shirt and career/portfolio research assignment, the stated requirement was **3–5 constructive issues per classmate, per project**. Check your own Canvas assignment. That historical count is not a group-project or later-stage quota.
 
 Each issue should identify a specific observation, explain why it matters, and suggest a useful question or improvement. Link the relevant source or research passage. Keep related observations together and avoid duplicate issues. **Issue counts alone do not demonstrate quality.** Review shareable research and portfolio direction; keep the full career reflection and private eligibility circumstances in Canvas.
 
-This dated exception does **not** extend to the group business project, later stages, or future review rounds. Outside this research round, the normal workflow below has no issue or commit quota. Keep earlier assignments' specific pull-request requirements.
+Outside that assignment, the workflow below has no issue or commit quota. Follow the matching Canvas assignment for any specific pull-request requirements.
 
 ## The simple workflow
 
@@ -64,7 +64,7 @@ If the reviewer becomes unavailable, record your own retest honestly and ask the
 | Build | Try the same customer task in A and B. | A working interaction or clearer decision about versions |
 | Improve | Retry the task that caused the original problem. | Evidence that the feedback-driven change helped |
 
-Use one continuing issue when useful. Beyond the current research-round exception above, there is no required number of new or closed issues. Each final project needs an actual peer walkthrough, a meaningful feedback-driven change, and a retest. We grade **Complete, Thoughtful, Checked, and Understood**, including the evidence and your explanation. A closed issue by itself does not prove the work was checked.
+Use one continuing issue when useful. Check the current assignment rather than applying old issue counts. A meaningful change and a real retest show more than a closed issue alone.
 
 Keep grades and personal circumstances in Canvas. AI may help phrase feedback, but the observation and reviewer name must describe what actually happened.
 

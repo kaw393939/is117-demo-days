@@ -2,7 +2,7 @@
 
 **Make work you can show, then explain what you contributed.** These projects give you examples to discuss with an internship interviewer, teammate, or potential client.
 
-**Start with your next class:** [Section 005](/course/section-005#before-next-class) · [Section 007](/course/section-007#before-next-class). Your card has the task, points, deadline, and one example.
+**Start in Canvas for your next task, deadline, and submission:** [Section 005](/course/section-005#before-next-class) · [Section 007](/course/section-007#before-next-class). Then take one example from this book and try it.
 
 A **forward deployed engineer (FDE)** understands a customer’s problem, builds useful software, and helps people use it. IS117 introduces that process. Many FDE roles require further technical study. [Explore the career](/career/fde).
 
@@ -14,17 +14,17 @@ Give a white T-shirt your own audience, brand, simulated shopping experience, an
 
 **Show:** how you turn an idea into a useful website and explain your choices. [T-shirt requirements](/projects/white-tshirt).
 
-### 2. Your group business — show how you work with people
-
-With a partner, build for a realistic business product or service. Share design, coding, and testing fairly. Each person builds meaningful work and reviews another’s work.
-
-**Show:** how you clarify a need, divide work, combine results, and improve together. [Group requirements](/projects/group-project).
-
-### 3. Your portfolio — make your work easy to understand
+### 2. Your portfolio
 
 Show both projects and your contribution, with an accurate résumé, actual GitHub and LinkedIn profiles, all three project repository links, and contact information. Choose a style that fits your goals.
 
 **Show:** what you offer a recruiter, teammate, or client. [Portfolio requirements](/projects/portfolio).
+
+### 3. Your group business
+
+With a partner, build for a realistic business product or service. Share design, coding, and testing fairly. Each person builds meaningful work and reviews another’s work.
+
+**Show:** how you clarify a need, divide work, combine results, and improve together. [Group requirements](/projects/group-project).
 
 ## How to manage the work
 
@@ -35,9 +35,9 @@ Show both projects and your contribution, with an accurate résumé, actual GitH
 - **Keep A/B manageable.** Compare two options; share code, content, and data. Choose one to launch.
 - **Show progress in Canvas.** One checkpoint per active project in the current cycle: links and a short update. Use your section’s dates for the career and holiday exceptions. Keep detailed work on your project record; use GitHub issues for feedback and retests.
 
-[Check your dates](/course/schedule) · [Section 007: next class](/course/section-007#before-next-class) · [Section 005: next class](/course/section-005#before-next-class) · [Submissions and rubric](/course/milestones).
+[Make a decision from real evidence](/process/from-evidence-to-decisions) · [Find your Canvas course](/course/schedule) · [What to submit and how the rubric works](/course/milestones).
 
-Career exploration is portfolio Research; use it to plan your site. The group starts after team formation and runs about a week behind the T-shirt project. The week before Demo Days is for finishing, reviews, and rehearsal. Follow your section’s published Canvas deadlines.
+Career exploration is portfolio Research; use it to plan your site. Start with the two individual projects, then apply the same process in a focused group sprint. Reuse your working record. Check Canvas for each active checkpoint.
 
 <details>
 <summary>Use the finished work to meet people and find opportunities</summary>
@@ -76,7 +76,7 @@ Ask before following up. Keep promises small and accurate.
 
 These are career goals, not extra graded submissions or required paid events. We grade your process, not a hiring outcome. Use [career reflection](/career/explore) to choose a direction and [later courses](/career/course-pathway) to build depth.
 
-**Start now:** open your section’s Before next class card, then its matching guide and one example. Update the same project record. [007](/course/section-007#before-next-class) · [005](/course/section-005#before-next-class) · [Portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist).
+**Start now:** open your Canvas module, then its matching guide and one example. Update the same project record. [007](/course/section-007#before-next-class) · [005](/course/section-005#before-next-class) · [Portfolio ready checklist](/projects/portfolio#portfolio-ready-checklist).
 
 <small>Opportunity resources checked November 2, 2026. Event listings and job postings change; verify details on the original site.</small>
 

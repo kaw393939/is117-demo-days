@@ -8,7 +8,7 @@ Already using `SPEC.md` from Brand Studio? Extend it with these sections, or lin
 
 ## Feedback at every stage
 
-Link the peer-feedback issues, your responses, the changed work, and the checks of the result. Explain any open issues. Reuse this record at the next stage. **Portfolio Research** is the career role cards and reflection, due **November 12** in both sections at the section's class time. **Portfolio Plan** is due November 16 in 005 and November 17 in 007. T-shirt and group Research have different dates; follow your section plan. The [November 5 research-round issue requirement](/process/github-feedback#current-research-round) applies only to the current T-shirt and career/portfolio research round, not later stages or the group project.
+Link the peer-feedback issues, your responses, the changed work, and the retest. Reuse the record at the next stage. Portfolio Research is the career activity; check your section’s Canvas assignment for timing and this milestone’s instructions.
 
 ## 1. Research
 

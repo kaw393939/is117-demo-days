@@ -4,7 +4,7 @@ These are **fictional student submissions and illustrative grades**, not actual 
 
 [Activity and reflection prompts](/career/explore) · [Rubric](/career/explore#what-earns-credit).
 
-**Read these at the career checkpoint:** use earlier work you can already show. Finished group apps and final portfolios are later examples, not expected evidence by November 12. Label future work as planned.
+**Read these at the career checkpoint:** use earlier work you can show now. Finished group apps and portfolios are later-stage examples, not expected evidence here. Label future learning as a plan.
 
 ## Maya: specific evidence and a small next step
 

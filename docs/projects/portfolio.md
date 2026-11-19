@@ -49,7 +49,7 @@ Use a few screenshots and links. Distinguish course projects from employment and
 
 Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Use the [same review routine](/process/collaboration) as your other projects.
 
-**Group work follows a later deadline:** at portfolio Build (**005: November 23; 007: November 24**), show the group goal, actual work so far, and a repository/prototype link. Label planned work. At portfolio Improve **December 3**, show the current group build and your actual contribution. Update the same case study and links by **December 6 at 11:59 p.m.** The group’s finished product is not due early because it appears in the portfolio.
+**Your group site can still be in progress.** At portfolio Build, show its goal, the work you have actually done, and a repository or prototype link if available. Label plans as plans, then update the same case study as the group finishes.
 
 ## Use it beyond class
 

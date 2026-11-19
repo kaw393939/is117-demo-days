@@ -1,4 +1,6 @@
 # Campus Cycle — one shared project record
+Historical rehearsal snapshot, not a current schedule. Canvas has the current dates, times, and submission details.
+
 Fictional Nina Shah and Eli Brooks. Actual work by the assistant with AI help, November 2, 2026. No real partner, client or human peer participated. Future class dates are rehearsal checkpoints.
 
 ## 1. Research — due November 17

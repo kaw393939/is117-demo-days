@@ -1,4 +1,6 @@
 # Day One Cotton — one evolving project record
+Historical rehearsal snapshot, not a current schedule. Canvas has the current dates, times, and submission details.
+
 Fictional Nina Shah. Actual artifact work and tests: November 2, 2026. The class checkpoints below are a rehearsal of future dates, not claimed attendance. AI drafted code and this record; the assistant selected scope, inspected it and ran the checks. Server adapted from the course sample.
 
 ## 1. Research — due November 10

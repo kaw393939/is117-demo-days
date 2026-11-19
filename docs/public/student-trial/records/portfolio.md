@@ -1,4 +1,6 @@
 # Nina’s portfolio — one evolving record
+Historical rehearsal snapshot, not a current schedule. Canvas has the current dates, times, and submission details.
+
 Fictional student, assistant-built with AI help on November 2, 2026. Future dates below simulate the course rhythm, not elapsed weeks or attendance.
 
 ## 1. Research — career exploration due November 12

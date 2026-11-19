@@ -11,8 +11,8 @@ The table records current status. Earlier observations describe what failed befo
 | G1 · Fixed and retested | Repair receipt said Pending review; saved history said Pending confirmation. | Standardized new records to **Pending review**. A fresh-database browser retest saved **DEMO-1A6375EA**; receipt and history agree that no appointment is confirmed. |
 | P1 · Fixed and retested | A five-line portfolio headline hid both project cards. | Reduced headline size and hero space. The new desktop screenshot shows both project headings on the first screen; project links and résumé/profile drafts opened. |
 | C9 · Fixed and retested | VitePress intercepted standalone example HTML and showed a false 404. | Added normal same-tab navigation for sample/trial HTML. Actual guide-to-product clicks were retested in both the new trial and existing examples. |
-| C2 · Dates clarified | “One each week” suggested a literal seven-day deadline pattern. | Keep the [Section 007 date table](/course/section-007) authoritative: career Research Nov 12, group Build Dec 3 and group Improve Dec 6 are exceptions. No second individual upload is required; final assessments reuse the same links and Demo Day evidence. |
-| C3 · Handoff clarified | Portfolio Plan starts Nov 10 before the career reflection is due Nov 12. | Bring draft role findings Nov 10; use the final reflection to refine the same Plan. No second reflection or extra portfolio Research report. |
+| C2 · Dates clarified | “One each week” implied a rigid cadence. | The sequence lives here; Canvas owns the schedule. No second individual upload. |
+| C3 · Handoff clarified | Portfolio Plan may begin with draft role findings. | Use the full private reflection to refine the same plan later. |
 | C4 · Handoff clarified | Portfolio Build is due before the group product finishes. | Show the group story as **in progress**, separate actual work from planned work, then update the same URL. |
 | C5 · Route simplified | Optional guides and examples could look like extra assignments. | Start at [Before next class](/course/section-007#before-next-class), follow the current stage and use one example. Keep one evolving record per project. Use the [collaboration and review routine](/process/collaboration) during class. |
 | C6 · Evidence clarified | A successful GitHub Pages order could look like proof of SQLite. | Both products label storage mode. Public previews use browser storage; the [local setup and test evidence](/examples/trial-setup) demonstrate Node/SQLite, including persistence after restart. One does not prove the other. |
@@ -20,10 +20,10 @@ The table records current status. Earlier observations describe what failed befo
 
 ## Canvas Student View checks completed
 
-- **Section 007:** the home outline and all four reference pages opened; Modules showed all twelve checkpoint links. Career Research showed **Start Assignment**, a text-entry submission setting, 100 points, the **November 12, 8:30 a.m.** deadline and private two-card/reflection instructions.
-- **Section 005:** the home showed the correct **Monday/Thursday, 11:30 a.m.–12:50 p.m., CKB 106** meeting and short outline. All four reference pages opened from Home and returned successfully; Modules showed all twelve checkpoint links. Career Research showed **Start Assignment**, text entry, 100 points and **November 12, 11:30 a.m.** Portfolio Build also showed **Start Assignment**, text entry, 100 points and **November 23, 11:30 a.m.**, with actual profiles, three repositories, résumé and the in-progress group-story instructions clear.
+- **Section 007:** the original read-only check followed the home, reference pages and checkpoint links.
+- **Section 005:** the original check followed the home, reference pages and checkpoint links.
 
-- **Both sections, final assessment check:** Modules showed twelve progress-review links plus three final-assessment links. All six final entries opened with **100 points**, **December 6 at 11:59 p.m.**, **No submission**, no Start Assignment button, and an explanation that existing links and Demo Day evidence are reused. For the current Canvas group names and separate weights, use the [November 5 grading map](/course/milestones#reviews-and-final-project-grades): Tests is 50%, and the four Assignments groups are 12.5% each. The November 5 audit distinguishes this current group structure from older Syllabus wording.
+- **Both sections, final assessment check:** read-only access to the final rows worked; no actual submissions or grades were entered.
 
 Student View was exited after the checks. No actual submission, grade, reset or real group-membership behavior was tested. This verifies access and visible instructions; it is not a volunteer study or completed coursework.
 
@@ -31,19 +31,19 @@ Student View was exited after the checks. No actual submission, grade, reset or 
 
 | ID | Remaining limit | Next action |
 | --- | --- | --- |
-| C1 · Submission and team behavior untested | Both sections' checkpoint access is verified, but opening an assignment does not prove a successful submission, grade flow or real team membership. | Confirm membership after teams form November 5, then verify the intended group behavior. Real students must complete and submit their own work. Do not treat the instructor's group-setting check as roster evidence. |
+| C1 · Submission and team behavior untested | Opening an assignment does not prove a successful submission or real team membership. | Verify in Canvas; students complete work themselves. |
 | C7 · Real participants required | Roleplayed customer/partner feedback cannot establish teamwork or a human peer review. Fictional profile drafts are not owned professional accounts. | Real students need contribution evidence, an actual peer's issue → response → change → retest, and working GitHub/LinkedIn links. The [portfolio checklist](/projects/portfolio) and [GitHub](/career/github), [LinkedIn](/career/linkedin) and [résumé](/career/resume) guides show the expected result. |
 | C8 · Expected simulation limit | Nina has no real demo signup. | Keep the 10-minute pair outline as a rehearsal. Do not occupy a real student's slot for a fictional person. Actual students must sign up. |
 
 No new human participation, Canvas submission or signup has been claimed in this update.
 
 ## Class rhythm rehearsal and evidence carried forward
-- Nov 3 introduce shirt Research; Nov 5 work/review and teams/career launch → Nov 10 shirt Research carries audience into Plan.
-- Nov 10 career discussion; Nov 12 reflection due/private and Plan review → Nov 17 portfolio Plan uses career goals. Group Research uses the same method one cycle behind.
-- Nov 17 introduce individual builds; Nov 19 test A/B plus group Plan review → Nov 24 individual builds/group Plan.
-- Nov 24 explain Improve and group Build; no class Nov 26 → Dec 1 actual peer sessions would happen here.
-- Dec 3 individual Improve/group Build; remaining group changes, retests, rehearsal → Dec 6 group Improve and stable links. No added topic in catch-up week.
-- Dec 8/10 demos. No real class participation was simulated as completed evidence.
+- Research the shirt and carry the audience choice into its plan.
+- Use the private career reflection and draft findings to improve your portfolio plan.
+- Compare and test individual builds; the group can reuse the process.
+- Introduce the group workflow and make time for actual reviews.
+- Fix, retest, and prepare the same records for demo.
+- Use Canvas for the demo slot; no actual participation was simulated.
 
 ## Simulated instructor interactions — questions worth discussing
 Q: Do I need another portfolio competitive landscape? Hypothetical response, consistent with guide: no, use career cards/reflection.

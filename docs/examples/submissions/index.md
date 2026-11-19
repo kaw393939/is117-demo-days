@@ -69,6 +69,6 @@ A working site is one part of the submission. Compare how the examples explain t
 
 Three customized A/B prototypes: a SQLite T-shirt store, a service request site and a portfolio with fictional professional-material drafts. [Download the runnable source packet](/downloads/is117-learner-trial.zip); start with its README.
 
-This is an assistant-run learning simulation with actual files and local checks. Learner reactions and customer dialogue are authored examples. Real peer feedback, team participation and student-owned professional profiles remain to be completed; the packet is not a full-credit student submission. No extra reading or hand-in is required.
+This is a historical assistant-run learning simulation with actual files and local checks. Ignore any old course dates or logistics in the archive; Canvas has the current schedule. Learner reactions and customer dialogue are authored examples. Real peer feedback, team participation and student-owned professional profiles remain to be completed; the packet is not a full-credit student submission. No extra reading or hand-in is required.
 
 </details>

@@ -1,4 +1,6 @@
 # Running rehearsal notes — actual work November 2, 2026
+Historical rehearsal snapshot, not a current schedule. Canvas has the current dates, times, and submission details.
+
 This is an assistant walkthrough using a fictional student, not a study of typical NJIT students. No attendance, instructor conversation, peer interview, submission or grade was manufactured. Future dates are scenario checkpoints. Times/hours below are planning assumptions, not a measured student workload.
 
 ## Issues fixed or clarified

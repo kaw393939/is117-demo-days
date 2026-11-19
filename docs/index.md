@@ -2,45 +2,29 @@
 layout: home
 hero:
   name: IS117 Studio
-  text: Make something you can show.
-  tagline: Build your T-shirt store, a group business site, and your portfolio. Start with your next class.
+  text: Build something you can explain.
+  tagline: Make a T-shirt shop and your own portfolio, then use what you learned to ship something useful with a teammate.
   actions:
     - theme: brand
-      text: Section 005 · next class
-      link: /course/section-005#before-next-class
+      text: Start here
+      link: /course/overview
     - theme: alt
-      text: Section 007 · next class
-      link: /course/section-007#before-next-class
+      text: Try a worked example
+      link: /examples/submissions/
 ---
 
-## This week: start your research
+## Find what to do next
 
-**Your first win:** choose who your T-shirt store is for and explain why. Compare three brands, consider two directions, and bring your notes to the **November 5 workshop**. Reuse Brand Studio.
+Open Canvas first to see your next task, due date, and where to submit. This course book shows you how to do the work.
 
-[See a short Research example](/examples/submissions/#a-short-research-submission) · [Copy the template](/templates/four-milestones)
+[Canvas · Section 005](https://njit.instructure.com/courses/70710/modules) · [Canvas · Section 007](https://njit.instructure.com/courses/70711/modules)
 
-**T-shirt Research — 100 points:** section 005, **Nov 9 at 11:30 a.m.** · section 007, **Nov 10 at 8:30 a.m.** All times are Eastern. Submit in your section's Canvas assignment.
+## Start with work that is yours
 
-## Three projects, one step at a time
+1. **[Make a T-shirt store](/projects/white-tshirt).** Help one kind of shopper choose a size and finish a simulated order. Let a classmate try it before you explain the buttons.
+2. **[Make a portfolio](/projects/portfolio).** Pick someone you want to reach. Show them a decision you made, how you checked it, and where to see the work.
+3. **[Build with your team](/projects/group-project).** Agree on one thing a customer needs to do. Keep the scope small enough for everyone to build and review real work.
 
-| Make this | Have this to show |
-| --- | --- |
-| [Your T-shirt store](/projects/white-tshirt) | Your own brand and a working simulated purchase. |
-| [Your group business](/projects/group-project) | Useful work you built and improved with a partner. |
-| [Your portfolio](/projects/portfolio) | Both projects, your contribution, résumé, GitHub, and LinkedIn. |
+For any project: **Research → Plan → Build → Improve.** Keep the same project record as you go. [See what to turn in](/course/milestones#how-to-submit) · [Get ready to demo](/demo-days/).
 
-**Research → Plan → Build → Improve.** Keep one record per project and update it. Come to class, try each other's work, and improve it. [See the whole plan](/course/overview).
-
-## You will have time to work together
-
-**Attendance is required.** First class: meet the task. Next class: work, get feedback, and resolve issues. Submit when the next step starts. The week before demos is for finishing and rehearsal.
-
-Career exploration is portfolio Research, due **November 12**. Teams form **November 5**. Group Research follows a week behind: **November 16 in 005** or **November 17 in 007**. Your section card gives the exact task, points, and submission link.
-
-## Ready for Demo Days?
-
-**005: December 7 and 10 · 007: December 8 and 10.** [See the format and request a team slot](/demo-days/).
-
-Use **Canvas for submissions, grades, and private questions**. Use this site for instructions and examples. [Grading and hand-in details](/course/milestones) · [Full schedule](/course/schedule).
-
-You are building evidence you can discuss with an internship interviewer or a potential client. [Explore FDE work and next steps](/career/fde).
+[Make a decision from real evidence](/process/from-evidence-to-decisions) using the linked course research notebooks.

@@ -4,7 +4,6 @@ import SampleAssessment from './SampleAssessment.vue'
 import LearningDiagram from './LearningDiagram.vue'
 import VersionComparison from './VersionComparison.vue'
 import ExampleGallery from './ExampleGallery.vue'
-import ClassWorkCard from './ClassWorkCard.vue'
 import './custom.css'
 // Search and deep links must reveal targets inside collapsed worked examples.
 function revealHashTarget() {
@@ -43,7 +42,6 @@ export default {
     app.component('LearningDiagram', LearningDiagram)
     app.component('SampleAssessment', SampleAssessment)
     app.component('ExampleGallery', ExampleGallery)
-    app.component('ClassWorkCard', ClassWorkCard)
     app.component('VersionComparison', VersionComparison)
   }
 }
