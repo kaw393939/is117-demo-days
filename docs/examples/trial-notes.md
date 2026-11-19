@@ -8,14 +8,14 @@ The table records current status. Earlier observations describe what failed befo
 | ID | What was confusing or failed | Change and verification |
 | --- | --- | --- |
 | S1 · Fixed and retested | A size shortcut could skip the measuring explanation. | Added flat-garment cm guidance in the bag and repeated size, quantity and charges. Browser checkout saved M × 2 as **DEMO-231445BE**, $48, no payment. |
-| G1 · Fixed and retested | Repair receipt said Pending review; saved history said Pending confirmation. | Standardized new records to **Pending review**. A fresh-database browser retest saved **DEMO-1A6375EA**; receipt and history agree that no appointment is confirmed. |
+| G1 · Fixed and retested | Repair receipt said Pending review; saved history said Pending confirmation. | Standardized new records to **Pending review**. A browser retest saved **DEMO-1A6375EA**; receipt and history agree that no appointment is confirmed. |
 | P1 · Fixed and retested | A five-line portfolio headline hid both project cards. | Reduced headline size and hero space. The new desktop screenshot shows both project headings on the first screen; project links and résumé/profile drafts opened. |
 | C9 · Fixed and retested | VitePress intercepted standalone example HTML and showed a false 404. | Added normal same-tab navigation for sample/trial HTML. Actual guide-to-product clicks were retested in both the new trial and existing examples. |
 | C2 · Dates clarified | “One each week” implied a rigid cadence. | The sequence lives here; Canvas owns the schedule. No second individual upload. |
 | C3 · Handoff clarified | Portfolio Plan may begin with draft role findings. | Use the full private reflection to refine the same plan later. |
 | C4 · Handoff clarified | Portfolio Build is due before the group product finishes. | Show the group story as **in progress**, separate actual work from planned work, then update the same URL. |
 | C5 · Route simplified | Optional guides and examples could look like extra assignments. | Start at [Before next class](/course/section-007#before-next-class), follow the current stage and use one example. Keep one evolving record per project. Use the [collaboration and review routine](/process/collaboration) during class. |
-| C6 · Evidence clarified | A successful GitHub Pages order could look like proof of SQLite. | Both products label storage mode. Public previews use browser storage; the [local setup and test evidence](/examples/trial-setup) demonstrate Node/SQLite, including persistence after restart. One does not prove the other. |
+| C6 · Evidence clarified | A demo receipt should explain where it goes. | Both prototypes say where the browser saves the record. [Try the save and reload check](/examples/trial-setup). |
 | C1 · Student access verified | New checkpoint boxes were initially hidden while unpublished. | All twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments in **each** section are now published. Student View verified the course outline, reference-page route, review access and all six final assessments; details follow. Actual submission and group behavior remain separate checks. |
 
 ## Canvas Student View checks completed
@@ -47,9 +47,9 @@ No new human participation, Canvas submission or signup has been claimed in this
 
 ## Simulated instructor interactions — questions worth discussing
 Q: Do I need another portfolio competitive landscape? Hypothetical response, consistent with guide: no, use career cards/reflection.
-Q: Do both A/B need separate databases? Hypothetical: no, share logic/data; compare meaningful layout/hierarchy choices.
+Q: Do both versions need separate histories? Hypothetical: no, share logic/data; compare meaningful layout/hierarchy choices.
 Q: Is my partner's roleplay enough? Hypothetical: no, a real team and actual peer review are required.
-Q: Does my public demo need a real payment integration? Hypothetical: no, simulate ecommerce; demonstrate required local SQLite.
+Q: Does my public demo need a real payment integration? Use a demo checkout. Save a fake order and check the history after reload.
 These are not messages from the instructor.
 
 ## Workload assumptions to validate with actual students
@@ -61,7 +61,7 @@ A novice with the starter and AI might budget about 2–3 focused hours for each
 
 1. From the course outline, find the next class, what to bring, what happens in class and the next submission date.
 2. Find the current project's requirements, one relevant example and the portfolio's LinkedIn, GitHub repositories and résumé checklist.
-3. Explain what the public preview proves and what must be shown with local SQLite.
+3. Explain what the published prototype remembers after reload and whose browser can see it.
 4. Try one real peer task using the review routine: observe, give specific feedback, record an issue, make a change and retry.
 5. **Both sections’ access was checked in Student View:** ask volunteers to find the right Canvas submission box without coaching. Once real teams are formed, verify the intended group behavior. Do not submit on a volunteer’s behalf during an instruction-only pilot.
 

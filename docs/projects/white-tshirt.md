@@ -1,8 +1,8 @@
 # Your T-shirt store
 
-Everyone starts with the same product: a plain white T-shirt. Choose whom it is for, give it your own brand, and build a professional-looking **simulated online store**.
+Everyone starts with the same product: a plain white T-shirt. Choose whom it is for, give it your own brand, and build a **clickable store prototype** on GitHub Pages. A shopper can choose a size, see the total, and finish a demo order.
 
-**Working on Build?** [Try the SQLite check](/examples/submissions/run-examples#run-the-sqlite-example-locally) · [See the A/B hand-in](/examples/submissions/campus-cotton#_3-build-and-compare).
+**Working on Build?** [Try the save and reload check](/examples/submissions/run-examples#run-the-save-and-reload-check) · [See the A/B hand-in](/examples/submissions/campus-cotton#_3-build-and-compare).
 
 **Full examples:** [Campus Cotton](/examples/submissions/campus-cotton) · [Studio White](/examples/submissions/studio-white).
 
@@ -25,28 +25,20 @@ Before the research walkthrough, [make your existing documentation easy to revie
 | Choose a shirt | Labeled size choices, fit information, and clear selection states. |
 | Review the purchase | A cart or order summary with correct quantities and totals. |
 | Finish a demo checkout | Required inputs checked, a clear demo label, and confirmation. |
-| See data work | SQLite-backed product or order data connected to the application. |
+| See data work | The demo order appears in history after reloading the page. |
 | Find help | Clear contact, delivery, and return information for the fictional business. |
 
-No real payments or payment-card collection. Use synthetic orders and label fictional product claims and policies. A static GitHub Pages site cannot run a server-side SQLite database: explain how to run your backend and what your published version can do.
+Use fake orders. Label the checkout as a demo and leave out real payment or personal details.
 
 ## Show how your data works
 
-| What you show | What it proves |
-| --- | --- |
-| Your public A/B preview | A shopper can try the workflow. Label browser-storage checkout as a simulation. |
-| Your local run | The actual SQLite backend saves a simulated order and can show it again. Never collect real payment details. |
-| Your Canvas hand-in | Use the existing record and required links. Point to your backend setup and what you checked; no new report. |
+**Storage** is how a site remembers something. Use JavaScript and `localStorage` to save the demo order in the visitor’s browser. This makes the prototype act like a store while the demo history stays on that browser.
 
-Your **public site** lets a visitor try the store. Your **backend** is the server code that reads or saves SQLite data. Explain both in your setup notes.
+1. Open the published GitHub Pages site and save one fake order.
+2. Copy its reference. Reload and find the same reference and total in history.
+3. Put the published link, reference, and result in your existing Build record.
 
-- Link the published A/B pages and label any browser-storage simulation.
-- Include the backend code and the command needed to run it. Say where the SQLite file is created.
-- Save one synthetic order and copy its reference. Stop and restart the server with the same database, reload the page, and look for that reference. Record what you see.
-
-**Keep the proof short:** “Public mode: [browser simulation or live backend]. Local start: [command]. Persistence check: [synthetic reference and what remained after restart].” Put it in the existing record, not another report.
-
-Browser storage alone does not meet the SQLite requirement. If your public host cannot run the backend, provide runnable local setup steps and demonstrate that version. [Use the supported SQLite starter: run, save, and reopen one order](/examples/submissions/run-examples).
+[Try the starter and see what to record](/examples/submissions/run-examples#run-the-save-and-reload-check).
 
 ## Follow the four steps
 
@@ -57,7 +49,7 @@ Browser storage alone does not meet the SQLite requirement. If your public host 
 
 Reuse and improve your Brand Studio work: audience promise, archetype/voice, original logo and style guide, two visual routes, and two honest persuasion applications. Show how those decisions appear in the store. [Find your angle](/process/find-your-angle). Keep that earlier milestone's original scope separate from this final store.
 
-**How this grows from Brand Studio:** keep your existing brand and code where useful. Brand Studio required the size selector and demo bag, without full checkout. The final project adds a simulated checkout and SQLite data, supported by research, a plan, and peer review. Link your existing `SPEC.md`, reviewed `LEARNING.md`, and feature pull request instead of copying them into another report. Brand Studio keeps its original 30/40/30 rubric; the new checkpoints use the four-part rubric.
+**How this grows from Brand Studio:** keep your existing brand and code where useful. Brand Studio required the size selector and demo bag, without full checkout. The final project adds a simulated checkout and browser storage, supported by research, a plan, and peer review. Link your existing `SPEC.md`, reviewed `LEARNING.md`, and feature pull request instead of copying them into another report. Brand Studio keeps its original 30/40/30 rubric; the new checkpoints use the four-part rubric.
 
 ## What you submit
 

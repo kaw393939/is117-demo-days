@@ -38,7 +38,7 @@ Keep the relevant peer issues, changes, and retests in this same record. Check C
 
 - Link two working versions with a meaningful difference. They may share code.
 - Give a peer the same realistic task in both. Record what you observe before explaining the interface.
-- **T-shirt only:** Record the start command, a synthetic order reference, and whether it appeared in history after the SQLite server restarted. Label your public preview’s storage mode.
+- **T-shirt only:** On your GitHub Pages site, save a fake order. Record its reference and whether it appeared in history after reload.
 - Select a launch direction and explain why. A classmate’s preference is useful feedback, not proof of sales performance.
 
 ## 4. Review and launch

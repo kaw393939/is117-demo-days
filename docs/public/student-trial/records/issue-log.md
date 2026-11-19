@@ -17,7 +17,7 @@ The table records current status. Earlier observations describe what failed befo
 | C3 · Handoff clarified | Portfolio Plan starts Nov 10 before the career reflection is due Nov 12. | Bring draft role findings Nov 10; use the final reflection to refine the same Plan. No second reflection or extra portfolio Research report. |
 | C4 · Handoff clarified | Portfolio Build is due before the group product finishes. | Show the group story as **in progress**, separate actual work from planned work, then update the same URL. |
 | C5 · Route simplified | Optional guides and examples could look like extra assignments. | Start at [Before next class](https://kaw393939.github.io/is117-demo-days/course/section-007.html#before-next-class), follow the current stage and use one example. Keep one evolving record per project. Use the [collaboration and review routine](https://kaw393939.github.io/is117-demo-days/process/collaboration.html) during class. |
-| C6 · Evidence clarified | A successful GitHub Pages order could look like proof of SQLite. | Both products label storage mode. Public previews use browser storage; the [local setup and test evidence](https://kaw393939.github.io/is117-demo-days/examples/trial-setup.html) demonstrate Node/SQLite, including persistence after restart. One does not prove the other. |
+| C6 · Evidence clarified | A demo receipt should explain where it goes. | Both prototypes say where the browser saves the record. [Try the save and reload check](https://keithwilliams.org/is117-demo-days/examples/trial-setup.html). |
 | C1 · Student access verified | New checkpoint boxes were initially hidden while unpublished. | All twelve review checkpoints, five cycle modules, and the Final Products module with three final assessments in **each** section are now published. Student View verified the course outline, reference-page route, review access and all six final assessments; details follow. Actual submission and group behavior remain separate checks. |
 
 ## Canvas Student View checks completed
@@ -49,9 +49,9 @@ No new human participation, Canvas submission or signup has been claimed in this
 
 ## Simulated instructor interactions — questions worth discussing
 Q: Do I need another portfolio competitive landscape? Hypothetical response, consistent with guide: no, use career cards/reflection.
-Q: Do both A/B need separate databases? Hypothetical: no, share logic/data; compare meaningful layout/hierarchy choices.
+Q: Do both versions need separate histories? Hypothetical: no, share logic/data; compare meaningful layout/hierarchy choices.
 Q: Is my partner's roleplay enough? Hypothetical: no, a real team and actual peer review are required.
-Q: Does my public demo need a real payment integration? Hypothetical: no, simulate ecommerce; demonstrate required local SQLite.
+Q: Does my public demo need a real payment integration? Use a demo checkout. Save a fake order and check the history after reload.
 These are not messages from the instructor.
 
 ## Workload assumptions to validate with actual students
@@ -63,7 +63,7 @@ A novice with the starter and AI might budget about 2–3 focused hours for each
 
 1. From the course outline, find the next class, what to bring, what happens in class and the next submission date.
 2. Find the current project's requirements, one relevant example and the portfolio's LinkedIn, GitHub repositories and résumé checklist.
-3. Explain what the public preview proves and what must be shown with local SQLite.
+3. Explain what the published prototype remembers after reload and whose browser can see it.
 4. Try one real peer task using the review routine: observe, give specific feedback, record an issue, make a change and retry.
 5. **Both sections’ access was checked in Student View:** ask volunteers to find the right Canvas submission box without coaching. Once real teams are formed, verify the intended group behavior. Do not submit on a volunteer’s behalf during an instruction-only pilot.
 

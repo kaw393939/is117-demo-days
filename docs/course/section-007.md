@@ -44,9 +44,9 @@ Bring your latest work. Give a classmate one task without coaching, watch what h
 
 **Do.** Make two working versions of the same task. Test both and record what changed and how the task went. Explain your provisional choice.
 
-- **T-shirt store.** Run a fake order locally, record its reference, restart the server with the same SQLite database, and look for the same reference in history. [Run the starter and see the evidence format](/examples/submissions/run-examples#run-the-sqlite-example-locally).
+- **T-shirt store.** On your GitHub Pages site, save a fake order in browser storage. Reload and look for the same reference and total in history. [Try the starter and see what to record](/examples/submissions/run-examples#run-the-save-and-reload-check).
 - **Portfolio.** Ask someone to find a project, your contribution, and its evidence. At individual readiness, show your actual group work so far, label what is pending, and update the same portfolio when your team finishes. [Portfolio readiness checklist](/projects/portfolio#portfolio-ready-checklist).
-- **Group business.** Test one complete customer workflow in both versions. In the shared record, link what each person built and checked. [See Room Ready’s Build](/examples/submissions/room-ready#_3-build-and-compare).
+- **Group business.** Test one complete customer workflow in both versions. If it saves a request or choice, reload and check that it’s still there in the same browser. In the shared record, link what each person built and checked. [See Room Ready’s Build](/examples/submissions/room-ready#_3-build-and-compare).
 
 **Submit.** Update Build in the same record with both previews, source and setup, the result you actually observed, and your provisional choice. Use the exact hand-in instructions in Canvas.
 

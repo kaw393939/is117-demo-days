@@ -15,7 +15,7 @@ Verified **November 2, 2026**. Course homepages and syllabus summaries were insp
 
 ## Instruction status
 
-**Existing Canvas expectations retained:** portfolio; individual T-shirt site with SQLite and simulated checkout; AI/Git collaboration; the earlier four individual and four group reviews (section 007 now separates T-shirt and portfolio submissions under the instructor’s revised plan). Check Canvas for current delivery arrangements.
+**Existing Canvas expectations retained:** portfolio; individual T-shirt site with browser storage and simulated checkout; AI/Git collaboration; the earlier four individual and four group reviews (section 007 now separates T-shirt and portfolio submissions under the instructor’s revised plan). Check Canvas for current delivery arrangements.
 
 **Instructor project direction published through this guide:** independent T-shirt brand vision with competitive-analysis-driven specifications; broader business product/service group project; balanced design/development/QA; portfolio branding and career materials; demos in the last two regular meetings; issue-based signup.
 

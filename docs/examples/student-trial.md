@@ -1,6 +1,6 @@
 # One student, three connected projects
 
-**Fresh rehearsal · November 2, 2026 · Section 007.** Nina Shah is a fictional second-year commuter. These are small, working examples built by the assistant using AI and an adapted course server. They show the whole sequence without pretending a real student, teammate or peer completed it.
+**Fresh rehearsal · November 2, 2026 · Section 007.** Nina Shah is a fictional second-year commuter. These are small, working examples built by the assistant using AI and the browser storage starter. They show the whole sequence without pretending a real student, teammate or peer completed it.
 
 ## Try the three end products
 
@@ -10,7 +10,7 @@
 | Group: **Campus Cycle** | [Try the repair inquiry](/student-trial/group/a.html) | [Version B](/student-trial/group/b.html) | [Research, roles, checks and limits](/examples/trial-group) |
 | Portfolio: **Nina Shah** | [Open the portfolio](/student-trial/portfolio/a.html) | [Version B](/student-trial/portfolio/b.html) | [Career findings → site and materials](/examples/trial-portfolio) |
 
-**Try these tasks:** order two medium shirts and explain the total; request a brake adjustment and tell whether an appointment is confirmed; find both project stories, Nina’s contribution and her résumé. No money, booking or email is involved. Public previews save synthetic records only in your browser. Real SQLite runs in the downloadable source.
+**Try these tasks:** order two medium shirts and explain the total; request a brake adjustment and tell whether an appointment is confirmed; find both project stories, Nina’s contribution and her résumé. No money, booking or email is involved. The clickable prototypes save synthetic records in your browser.
 
 [Download all source and project records](/student-trial-source.zip) · [Local setup](/examples/trial-setup) · [Detailed process/content notes](/examples/trial-notes).
 
@@ -21,7 +21,7 @@ I followed the Section 007 sequence, reused each record at the next stage, compa
 | Actual problem found | Change made | Actual retest |
 | --- | --- | --- |
 | Shirt’s size shortcut could skip its main measuring explanation. | Put flat-garment cm guidance in the bag; repeat size, quantity and charges. | Browser saved M × 2: **DEMO-231445BE**, $48, no payment. |
-| Repair receipt and database history used different pending labels. | Standardized new saved records to **Pending review**. | Browser receipt/history **DEMO-1A6375EA** agree: no appointment confirmed. |
+| Repair receipt and history used different pending labels. | Standardized new saved records to **Pending review**. | Browser receipt/history **DEMO-1A6375EA** agree: no appointment confirmed. |
 | Portfolio headline took five lines and hid the project cards. | Reduced headline size and hero space. | New desktop screenshot shows both project headings on the first screen; both demo links and résumé/profile drafts opened. |
 
 These are assistant observations and fixes. **They are not human peer feedback.** A/B choices are reasoned design judgments, not measured student preferences or conversion results. A uses a two-column overview; B uses a stacked sequence with shorter artwork and a different lead. They share content and logic.
@@ -39,7 +39,7 @@ The review led to these changes:
 - **One review routine:** the [collaboration guide](/process/collaboration) connects a real task, specific feedback, a GitHub issue, a chosen change and a retest. A simulated customer can help define scope; actual people still supply peer feedback and team contributions.
 - **The rhythm is a sequence, not a calendar:** check your Canvas assignment. Reuse evidence and make the smallest useful improvement.
 - **Portfolio work overlaps group work:** use draft career findings to start Plan, then show the group case study as in progress until it is actually finished. Keep the same record and URL through these handoffs.
-- **Public preview and SQLite are different checks:** a successful browser-storage order is not backend evidence. The source includes a local run and restart check.
+- **Show what the prototype remembers:** save a demo order, reload, and find the same reference in history.
 
 **Next: verify the experience with real students.** The [process notes](/examples/trial-notes#instructor-next-step-a-small-student-pilot) outline a pending two- or three-student pilot: find the next task, explain the requirements and storage modes, and complete one real peer review. Record time and confusion. No volunteers have completed this pilot yet.
 
@@ -58,7 +58,7 @@ These are **illustrative, provisional reviews of this rehearsal**, using the cou
 | Project / stage | Complete /25 | Thoughtful /25 | Checked /25 | Understood /25 | Total /100 | Main feedback |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
 | Shirt Research | 25 | 23 | 22 | 20 | 90 | Sources connect to features; personas remain hypotheses. |
-| Shirt Plan | 25 | 23 | 22 | 20 | 90 | Observable stories and SQLite scope; validate fit assumptions with a person. |
+| Shirt Plan | 25 | 23 | 22 | 20 | 90 | Observable stories and a small storage scope; validate fit assumptions with a person. |
 | Shirt Build | 25 | 23 | 23 | 20 | 91 | Both versions work and backend checks pass; A/B choice is heuristic. |
 | Shirt Improve | 25 | 23 | 12 | 20 | **80** | Real inspection/change/retest, but required human peer evidence is absent. |
 | Group Research | 25 | 23 | 22 | 20 | 90 | Three useful references; two are adjacent, not Newark demand evidence. |
@@ -74,16 +74,16 @@ The main lesson is not “add more features.” Finish the missing **human evide
 
 ## Evidence and demo preparation
 
-Ten reproducible backend integration checks passed, including invalid size/quantity/email, unsupported services, ignoring a client’s false total, saving pending inquiries and **actual SQLite persistence across a server restart**. A separate database inspection confirmed the email was not persisted. Run `node verify.mjs` from the source folder. Browser tasks checked all six A/B pages, the receipt/status fixes and the résumé/profile routes. Desktop visuals were inspected; this is not a complete mobile/accessibility audit or a novice usability study.
+The prototype checks verify the order total, validation, saved record, and pending request status. Use the published pages to check what survives an actual reload. [Try the checks](/examples/trial-setup).
 
 ![Final portfolio: the two project cards now begin on the first screen](/student-trial/portfolio-final.png)
 
 <details>
 <summary>See the actual local checkout and inquiry receipts</summary>
 
-![Two medium shirts, $48 and local SQLite mode](/student-trial/shirt-receipt.png)
+[Try the $48 order example](/student-trial/shirt/a.html).
 
-![Repair request and history both show Pending review](/student-trial/group-receipt.png)
+[Try the pending repair request](/student-trial/group/a.html).
 
 </details>
 

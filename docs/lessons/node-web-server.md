@@ -10,7 +10,7 @@ Before opening each path, predict what the server will send. Start with `/`; use
 
 ## Check your work
 
-Explain the two paths, their status codes, and the part of the code that chose each response. Write the start command so a classmate can try it. A browser-only preview can show the interface, but it doesn't prove that a Node server or SQLite is running.
+Explain the two paths, their status codes, and the part of the code that chose each response. Write the start command so a classmate can try it. A browser-only preview can show the interface, but it doesn't prove that a Node server is running.
 
 [Starter and all six parts](https://github.com/kaw393939/is117-basic-web-server#the-six-parts) · [Routes and status codes](https://github.com/kaw393939/is117-basic-web-server/blob/main/docs/lessons/04-routes-and-status.md)
 

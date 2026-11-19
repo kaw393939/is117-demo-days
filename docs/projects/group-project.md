@@ -14,7 +14,7 @@ Start after the two solo projects have taught you the process. Share one project
 
 Choose a customer, a business need, and one complete task. “A visitor submits a request, sees a receipt, and the business can find the request” is enough to build around.
 
-Use AI to help plan and code. An AI feature inside the product is optional. Choose tools you can explain and run.
+Publish your clickable prototype on GitHub Pages. Use JavaScript and browser storage for any data your workflow should remember, such as a demo request or quote. Show what remains after reload. Use AI to help plan and code. An AI feature inside the product is optional. Choose tools you can explain and run.
 
 ## Practice with a client
 

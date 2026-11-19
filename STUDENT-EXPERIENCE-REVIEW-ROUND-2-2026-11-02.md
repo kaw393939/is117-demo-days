@@ -43,7 +43,7 @@ The template illustrates why word count alone is insufficient. Changing the shap
 
 - Production build, local-reference checks, schedule checks, and completed-assessment checks pass.
 - Expanded local crawl: 260 resources, zero HTTP failures. The known static `#main` flags refer to targets created by JavaScript, checked in the previous runtime audit.
-- “resume” now returns the résumé example and starter. “submit” reaches the hand-in map. “SQLite” returns planning guidance, the runnable local example, and the T-shirt data explanation among the first few results.
+- “resume” now returns the résumé example and starter. “submit” reaches the hand-in map. The earlier storage search returned planning guidance, a runnable example, and the T-shirt data explanation.
 - At 390px, the weekly task and its action are present in the home hero, and the revised feedback record is readable without page-wide horizontal overflow.
 - The editable Markdown template is regenerated from its source guide.
 - The four-part rubric and 24 illustrative assessments retain their scores and evidence.
@@ -55,7 +55,7 @@ This pass focuses on the student journey and internal site integrity. External j
 1. **Verify the Canvas handoff.** The site still says setup is pending. Confirm the actual assignment entries, direct links, points, and whether Canvas handles group submissions. This is the most consequential remaining uncertainty for a student trying to hand in work.
 2. **Explain deductions in the sample feedback.** Some rows award 23/25 or 24/25 while describing only strengths. Add the specific gap that explains lost points, using the existing criteria. Calibrate these comments before students treat the numbers as a precise grading formula. Do not introduce extra requirements to justify a deduction.
 3. **Update the weekly headline as the class advances.** The hero is deliberately labeled Nov 2–8. Move it to the next task with the existing schedule; retain one clear current action rather than adding another dashboard or page hierarchy.
-4. **Watch a few real students use the site.** Ask them to find their next deadline, explain the two-version requirement, save the template, locate the SQLite expectation, and identify where to submit. Record hesitations and wrong turns before making another broad redesign.
+4. **Watch a few real students use the site.** Ask them to find their next deadline, explain the two-version requirement, save the template, locate the storage check, and identify where to submit. Record hesitations and wrong turns before making another broad redesign.
 
 A practical classroom pattern is: show one small example, let students attempt the current task, compare a decision with a partner, record one useful change, and check it. The site should support that activity and give students a reliable place to return when they forget a detail.
 

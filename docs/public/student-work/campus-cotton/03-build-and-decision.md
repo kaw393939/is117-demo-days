@@ -19,10 +19,10 @@ Fictional completed student work by Maya Chen. Peer conversations are teaching s
 
 **What I kept:** The shared core task works in both presentations. My decision follows the stated visitor task; I did not treat a preference as proof of higher sales or hiring success.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 
-The browser requires a size and calculates a preview total. In local-server mode, the server validates size and quantity again and calculates the authoritative total from its product table. Changing the browser total cannot change the saved price.
+The browser requires a size and calculates a preview total. JavaScript validates the choices, calculates the total from the product data, and saves the demo order in browser storage. Reloading shows the same order in history.
 
 **Known limit:** AI-generated shirt imagery is a concept, not a photograph of manufactured stock. Fabric, measurements, and policies are classroom assumptions.

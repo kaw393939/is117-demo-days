@@ -27,7 +27,7 @@ For a visual-only comparison, keep offer, copy, main action, and content order s
 
 **Vague:** “The checkout is professional.”
 
-**Checkable:** “With a size selected and quantity 2, the summary shows that size and twice the unit price. Missing required information shows an error. A valid simulated order produces a confirmation and a SQLite record.”
+**Checkable:** “With a size selected and quantity 2, the summary shows that size and twice the unit price. Missing required information shows an error. A valid simulated order produces a confirmation and a browser history entry that remains after reload.”
 
 ## Use the plan while you build
 

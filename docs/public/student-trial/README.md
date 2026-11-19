@@ -1,11 +1,11 @@
-# Nina’s three-project rehearsal
-Fictional student work, built by the teaching assistant with AI assistance and an adapted classroom Node/SQLite server. This is a fresh example, not a genuine student’s submission. No real partner, client, peer study or professional account.
+# Nina’s three clickable prototypes
 
-## Run
-Node 24 or newer; no dependencies. Unzip source, then run `node server.mjs`. Open http://127.0.0.1:4191/is117-demo-days/student-trial/shirt/a.html . Replace `shirt` with `group` or `portfolio` for the other products. Stop with Ctrl+C. Database lives in your temporary directory, outside these public files. IS117_DEMO_DB and IS117_DEMO_PORT can override paths/port. Use synthetic data only; loopback classroom server is not a production deployment.
+This is fictional course work. Try Day One Cotton (`shirt/a.html`), Campus Cycle (`group/a.html`), and Nina’s portfolio (`portfolio/a.html`).
 
-GitHub Pages uses browser storage for the public previews. Local run uses actual SQLite for orders and inquiries. Email is validated, never persisted or sent. No payment, actual appointment, login or real customer data.
+Publish the extracted files on GitHub Pages. Keep `prototype-storage.js` beside the `student-trial` folder. Visit the published pages over HTTPS.
 
-A is the selected layout; B is a real alternative sharing code/content. Read `records/` for the four stages, choices and honest evidence gaps. Browser and backend receipts are summarized on the course review page. The source is intentionally small; do not treat this as a production ecommerce template.
+1. Save a fake order or repair request.
+2. Copy the reference, reload, and find it in the history.
+3. Open the other version on the same site to see the shared history.
 
-Run `node verify.mjs` for ten backend integration checks, including an actual server restart. Port 4197 must be free. Browser checks are documented separately; the script is not a substitute for a human peer walkthrough.
+JavaScript stores demo records only in this browser. Demo emails are validated and left out of the saved records. No payments, bookings, or messages are sent. The `records` folder shows how the fictional work was planned and checked.

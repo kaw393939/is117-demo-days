@@ -12,6 +12,6 @@ This folder contains completed research, two website specifications, a two-versi
 
 **Live versions:** https://kaw393939.github.io/is117-demo-days/samples/study-slot/a.html and https://kaw393939.github.io/is117-demo-days/samples/study-slot/b.html
 
-**Source:** https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples. In the full download, the adjacent product-source folder contains the real runnable implementation. From the extracted bundle root, run: node product-source/server.mjs.
+**Source:** https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples. In the full download, the adjacent product-source folder contains the real runnable implementation. Publish the extracted files on GitHub Pages. Keep prototype-storage.js beside product-source.
 
 Some links in the Markdown documents are site-relative links intended for the published guide. Use the live guide for those links, or inspect the matching product-source files locally. The fictional portfolios use completed local profile examples in place of real personal accounts; real students must use their own actual profile links.

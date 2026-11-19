@@ -30,6 +30,6 @@ Follow the current signup, confirmation, and change instructions in **Canvas**. 
 ## Before you present
 
 - Open the site, repository, and evidence links from the same record you submitted.
-- Try the main workflow yourself. For the T-shirt shop, know how to show the actual local SQLite behavior if the public preview only simulates it.
+- Try the main workflow yourself. For the T-shirt shop, save one fake order on the published site. Reload and find it again in history.
 - Rehearse one change and its retest. Explain your own choices and where AI helped.
 - Check Canvas for the due date, assessment details, and any instructions for a remaining presentation or redo. The no-submission final rows reuse your existing work; no extra report or upload is needed. [See the rubric](/course/milestones#how-each-step-is-graded).

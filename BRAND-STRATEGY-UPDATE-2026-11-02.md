@@ -15,7 +15,7 @@ Connected the final projects to the earlier design library and Brand Studio work
 
 - npm run check: 50 guide pages and 26 schedule/signup slots.
 - npm run check:student-work: six completed packets, 24 four-part assessments, totals/deductions, matching briefs/sources, six original logos/style guides, two persuasion applications each.
-- npm run check:examples: twelve pages/previews, six concept images, profiles/style assets, four working workflows, validation, calculated totals, SQLite restart persistence.
+- npm run check:examples: twelve pages/previews, six concept images, profiles/style assets, four working workflows, validation, calculated totals, saved demo records in the earlier implementation.
 - npm run docs:build and git diff --check passed.
 - Browser: all twelve loaded versions at 390px had no page-wide horizontal overflow and matching A/B hero headline, copy, and action. Logos loaded. Six style guides rendered with sources, persuasion limits, and functioning main targets at a narrow viewport.
 - Browser: missing-size validation; Campus Cotton M × 2 = $50 and simulated checkout; visible keyboard focus and Enter activation at checkout; Room Ready Desk pending receipt; Study Slot CSS pending receipt.

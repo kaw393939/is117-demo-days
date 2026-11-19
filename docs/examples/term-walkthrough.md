@@ -18,7 +18,7 @@ Each record links A/B products, completed work, rubric grades, and feedback. The
 | **Private career reflection** | Career reflection is submitted privately. Classmates review T-shirt/portfolio stories and group Research through GitHub issues. Instructor: “Can someone else tell whether your acceptance check passes?” Next: revise the plans and shared Research. |
 | **Submit initial plans** | T-shirt Plan, portfolio Plan, and one shared group Research submitted. T-shirt/portfolio begin Build; group begins Plan. Avery: “Can I code while Maya writes?” Instructor: “Both need meaningful design, development, and QA, with cross-review.” |
 | **Peer walkthrough** | Peers try the same task in individual A/B builds and question the group's work split/checks. Instructor: “A/B can share code and data.” Next: complete individual builds and a small, testable group Plan. |
-| **Build and compare** | T-shirt/portfolio Build and group Plan submitted. Instructor explains individual Improve and group Build/final review expectations before catch-up week. Maya: “My public store works; is SQLite done?” Instructor: “Demonstrate the local backend and a record that survives restart.” |
+| **Build and compare** | T-shirt/portfolio Build and group Plan submitted. Instructor explains individual Improve and group Build/final review expectations before catch-up week. Maya: “How do I show my site remembers an order?” Instructor: “Save a demo order on GitHub Pages, reload, and find the same reference.” |
 | **Pause** | No class: Thanksgiving recess. |
 | **Review the team build** | Protected work: individual final walkthroughs; group A/B build review. The service-first version makes request scope easier to explain. Next: fix, retest, and prepare records. No new topic. |
 | **Fix and retest** | T-shirt/portfolio Improve and shared group Build submitted. The rest of class is for the group final walkthrough, meaningful change/retest, catch-up, and rehearsal. Instructor: “Use the review expectations already introduced; keep limits visible.” |
@@ -50,11 +50,11 @@ This is a **10-minute pair rehearsal outline**, not a measured live presentation
 
 **Instructor:** “Where did AI help?”
 
-**Maya:** “Drafting layout and validation code. I checked the specification against behavior and can explain the form, server checks, and SQLite record. Public static mode uses browser storage.”
+**Maya:** “Drafting layout and validation code. I checked the specification against behavior and can explain how the form checks inputs and how JavaScript saves a demo order in the browser.”
 
 ## Actual checks and limits
 
-An AI operated the public A/B examples and the downloaded Node 24 source on November 2. Campus Cotton M × 2 produced a $50 receipt/SQLite record; a missing size returned focus to the required field without a receipt. Room Ready Desk / Weekday afternoon saved pending confirmation, not a booking. Both histories survived a server restart. The portfolio opened both local projects and displayed contributions. [Detailed evidence and teaching grades](/examples/student-journey).
+Try the published examples. Campus Cotton shows $50 for two size-M shirts. Room Ready saves a demo request that stays pending. Reload and check the history for the same reference. [Detailed evidence](/examples/student-journey).
 
 The original Section 007 Student View check showed that the home, references and assessment links opened. It did not test actual submissions, grades, or team behavior. Use Canvas for the current grade and submission settings.
 

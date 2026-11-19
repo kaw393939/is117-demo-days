@@ -37,7 +37,7 @@ const standard = [start, reference,
   { text: 'Help while you work', collapsed: true, items: [
     { text: 'From evidence to decisions', link: '/process/from-evidence-to-decisions' },
     { text: 'Research, personas & user stories', link: '/process/research-to-features' },
-    { text: 'Run the SQLite starter', link: '/examples/submissions/run-examples' },
+    { text: 'Try browser storage', link: '/examples/submissions/run-examples' },
     { text: 'Find your brand’s angle', link: '/process/find-your-angle' },
     { text: 'Write a website plan', link: '/process/specifications' },
     { text: 'Practice with a fictional customer', link: '/process/simulated-customer' },
@@ -118,7 +118,7 @@ export default defineConfig({
           { text: 'Jordan Rivera', link: '/examples/submissions/jordan-rivera' }
         ]},
         { text: 'Want to inspect the code?', collapsed: true, items: [
-          { text: 'Run the SQLite starter', link: '/examples/submissions/run-examples' },
+          { text: 'Try browser storage', link: '/examples/submissions/run-examples' },
           { text: 'Original competitor comparison', link: '/examples/competitive-landscape' },
           { text: 'Competitor screenshots', link: '/examples/site-references' },
           { text: 'Detailed T-shirt spec', link: '/examples/tshirt-spec' }

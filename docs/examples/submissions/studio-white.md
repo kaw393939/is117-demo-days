@@ -128,7 +128,7 @@ I chose a workday shopper because I like the restrained look of the references a
 
 **Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring subscriptions, performance claims, provenance certification, and real fulfillment.
 
-**Inputs and data:** Size S/M/L, whole quantity 1–5, and synthetic email. Product prices and order records are held by SQLite in local-server mode; public mode uses browser storage. Email is not persisted.
+**Inputs and data:** Size S/M/L, whole quantity 1–5, and synthetic email. JavaScript reads the product price and saves the order in this browser. Email is left out of the saved record.
 
 **States:** Required choice missing; valid input ready; save in progress; success receipt; save failure shown without a false success claim.
 
@@ -169,17 +169,19 @@ I made an editorial page and a facts-first page. Both have the same shopping con
 
 **What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 
-The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not distinguish browser storage from SQLite server storage.
+The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not explain what the browser remembers after reload.
 
 **Known limit:** No manufacturing or sustainability claim is verified. Concept price $42 is an assumption, not a market-tested price.
 
 </details>
 
 <VersionComparison slug="studio-white" />
+
+**Check your prototype:** Save a fake order on the published site. Reload and find the same reference and total in history. [Try the starter and see what to record](/examples/submissions/run-examples#what-to-record).
 
 <details>
 <summary>See the rubric score and feedback: 86/100</summary>
@@ -215,9 +217,9 @@ The following implementation checks were actually run on the class examples. The
 
 | Check | Expected | Recorded implementation result |
 | --- | --- | --- |
-| Quantity total | 3 × $42 = $126 | The shared implementation supports this calculation; server tests also verify two-item totals and reject a submitted false total. |
-| Invalid input | Missing/unsupported size, bad quantity, or invalid email must not create a valid order. | Automated server validation passed; browser required-size behavior was checked on Campus Cotton. |
-| Persistence | A server order remains after restart. | Automated SQLite restart check passed. |
+| Quantity total | 3 × $42 = $126 | The shared JavaScript calculates the total from the product price and quantity. |
+| Invalid input | Missing/unsupported size, bad quantity, or invalid email must not create a valid order. | The browser checks required fields. Automated checks cover size and quantity. |
+| Persistence | The same demo order appears after reload. | Automated checks read back the saved reference and total; try the reload on your published page. |
 | Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 
 #### AI-use record

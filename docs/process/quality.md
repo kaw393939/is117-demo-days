@@ -26,7 +26,7 @@ Attendance is required. The [class schedule](/course/schedule) reserves time for
 | Live site and setup | Open important links and assets. Follow the README on a fresh start; identify any server or database dependency. |
 | AI feature, if present | Try unexpected input. Check limits, output validation, sensitive information handling, and the human fallback you specified. |
 
-Use automated checks for important logic when useful and manual checks for the experience. A passing build does not show that a person can use the site. A public static preview also does not prove that the local SQLite backend works: run the backend and check its saved data separately.
+Use automated checks for important logic when useful and manual checks for the experience. A passing build does not show that a person can use the site. For a workflow that saves a demo order or request, reload the published page and verify that the same record appears in history.
 
 <details>
 <summary>What counts as useful test evidence?</summary>

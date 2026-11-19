@@ -2,7 +2,7 @@
 
 [New: follow one fictional student through all three working projects, with candid process notes](/examples/student-trial).
 
-**Fictional student Maya Chen and partner Avery Ellis.** These are teaching examples, not real credentials, grades, attendance, or customer research. Fictional peer comments model the process; actual browser/SQLite checks are identified below.
+**Fictional student Maya Chen and partner Avery Ellis.** These are teaching examples, not real credentials, grades, attendance, or customer research. Fictional peer comments model the process; actual browser checks are identified below.
 
 [Section 007 schedule](/course/section-007) · [GitHub reviews](/process/github-feedback) · [Download example packets](/downloads/is117-graded-student-submissions.zip).
 
@@ -102,7 +102,7 @@ Keep improving the same sites and records at the same URLs. Final assessments re
 | Closed issue equals full credit? | Show observation, response/change, and retest. |
 | A/B means six independent codebases? | Share code/content/data; compare a meaningful difference. |
 
-**Actual checks, November 2:** public T-shirt A/B returned M × 2 / $50; public service A/B returned a pending Desk request. Portfolio A/B had both projects and fictional profile examples. Limited checks at a natural 319 px width found no horizontal overflow on the three B pages and portfolio A. Downloaded Node 24 source saved a $50 order and pending request in SQLite; both remained in browser history after a server restart. This is not a full accessibility audit or novice timing study.
+**Actual checks, November 2:** public T-shirt A/B returned M × 2 / $50; public service A/B returned a pending Desk request. Portfolio A/B had both projects and fictional profile examples. Limited checks at a natural 319 px width found no horizontal overflow on the three B pages and portfolio A. This is not a full accessibility audit or novice timing study.
 
 **Canvas is the hand-in:** check your section for current grade and submission settings. These examples do not show a real submission or grade.
 

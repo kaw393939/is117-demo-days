@@ -28,12 +28,12 @@ These are interface observations, not proof of demand or comparative garment qua
 | As a shopper, I can compare a tee I own with the size guide. | S/M/L show flat garment width and length with cm and measuring instructions. |
 | I can see the cost before ordering. | Quantity 2 displays $48, with simulation charges disclosed. |
 | I can correct an incomplete choice. | Empty size or quantity outside 1–5 cannot save an order. |
-| I can review what was saved. | Receipt/history show reference, size, quantity and server-calculated total; survive local server restart. |
+| I can review what was saved. | Receipt/history show reference, size, quantity and JavaScript total after the page reloads. |
 
-Essential: one product, clear fit, quantity, total, simulated checkout and actual local SQLite. Cut: accounts, payments, shipping integration and promotions. Use synthetic email; never persist it. Public Pages stores only in this browser; the local server is a separate demonstration. Specification is this Plan section, not a second report.
+Essential: one product, clear fit, quantity, total, simulated checkout and browser storage. Cut: accounts, payments, shipping integration and promotions. Use synthetic email; never persist it. The GitHub Pages prototype remembers orders in the same browser. Specification is this Plan section, not a second report.
 
 ## 3. Build A/B — due November 24
-Working [A](../shirt/a.html) and [B](../shirt/b.html). Shared CSS/JS and Node SQLite backend. Public static simulation is labeled. SVG shirt is an illustration, not a photo of a real garment. A better matches a quick product overview; B gives the same offer a more sequential rhythm. Selection is the assistant's heuristic judgment, not a student preference experiment. Launch A.
+Working [A](../shirt/a.html) and [B](../shirt/b.html). The versions share CSS, JavaScript, and browser storage. SVG shirt is an illustration, not a photo of a real garment. A better matches a quick product overview; B gives the same offer a more sequential rhythm. Selection is the assistant's heuristic judgment, not a student preference experiment. Launch A.
 
 Actual browser run: missing size saved nothing. A M × 2 saved DEMO-6CAEBF2E at $48. B S × 1 saved DEMO-3D43BC24 at $24. B could see A's local history. See review hub for final retests/backend checks.
 
@@ -42,4 +42,4 @@ Actual browser run: missing size saved nothing. A M × 2 saved DEMO-6CAEBF2E at 
 **Retest:** see the dated review hub and actual browser receipts. No payment or email sent.
 **Real peer:** still required. The change above comes from assistant inspection, not a human peer. Ask the peer to buy M × 2, explain the measurements and tell whether payment happened. Record their actual GitHub issue, response/change and retest before claiming full review credit.
 
-**Demo talk:** “I chose a commuter audience; the size guide became a requirement. JavaScript updates the visible total. The Node server validates inputs, reads its own price and saves a SQLite record. The public preview uses browser storage. I can show the difference.”
+**Demo talk:** “I chose a commuter audience; the size guide became a requirement. JavaScript updates the visible total. JavaScript checks the inputs and saves the demo order. After reload I can find the same order in the browser history.”

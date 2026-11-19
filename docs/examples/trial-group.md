@@ -34,7 +34,7 @@ Working [A](/student-trial/group/a.html) and [B](/student-trial/group/b.html), s
 Actual initial tests: A Flat tire/Weekday morning DEMO-59A972F8 and B Tune-up/Weekend afternoon DEMO-B9085485 saved; B showed prior history. Front receipt said “Pending review” while backend history said “Pending confirmation.” That is an actual inconsistency, G1.
 
 ## 4. Improve
-Changed the server to use **Pending review**, matching the page, receipt and new records. Keep explicit “no appointment confirmed” wording. Historical test rows retain their old wording; the new check uses a fresh database. Final retest documented on the review hub.
+Changed the prototype to use **Pending review**, matching the page, receipt and new records. Keep explicit “no appointment confirmed” wording. Historical test rows retain their old wording; the new check starts with an empty browser history. Final retest documented on the review hub.
 
 Actual partner cross-review and a real peer's GitHub issue are still missing. Proposed peer task: request a brake adjustment, then explain if a time is booked. Do not mark the issue resolved without trying the change. Simulated customer answer cannot replace that peer.
 

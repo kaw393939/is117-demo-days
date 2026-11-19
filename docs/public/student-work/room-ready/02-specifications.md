@@ -47,7 +47,7 @@ Fictional completed student work by Maya Chen and Avery Ellis. Peer conversation
 
 **Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring provider matching, real addresses, payments, live availability, and automated quotes.
 
-**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. Public mode uses browser storage; the optional local server uses SQLite. Email is not persisted.
+**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. JavaScript stores the request in this browser. Email is left out of the saved record.
 
 **States:** Required choice missing; valid input ready; save in progress; success receipt; save failure shown without a false success claim.
 
