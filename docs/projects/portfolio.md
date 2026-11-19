@@ -43,8 +43,8 @@ Use a few screenshots and links. Distinguish course projects from employment and
 | Stage | Add to the same portfolio and process record |
 | --- | --- |
 | **Research** | Use your [career role cards and reflection](/career/explore) to choose a reader, direction, and project evidence. Keep the reflection private in Canvas. |
-| **Plan** | Compare two short page approaches. Write checkable stories and list destinations for your profile, repository, and résumé links. |
-| **Build** | Make both versions with the same content. Add your actual profiles and repositories, a résumé draft, and honest case studies. Label unfinished work. |
+| **Plan** | Follow the [Project Plan Guide](/process/project-plan/). Compare two short page approaches. Write checkable stories and list destinations for your profile, repository, and résumé links. |
+| **Build** | Use your [plan](/process/project-plan/#use-the-plan-in-build) as your build instructions. Update the plan and record your checks as you work. Make both versions with the same content. Add your actual profiles and repositories, a résumé draft, and honest case studies. Label unfinished work. |
 | **Improve** | Have a peer find a project, your contribution, code, résumé, and profiles. Record a meaningful feedback change, retest it, and verify every final link. |
 
 Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Use the [same review routine](/process/collaboration) as your other projects.

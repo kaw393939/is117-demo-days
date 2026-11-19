@@ -43,8 +43,8 @@ Use fake orders. Label the checkout as a demo and leave out real payment or pers
 ## Follow the four steps
 
 1. **Research:** compare three clothing sites. Consider two market positions and two customer personas. Choose an audience and explain your evidence and assumptions.
-2. **Plan:** compare two short website approaches. Write three to five user stories, essential features, and checks for success.
-3. **Build:** make two working versions. They can share code; change something meaningful about how they serve or communicate with the customer.
+2. **Plan:** follow the [Project Plan Guide](/process/project-plan/). Compare two approaches. Write three to five user stories, essential features, and checks for success.
+3. **Build:** use your [plan](/process/project-plan/#use-the-plan-in-build) as your build instructions. Update it as you work and record what happened when you ran your checks. Make two working versions. They can share code; change something meaningful about how they serve or communicate with the customer.
 4. **Improve:** ask a peer to try the selected version. Make at least one meaningful change from their feedback, retest it, and publish your choice.
 
 Reuse and improve your Brand Studio work: audience promise, archetype/voice, original logo and style guide, two visual routes, and two honest persuasion applications. Show how those decisions appear in the store. [Find your angle](/process/find-your-angle). Keep that earlier milestone's original scope separate from this final store.

@@ -6,7 +6,7 @@ Build a **[T-shirt store](/projects/white-tshirt)**, a **[group business site](/
 
 ## What to submit at each step
 
-Update [the same record](/templates/four-milestones) for each project. Start with the step you are working on.
+Update [the same record](/templates/four-milestones) for each project. For your T-shirt and portfolio projects, start with the [Project Plan Guide](/process/project-plan/). Use that plan during Build and update it as you work.
 
 | Step | What to do and show | Example |
 | --- | --- | --- |
