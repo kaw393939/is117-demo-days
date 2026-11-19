@@ -88,6 +88,7 @@ export default defineConfig({
         { text: 'Three-project overview', link: '/course/overview' }
       ] },
       { text: 'Examples', link: '/examples/submissions/' },
+      { text: 'Earlier lessons', link: '/lessons/' },
       { text: 'Course book', link: '/course/overview' },
       { text: 'Demo Days', link: '/demo-days/' },
       { text: 'Careers', link: '/career/fde' }
