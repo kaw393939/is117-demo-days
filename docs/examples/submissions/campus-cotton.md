@@ -188,6 +188,10 @@ The browser requires a size and calculates a preview total. In local-server mode
 
 </details>
 
+### What to add for your T-shirt Build
+
+The fictional A/B hand-in above shows how to compare two versions. For the current checkpoint, also record your own SQLite restart result. [See the starter check and the evidence to write down](/examples/submissions/run-examples#what-to-record).
+
 ## 4. Get feedback and improve
 
 <details>

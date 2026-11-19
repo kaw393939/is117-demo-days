@@ -11,7 +11,7 @@
 ## Run the SQLite example locally
 
 1. Install Node.js 24 from the [official Node.js site](https://nodejs.org/).
-2. Extract the archive and open a terminal in its `samples` folder.
+2. [Download the starter](/downloads/is117-example-products.zip), extract it, and open a terminal in its `samples` folder.
 3. Run:
 
 ```sh
@@ -26,6 +26,14 @@ node server.mjs
 The server listens only on your computer at `127.0.0.1:4174`. It prints the database location, normally your system temporary folder. The port and database can be overridden with `IS117_DEMO_PORT` and `IS117_DEMO_DB`. Do not deploy this local teaching server as a real public service.
 
 The server serves the example products. Links labeled “Read the submission” or “All six examples” open the **published course guide**, so they need an internet connection. The product and its SQLite workflow run locally; professional-profile text files remain available locally.
+
+## What to record
+
+Here’s a check run on the classroom starter with a fresh SQLite file.
+
+> **Local start:** `node server.mjs` from the `samples` folder. **Test order:** M, quantity 2, $50, reference `DEMO-B1D3A12F`. **After restart:** History returned the same reference, size, quantity, and total from the same database.
+
+In your Build record, link your own source and setup. Report your own reference and restart result. Keep your public preview’s storage mode clear.
 
 ## Make it your own
 

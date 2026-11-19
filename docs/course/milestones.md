@@ -6,14 +6,14 @@ Build a **[T-shirt store](/projects/white-tshirt)**, a **[group business site](/
 
 ## What to submit at each step
 
-Use [one short document per project](/templates/four-milestones) and update it as you go. For the portfolio, career exploration counts as Research; use its findings for your Plan.
+Update [the same record](/templates/four-milestones) for each project. Start with the step you are working on.
 
-| Step | Submit this |
-| --- | --- |
-| **1. Research** | T-shirt/group: compare three relevant sites, two positions, and two personas; choose an audience. Portfolio: complete career role cards and reflection, then identify your reader and evidence. |
-| **2. Plan** | Compare two short website plans. Write three to five user stories, essential features, and checks for success. For the group project, divide work fairly. |
-| **3. Build** | Link two working versions and explain which you plan to launch. Share code where useful; make the difference meaningful. |
-| **4. Improve** | Have a peer walk through each project. Make at least one meaningful change per project, retest, and publish your selected versions. |
+| Step | What to do and show | Example |
+| --- | --- | --- |
+| **1. Research** | For T-shirt or group, compare three relevant sites, two positions, and two audience hypotheses. Link a dated source, say what you saw, and show which decision it informed. For Portfolio Research, submit the role cards and reflection privately. | [Short research example](/examples/submissions/#a-short-research-submission) · [Career activity](/career/explore) |
+| **2. Plan** | Compare two approaches. Write three to five stories and the checks that would show they work. For group work, name who will build and review each part. | [Campus Cotton’s Plan](/examples/submissions/campus-cotton#_2-plan) |
+| **3. Build** | Link both working versions and the setup. Run the same task in both, record what happened, and explain your provisional choice. For the T-shirt store, show the saved SQLite order after restart. | [Compare A and B](/examples/submissions/campus-cotton#_3-build-and-compare) · [SQLite check](/examples/submissions/run-examples#run-the-sqlite-example-locally) |
+| **4. Improve** | Watch a peer use the selected version, change something meaningful, and have them retry. Link the feedback, change, retest, and selected site. | [Room Ready’s feedback and retest](/examples/submissions/room-ready#_4-get-feedback-and-improve) |
 
 Carry forward the earlier Brand Studio decisions in your existing record: audience promise, brand voice, logo/style guide, visual alternatives, and two truthful persuasion applications. [Find your brand’s angle](/process/find-your-angle). This adds no new report or set of websites.
 
@@ -37,7 +37,10 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 ## How to submit
 
-Find the matching Canvas assignment: [Section 005](/course/section-005#find-your-canvas-assignment) · [Section 007](/course/section-007#find-your-canvas-assignment). Link the existing project record, current site and repository, relevant issues, and a short update. Group work uses one shared record that names each person’s contribution; follow the Canvas assignment for how to submit it. Portfolio Research belongs in its private Canvas text box. If a submitted URL changes, send the corrected link through Canvas Inbox.
+- **Open the checkpoint** for [Section 005](/course/section-005#find-your-canvas-assignment) or [Section 007](/course/section-007#find-your-canvas-assignment).
+- **Link to the current step** in your existing record, your site and repository, and the relevant issue or test. Add a short update on your choice and what happened. Use the assignment’s exact list.
+- **For group work,** use your shared record and link each person’s contribution. Follow Canvas for who submits.
+- **For Portfolio Research,** use the private Canvas text box. If a submitted link changes, send the updated link in Canvas Inbox.
 
 ## Reviews and final project grades
 
@@ -54,9 +57,14 @@ Each final assessment reuses the finished site, existing code and process links,
 | **Checked** | 25% | You checked sources, claims, or behavior. The final step includes real peer feedback on understanding and use, a change, and a retest. |
 | **Understood** | 25% | You can explain your work, AI use, contribution, and limits. |
 
-A small, well-explained attempt can earn full credit. We assess your reasons and checks, not a preferred aesthetic or professional market validation. Earlier assignments retain their original criteria.
+### What counts as a check?
 
-The four equal rubric shares describe the criteria, not the Canvas grade-category weights. Canvas holds the points and feedback. Each group member must show meaningful personal work and review a teammate’s work.
+- **Research:** Open the original source and make sure it supports the observation you wrote down.
+- **Plan:** Give a classmate a task and tell them what they should be able to see or do. Mark it as planned until you run it.
+- **Build:** Record the steps and actual result. A failed check is useful evidence when you show what happened and what you’ll try next.
+- **Improve:** Have a peer retry after the change. Record what they did and whether the change helped.
+
+Be ready to open one piece of evidence, explain the choice it changed, and say what could make you change your mind. For a team project, be ready to show the work you did and what you reviewed. Earlier assignments use the original criteria. Check Canvas for category weights, scores, and feedback.
 
 [See completed submissions with grades and feedback](/examples/submissions/grading-guide). These illustrate how the rubric applies; they are not real student marks.
 

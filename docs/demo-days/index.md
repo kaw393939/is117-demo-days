@@ -21,6 +21,12 @@ For example: “Our classmate picked a size but couldn't find the measurements. 
 
 Follow the current signup, confirmation, and change instructions in **Canvas**. Keep personal circumstances and meeting links there, not in public GitHub issues.
 
+## Rehearse one task
+
+1. **Show the task.** Pick one useful action the audience can watch from start to finish.
+2. **Open the evidence.** Show the issue, change, or test that affected a decision. For a team demo, each person opens something they worked on and explains their role.
+3. **Explain the result.** Say what a reviewer did, what you changed, and what you saw on the retry. Be ready to explain where AI helped and what you checked yourself.
+
 ## Before you present
 
 - Open the site, repository, and evidence links from the same record you submitted.

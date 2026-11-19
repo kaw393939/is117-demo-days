@@ -41,6 +41,10 @@ Do not give one person all coding and the other only slides or proofreading. Adj
 
 Research three relevant sites, two possible positions, and two short persona hypotheses; choose one audience. Compare two website plans, build two working versions, and choose one. For **Group Improve**, use a real peer and follow your section's Improve assignment: **005 requires a reviewer from outside the team**; **007 requires real peer review**. Record at least one meaningful feedback-driven change and retest it. Teammate cross-review is also required in both sections.
 
+## Check your workflow together
+
+Give a peer the same customer task in A and B. Record where they got stuck and why you chose one version. In Improve, link what changed and what happened when they tried again. In the shared record, put each person’s name next to the work they built and the work they reviewed. [See an example](/examples/submissions/room-ready#_4-get-feedback-and-improve).
+
 ## What you submit
 
 - Selected site, alternate version, shared repository, and setup steps.
@@ -49,4 +53,4 @@ Research three relevant sites, two possible positions, and two short persona hyp
 
 Each person adds a case study to their own portfolio. Both partners explain their work during the team demo. Keep final links in the shared review record; the separate final assessment reuses them and Demo Day evidence rather than asking for another report.
 
-[Assignment & simple rubric](/course/milestones) · [Due dates and class work time](/course/schedule).
+[Checkpoint hand-ins](/course/milestones#what-to-submit-at-each-step) · [Find your Canvas section](/course/schedule).

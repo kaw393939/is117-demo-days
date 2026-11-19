@@ -55,10 +55,14 @@ Portfolio references can inspire the design; a second competitive-landscape repo
 
 Practice introducing yourself and showing one project workflow. Use your portfolio in an application, at a Meetup or campus event, or in a conversation about a small client project. [Follow the professional preparation plan](/course/overview#meet-people-and-look-for-opportunities).
 
+## Try it with a reader
+
+Ask a classmate to find one project, tell you what you personally built, and open the evidence. Watch where they look first. If they miss your contribution or hit a broken link, fix it and give them the same task again. Record what changed in your existing portfolio notes.
+
 ## Finish your professional materials
 
 Each short guide has a checklist, two filled examples, and official resources:
 
 [GitHub profile & repositories](/career/github) · [LinkedIn profile](/career/linkedin) · [Résumé](/career/resume).
 
-[What to submit & grading](/course/milestones) · [Due dates](/course/schedule) · [Short case-study template](/templates/case-study).
+[Checkpoint hand-ins](/course/milestones#what-to-submit-at-each-step) · [Find your Canvas section](/course/schedule) · [Short case-study template](/templates/case-study).

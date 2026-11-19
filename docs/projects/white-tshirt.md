@@ -2,7 +2,9 @@
 
 Everyone starts with the same product: a plain white T-shirt. Choose whom it is for, give it your own brand, and build a professional-looking **simulated online store**.
 
-**Examples:** [Campus Cotton](/examples/submissions/campus-cotton) · [Studio White](/examples/submissions/studio-white).
+**Working on Build?** [Try the SQLite check](/examples/submissions/run-examples#run-the-sqlite-example-locally) · [See the A/B hand-in](/examples/submissions/campus-cotton#_3-build-and-compare).
+
+**Full examples:** [Campus Cotton](/examples/submissions/campus-cotton) · [Studio White](/examples/submissions/studio-white).
 
 ## Optional instructor research examples
 
@@ -40,7 +42,7 @@ Your **public site** lets a visitor try the store. Your **backend** is the serve
 
 - Link the published A/B pages and label any browser-storage simulation.
 - Include the backend code and the command needed to run it. Say where the SQLite file is created.
-- Try one synthetic order, inspect its saved record, then reload or restart and check what remains. Record the actual result and any limits.
+- Save one synthetic order and copy its reference. Stop and restart the server with the same database, reload the page, and look for that reference. Record what you see.
 
 **Keep the proof short:** “Public mode: [browser simulation or live backend]. Local start: [command]. Persistence check: [synthetic reference and what remained after restart].” Put it in the existing record, not another report.
 
@@ -61,4 +63,4 @@ Reuse and improve your Brand Studio work: audience promise, archetype/voice, ori
 
 Your selected site, alternate version, repository, and [short process document](/templates/four-milestones). Include the store in your portfolio and demonstrate a purchase at Demo Day. Keep these links in the existing review record; the final grading entry reuses that work and your Demo Day explanation, with no second upload or report.
 
-[Assignment & simple rubric](/course/milestones) · [Due dates](/course/schedule) · [Learn research and user stories](/process/research-to-features).
+[Checkpoint hand-ins](/course/milestones#what-to-submit-at-each-step) · [Find your Canvas section](/course/schedule) · [Learn research and user stories](/process/research-to-features).
