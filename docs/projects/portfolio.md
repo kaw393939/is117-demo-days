@@ -49,7 +49,7 @@ Use a few screenshots and links. Distinguish course projects from employment and
 
 Portfolio references can inspire the design; a second competitive-landscape report or separate portfolio persona submission is not required. Use the [same review routine](/process/collaboration) as your other projects.
 
-**Your group site can still be in progress.** At portfolio Build, show its goal, the work you have actually done, and a repository or prototype link if available. Label plans as plans, then update the same case study as the group finishes.
+**Your group site can still be in progress at individual portfolio readiness.** Show the group’s goal, your actual work so far, and a repository or prototype link if available. Label anything unfinished. Update the same record as the group finishes; no new hand-in.
 
 ## Use it beyond class
 

@@ -4,6 +4,18 @@
 
 **[Open your Canvas modules](https://njit.instructure.com/courses/70710/modules)** for your next task and **[open Assignments](https://njit.instructure.com/courses/70710/assignments)** for the due date and submission box. Use [Canvas Grades](https://njit.instructure.com/courses/70710/grades) for scores and feedback. This page teaches the work; it does not set dates.
 
+## Find your Canvas assignment
+
+Open the matching assignment for the due date and what to submit. Portfolio Research goes in its private Canvas box. Finals reuse your existing work; the assessment rows are not another upload.
+
+| Stage | T-shirt store | Portfolio | Group business |
+| --- | --- | --- | --- |
+| Research | [T-shirt research](https://njit.instructure.com/courses/70710/assignments/769124) | [Portfolio research](https://njit.instructure.com/courses/70710/assignments/769132) | [Group research](https://njit.instructure.com/courses/70710/assignments/769125) |
+| Plan | [T-shirt plan](https://njit.instructure.com/courses/70710/assignments/769126) | [Portfolio plan](https://njit.instructure.com/courses/70710/assignments/769155) | [Group plan](https://njit.instructure.com/courses/70710/assignments/769127) |
+| Build | [T-shirt build](https://njit.instructure.com/courses/70710/assignments/769128) | [Portfolio build](https://njit.instructure.com/courses/70710/assignments/769156) | [Group build](https://njit.instructure.com/courses/70710/assignments/769129) |
+| Improve | [T-shirt improve](https://njit.instructure.com/courses/70710/assignments/769130) | [Portfolio improve](https://njit.instructure.com/courses/70710/assignments/769157) | [Group improve](https://njit.instructure.com/courses/70710/assignments/769131) |
+| Final assessment | [T-shirt final assessment](https://njit.instructure.com/courses/70710/assignments/769167) | [Portfolio final assessment](https://njit.instructure.com/courses/70710/assignments/769169) | [Group final assessment](https://njit.instructure.com/courses/70710/assignments/769168) |
+
 ## Three projects, in order {#three-projects-staggered-deadlines}
 
 Practice the process on **[your T-shirt store](/projects/white-tshirt)** and **[your portfolio](/projects/portfolio)** first. Then do a focused **[group sprint](/projects/group-project)** with one useful customer workflow. Follow Canvas for when each checkpoint opens or is due.
@@ -26,7 +38,9 @@ Your [career exploration](/career/explore) is Portfolio Research. Submit the two
 
 ## Build
 
-[Compare two versions](/course/milestones#what-to-submit-at-each-step) of the same task. Reuse the code and data where you can. Your portfolio can describe the group project while it is still in progress; label plans as plans.
+**T-shirt:** Open [T-shirt Build](https://njit.instructure.com/courses/70710/assignments/769128). Link A and B, and say which you chose and why. Run the store locally, save one fake order in SQLite, restart the server, and verify the same reference still appears. In the same record, link your previews and code, then add the run command and one line on what you checked. A public browser-storage preview is not SQLite proof. [Try the SQLite example](/examples/submissions/run-examples#run-the-sqlite-example-locally).
+
+**Portfolio:** At individual readiness, show your actual group contribution so far and label any unfinished work. Update the same portfolio record after the group project is ready. No extra hand-in.
 
 ## Improve
 
@@ -34,7 +48,7 @@ Watch a peer try the chosen version, fix something meaningful, then ask them to 
 
 ## Progress reviews and final assessments
 
-[Read the course rubric](/course/milestones#how-each-step-is-graded), then check the actual assignment and grades in Canvas. [Demo preparation](/demo-days/) is here; your slot, format, and meeting logistics are in Canvas.
+[Read the course rubric](/course/milestones#how-each-step-is-graded), then check the actual assignment and grades in Canvas. [Prepare your demo](/demo-days/) · [Canvas Demo Day instructions](https://njit.instructure.com/courses/70710/pages/is117-005-demo-days-finish-and-present).
 
 ## Keep submissions small
 

@@ -49,7 +49,7 @@ Portfolio starting decision: “Reach an internship reviewer who needs to find u
 
 **Portfolio:** “[Plan](/examples/submissions/maya-chen#_2-plan): use the career reflection's internship-reviewer audience. Compare projects-first and introduction-first. A visitor can find both projects, my contribution, résumé, and real profile links.”
 
-**Group, once per team:** “[Room Ready Research](/examples/submissions/room-ready#_1-research): assembly-service references suggest a first-apartment renter who needs to explain a job. Offer an inquiry, not a confirmed booking. Maya and Avery both contributed.”
+**Group, shared record:** “[Room Ready Research](/examples/submissions/room-ready#_1-research): assembly-service references suggest a first-apartment renter who needs to explain a job. Offer an inquiry, not a confirmed booking. Maya and Avery both contributed.”
 
 Add actual issue links, responses, and updated records.
 

@@ -37,9 +37,7 @@ You are building **three projects with two versions each**. Comparing alternativ
 
 ## How to submit
 
-Open the matching Canvas assignment from your section card. Submit **your project-record link, current site/repository links, relevant issue links, and a short update**. The team submits once and names contributions. Portfolio Research goes directly in its private Canvas text box.
-
-Each project has four checkpoints. Submit each project in its matching Canvas box; the private Portfolio Research entry uses role cards and a reflection instead of a public record. Keep work at the same links when possible. If a URL changes after you submit it, send the corrected link through Canvas Inbox.
+Find the matching Canvas assignment: [Section 005](/course/section-005#find-your-canvas-assignment) · [Section 007](/course/section-007#find-your-canvas-assignment). Link the existing project record, current site and repository, relevant issues, and a short update. Group work uses one shared record that names each person’s contribution; follow the Canvas assignment for how to submit it. Portfolio Research belongs in its private Canvas text box. If a submitted URL changes, send the corrected link through Canvas Inbox.
 
 ## Reviews and final project grades
 

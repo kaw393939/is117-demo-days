@@ -3,7 +3,7 @@
 <span id="tuesday-december-8-2026"></span>
 <span id="thursday-december-10-2026"></span>
 
-Open [Section 007 in Canvas](https://njit.instructure.com/courses/70711) for confirmed presentation dates, times, delivery details, and signup or changes. This guide does not assign times or reserve slots.
+Open [Section 007 Demo Days in Canvas](https://njit.instructure.com/courses/70711/pages/demo-days-finish-and-present) for presentation details. Use Canvas Inbox if your slot is not posted or you need to request a change.
 
 [Prepare your demo and PowerPoint](/demo-days/#required-powerpoint-support).
 

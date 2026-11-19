@@ -8,7 +8,7 @@ Start with a problem your project solves. Show someone doing one useful thing, t
 
 ## Required PowerPoint support
 
-Keep the slides short enough to leave time for the live work and questions. Individuals prepare their own deck; teams prepare one shared deck. Check your final-product assignments in Canvas for the requirements.
+Keep the slides short enough to leave time for the live work and questions. Prepare one short individual deck for both solo projects (T-shirt store and portfolio), and one shared deck per team for the group project. Check your final-product assignments in Canvas for the requirements.
 
 - **Problem:** Who needed your site, and what were they trying to do?
 - **Solution:** Let us see the task from start to finish.
