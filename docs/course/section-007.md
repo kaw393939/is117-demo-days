@@ -42,7 +42,7 @@ Bring your latest work. Give a classmate one task without coaching, watch what h
 
 ## Build
 
-**Do.** Make two working versions of the same task. Test both and record what changed and how the task went. Explain your provisional choice.
+**Do.** Publish two working versions of the same task on GitHub Pages. Test both and record what changed and how the task went. Explain your provisional choice.
 
 - **T-shirt store.** On your GitHub Pages site, save a fake order in browser storage. Reload and look for the same reference and total in history. [Try the starter and see what to record](/examples/submissions/run-examples#run-the-save-and-reload-check).
 - **Portfolio.** Ask someone to find a project, your contribution, and its evidence. At individual readiness, show your actual group work so far, label what is pending, and update the same portfolio when your team finishes. [Portfolio readiness checklist](/projects/portfolio#portfolio-ready-checklist).

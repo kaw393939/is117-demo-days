@@ -98,7 +98,7 @@ if (isStore || isService) {
       submit(
         () => makeRequest(request.elements.service.value, request.elements.window.value, p.options, 'Pending confirmation'),
         row => 'Demo request saved: ' + row.reference + ' / ' + row.service + ' / ' + row.window +
-          '. Pending review. No appointment is booked and no email was sent.',
+          '. ' + row.status + '. No appointment is booked and no email was sent.',
       );
     });
   }
