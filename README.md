@@ -45,7 +45,7 @@ VitePress is pinned to stable 1.6.4. Its Vite dependency is overridden to patche
 
 ## Worked submission examples
 
-Six connected example packets (two per project) live in `docs/examples/submissions/`. Twelve runnable A/B products and two sets of completed fictional professional-profile examples live in `docs/public/samples/`. The optional Node 24 server demonstrates SQLite-backed demo records. Fictional personas, feedback and credentials are explicitly labeled.
+Six connected example packets (two per project) live in `docs/examples/submissions/`. Twelve runnable A/B products and two sets of completed fictional professional-profile examples live in `docs/public/samples/`. The clickable prototypes use browser storage for synthetic orders and requests. Fictional personas, feedback and credentials are explicitly labeled.
 
 Each packet includes four completed milestones and an illustrative instructor assessment using the published four-part rubric. The example scores are teaching aids, not real student grades or course weights.
 

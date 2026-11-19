@@ -30,7 +30,7 @@ Relevant coursework: IS117 — Introduction to Website Development; [other compl
 ### Technical and project skills
 
 - **Web:** HTML, CSS, JavaScript, responsive layouts, form validation.
-- **Tools and data:** Git, GitHub, SQLite; [actual server/framework and deployment tool].
+- **Tools and data:** Git, GitHub, JavaScript, browser storage; [actual hosting tool].
 - **Development process:** Competitive analysis, feature prioritization, specifications, peer review, manual QA, technical documentation.
 - **AI-assisted work:** [Tool actually used] for [planning/coding/debugging], with human review and verification.
 
@@ -41,7 +41,7 @@ Relevant coursework: IS117 — Introduction to Website Development; [other compl
 
 - Compared [actual number] clothing brands and translated findings about [fit/pricing/product presentation] into a clear audience promise, design choices, prioritized features, and a written specification.
 - Built a responsive simulated storefront with [actual working features, such as size selection, cart totals, and checkout validation], using [actual technologies].
-- Connected [product/order] data to SQLite and verified [specific persistence behavior]; documented setup, QA results, and remaining limitations.
+- Saved [demo order details] with JavaScript and verified [what appeared after reload]; documented the published link and test result.
 
 **Service Request Platform — Team IS117 Project**  
 [Month–Month Year] · [Live site] · [Repository] · Team of [2 or 3]

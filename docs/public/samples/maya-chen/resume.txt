@@ -14,7 +14,7 @@ Course project: IS117 — Introduction to Website Development, Fall 2026
 
 PROJECT PRACTICE
 HTML, CSS, JavaScript, responsive page composition, input validation,
-Git/GitHub, basic SQLite-backed demo workflows, website specifications,
+Git/GitHub, browser storage for demo workflows, website specifications,
 competitive research, user stories, peer review, and AI-assisted coding.
 
 SELECTED COURSE PROJECTS
@@ -22,7 +22,7 @@ Campus Cotton — individual simulated storefront | Fall 2026
 https://kaw393939.github.io/is117-demo-days/examples/submissions/campus-cotton.html
 - Compared three reference sites and two audience hypotheses to choose a focused white T-shirt concept.
 - Built two presentations with size selection, quantity totals, order review, and simulated confirmation.
-- Documented the browser-storage versus SQLite-server distinction and a feedback-driven information change.
+- Checked that the same demo order appeared after reload and revised the layout after feedback.
 
 Room Ready — team service-request project | Team of two | Fall 2026
 https://kaw393939.github.io/is117-demo-days/examples/submissions/room-ready.html

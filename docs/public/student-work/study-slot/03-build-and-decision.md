@@ -19,7 +19,7 @@ Fictional completed student work by Jordan Rivera and Riley Park. Peer conversat
 
 **What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 

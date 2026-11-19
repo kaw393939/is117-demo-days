@@ -39,7 +39,7 @@ This assesses the fictional submitted record, not a real student. Use the publis
 | Complete | 25/25 | Full credit: Both working versions and a launch choice are linked. |
 | Thoughtful | 20/25 | Deduction (−5): The launch choice is based on comments and preference rather than the same complete task in both versions. |
 | Checked | 20/25 | Deduction (−5): Neither comparison note records the full size, quantity, and checkout task. |
-| Understood | 21/25 | Deduction (−4): The implementation explanation does not distinguish browser storage from the SQLite server. |
+| Understood | 21/25 | Deduction (−4): The implementation explanation does not explain what the browser remembers after reload. |
 
 **What worked:** A reader can open and compare two real working presentations.
 

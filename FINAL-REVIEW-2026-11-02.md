@@ -16,6 +16,6 @@ The published four-criterion rubric and its equal shares remain the basis for th
 
 ## Verification
 
-Content/local-reference checks, schedule checks, product validation and SQLite-persistence checks, assessment checks, production build, and ZIP/source integrity checks pass. The local crawl found no resource errors. Browser verification covers full-credit wording, a concrete deduction, repeat search navigation, and a phone-sized page.
+Content/local-reference checks, schedule checks, product validation and data-persistence checks for the earlier implementation, assessment checks, production build, and ZIP/source integrity checks pass. The local crawl found no resource errors. Browser verification covers full-credit wording, a concrete deduction, repeat search navigation, and a phone-sized page.
 
 The site retains one weekly task, a requirements-first assignment page, one evolving document per project, and optional detailed reading. Canvas settings and private submission entries are outside this site release; students are directed to the actual Canvas assignment and instructor if an entry is unavailable. External job-posting availability is still a dated research snapshot.

@@ -19,7 +19,7 @@
       "before": "The reviewer asked where the measurements were before choosing M.",
       "retest": "After the disclosure moved beside the size selector, Taylor opened it without a hint, chose M, reviewed two shirts at $50, and reached the simulated confirmation.",
       "retestLimit": "One classmate is useful feedback, not evidence that the layout will increase sales.",
-      "understanding": "The browser requires a size and calculates a preview total. In local-server mode, the server validates size and quantity again and calculates the authoritative total from its product table. Changing the browser total cannot change the saved price.",
+      "understanding": "The browser requires a size and calculates a preview total. JavaScript validates the choices, calculates the total from the product data, and saves the demo order in browser storage. Reloading shows the same order in history.",
       "aiUse": "I used the AI coding assistant to suggest two information orders and draft the form logic. I kept the simple one-price offer, reviewed the event handlers, and checked missing-size, quantity, confirmation, and stored-record behavior. The generated shirt image is labeled as concept imagery.",
       "improved": "I observed fit guides on the reference sites. That suggests sizing information may matter; my persona remains a hypothesis. My peer task checks whether this design makes that information easy to find.",
       "milestones": {
@@ -125,7 +125,7 @@
       "before": "Casey said the story was attractive but practical product details were harder to notice.",
       "retest": "After selecting B, Casey found the Product facts heading and said the information was easier to see. I did not ask Casey to complete the whole checkout again.",
       "retestLimit": "The retest supports the visibility change. It does not establish that the full revised journey became easier.",
-      "understanding": "The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not distinguish browser storage from SQLite server storage.",
+      "understanding": "The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not explain what the browser remembers after reload.",
       "aiUse": "I asked the AI coding assistant to help produce two layouts and connect the shared controls. I reviewed the rendered pages and checked a valid order. I used the supplied negative-input checks, but my notes do not explain what each failing input would protect against.",
       "improved": "For the next review, I will ask the same shopper to find fit, material, and price on both versions before choosing L. I will choose the version that makes that task clearer and record what happened, rather than relying only on a preference.",
       "milestones": {
@@ -185,14 +185,14 @@
             "Full credit: Both working versions and a launch choice are linked.",
             "Deduction (−5): The launch choice is based on comments and preference rather than the same complete task in both versions.",
             "Deduction (−5): Neither comparison note records the full size, quantity, and checkout task.",
-            "Deduction (−4): The implementation explanation does not distinguish browser storage from the SQLite server."
+            "Deduction (−4): The implementation explanation does not explain what the browser remembers after reload."
           ],
           "strength": "A reader can open and compare two real working presentations.",
           "deductions": [
             "",
             "The launch choice is based on comments and preference rather than the same complete task in both versions.",
             "Neither comparison note records the full size, quantity, and checkout task.",
-            "The implementation explanation does not distinguish browser storage from the SQLite server."
+            "The implementation explanation does not explain what the browser remembers after reload."
           ]
         },
         "improve": {
@@ -231,7 +231,7 @@
       "before": "The original booking-style wording led Morgan to assume that submitting the form guaranteed an appointment.",
       "retest": "After we changed the action to Send demo request and clarified the pending receipt, Morgan submitted a desk request and correctly explained that an operator would confirm scope and availability later.",
       "retestLimit": "This checks a classroom request flow. No real operator, scheduling integration, or business outcome was tested.",
-      "understanding": "The interface validates the item and preferred window. The local server checks both against allowed values and writes a request record. The history shows the stored request, but it is not a secure staff dashboard or a real operator notification.",
+      "understanding": "The interface validates the item and preferred window. JavaScript checks both against allowed values. The request is saved in this browser and appears in history after reload. The status stays pending.",
       "aiUse": "We used the AI coding assistant for layout and validation drafts. Maya revised the service explanation and responsive layout; Avery implemented the request and receipt flow. We reviewed each other’s work, checked invalid inputs, and compared the receipt wording with the specification.",
       "improved": "Our success check is that a visitor can submit a complete request and explain that it is pending. We do not count the demo as successful if the visitor believes a time has been booked.",
       "milestones": {

@@ -19,10 +19,10 @@ Fictional completed student work by Maya Chen and Avery Ellis. Peer conversation
 
 **What I kept:** The shared core task works in both presentations. My decision follows the stated visitor task; I did not treat a preference as proof of higher sales or hiring success.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 
-The interface validates the item and preferred window. The local server checks both against allowed values and writes a request record. The history shows the stored request, but it is not a secure staff dashboard or a real operator notification.
+The interface validates the item and preferred window. JavaScript checks both against allowed values. The request is saved in this browser and appears in history after reload. The status stays pending.
 
 **Known limit:** No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.

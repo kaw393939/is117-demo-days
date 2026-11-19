@@ -25,7 +25,7 @@ The following implementation checks were actually run on the class examples. The
 | Check | Expected | Recorded implementation result |
 | --- | --- | --- |
 | Valid request | Receipt has selected item/topic, preferred window, and pending status. | Automated checks passed for this project; the shared browser flow was checked on Room Ready. |
-| Invalid input | Unsupported item/topic or invalid email is rejected. | Automated server checks passed. |
+| Invalid input | Unsupported item/topic or invalid email is rejected. | The browser checks the email field. Automated checks cover supported choices. |
 | Persistence | A saved request can be read back. | Automated create/read checks passed. |
 | Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 

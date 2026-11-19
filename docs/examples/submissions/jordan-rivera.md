@@ -173,7 +173,7 @@ I planned an evidence-first and an introduction-first version. Both show my proj
 
 **What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The portfolio links to the two matching business examples.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The portfolio links to the two matching business examples.
 
 #### My explanation of how it works
 

@@ -130,7 +130,7 @@ We chose the first-apartment renter instead of the experienced repeat requester.
 
 **Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring provider matching, real addresses, payments, live availability, and automated quotes.
 
-**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. Public mode uses browser storage; the optional local server uses SQLite. Email is not persisted.
+**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. JavaScript stores the request in this browser. Email is left out of the saved record.
 
 **States:** Required choice missing; valid input ready; save in progress; success receipt; save failure shown without a false success claim.
 
@@ -180,11 +180,11 @@ We treated integration and retesting as shared tasks and rechecked the totals be
 
 **What I kept:** The shared core task works in both presentations. My decision follows the stated visitor task; I did not treat a preference as proof of higher sales or hiring success.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 
-The interface validates the item and preferred window. The local server checks both against allowed values and writes a request record. The history shows the stored request, but it is not a secure staff dashboard or a real operator notification.
+The interface validates the item and preferred window. JavaScript checks both against allowed values. The request is saved in this browser and appears in history after reload. The status stays pending.
 
 **Known limit:** No actual service, operator notification, or scheduling integration exists. Any price shown is illustrative.
 
@@ -227,7 +227,7 @@ The following implementation checks were actually run on the class examples. The
 | Check | Expected | Recorded implementation result |
 | --- | --- | --- |
 | Valid request | Receipt has selected item/topic, preferred window, and pending status. | Automated checks passed for this project; the shared browser flow was checked on Room Ready. |
-| Invalid input | Unsupported item/topic or invalid email is rejected. | Automated server checks passed. |
+| Invalid input | Unsupported item/topic or invalid email is rejected. | The browser checks the email field. Automated checks cover supported choices. |
 | Persistence | A saved request can be read back. | Automated create/read checks passed. |
 | Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 

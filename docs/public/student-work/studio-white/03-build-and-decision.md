@@ -19,10 +19,10 @@ Fictional completed student work by Jordan Rivera. Peer conversations are teachi
 
 **What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 
-The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not distinguish browser storage from SQLite server storage.
+The page reads the concept price from the project data. Quantity changes update the displayed total, and checkout returns a demo reference. I can describe the interface, but my first explanation did not explain what the browser remembers after reload.
 
 **Known limit:** No manufacturing or sustainability claim is verified. Concept price $42 is an assumption, not a market-tested price.

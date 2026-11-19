@@ -1,52 +1,20 @@
-# Checks actually run on the class examples
+# Checks on the class prototypes
 
-**Checked November 2, 2026.** These are implementation checks performed on the real class-demo code. They are separate from the fictional student submissions, peer conversations, and illustrative grades.
+The clickable prototypes run on GitHub Pages. The examples use fake orders and requests.
 
 ## Automated checks
 
-Command: `npm run check:examples` using Node 24.
+Run `npm run check:examples` from the course repository. It checks the example files and the JavaScript that calculates totals, rejects invalid choices, and saves and reads records. The test also checks what happens when the browser rejects a write.
 
-| Behavior | Recorded result |
-| --- | --- |
-| Twelve A/B pages and twelve preview images exist and are served | Pass |
-| Six project packets and six professional-profile files exist | Pass |
-| Six original SVG logos and six live style-guide pages are served | Pass |
-| Four store/service workflows accept valid synthetic inputs | Pass |
-| Shirt quantities outside 1–5, unsupported sizes, and invalid emails are rejected | Pass |
-| The server calculates shirt totals from its product data, ignoring a false submitted total | Pass |
-| Unsupported service/topic values and invalid emails are rejected | Pass |
-| Created records can be read; SQLite records survive a server restart | Pass |
-| The local server does not serve its `server.mjs` source | Pass |
+[Read the checks](https://github.com/kaw393939/is117-demo-days/blob/main/scripts/check-examples.mjs).
 
-The test source is [scripts/check-examples.mjs](https://github.com/kaw393939/is117-demo-days/blob/main/scripts/check-examples.mjs). A passing server test is not a complete browser or usability test.
+## Checks you can try in the browser
 
-## Browser checks from the example release
+| Prototype | What to try | Expected result |
+| --- | --- | --- |
+| Campus Cotton | Leave size blank, then try to review. | The form asks for a size. |
+| Campus Cotton | Save two size-M shirts, copy the reference, and reload. | The same reference, size, quantity, and $50 total appear in history. |
+| Room Ready | Save a desk request and reload. | The same request appears in history with pending status. |
+| Portfolio | Open a case study and the résumé/profile links. | You can find the project, contribution, and evidence. |
 
-| Check | Recorded result |
-| --- | --- |
-| Campus Cotton: missing size blocks order review | Observed |
-| Campus Cotton: two shirts produce a $50 review and simulated confirmation | Observed |
-| Studio White: three shirts produce $126; the SQLite record remains after reload | Observed |
-| Room Ready: desk request produces a pending receipt without claiming a booked appointment | Observed |
-| All twelve product versions at a 390px viewport | No page-wide horizontal overflow observed |
-| Portfolio case studies and résumé/profile links | Rendered and available |
-
-The real interface previews in each submission come from those runnable products. The generated concept photos are labeled as illustrations of fictional businesses.
-
-## Brand-update checks
-
-The November 2 brand update was checked on the loaded pages, after the JavaScript-rendered heading appeared:
-
-- All twelve versions at 390 × 844: no page-wide horizontal overflow; headline, supporting copy, and main action match within each A/B pair; all six logos load.
-- Campus Cotton: missing size blocks review; M and quantity 2 show $50; keyboard Tab reaches the checkout button with a visible outline; Enter completes a clearly simulated order.
-- Room Ready: a Desk request produces pending operator confirmation, with no appointment or email claimed.
-- Study Slot: a CSS request produces pending tutor confirmation, with no booking claimed.
-- All six submitted brand briefs are checked against the working project data, historical source links, original logos/style guides, and two persuasion applications. Assessment totals and evidence/deductions are checked separately.
-
-These are implementation checks, not evidence of fictional students' personal checks, authentic customer interviews, persuasion effects, or a full accessibility audit.
-
-## Limits
-
-No manufactured product, customer demand, sales improvement, real booking, external email, or hiring outcome was tested. No full accessibility audit is claimed. A screenshot cannot prove that a peer performed a task, and a working application cannot prove a student's understanding.
-
-[How the sample grades work](/examples/submissions/grading-guide) · [Run the source yourself](/examples/submissions/run-examples).
+A demo order or request stays in the browser that saved it. Read the [starter check](/examples/submissions/run-examples#run-the-save-and-reload-check) and the [grading examples](/examples/submissions/grading-guide).

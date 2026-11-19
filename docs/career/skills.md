@@ -7,7 +7,7 @@ Use job descriptions to choose a next learning step. You do not need to master a
 | Understand a business | Research, personas, and a clear customer task. | Interview real users and measure whether a solution helps. |
 | Explain decisions | Compare two options and demonstrate the result. | Run customer workshops, explain tradeoffs, and train users. |
 | Program | HTML, CSS, JavaScript, and simple application behavior. | Strong Python/TypeScript, debugging, and larger codebases. |
-| Work with data | SQLite-backed store and checked totals. | SQL, good data models, reliable updates, and data quality. |
+| Work with data | A demo store with browser storage and checked totals. | SQL, good data models, reliable updates, and data quality. |
 | Connect systems | Understand inputs, outputs, and basic API use where relevant. | APIs, authentication, retries, and external business systems. |
 | Build with AI | Give coding tasks, review output, and check results. | AI retrieval, evaluation, cost, speed, and human review. |
 | Work in a team | Share tasks, review a partner's work, and join the parts. | Larger projects, repeated delivery, and shared maintenance. |
@@ -27,7 +27,7 @@ A useful résumé bullet names your action, the feature, and how you checked it:
 
 > Built a simulated storefront with size selection and quantity totals; checked the checkout path and documented its limits.
 
-Use that statement only if it describes your actual work. Add SQLite, APIs, AI features, or measured results only when you can demonstrate them.
+Use that statement only if it describes your actual work. Add databases, APIs, AI features, or measured results only when you can demonstrate them.
 
 [GitHub](/career/github) · [LinkedIn](/career/linkedin) · [Résumé example](/examples/student-resume).
 

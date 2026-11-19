@@ -15,6 +15,6 @@ Could the shopper explain the offer and choose a size? Explain one design choice
 
 [Original Brand Studio reference](https://github.com/kaw393939/is117-brand-studio/blob/main/docs/reference.md) · [Earlier design and persuasion reference](https://github.com/kaw393939/archetype_design_persusion)
 
-**Coursework:** This teaching example adds no new hand-in. Canvas has the original assessment. The later T-shirt project is separate and adds a full simulated checkout and SQLite evidence.
+**Coursework:** This teaching example adds no new hand-in. Canvas has the original assessment. The later T-shirt project is separate and adds a full simulated checkout and a browser storage check.
 
 Original Canvas assignment: [Section 005](https://njit.instructure.com/courses/70710/assignments/767648) · [Section 007](https://njit.instructure.com/courses/70711/assignments/767849).

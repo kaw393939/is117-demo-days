@@ -47,7 +47,7 @@ Fictional completed student work by Jordan Rivera. Peer conversations are teachi
 
 **Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring subscriptions, performance claims, provenance certification, and real fulfillment.
 
-**Inputs and data:** Size S/M/L, whole quantity 1–5, and synthetic email. Product prices and order records are held by SQLite in local-server mode; public mode uses browser storage. Email is not persisted.
+**Inputs and data:** Size S/M/L, whole quantity 1–5, and synthetic email. JavaScript reads the product price and saves the order in this browser. Email is left out of the saved record.
 
 **States:** Required choice missing; valid input ready; save in progress; success receipt; save failure shown without a false success claim.
 

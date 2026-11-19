@@ -24,9 +24,9 @@ The following implementation checks were actually run on the class examples. The
 
 | Check | Expected | Recorded implementation result |
 | --- | --- | --- |
-| Quantity total | 3 × $42 = $126 | The shared implementation supports this calculation; server tests also verify two-item totals and reject a submitted false total. |
-| Invalid input | Missing/unsupported size, bad quantity, or invalid email must not create a valid order. | Automated server validation passed; browser required-size behavior was checked on Campus Cotton. |
-| Persistence | A server order remains after restart. | Automated SQLite restart check passed. |
+| Quantity total | 3 × $42 = $126 | The shared JavaScript calculates the total from the product price and quantity. |
+| Invalid input | Missing/unsupported size, bad quantity, or invalid email must not create a valid order. | The browser checks required fields. Automated checks cover size and quantity. |
+| Persistence | The same demo order appears after reload. | Automated checks read back the saved reference and total; try the reload on your published page. |
 | Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 
 #### AI-use record

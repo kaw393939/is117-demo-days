@@ -130,7 +130,7 @@ We chose beginning web-development students because they can use a small set of 
 
 **Priority:** F1–F3 are essential. The audience-specific information order is the design difference I am exploring. I am deferring live calendar sync, accounts, AI tutoring, real notifications, and payments.
 
-**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. Public mode uses browser storage; the optional local server uses SQLite. Email is not persisted.
+**Inputs and data:** Supported item/topic, preferred window, and synthetic email. A saved request contains its reference, choices, and pending status. JavaScript stores the request in this browser. Email is left out of the saved record.
 
 **States:** Required choice missing; valid input ready; save in progress; success receipt; save failure shown without a false success claim.
 
@@ -180,7 +180,7 @@ We planned equal totals, but described integration only as “finish together.�
 
 **What I kept:** The shared core task works in both presentations. The versions work, but my comparison notes are less complete than the product itself. I need stronger task evidence for the choice.
 
-**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Run `node product-source/server.mjs` from the bundle root, then use the printed local address. The public version stores synthetic records in this browser; the local version demonstrates SQLite.
+**Code and setup:** [Shared class-demo source](https://github.com/kaw393939/is117-demo-days/tree/main/docs/public/samples). The downloadable submission bundle includes the product source. Open the links above or publish the extracted files to GitHub Pages. The clickable prototype stores synthetic records in this browser.
 
 #### My explanation of how it works
 
@@ -227,7 +227,7 @@ The following implementation checks were actually run on the class examples. The
 | Check | Expected | Recorded implementation result |
 | --- | --- | --- |
 | Valid request | Receipt has selected item/topic, preferred window, and pending status. | Automated checks passed for this project; the shared browser flow was checked on Room Ready. |
-| Invalid input | Unsupported item/topic or invalid email is rejected. | Automated server checks passed. |
+| Invalid input | Unsupported item/topic or invalid email is rejected. | The browser checks the email field. Automated checks cover supported choices. |
 | Persistence | A saved request can be read back. | Automated create/read checks passed. |
 | Keyboard / full accessibility | A visitor should reach and use every control. | No full accessibility audit is claimed; the example record does not establish one. |
 

@@ -18,7 +18,7 @@ Both examples are fictional students. The files illustrate content; real student
 **Maya — explain a design decision**
 
 > **Campus Cotton — Individual Course Project**  
-> Compared three reference sites and two audience ideas to choose a focused white T-shirt concept. Built two presentations with size selection, quantity totals, order review, and simulated confirmation. Documented the browser-storage and local SQLite versions and their limits.
+> Compared three reference sites and two audience ideas to choose a focused white T-shirt concept. Built two presentations with size selection, quantity totals, order review, and simulated confirmation. Verified that the same demo order was still visible after reloading the published site.
 
 [Read Maya's complete résumé](/samples/maya-chen/resume.txt).
 

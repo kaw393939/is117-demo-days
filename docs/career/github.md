@@ -19,7 +19,7 @@ A **README** is the introduction someone sees when opening a repository. Keep it
 | Include | What a new reader needs |
 | --- | --- |
 | Purpose and demo | Audience, main task, live link, and what is simulated. |
-| Setup | Exact steps to run the project, including SQLite where required. |
+| Setup | Published link, plus the steps to try the main task and see what the prototype remembers. |
 | Process and checks | Links to research, specification, review issues, and test results. |
 | Contribution and credits | Your work, each teammate's work, starter code, images, and AI help. |
 | Limits | What is unfinished or works differently in the public preview. |
@@ -32,7 +32,7 @@ These fictional examples show wording to adapt, not projects to claim as your ow
 
 **Maya — Campus Cotton README excerpt**
 
-> A simulated white T-shirt store for a student comparing fit and total cost. The workflow covers size, quantity, order review, and confirmation. The public preview uses browser storage; the local Node/SQLite version demonstrates saved orders. I built the individual project with AI assistance and documented the checks and limits.
+> A simulated white T-shirt store for a student comparing fit and total cost. The workflow covers size, quantity, order review, and confirmation. The GitHub Pages prototype uses JavaScript to keep fake order history in the same browser. I built the individual project with AI assistance and documented the checks and limits.
 
 [Working product, setup, and completed record](/examples/submissions/campus-cotton) · [Maya's filled profile README](/samples/maya-chen/github-profile.txt).
 
