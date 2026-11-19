@@ -5,9 +5,16 @@ Use **one Markdown file per project** and update it at each step. Your team shar
 Already using `SPEC.md` from Brand Studio? Extend it with these sections, or link it from `project-process.md`. Either filename is fine. Link existing decisions and evidence rather than rewriting them.
 
 
-## Feedback at every stage
+## A short update for each step
 
-Link the peer-feedback issues, your responses, the changed work, and the retest. Reuse the record at the next stage. Portfolio Research is the career activity; check your section’s Canvas assignment for timing and this milestone’s instructions.
+Put this at the top of the step you’re handing in. Link to work you already have.
+
+- **Choice:** What did you choose, and for whom?
+- **Evidence:** Which source, issue, or result informed it? Link directly.
+- **Check:** What did you try or plan to try?
+- **Result and next step:** What happened? If you haven’t run it yet, say what’s pending.
+
+Keep the relevant peer issues, changes, and retests in this same record. Check Canvas for the exact hand-in.
 
 ## 1. Research
 
@@ -31,6 +38,7 @@ Link the peer-feedback issues, your responses, the changed work, and the retest.
 
 - Link two working versions with a meaningful difference. They may share code.
 - Give a peer the same realistic task in both. Record what you observe before explaining the interface.
+- **T-shirt only:** Record the start command, a synthetic order reference, and whether it appeared in history after the SQLite server restarted. Label your public preview’s storage mode.
 - Select a launch direction and explain why. A classmate’s preference is useful feedback, not proof of sales performance.
 
 ## 4. Review and launch

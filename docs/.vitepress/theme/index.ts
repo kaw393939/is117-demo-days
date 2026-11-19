@@ -4,6 +4,7 @@ import SampleAssessment from './SampleAssessment.vue'
 import LearningDiagram from './LearningDiagram.vue'
 import VersionComparison from './VersionComparison.vue'
 import ExampleGallery from './ExampleGallery.vue'
+import CanvasCheckpointLinks from './CanvasCheckpointLinks.vue'
 import './custom.css'
 // Search and deep links must reveal targets inside collapsed worked examples.
 function revealHashTarget() {
@@ -39,6 +40,7 @@ export default {
         revealHashTarget()
       }
     }
+    app.component('CanvasCheckpointLinks', CanvasCheckpointLinks)
     app.component('LearningDiagram', LearningDiagram)
     app.component('SampleAssessment', SampleAssessment)
     app.component('ExampleGallery', ExampleGallery)

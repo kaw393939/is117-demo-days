@@ -2,54 +2,64 @@
 
 ## Before next class
 
-**[Open your Canvas modules](https://njit.instructure.com/courses/70710/modules)** for your next task and **[open Assignments](https://njit.instructure.com/courses/70710/assignments)** for the due date and submission box. Use [Canvas Grades](https://njit.instructure.com/courses/70710/grades) for scores and feedback. This page teaches the work; it does not set dates.
+**[Open Canvas modules](https://njit.instructure.com/courses/70710/modules)** to find your current checkpoint. Open the assignment for its deadline and hand-in. [Assignments](https://njit.instructure.com/courses/70710/assignments) · [Grades and feedback](https://njit.instructure.com/courses/70710/grades)
+
+Use the guide below to do the work. Pick your current step: [Research](#research) · [Plan](#plan) · [Build](#build) · [Improve](#improve) · [Demo Days](#progress-reviews-and-final-assessments).
 
 ## Find your Canvas assignment
 
-Open the matching assignment for the due date and what to submit. Portfolio Research goes in its private Canvas box. Finals reuse your existing work; the assessment rows are not another upload.
+Open the checkpoint for your project. Submit Portfolio Research privately in Canvas. The final assessment rows use your existing work and presentation.
 
-| Stage | T-shirt store | Portfolio | Group business |
-| --- | --- | --- | --- |
-| Research | [T-shirt research](https://njit.instructure.com/courses/70710/assignments/769124) | [Portfolio research](https://njit.instructure.com/courses/70710/assignments/769132) | [Group research](https://njit.instructure.com/courses/70710/assignments/769125) |
-| Plan | [T-shirt plan](https://njit.instructure.com/courses/70710/assignments/769126) | [Portfolio plan](https://njit.instructure.com/courses/70710/assignments/769155) | [Group plan](https://njit.instructure.com/courses/70710/assignments/769127) |
-| Build | [T-shirt build](https://njit.instructure.com/courses/70710/assignments/769128) | [Portfolio build](https://njit.instructure.com/courses/70710/assignments/769156) | [Group build](https://njit.instructure.com/courses/70710/assignments/769129) |
-| Improve | [T-shirt improve](https://njit.instructure.com/courses/70710/assignments/769130) | [Portfolio improve](https://njit.instructure.com/courses/70710/assignments/769157) | [Group improve](https://njit.instructure.com/courses/70710/assignments/769131) |
-| Final assessment | [T-shirt final assessment](https://njit.instructure.com/courses/70710/assignments/769167) | [Portfolio final assessment](https://njit.instructure.com/courses/70710/assignments/769169) | [Group final assessment](https://njit.instructure.com/courses/70710/assignments/769168) |
+<CanvasCheckpointLinks section="005" />
 
 ## Three projects, in order {#three-projects-staggered-deadlines}
 
-Practice the process on **[your T-shirt store](/projects/white-tshirt)** and **[your portfolio](/projects/portfolio)** first. Then do a focused **[group sprint](/projects/group-project)** with one useful customer workflow. Follow Canvas for when each checkpoint opens or is due.
+Practice on [your T-shirt store](/projects/white-tshirt) and [your portfolio](/projects/portfolio), then apply the same process to [one useful group workflow](/projects/group-project).
 
 ## What happens in every class
 
-Bring the latest version and give your classmate one task to try without coaching. Watch what happens, then swap roles. Put one specific observation in a [GitHub issue](/process/github-feedback). Attendance and participation follow the course policy.
+Bring your latest work. Give a classmate one task without coaching, watch what happens, then swap. Record a specific observation in the [GitHub review](/process/github-feedback) and follow your Canvas instructions for the current checkpoint.
 
 ## Research
 
-[Turn observations into a design choice](/process/research-to-features). See how [Campus Cotton](/examples/submissions/#a-short-research-submission) turns a competitor's fit details into an idea about what belongs next to size selection.
+**Do.** Compare the required sources and audience options. Pick one observation that changed a choice about your audience, brand, or feature.
+
+**Check.** Can a classmate open the original source and trace what you saw to what you propose? Label assumptions and write the check you would run next.
+
+**Submit.** Link the Research section of your existing record and the pieces listed in Canvas. [See a short research example](/examples/submissions/#a-short-research-submission).
 
 ## Career and portfolio launch
 
-Your [career exploration](/career/explore) is Portfolio Research. Submit the two role cards and reflection **in the private Canvas assignment**, not your public site. Bring forward only the goals and evidence you want to share.
+[Career exploration](/career/explore) is Portfolio Research. Submit the two role cards and reflection in the **private Canvas assignment**. Bring one shareable takeaway into your plan, such as the reader you want to reach or the project evidence they should find.
 
 ## Plan
 
-[Write an acceptance check](/process/specifications) another person can actually try. Use [one continuing project record](/templates/four-milestones); don't copy the same decision into two reports.
+**Do.** Compare two approaches to the same task. State which one you expect to work better for your audience and why. Reuse your [project record](/templates/four-milestones).
+
+**Check.** Write a [check another person can run](/process/specifications). Give them an action and an observable result. Label each check as planned until you run it.
+
+**Submit.** Link your Plan and the supporting work listed in Canvas. [See Campus Cotton’s Plan](/examples/submissions/campus-cotton#_2-plan).
 
 ## Build
 
-**T-shirt:** Open [T-shirt Build](https://njit.instructure.com/courses/70710/assignments/769128). Link A and B, and say which you chose and why. Run the store locally, save one fake order in SQLite, restart the server, and verify the same reference still appears. In the same record, link your previews and code, then add the run command and one line on what you checked. A public browser-storage preview is not SQLite proof. [Try the SQLite example](/examples/submissions/run-examples#run-the-sqlite-example-locally).
+**Do.** Make two working versions of the same task. Test both and record what changed and how the task went. Explain your provisional choice.
 
-**Portfolio:** At individual readiness, show your actual group contribution so far and label any unfinished work. Update the same portfolio record after the group project is ready. No extra hand-in.
+- **T-shirt store.** Run a fake order locally, record its reference, restart the server with the same SQLite database, and look for the same reference in history. [Run the starter and see the evidence format](/examples/submissions/run-examples#run-the-sqlite-example-locally).
+- **Portfolio.** Ask someone to find a project, your contribution, and its evidence. At individual readiness, show your actual group work so far, label what is pending, and update the same portfolio when your team finishes. [Portfolio readiness checklist](/projects/portfolio#portfolio-ready-checklist).
+- **Group business.** Test one complete customer workflow in both versions. In the shared record, link what each person built and checked. [See Room Ready’s Build](/examples/submissions/room-ready#_3-build-and-compare).
+
+**Submit.** Update Build in the same record with both previews, source and setup, the result you actually observed, and your provisional choice. Use the exact hand-in instructions in Canvas.
 
 ## Improve
 
-Watch a peer try the chosen version, fix something meaningful, then ask them to retry it. For Group Improve, ask someone **outside your team** to try the workflow. Teammate cross-review still matters. [See a finished feedback record](/examples/submissions/room-ready#_4-get-feedback-and-improve).
+**Do.** Watch a peer use your chosen version, make a meaningful change, and have them retry the same task. Use a reviewer outside your team for Group Improve. Also cross-review a teammate’s work.
+
+**Check and submit.** In the same record, link the peer issue, the change, and the actual retest. If the retest is pending, say so and record the next step. [See a completed feedback record](/examples/submissions/room-ready#_4-get-feedback-and-improve).
 
 ## Progress reviews and final assessments
 
-[Read the course rubric](/course/milestones#how-each-step-is-graded), then check the actual assignment and grades in Canvas. [Prepare your demo](/demo-days/) · [Canvas Demo Day instructions](https://njit.instructure.com/courses/70710/pages/is117-005-demo-days-finish-and-present).
+[Review what counts as evidence](/course/milestones#how-each-step-is-graded). [Prepare your demo and slides](/demo-days/), then open [your section’s Demo Day instructions in Canvas](https://njit.instructure.com/courses/70710/pages/is117-005-demo-days-finish-and-present) for presentation details.
 
 ## Keep submissions small
 
-Update your existing record and use the matching assignment. [What to submit](/course/milestones#how-to-submit) tells you which links to include and when to keep the content private.
+[See what to submit](/course/milestones#how-to-submit). Point to the right part of your existing record so a reviewer can find the evidence directly.

@@ -6,18 +6,21 @@ hero:
   tagline: Make a T-shirt shop and your own portfolio, then use what you learned to ship something useful with a teammate.
   actions:
     - theme: brand
-      text: Start here
-      link: /course/overview
+      text: Canvas · Section 005
+      link: https://njit.instructure.com/courses/70710/modules
+    - theme: brand
+      text: Canvas · Section 007
+      link: https://njit.instructure.com/courses/70711/modules
     - theme: alt
-      text: Try a worked example
-      link: /examples/submissions/
+      text: Course overview
+      link: /course/overview
 ---
 
 ## Find what to do next
 
-Open Canvas first to see your next task, due date, and where to submit. This course book shows you how to do the work.
+Canvas has your current checkpoint, deadline, and hand-in. Open your section guide for the steps, examples, and direct assignment links.
 
-[Canvas · Section 005](https://njit.instructure.com/courses/70710/modules) · [Canvas · Section 007](https://njit.instructure.com/courses/70711/modules)
+[Section 005 guide](/course/section-005#before-next-class) · [Section 007 guide](/course/section-007#before-next-class) · [Try a worked example](/examples/submissions/)
 
 ## Start with work that is yours
 
